@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XRechnung on Connector Hilfe</title>
+    <link>http://docs.belware.de/de-de/documentation/connector-on-appsource/xrechnung/</link>
+    <description>Recent content in XRechnung on Connector Hilfe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="http://docs.belware.de/de-de/documentation/connector-on-appsource/xrechnung/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Erste Schritte</title>
+        <link>http://docs.belware.de/de-de/documentation/connector-on-appsource/xrechnung/first-steps/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/documentation/connector-on-appsource/xrechnung/first-steps/</guid>
+        <description>Einleitung Ab dem 27.11.2020 müssen Lieferanten öffentlicher Auftraggeber Rechnungen in dem sogenannten „XRechnung“-Format versenden. Bei diesem Format handelt es sich um ein XML-basiertes Datenmodell, das aktuell als Standard für elektronische Rechnungen etabliert wird.
+Die App XRechnung für Microsoft Dynamics 365 Business Central ist in der Lage, solche elektronischen Rechnungen im XRechnung-Standard zu erstellen und zu versenden.
+Einrichtung Um Rechnungen im XRechnung-Format senden zu können, müssen Sie Einstellungen unter den „Dokumentenlayouts“ des jeweiligen Debitors vornehmen.</description>
+      </item>
+      
+      <item>
+        <title>Neu und geplant</title>
+        <link>http://docs.belware.de/de-de/documentation/connector-on-appsource/xrechnung/new-and-planned/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/documentation/connector-on-appsource/xrechnung/new-and-planned/</guid>
+        <description>Neue Funktionen Version 1.0.1.0  Statuskacheln im Rollencenter Einbetten von Anhängen Überarbeiteter XRechnungs-Dialog Syntaxüberprüfung der Leitweg-ID  Geplante Funktionen für zukünftige Versionen  Statistik Funktion Buchen &amp;amp; Verarbeiten Leitweg ID 1:N Verbesserung Dimension Prüfen der neuen CU Wechsel von Kosit auf 2.01 Prüfung ob die wichtigsten Felder gefüllt sind XRechnung eingehend verarbeiten  </description>
+      </item>
+      
+      <item>
+        <title>Arbeiten mit XRechnung</title>
+        <link>http://docs.belware.de/de-de/documentation/connector-on-appsource/xrechnung/working-with-xrechnung/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/documentation/connector-on-appsource/xrechnung/working-with-xrechnung/</guid>
+        <description>Versand Wenn die Einrichtung abgeschlossen wurde, so können Sie Rechnungen einfach per E-Mail senden. Öffnen Sie also Ihre gebuchten Verkaufsrechnungen und wählen Sie die zu versendende Rechnung aus.
+„Drucken/Senden“ -&amp;gt; „Als XRechnung senden“
+Es öffnet sich ein neuer Dialog, in dem Sie vor dem Versenden noch Anpassungen vornehmen können.
+Im Dialog lassen sich der Absender, der Empfänger, der Betreff und auch nochmal die Leitweg-ID einsehen aber auch anpassen.
+Der Inhalt der Mail kann angepasst werden und die aktuellen Anhänge sind sichtbar.</description>
+      </item>
+      
+      <item>
+        <title>FAQ &amp; Hilfe</title>
+        <link>http://docs.belware.de/de-de/documentation/connector-on-appsource/xrechnung/faq/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/documentation/connector-on-appsource/xrechnung/faq/</guid>
+        <description>Connector 365 XRechnung for Microsoft Dynamics 365 Business Central FAQ &amp;amp; Hilfe Hier finden Sie unsere Hilfe für unsere Microsoft Dynamics 365 Business Central APP. Sollten nicht all Ihre Fragen beantwortet werden oder Sie Hilfe benötigen, können Sie uns auch direkt über support@belware.de kontaktieren.
+Video
+FAQ Was ist die Leitweg ID? Die Leitweg ID ist eine eindeutige Kennung für den Rechnungsempfänger. Als Rechnungssteller benötigen Sie selbst keine. Sie benötigen nur die Leitweg ID des Empfängers, die dieser Ihnen bei der Bestellung bei Ihnen mitteilen sollte.</description>
+      </item>
+      
+    
+  </channel>
+</rss>
