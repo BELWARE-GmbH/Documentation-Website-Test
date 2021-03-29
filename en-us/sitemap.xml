@@ -35,6 +35,61 @@
   <url>
     <loc>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-ident-id/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-ident-id/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-ident-id/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/faq/ident-id/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/connector-on-appsource/xrechnung/faq/ident-id/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/connector-on-appsource/xrechnung/faq/ident-id/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/introduction/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/introduction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/introduction/"
+                />
   </url>
   
   <url>
@@ -53,17 +108,32 @@
   </url>
   
   <url>
-    <loc>http://docs.belware.de/en-us/support/</loc>
+    <loc>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/working-with-xrechnung/sending/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="http://docs.belware.de/de-de/support/"
+                href="http://docs.belware.de/de-de/connector-on-appsource/xrechnung/working-with-xrechnung/sending/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://docs.belware.de/en-us/support/"
+                href="http://docs.belware.de/en-us/connector-on-appsource/xrechnung/working-with-xrechnung/sending/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/new-and-planned/v1.0.1.0/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/connector-on-appsource/xrechnung/new-and-planned/v1.0.1.0/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/connector-on-appsource/xrechnung/new-and-planned/v1.0.1.0/"
                 />
   </url>
   
@@ -83,18 +153,273 @@
   </url>
   
   <url>
+    <loc>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-customer/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-customer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-customer/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/working-with-xrechnung/negative-xrechnung/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/connector-on-appsource/xrechnung/working-with-xrechnung/negative-xrechnung/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/connector-on-appsource/xrechnung/working-with-xrechnung/negative-xrechnung/"
+                />
+  </url>
+  
+  <url>
     <loc>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/new-and-planned/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/connector-on-appsource/xrechnung/new-and-planned/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/connector-on-appsource/xrechnung/new-and-planned/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/faq/not-sent/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/connector-on-appsource/xrechnung/faq/not-sent/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/connector-on-appsource/xrechnung/faq/not-sent/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/test-purchase/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/test-purchase/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/test-purchase/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/new-and-planned/v1.0.0.1/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/connector-on-appsource/xrechnung/new-and-planned/v1.0.0.1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/connector-on-appsource/xrechnung/new-and-planned/v1.0.0.1/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/installation/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/installation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/installation/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/faq/pricing/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/connector-on-appsource/xrechnung/faq/pricing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/connector-on-appsource/xrechnung/faq/pricing/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/working-with-xrechnung/state/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/connector-on-appsource/xrechnung/working-with-xrechnung/state/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/connector-on-appsource/xrechnung/working-with-xrechnung/state/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-vat-scheme/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-vat-scheme/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-vat-scheme/"
+                />
   </url>
   
   <url>
     <loc>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/working-with-xrechnung/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/connector-on-appsource/xrechnung/working-with-xrechnung/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/connector-on-appsource/xrechnung/working-with-xrechnung/"
+                />
   </url>
   
   <url>
     <loc>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/faq/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/connector-on-appsource/xrechnung/faq/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/connector-on-appsource/xrechnung/faq/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/faq/getting-started/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/connector-on-appsource/xrechnung/faq/getting-started/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/connector-on-appsource/xrechnung/faq/getting-started/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/setup/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/setup/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-unit-codes/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-unit-codes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-unit-codes/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/help-support/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/connector-on-appsource/xrechnung/help-support/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/connector-on-appsource/xrechnung/help-support/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-tax-category/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-tax-category/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-tax-category/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/videos/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/connector-on-appsource/xrechnung/videos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/connector-on-appsource/xrechnung/videos/"
+                />
   </url>
   
   <url>

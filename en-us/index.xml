@@ -15,32 +15,40 @@
     
       
       <item>
-        <title>First steps</title>
-        <link>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/</link>
+        <title>Ident ID</title>
+        <link>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-ident-id/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/</guid>
-        <description>Introduction From 27th November 2020 on all vendors of german public clients have to send their invoices in the so called &amp;ldquo;XRechnung&amp;rdquo; format. This format is an XML based data model that is being established as the standard for electronic invoicing.
-The XRechnung app for Microsoft Dynamics 365 Business Central makes it possible to create electronic invoices according to the XRechnung standard and to send them.
-Setup To be able to send invoices in XInvoice format, you need to make settings under the &amp;ldquo;Document Layouts&amp;rdquo; of the respective customer.</description>
+        <guid>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-ident-id/</guid>
+        <description>Setup Ident ID </description>
       </item>
       
       <item>
-        <title>New and Planned</title>
-        <link>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/new-and-planned/</link>
+        <title>Ident ID?</title>
+        <link>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/faq/ident-id/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/new-and-planned/</guid>
-        <description>New Functions Version 1.0.1.0  Status tiles in the role center Embed attachments Reworked XRechnungs dialog Syntax check of the Ident ID  Planned features for future versions  Statistic Post &amp;amp; Process function Ident ID 1:N improvement dimension Checking the new CU Change of Kosit to 2.01 Check if the most important fields are filled Process incoming XRechnung  </description>
+        <guid>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/faq/ident-id/</guid>
+        <description>FAQ What is the Ident ID? The ident ID is a unique identifier for the recipient of the invoice. As invoicing party you do not need one yourself. You only need the ident ID of the recipient, which they should tell you when ordering from you.</description>
       </item>
       
       <item>
-        <title>Working with XRechnung</title>
-        <link>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/working-with-xrechnung/</link>
+        <title>Introduction</title>
+        <link>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/introduction/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/working-with-xrechnung/</guid>
-        <description>Sending If the setup has been completed, you can easily send invoices by email. Open your posted sales invoices and select the invoice you want to send.
+        <guid>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/introduction/</guid>
+        <description>First steps Introduction From 27th November 2020 on all vendors of german public clients have to send their invoices in the so called “XRechnung” format. This format is an XML based data model that is being established as the standard for electronic invoicing.
+The XRechnung app for Microsoft Dynamics 365 Business Central makes it possible to create electronic invoices according to the XRechnung standard and to send them.</description>
+      </item>
+      
+      <item>
+        <title>Sending</title>
+        <link>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/working-with-xrechnung/sending/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/working-with-xrechnung/sending/</guid>
+        <description>Working with XRechnung Sending If the setup has been completed, you can easily send invoices by email. Open your posted sales invoices and select the invoice you want to send.
 „Print/Send“ -&amp;gt; „Send as XRechnung“
 A new dialog opens where you can make adjustments before sending.
 In the dialog, the sender, the recipient, the subject and also again the Ident ID can be viewed but also adjusted.
@@ -48,13 +56,159 @@ The content of the mail can be customized and the current attachments are visibl
       </item>
       
       <item>
-        <title>FAQ &amp; Help</title>
-        <link>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/faq/</link>
+        <title>V1.0.1.0 &amp; Roadmap</title>
+        <link>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/new-and-planned/v1.0.1.0/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/faq/</guid>
-        <description>Connector 365 XRechnung for Microsoft Dynamics 365 Business Central FAQ &amp;amp; Hilfe Hier finden Sie unsere Hilfe für unsere Microsoft Dynamics 365 Business Central APP. Sollten nicht all Ihre Fragen beantwortet werden oder Sie Hilfe benötigen, können Sie uns auch direkt über support@belware.de kontaktieren.
-FAQ Was ist die Leitweg ID? Die Leitweg ID ist eine eindeutige Kennung für den Rechnungsempfänger. Als Rechnungssteller benötigen Sie selbst keine. Sie benötigen nur die Leitweg ID des Empfängers, die dieser Ihnen bei der Bestellung bei Ihnen mitteilen sollte.</description>
+        <guid>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/new-and-planned/v1.0.1.0/</guid>
+        <description>New and planned Version 1.0.1.0  Status tiles in the role center Embed attachments Reworked XRechnungs dialog Syntax check of the Ident ID  Planned features for future versions  Statistic Post &amp;amp; Process function Ident ID 1:N improvement dimension Checking the new CU Change of Kosit to 2.01 Check if the most important fields are filled Process incoming XRechnung  </description>
+      </item>
+      
+      <item>
+        <title>Customer</title>
+        <link>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-customer/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-customer/</guid>
+        <description>Setup Customer To be able to send invoices in XInvoice format, you need to make settings under the “Document Layouts” of the respective customer.
+This can be found on the customer’s page under:
+„Navigate“ -&amp;gt; „Document Layouts“
+After installing the app, there are three new columns named “XRechnung”, Ident ID&amp;quot; and “Add Document as Attachment” on the page.
+In the “XRechnung” field, place a check mark to indicate that invoices for this customer should be sent as XInvoices.</description>
+      </item>
+      
+      <item>
+        <title>Negative XRechnung</title>
+        <link>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/working-with-xrechnung/negative-xrechnung/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/working-with-xrechnung/negative-xrechnung/</guid>
+        <description>Working with XRechnung Negative XRechnung In case an XRechnung does not correspond to the required scheme, an error message will be displayed, if confirmed, the XRechnung validation report will be opened.
+There you can see which points do not match the required scheme. Correct these points and send the XRechnung again.
+There are many places that cause an XRechnung to not conform to the schema. For the most common ones we have a list and guidance at First Steps</description>
+      </item>
+      
+      <item>
+        <title>Not sent?</title>
+        <link>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/faq/not-sent/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/faq/not-sent/</guid>
+        <description>FAQ Why was my invoice not sent? Make sure that the invoice you are trying to send is compliant with the requirement of the XRechung. You can check this by looking at the report that is displayed when a compliancy error exists. These can be missing information on the customer or in the invoice.</description>
+      </item>
+      
+      <item>
+        <title>Test &amp; Purchase</title>
+        <link>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/test-purchase/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/test-purchase/</guid>
+        <description>First Steps Test &amp;amp; Purchase </description>
+      </item>
+      
+      <item>
+        <title>V1.0.0.1 &amp; Roadmap</title>
+        <link>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/new-and-planned/v1.0.0.1/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/new-and-planned/v1.0.0.1/</guid>
+        <description>New and planned Version 1.0.0.1  Creating an XRechnung XML file using the standard mail function. Sending a validation report, which confirms the conformity of the invoice to the recipient. Displaying the validation report to the user in case of &amp;ldquo;non-conformity&amp;rdquo;.  Planned features for future versions  Status tiles in the role center Embed attachments Reworked XRechnungs dialog Syntax check of the Ident ID  </description>
+      </item>
+      
+      <item>
+        <title>Installation</title>
+        <link>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/installation/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/installation/</guid>
+        <description>First steps Installation </description>
+      </item>
+      
+      <item>
+        <title>Pricing?</title>
+        <link>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/faq/pricing/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/faq/pricing/</guid>
+        <description>FAQ How does the pricing work? A license for the XRechnung app costs 19,90€/month and is billed either quartly or yearly. The license is not bound to certain users. Please contact us for more information.
+If you want to purchase additional licenses for the app, you can use our form.</description>
+      </item>
+      
+      <item>
+        <title>State</title>
+        <link>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/working-with-xrechnung/state/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/working-with-xrechnung/state/</guid>
+        <description>Working with XRechnung State In your role center you can find two new boxes. There you can track the status of sent and faulty XRechnung.
+XRechnung All successfully sent XRechnung are displayed here - what was sent when, to whom.
+You also have the possibility to resend already sent XRechnung.
+XRechnung Entwurf Here XRechnung are displayed, which failed the check and are not accepted as XRechnung. This can have different reasons - you can find out exactly which ones by opening the validation report.</description>
+      </item>
+      
+      <item>
+        <title>VAT Scheme</title>
+        <link>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-vat-scheme/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-vat-scheme/</guid>
+        <description>Setup Checking the VAT Scheme You should check the VAT scheme codes for the respective countries. For XRechnung, this is normally only Germany.
+These can be changed under “Countries/Region“ in Business Central, the fastest way to find this point is via the search function.
+There you change the field “VAT Scheme“ to the code for the corresponding country. The code for Germany is 9930, all other codes can be found here.</description>
+      </item>
+      
+      <item>
+        <title>How do I start?</title>
+        <link>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/faq/getting-started/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/faq/getting-started/</guid>
+        <description>FAQ How do I start? Once the app is installed, go to the customer that should receive the XRechnung and tick the box in document layouts and add the ident ID. Then you can start sending. A more detailed guide can be found onthis page.</description>
+      </item>
+      
+      <item>
+        <title>Unit codes</title>
+        <link>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-unit-codes/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-unit-codes/</guid>
+        <description>Setup Check standard codes for units Another point worth checking are unit codes. These must have a special designation to be PEPPOL compliant in order to be accepted.
+The quickest way to get to the list of unit codes is to use the search function and search for “Units of Measure”.
+Then you should adjust the field &amp;ldquo;International Standard Code” according to the UN/ECE Recommendation 20 or 21.</description>
+      </item>
+      
+      <item>
+        <title>Help &amp; Support</title>
+        <link>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/help-support/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/help-support/</guid>
+        <description>Help &amp;amp; Support We are always happy to take care of your requests, regardless if they are general questions about the BELWARE GmbH and our products or specific questions. Just contact us either via phone or mail. We will get back to you within 1 to 2 business days.
+For general things you can reach us under:
+E-Mail: info@belware.de
+alternatively
+Phone: +49 2362 788 90 55
+Fax: +49 2362 788 90 56</description>
+      </item>
+      
+      <item>
+        <title>Tax Category</title>
+        <link>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-tax-category/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-tax-category/</guid>
+        <description>Setup Check the Tax Category Finally, it is also worth looking at the tax category, this can be found in the VAT Posting Setup, this can again be called up most quickly via the search function.
+Here you should now fill the field “Tax category” with the respective designation, you can find this here finden. In most cases you will only need E S and Z.</description>
+      </item>
+      
+      <item>
+        <title>Videos</title>
+        <link>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/videos/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/videos/</guid>
+        <description>Videos Here you can find some informative videos about our XRechnung, each video covers a special topic
+Setup &amp;amp; Sending </description>
       </item>
       
     

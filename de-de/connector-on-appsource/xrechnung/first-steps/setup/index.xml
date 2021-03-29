@@ -15,7 +15,7 @@
     
       
       <item>
-        <title>Einrichtung Leitweg-ID</title>
+        <title>Leitweg-ID</title>
         <link>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-ident-id/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -24,7 +24,7 @@
       </item>
       
       <item>
-        <title>Einrichtung Debitor</title>
+        <title>Debitor</title>
         <link>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-customer/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -36,7 +36,7 @@ In das Feld „XRechnung“ setzen Sie ein Häkchen, um zu signalisieren, dass R
       </item>
       
       <item>
-        <title>Einrichtung MwSt.-Schema</title>
+        <title>MwSt.-Schema</title>
         <link>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-vat-scheme/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -47,19 +47,18 @@ Dort ändern Sie nun das Feld “MwSt.-Schema” in den Code für das entspreche
       </item>
       
       <item>
-        <title>Einrichtung Einheitencodes</title>
+        <title>Einheitencodes</title>
         <link>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-unit-codes/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-unit-codes/</guid>
         <description>Einrichtung Standardcodes für Einheiten überprüfen Ein weiterer Punkt der sich zu überprüfen lohnt sind Einheitencodes. Diese müssen, um PEPPOL-konform zu sein eine spezielle Bezeichnung haben, damit diese akzeptiert werden.
 Die Liste mit Ihrem Einheitencodes können Sie am schnellsten über die Suchfunktion erreichen in dem Sie einfach nach „Einheiten“ suchen.
-Anschließend sollten Sie das Feld “Internationaler Standardcode” anhand der UN/ECE Recommendation 20 bzw. 21 anpassen.
-Überprüfen der Steuerkategorie Zuletzt lohnt es sich auch die Steuerkategorie anzusehen, diese ist in der MwSt.</description>
+Anschließend sollten Sie das Feld “Internationaler Standardcode” anhand der UN/ECE Recommendation 20 bzw. 21 anpassen.</description>
       </item>
       
       <item>
-        <title>Einrichtung Steuerkategorie</title>
+        <title>Steuerkategorie</title>
         <link>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-tax-category/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         

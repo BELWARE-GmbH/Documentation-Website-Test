@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Setup on Connector 365 Online Help</title>
+    <link>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/setup/</link>
+    <description>Recent content in Setup on Connector 365 Online Help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/setup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Ident ID</title>
+        <link>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-ident-id/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-ident-id/</guid>
+        <description>Setup Ident ID </description>
+      </item>
+      
+      <item>
+        <title>Customer</title>
+        <link>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-customer/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-customer/</guid>
+        <description>Setup Customer To be able to send invoices in XInvoice format, you need to make settings under the “Document Layouts” of the respective customer.
+This can be found on the customer’s page under:
+„Navigate“ -&amp;gt; „Document Layouts“
+After installing the app, there are three new columns named “XRechnung”, Ident ID&amp;quot; and “Add Document as Attachment” on the page.
+In the “XRechnung” field, place a check mark to indicate that invoices for this customer should be sent as XInvoices.</description>
+      </item>
+      
+      <item>
+        <title>VAT Scheme</title>
+        <link>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-vat-scheme/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-vat-scheme/</guid>
+        <description>Setup Checking the VAT Scheme You should check the VAT scheme codes for the respective countries. For XRechnung, this is normally only Germany.
+These can be changed under “Countries/Region“ in Business Central, the fastest way to find this point is via the search function.
+There you change the field “VAT Scheme“ to the code for the corresponding country. The code for Germany is 9930, all other codes can be found here.</description>
+      </item>
+      
+      <item>
+        <title>Unit codes</title>
+        <link>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-unit-codes/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-unit-codes/</guid>
+        <description>Setup Check standard codes for units Another point worth checking are unit codes. These must have a special designation to be PEPPOL compliant in order to be accepted.
+The quickest way to get to the list of unit codes is to use the search function and search for “Units of Measure”.
+Then you should adjust the field &amp;ldquo;International Standard Code” according to the UN/ECE Recommendation 20 or 21.</description>
+      </item>
+      
+      <item>
+        <title>Tax Category</title>
+        <link>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-tax-category/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-tax-category/</guid>
+        <description>Setup Check the Tax Category Finally, it is also worth looking at the tax category, this can be found in the VAT Posting Setup, this can again be called up most quickly via the search function.
+Here you should now fill the field “Tax category” with the respective designation, you can find this here finden. In most cases you will only need E S and Z.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

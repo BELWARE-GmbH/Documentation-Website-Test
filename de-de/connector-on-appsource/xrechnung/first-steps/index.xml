@@ -34,21 +34,21 @@ Die App XRechnung für Microsoft Dynamics 365 Business Central ist in der Lage, 
       </item>
       
       <item>
-        <title>Einrichtung</title>
-        <link>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/</guid>
-        <description></description>
-      </item>
-      
-      <item>
         <title>Installation</title>
         <link>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/installation/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/installation/</guid>
         <description>Erste Schritte Installation </description>
+      </item>
+      
+      <item>
+        <title>Einrichtung</title>
+        <link>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/</guid>
+        <description></description>
       </item>
       
     
