@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Einrichtung on Connector 365 Online Hilfe</title>
+    <link>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/</link>
+    <description>Recent content in Einrichtung on Connector 365 Online Hilfe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Einrichtung Leitweg-ID</title>
+        <link>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-ident-id/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-ident-id/</guid>
+        <description>Einrichtung Leitweg-ID </description>
+      </item>
+      
+      <item>
+        <title>Einrichtung Debitor</title>
+        <link>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-customer/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-customer/</guid>
+        <description>Einrichtung Debitor Um Rechnungen im XRechnung-Format senden zu können, müssen Sie Einstellungen unter den „Dokumentenlayouts“ des jeweiligen Debitors vornehmen.
+Diese finden Sie auf der Seite des Debitors unter: „Navigieren“ -&amp;gt; „Dokumentenlayouts“
+Nach Installation der App befinden sich drei neue Spalten namens „XRechnung“, „Leitweg-ID“ und „Beleg als Anhang hinzufügen“ auf der Seite.
+In das Feld „XRechnung“ setzen Sie ein Häkchen, um zu signalisieren, dass Rechnungen für diesen Debitor als XRechnung versendet werden sollen.</description>
+      </item>
+      
+      <item>
+        <title>Einrichtung MwSt.-Schema</title>
+        <link>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-vat-scheme/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-vat-scheme/</guid>
+        <description>Einrichtung MwSt.-Schema überprüfen Sie sollten die MwSt.-Schema Codes für die jeweiligen Länder überprüfen. Für die XRechnung ist dies in Normalfall nur Deutschland.
+Diese lassen sich unter “Länder/Regionen” in Dynamics NAV anpassen, am schnellsten Finden Sie diesen Punkt über die Suchfunktion.
+Dort ändern Sie nun das Feld “MwSt.-Schema” in den Code für das entsprechende Land. Der Code für Deutschland lautet 9930, alle weiteren Codes finden Sie hier.</description>
+      </item>
+      
+      <item>
+        <title>Einrichtung Einheitencodes</title>
+        <link>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-unit-codes/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-unit-codes/</guid>
+        <description>Einrichtung Standardcodes für Einheiten überprüfen Ein weiterer Punkt der sich zu überprüfen lohnt sind Einheitencodes. Diese müssen, um PEPPOL-konform zu sein eine spezielle Bezeichnung haben, damit diese akzeptiert werden.
+Die Liste mit Ihrem Einheitencodes können Sie am schnellsten über die Suchfunktion erreichen in dem Sie einfach nach „Einheiten“ suchen.
+Anschließend sollten Sie das Feld “Internationaler Standardcode” anhand der UN/ECE Recommendation 20 bzw. 21 anpassen.
+Überprüfen der Steuerkategorie Zuletzt lohnt es sich auch die Steuerkategorie anzusehen, diese ist in der MwSt.</description>
+      </item>
+      
+      <item>
+        <title>Einrichtung Steuerkategorie</title>
+        <link>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-tax-category/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-tax-category/</guid>
+        <description>Einrichtung Überprüfen der Steuerkategorie Zuletzt lohnt es sich auch die Steuerkategorie anzusehen, diese ist in der MwSt.-Buchungsmatrix zu finden, diese lässt sich auch wieder am schnellsten über die Suchfunktion aufrufen.
+Hier sollte nun das Feld “Steuerkategorie” mit der jeweiligen Bezeichnung gefüllt werden, diese können Sie hier finden. In den meisten Fällen werden Sie nur E S und Z benötigen.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

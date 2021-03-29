@@ -33,7 +33,12 @@
   </url>
   
   <url>
-    <loc>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/einleitung/</loc>
+    <loc>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/introduction/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-ident-id/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
@@ -63,11 +68,6 @@
   </url>
   
   <url>
-    <loc>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/new-and-planned/new-functions/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://docs.belware.de/de-de/support/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -80,6 +80,11 @@
                 hreflang="de-de"
                 href="http://docs.belware.de/de-de/support/"
                 />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/new-and-planned/v1.0.1.0/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
@@ -103,7 +108,12 @@
   </url>
   
   <url>
-    <loc>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/einrichtung/</loc>
+    <loc>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-customer/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/working-with-xrechnung/negative-xrechnung/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
@@ -113,17 +123,17 @@
   </url>
   
   <url>
-    <loc>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/new-and-planned/planned-features/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/faq/not-sent/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/working-with-xrechnung/state/</loc>
+    <loc>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/test-purchase/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/new-and-planned/v1.0.0.1/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
@@ -133,17 +143,37 @@
   </url>
   
   <url>
+    <loc>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-vat-scheme/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/installation/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/faq/pricing/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/wichtige-einrichtungspunkte/</loc>
+    <loc>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/working-with-xrechnung/state/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/videos/</loc>
+    <loc>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-unit-codes/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/help-support/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
@@ -153,12 +183,17 @@
   </url>
   
   <url>
+    <loc>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-tax-category/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/faq/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/support/</loc>
+    <loc>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/videos/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   

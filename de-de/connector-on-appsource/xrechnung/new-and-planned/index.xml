@@ -15,21 +15,21 @@
     
       
       <item>
-        <title>Neue Funktionen</title>
-        <link>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/new-and-planned/new-functions/</link>
+        <title>V1.0.1.0 &amp; Roadmap</title>
+        <link>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/new-and-planned/v1.0.1.0/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/new-and-planned/new-functions/</guid>
-        <description>Neue Funktionen Version 1.0.1.0  Statuskacheln im Rollencenter Einbetten von Anhängen Überarbeiteter XRechnungs-Dialog Syntaxüberprüfung der Leitweg-ID  </description>
+        <guid>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/new-and-planned/v1.0.1.0/</guid>
+        <description>Neu und geplant Version 1.0.1.0  Statuskacheln im Rollencenter Einbetten von Anhängen Überarbeiteter XRechnungs-Dialog Syntaxüberprüfung der Leitweg-ID  Geplante Funktionen für zukünftige Versionen  Statistik Funktion Buchen &amp;amp; Verarbeiten Leitweg ID 1:N Verbesserung Dimension Prüfen der neuen CU Wechsel von Kosit auf 2.01 Prüfung ob die wichtigsten Felder gefüllt sind XRechnung eingehend verarbeiten  </description>
       </item>
       
       <item>
-        <title>Neu und geplant</title>
-        <link>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/new-and-planned/planned-features/</link>
+        <title>V1.0.0.1 &amp; Roadmap</title>
+        <link>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/new-and-planned/v1.0.0.1/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/new-and-planned/planned-features/</guid>
-        <description>Geplante Funktionen für zukünftige Versionen  Statistik Funktion Buchen &amp;amp; Verarbeiten Leitweg ID 1:N Verbesserung Dimension Prüfen der neuen CU Wechsel von Kosit auf 2.01 Prüfung ob die wichtigsten Felder gefüllt sind XRechnung eingehend verarbeiten  </description>
+        <guid>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/new-and-planned/v1.0.0.1/</guid>
+        <description>Neu und geplant Version 1.0.0.1  Erstellen einer XRechnung XML-Datei mit der Standard Mail-Funktion. Versand eines Prüfberichts, welcher dem Empfänger die Konformität der Rechnung bestätigt. Anzeigen des Prüfberichts für den Nutzer bei &amp;ldquo;Nicht-Konformität&amp;rdquo;.  Geplante Funktionen für zukünftige Versionen  Statuskacheln im Rollencenter Einbetten von Anhängen Überarbeiteter XRechnungs-Dialog Syntaxüberprüfung der Leitweg-ID  </description>
       </item>
       
     
