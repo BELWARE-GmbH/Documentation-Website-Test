@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Erste Schritte on Connector 365 Online Hilfe</title>
+    <link>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/</link>
+    <description>Recent content in Erste Schritte on Connector 365 Online Hilfe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Einleitung</title>
+        <link>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/einleitung/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/einleitung/</guid>
+        <description>Einleitung Ab dem 27.11.2020 müssen Lieferanten öffentlicher Auftraggeber Rechnungen in dem sogenannten „XRechnung“-Format versenden. Bei diesem Format handelt es sich um ein XML-basiertes Datenmodell, das aktuell als Standard für elektronische Rechnungen etabliert wird.
+Die App XRechnung für Microsoft Dynamics 365 Business Central ist in der Lage, solche elektronischen Rechnungen im XRechnung-Standard zu erstellen und zu versenden.</description>
+      </item>
+      
+      <item>
+        <title>Einrichtung</title>
+        <link>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/einrichtung/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/einrichtung/</guid>
+        <description>Einrichtung Um Rechnungen im XRechnung-Format senden zu können, müssen Sie Einstellungen unter den „Dokumentenlayouts“ des jeweiligen Debitors vornehmen.
+Diese finden Sie auf der Seite des Debitors unter: „Navigieren“ -&amp;gt; „Dokumentenlayouts“
+Nach Installation der App befinden sich drei neue Spalten namens „XRechnung“, „Leitweg-ID“ und „Beleg als Anhang hinzufügen“ auf der Seite.
+In das Feld „XRechnung“ setzen Sie ein Häkchen, um zu signalisieren, dass Rechnungen für diesen Debitor als XRechnung versendet werden sollen.</description>
+      </item>
+      
+      <item>
+        <title>Wichtige Einrichtungspunkte</title>
+        <link>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/wichtige-einrichtungspunkte/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/wichtige-einrichtungspunkte/</guid>
+        <description>Wichtige Einrichtungspunkte Da eine XRechnung immer einem bestimmten Schema entsprechen muss, kann es vorkommen, dass die erste erzeugte XRechnung fehlerhaft ist.
+Um welche Fehler es sich genau handelt, lässt sich aus dem Prüfbericht und der offiziellen Codelist erkennen. Gerne unterstützen wir Sie bei dem Prozess Ihre XRechnungen zu bereinigen.
+Nun noch drei Punkte, welche vor Nutzung der XRechnung schon einmal geprüft werden sollten. Da es sich hier um eine häufige Fehlerquelle handelt:</description>
+      </item>
+      
+    
+  </channel>
+</rss>

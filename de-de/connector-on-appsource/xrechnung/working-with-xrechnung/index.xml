@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arbeiten mit XRechnung on Connector 365 Online Hilfe</title>
+    <link>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/working-with-xrechnung/</link>
+    <description>Recent content in Arbeiten mit XRechnung on Connector 365 Online Hilfe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="http://docs.belware.de/de-de/connector-on-appsource/xrechnung/working-with-xrechnung/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Versand</title>
+        <link>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/working-with-xrechnung/sending/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/working-with-xrechnung/sending/</guid>
+        <description>Versand Wenn die Einrichtung abgeschlossen wurde, so können Sie Rechnungen einfach per E-Mail senden. Öffnen Sie also Ihre gebuchten Verkaufsrechnungen und wählen Sie die zu versendende Rechnung aus.
+„Drucken/Senden“ -&amp;gt; „Als XRechnung senden“
+Es öffnet sich ein neuer Dialog, in dem Sie vor dem Versenden noch Anpassungen vornehmen können.
+Im Dialog lassen sich der Absender, der Empfänger, der Betreff und auch nochmal die Leitweg-ID einsehen aber auch anpassen.
+Der Inhalt der Mail kann angepasst werden und die aktuellen Anhänge sind sichtbar.</description>
+      </item>
+      
+      <item>
+        <title>Status</title>
+        <link>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/working-with-xrechnung/state/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/working-with-xrechnung/state/</guid>
+        <description>Status In Ihrem Rollencenter können Sie zwei neue Kästen finden. Dort lässt sich der Status der versendeten und fehlerhaften XRechnungen nachverfolgen
+XRechnung Hier werden alle erfolgreich versendeten XRechnung abgebildet – Was wurde wann, an wen versendet.
+Sie haben hier auch die Möglichkeit schon versendete XRechnungen erneut zu versenden.
+XRechnung Entwurf Hier werden XRechnungen abgebildet, welche durch die Prüfung durchgefallen sind und nicht als XRechnung akzeptiert werden. Dies kann unterschiedliche Gründe haben – Welche genau, können Sie herausfinden indem Sie den Prüfbericht öffnen.</description>
+      </item>
+      
+    
+  </channel>
+</rss>
