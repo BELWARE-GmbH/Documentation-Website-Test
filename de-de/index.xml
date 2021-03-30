@@ -20,8 +20,8 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/introduction/</guid>
-        <description>Erste Schritte Einleitung Ab dem 27.11.2020 müssen Lieferanten öffentlicher Auftraggeber Rechnungen in dem sogenannten „XRechnung“-Format versenden. Bei diesem Format handelt es sich um ein XML-basiertes Datenmodell, das aktuell als Standard für elektronische Rechnungen etabliert wird.
-Die App XRechnung für Microsoft Dynamics 365 Business Central ist in der Lage, solche elektronischen Rechnungen im XRechnung-Standard zu erstellen und zu versenden.</description>
+        <description>Erste Schritte Einleitung XRechnung - der Standard zur elektronischen Rechnungsstellung bei öffentlichen Auftraggebern Ab dem 27.11.2020 müssen Lieferanten öffentlicher Auftraggeber Rechnungen in dem sogenannten „XRechnung“-Format versenden. Bei diesem Format handelt es sich um ein XML-basiertes Datenmodell, das aktuell als Standard für elektronische Rechnungen etabliert wird.
+Gemäß des Beschlusses des IT-Planungsrats vom 22.06.2017 ist XRechnung maßgeblich für die Umsetzung der Richtlinie 2014/55/EU in Deutschland. Damit bildet XRechnung eine verlässliche Basis für den Austausch elektronischer Rechnungen von und mit deutschen Verwaltungen.</description>
       </item>
       
       <item>
@@ -39,7 +39,8 @@ Die App XRechnung für Microsoft Dynamics 365 Business Central ist in der Lage, 
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-ident-id/</guid>
-        <description>Einrichtung Leitweg-ID </description>
+        <description>Einrichtung Leitweg-ID Die Leitweg-ID ist auf jeder elektronischen Rechnung an öffentliche Auftraggeber der Bundesverwaltung anzugeben.
+Die Leitweg-ID soll die Adressierung und ggf. Weiterleitung der eingegangenen elektronischen Rechnung zu den nachgelagerten Rechnungsbearbeitungssystemen der angeschlossenen Verwaltungseinheiten ermöglichen. Um die Akzeptanz und Handhabbarkeit sowohl für öffentliche Auftraggeber als auch für ihre Dienstleister und deren Serviceanbieter zu optimieren, haben sich Bund und Länder im Rahmen des Betriebs des Standards XRechnung auf eine einheitliche Systematik geeinigt.</description>
       </item>
       
       <item>
@@ -48,7 +49,7 @@ Die App XRechnung für Microsoft Dynamics 365 Business Central ist in der Lage, 
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/new-and-planned/v1.0.1.0/</guid>
-        <description>Neu und geplant Version 1.0.1.0  Statuskacheln im Rollencenter Einbetten von Anhängen Überarbeiteter XRechnungs-Dialog Syntaxüberprüfung der Leitweg-ID  Geplante Funktionen für zukünftige Versionen  Statistik Funktion Buchen &amp;amp; Verarbeiten Leitweg ID 1:N Verbesserung Dimension Prüfen der neuen CU Wechsel von Kosit auf 2.01 Prüfung ob die wichtigsten Felder gefüllt sind XRechnung eingehend verarbeiten  </description>
+        <description>Neu und geplant Version 1.0.1.0  Statusverfolgung im Rollencenter Rechnungsbegleitende Anhänge Überarbeiteter XRechnungs-Dialog Syntaxüberprüfung der Leitweg-ID Erweiterung der Eingabe für Leitweg ID&amp;rsquo;s Verbesserung der WebService Abfrage / DLL für das Prüfprotokoll ( hier CHF fragen) XRechnungsversion angepasst  Geplante Funktionen für zukünftige Versionen  Service Rechnungen und Service Gutschriften Erweiterung und Verbesserung der XRechnungseinstellung am Debitor Leitweg ID 1:N Verbesserung Dimension Event Wechsel von Kosit auf 2.01  </description>
       </item>
       
       <item>
@@ -69,10 +70,11 @@ Im Dialog lassen sich der Absender, der Empfänger, der Betreff und auch nochmal
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-customer/</guid>
-        <description>Einrichtung Debitor Um Rechnungen im XRechnung-Format senden zu können, müssen Sie Einstellungen unter den „Dokumentenlayouts“ des jeweiligen Debitors vornehmen.
-Diese finden Sie auf der Seite des Debitors unter: „Navigieren“ -&amp;gt; „Dokumentenlayouts“
-Nach Installation der App befinden sich drei neue Spalten namens „XRechnung“, „Leitweg-ID“ und „Beleg als Anhang hinzufügen“ auf der Seite.
-In das Feld „XRechnung“ setzen Sie ein Häkchen, um zu signalisieren, dass Rechnungen für diesen Debitor als XRechnung versendet werden sollen.</description>
+        <description>Einrichtung Debitor Die Einstellungen, um Rechnungen und Gutschriften im XRechnung-Format senden zu können, werden am jeweiligen Debitor vorgenommen. Unter „Navigieren“ - „Dokumentenlayouts“ des jeweiligen Debitors vornehmen.
+Im Dokumentenlayout stehen Ihnen nun neue Felder zur Verfügung.
+„XRechnung“, „Leitweg-ID“ und „Beleg als Anhang hinzufügen“
+In das Feld „XRechnung“ setzen Sie ein Häkchen, um die Funktion zu aktivieren, dass Rechnungen/Gutschriften für diesen Debitor als XRechnung versendet werden sollen.
+In das Feld „Leitweg-ID“ wird die Leitweg-ID des Debitors eingetragen.</description>
       </item>
       
       <item>
@@ -101,7 +103,12 @@ Es gibt viele Stellen, die dazu führen, dass eine XRechnung nicht dem Schema en
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/test-purchase/</guid>
-        <description>Erste Schritte Test &amp;amp; Kauf </description>
+        <description>Erste Schritte Test &amp;amp; Kauf Die App steht Ihnen im Microsoft AppSource zur Verfügung.
+Nach dem Download steht Ihnen die App für 5 Vorgänge kostenlos zur Verfügung.
+SCREENSHOT 5 GRATIS RECHNUNGEN
+Sind diese erreicht, haben Sie die Möglichkeit, ihre App direkt zu bestellen.
+Ist der Testzeitraum für Sie zu knapp, dann setzen Sie sich mit uns unter support@belware.de in Verbindung. Gerne können vereinbaren wir mit Ihnen einen individuellen Testzeitraum.
+Connector 365 steht Ihnen für die folgende BC Lizensierung zur Verfügung:</description>
       </item>
       
       <item>
@@ -110,7 +117,7 @@ Es gibt viele Stellen, die dazu führen, dass eine XRechnung nicht dem Schema en
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/new-and-planned/v1.0.0.1/</guid>
-        <description>Neu und geplant Version 1.0.0.1  Erstellen einer XRechnung XML-Datei mit der Standard Mail-Funktion. Versand eines Prüfberichts, welcher dem Empfänger die Konformität der Rechnung bestätigt. Anzeigen des Prüfberichts für den Nutzer bei &amp;ldquo;Nicht-Konformität&amp;rdquo;.  Geplante Funktionen für zukünftige Versionen  Statuskacheln im Rollencenter Einbetten von Anhängen Überarbeiteter XRechnungs-Dialog Syntaxüberprüfung der Leitweg-ID  </description>
+        <description>Neu und geplant Version 1.0.0.1  Erstellen einer XRechnung XML-Datei Versand der XRechnung per Mail mit dem Standard BC Mail - Dialog Versand eines Prüfberichts, welcher dem Empfänger die Konformität der Rechnung bestätigt. Anzeigen des Prüfberichts für den Nutzer bei “Nicht-Konformität” Abbruch des Versands bei &amp;ldquo;Nicht-Konformität  Geplante Funktionen für zukünftige Versionen  Statusverfolgung im Rollencenter Rechnungsbegleitende Anhänge Überarbeiteter XRechnungs-Dialog Syntaxüberprüfung der Leitweg-ID Erweiterung der Eingabe für Leitweg ID&amp;rsquo;s  </description>
       </item>
       
       <item>
@@ -119,7 +126,10 @@ Es gibt viele Stellen, die dazu führen, dass eine XRechnung nicht dem Schema en
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/installation/</guid>
-        <description>Erste Schritte Installation </description>
+        <description>Erste Schritte Installation Öffnen Sie mithilfe der Suchfunktion den Marketplace für Erweiterungen und öffnen Sie ihn.
+&amp;ndash; SCREENSHOT SUCHFUNKTION &amp;ndash;
+Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den Connector 365 XRechnung zu finden. Wählen Sie ihn im Menü aus.
+Es öffnet sich nun Seite der XRechnungs APP, von hier aus können Sie via eines Klicks auf Free Trial die Installation starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktedaten übermitteln.</description>
       </item>
       
       <item>

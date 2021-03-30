@@ -20,8 +20,8 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/introduction/</guid>
-        <description>Erste Schritte Einleitung Ab dem 27.11.2020 müssen Lieferanten öffentlicher Auftraggeber Rechnungen in dem sogenannten „XRechnung“-Format versenden. Bei diesem Format handelt es sich um ein XML-basiertes Datenmodell, das aktuell als Standard für elektronische Rechnungen etabliert wird.
-Die App XRechnung für Microsoft Dynamics 365 Business Central ist in der Lage, solche elektronischen Rechnungen im XRechnung-Standard zu erstellen und zu versenden.</description>
+        <description>Erste Schritte Einleitung XRechnung - der Standard zur elektronischen Rechnungsstellung bei öffentlichen Auftraggebern Ab dem 27.11.2020 müssen Lieferanten öffentlicher Auftraggeber Rechnungen in dem sogenannten „XRechnung“-Format versenden. Bei diesem Format handelt es sich um ein XML-basiertes Datenmodell, das aktuell als Standard für elektronische Rechnungen etabliert wird.
+Gemäß des Beschlusses des IT-Planungsrats vom 22.06.2017 ist XRechnung maßgeblich für die Umsetzung der Richtlinie 2014/55/EU in Deutschland. Damit bildet XRechnung eine verlässliche Basis für den Austausch elektronischer Rechnungen von und mit deutschen Verwaltungen.</description>
       </item>
       
       <item>
@@ -30,7 +30,12 @@ Die App XRechnung für Microsoft Dynamics 365 Business Central ist in der Lage, 
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/test-purchase/</guid>
-        <description>Erste Schritte Test &amp;amp; Kauf </description>
+        <description>Erste Schritte Test &amp;amp; Kauf Die App steht Ihnen im Microsoft AppSource zur Verfügung.
+Nach dem Download steht Ihnen die App für 5 Vorgänge kostenlos zur Verfügung.
+SCREENSHOT 5 GRATIS RECHNUNGEN
+Sind diese erreicht, haben Sie die Möglichkeit, ihre App direkt zu bestellen.
+Ist der Testzeitraum für Sie zu knapp, dann setzen Sie sich mit uns unter support@belware.de in Verbindung. Gerne können vereinbaren wir mit Ihnen einen individuellen Testzeitraum.
+Connector 365 steht Ihnen für die folgende BC Lizensierung zur Verfügung:</description>
       </item>
       
       <item>
@@ -39,7 +44,10 @@ Die App XRechnung für Microsoft Dynamics 365 Business Central ist in der Lage, 
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/installation/</guid>
-        <description>Erste Schritte Installation </description>
+        <description>Erste Schritte Installation Öffnen Sie mithilfe der Suchfunktion den Marketplace für Erweiterungen und öffnen Sie ihn.
+&amp;ndash; SCREENSHOT SUCHFUNKTION &amp;ndash;
+Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den Connector 365 XRechnung zu finden. Wählen Sie ihn im Menü aus.
+Es öffnet sich nun Seite der XRechnungs APP, von hier aus können Sie via eines Klicks auf Free Trial die Installation starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktedaten übermitteln.</description>
       </item>
       
       <item>
