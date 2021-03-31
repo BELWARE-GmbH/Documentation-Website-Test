@@ -1886,21 +1886,6 @@
         
         <div class="grow"></div>
         
-  <label class="switch switch__rel">
-    
-      <input id="toggle-sidebar" aria-label="Toggle Sidebar Visibility" type="checkbox" checked />
-      <span class="slider">
-        <span class="slider__icon ">
-          <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0V0z"/><path fill="currentColor" d="M5 13h11.17l-4.88 4.88c-.39.39-.39 1.03 0 1.42.39.39 1.02.39 1.41 0l6.59-6.59c.39-.39.39-1.02 0-1.41l-6.58-6.6c-.39-.39-1.02-.39-1.41 0-.39.39-.39 1.02 0 1.41L16.17 11H5c-.55 0-1 .45-1 1s.45 1 1 1z"/></svg>
-        </span>
-        <span class="slider__icon hide">
-          <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0V0z"/><path fill="currentColor" d="M19 11H7.83l4.88-4.88c.39-.39.39-1.03 0-1.42-.39-.39-1.02-.39-1.41 0l-6.59 6.59c-.39.39-.39 1.02 0 1.41l6.59 6.59c.39.39 1.02.39 1.41 0 .39-.39.39-1.02 0-1.41L7.83 13H19c.55 0 1-.45 1-1s-.45-1-1-1z"/></svg>
-        </span>
-      </span>
-    
-    
-  </label>
-
         
       </div>
     </div>
@@ -2273,33 +2258,35 @@
       
     </nav>
 
-    <article id="list-main" class="m" data-dir="ltr">
+    <article id="list-main" class="mr" data-dir="ltr">
       <div class="single" data-display="block">
   
 
   <article class="single__contents" data-dir="ltr">
     <h3 id="arbeiten-mit-xrechnung">Arbeiten mit XRechnung</h3>
 <h3 id="versand">Versand</h3>
+<p>Wenn die Einrichtung abgeschlossen wurde, so können Sie Rechnungen einfach per E-Mail senden. Öffnen Sie also Ihre gebuchten Verkaufsrechnungen und wählen Sie die zu versendende Rechnung aus.</p>
 <p><p class="md__image">
   <img src="/images/XRechnung/XRechnungScreenshot3.PNG" alt=""  />
 </p></p>
-<p>Wenn die Einrichtung abgeschlossen wurde, so können Sie Rechnungen einfach per E-Mail senden. Öffnen Sie also Ihre gebuchten Verkaufsrechnungen und wählen Sie die zu versendende Rechnung aus.</p>
 <p><strong>„Drucken/Senden“ -&gt; „Als XRechnung senden“</strong></p>
 <p>Es öffnet sich ein neuer Dialog, in dem Sie vor dem Versenden noch Anpassungen vornehmen können.</p>
 <p><p class="md__image">
   <img src="/images/XRechnung/XRechnungScreenshot4.PNG" alt=""  />
 </p></p>
 <p>Im Dialog lassen sich der Absender, der Empfänger, der Betreff und auch nochmal die Leitweg-ID einsehen aber auch anpassen.<br />
-Der Inhalt der Mail kann angepasst werden und die aktuellen Anhänge sind sichtbar.<br />
-Wenn Sie noch weitere Anhänge haben, welche Sie mitversenden möchten, dann können Sie über das Feld <strong>„Datei anhängen“</strong> in der Menüleiste noch weitere Anhänge hinzufügen.</p>
-<p><strong>Hinweis:</strong> <em>Für den Fall, dass Sie in den Dokumentenlayouts eine einbetten der Anhänge angewählt haben, so werden diese ebenfalls in die XML eingebettet und lassen sich anschließend nur noch maschinell auslesen. Grundsätzlich muss dabei darauf geachtet werden, welche Anhänge der Empfänger an nimmt.</em></p>
-<p>Wenn Sie die gewünschten Änderungen vorgenommen haben, können Sie den Versand über <strong>„E-Mail senden“</strong> auslösen. Im Hintergrund wird nun noch eine Prüfung auf das Schema der XRechnung</p>
+Der Inhalt der Mail kann angepasst werden und die aktuellen Anhänge sind sichtbar.</p>
+<p>Wenn Sie noch weitere Anhänge haben, welche Sie mitversenden möchten, dann können Sie diese über das Feld <strong>„Datei anhängen“</strong> Ihrer Mail hinzufügen.</p>
+<div class="notices info" data-title="Hinweis">
+  <em>Für den Fall, dass Sie in den Dokumentenlayouts eine einbetten der Anhänge angewählt haben, so werden diese ebenfalls in die XML eingebettet und lassen sich anschließend nur noch maschinell auslesen. Dabei sollte man darauf achten, welche Dateitypen der Empfänger akzeptiert.</em>
+</div>
+<h1 id="heading"></h1>
+<p>Wenn Sie die gewünschten Änderungen vorgenommen haben, können Sie den Versand über <strong>„E-Mail senden“</strong> auslösen. Im Hintergrund wird nun noch eine Prüfung auf das Schema der XRechnung vorgenommen.</p>
 <h3 id="nach-dem-versand">Nach dem Versand</h3>
 <p>Falls die Prüfung des Dokumentes erfolgreich war, so wird die Rechnung versendet.</p>
-<p>Nach dem Absenden erhält der Empfänger unter anderem eine <strong>„xml“-Datei.</strong> <br />
-Diese ist die zugehörige Rechnung im <strong>„XRechnung“</strong>-Format.</p>
+<p>Nach dem Absenden erhält der Empfänger eine <strong>„xml“-Datei</strong>. Diese ist die zugehörige Rechnung im <strong>„XRechnung“</strong>-Format.</p>
 <p><p class="md__image">
-  <img src="/images/XRechnung/XRechnungScreenshot5.png" alt=""  />
+  <img src="/images/XRechnung/xrechnungemail.png" alt=""  />
 </p></p>
 
   </article>
@@ -2325,24 +2312,7 @@ Diese ist die zugehörige Rechnung im <strong>„XRechnung“</strong>-Format.</
       
     </article>
     
-    <section id="list-side" class="r" data-dir="ltr">
-      
-        <div class="toc">
-  <h6 class="toc__label"></h6>
-  <div class="toc__body">
-    <nav id="TableOfContents">
-  <ul>
-    <li>
-      <ul>
-        <li><a href="#arbeiten-mit-xrechnung">Arbeiten mit XRechnung</a></li>
-        <li><a href="#versand">Versand</a></li>
-        <li><a href="#nach-dem-versand">Nach dem Versand</a></li>
-      </ul>
-    </li>
-  </ul>
-</nav>
-  </div>
-</div>
+    <section id="list-side" class="hide" data-dir="ltr">
       
     </section>
 
@@ -2599,7 +2569,7 @@ Diese ist die zugehörige Rechnung im <strong>„XRechnung“</strong>-Format.</
   var listMain = document.getElementById('list-main');
   var singleMenu = document.getElementById('single-menu');
   var switchElem = document.querySelector('.switch');
-  var wideViewAsDefault = JSON.parse("null");
+  var wideViewAsDefault = JSON.parse("true");
   
   enquire.register("screen and (max-width:1280px)", {
     match: function () {
@@ -2666,7 +2636,7 @@ Diese ist die zugehörige Rechnung im <strong>„XRechnung“</strong>-Format.</
       <div class="lmr">
         
           <p class="caption">
-            ©2021, All Rights Reserved
+            ©2021 - Germany - BELWARE® GmbH - Dorsten
           </p>
           
               <p class="caption">Powered by <a href="https://gohugo.io/" rel="noreferrer">Hugo</a> and the <a href="https://github.com/zzossig/hugo-theme-zdoc" rel="noreferrer">zDoc theme</a></p>

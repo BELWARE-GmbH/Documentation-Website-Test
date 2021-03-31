@@ -6,7 +6,7 @@
     <description>Recent content in Erste Schritte on Connector 365 Online Hilfe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
     <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
     
         <atom:link href="http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/index.xml" rel="self" type="application/rss+xml" />
@@ -45,9 +45,8 @@ Connector 365 steht Ihnen für die folgende BC Lizensierung zur Verfügung:</des
         
         <guid>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/installation/</guid>
         <description>Erste Schritte Installation Öffnen Sie mithilfe der Suchfunktion den Marketplace für Erweiterungen und öffnen Sie ihn.
-&amp;ndash; SCREENSHOT SUCHFUNKTION &amp;ndash;
-Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den Connector 365 XRechnung zu finden. Wählen Sie ihn im Menü aus.
-Es öffnet sich nun Seite der XRechnungs APP, von hier aus können Sie via eines Klicks auf Free Trial die Installation starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktedaten übermitteln.</description>
+Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den Connector 365 XRechnung zu finden. Klicken Sie auf Free Trial um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
+Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert eine Sprache für die App zu wählen.</description>
       </item>
       
       <item>
