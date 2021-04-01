@@ -86,7 +86,7 @@ In das Feld „Leitweg-ID“ wird die Leitweg-ID des Debitors eingetragen.</desc
         <guid>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/working-with-xrechnung/negative-xrechnung/</guid>
         <description>Arbeiten mit XRechnung Negative XRechnungen Für den Fall, dass eine XRechnung nicht dem geforderten Schema entspricht, kommt es zu einer Fehlermeldung, wird diese bestätigt öffnet sich der Prüfbericht für die XRechnung.
 Dort lässt sich einsehen, welche Punkte nicht zum geforderten Schema passen. Korrigieren Sie diese Punkte und versenden Sie die XRechnung erneut.
-Es gibt viele Stellen, die dazu führen, dass eine XRechnung nicht dem Schema entspricht. Für die häufigsten haben wir eine Auflisten und Anleitung unter Erste Schritte</description>
+Es gibt viele Stellen, die dazu führen, dass eine XRechnung nicht dem Schema entspricht. Für die häufigsten haben wir eine Auflisten und Anleitung unter Einrichtung</description>
       </item>
       
       <item>
@@ -106,7 +106,6 @@ Es gibt viele Stellen, die dazu führen, dass eine XRechnung nicht dem Schema en
         <guid>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/test-purchase/</guid>
         <description>Erste Schritte Test &amp;amp; Kauf Die App steht Ihnen im Microsoft AppSource zur Verfügung.
 Nach dem Download steht Ihnen die App für 5 Vorgänge kostenlos zur Verfügung.
-SCREENSHOT 5 GRATIS RECHNUNGEN
 Sind diese erreicht, haben Sie die Möglichkeit, ihre App direkt zu bestellen.
 Ist der Testzeitraum für Sie zu knapp, dann setzen Sie sich mit uns unter support@belware.de in Verbindung. Gerne können vereinbaren wir mit Ihnen einen individuellen Testzeitraum.
 Connector 365 steht Ihnen für die folgende BC Lizensierung zur Verfügung:</description>

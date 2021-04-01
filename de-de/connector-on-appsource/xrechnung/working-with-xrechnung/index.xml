@@ -34,7 +34,7 @@ Im Dialog lassen sich der Absender, der Empfänger, der Betreff und auch nochmal
         <guid>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/working-with-xrechnung/negative-xrechnung/</guid>
         <description>Arbeiten mit XRechnung Negative XRechnungen Für den Fall, dass eine XRechnung nicht dem geforderten Schema entspricht, kommt es zu einer Fehlermeldung, wird diese bestätigt öffnet sich der Prüfbericht für die XRechnung.
 Dort lässt sich einsehen, welche Punkte nicht zum geforderten Schema passen. Korrigieren Sie diese Punkte und versenden Sie die XRechnung erneut.
-Es gibt viele Stellen, die dazu führen, dass eine XRechnung nicht dem Schema entspricht. Für die häufigsten haben wir eine Auflisten und Anleitung unter Erste Schritte</description>
+Es gibt viele Stellen, die dazu führen, dass eine XRechnung nicht dem Schema entspricht. Für die häufigsten haben wir eine Auflisten und Anleitung unter Einrichtung</description>
       </item>
       
       <item>

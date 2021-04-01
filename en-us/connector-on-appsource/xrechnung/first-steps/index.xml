@@ -20,8 +20,8 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/introduction/</guid>
-        <description>First steps Introduction From 27th November 2020 on all vendors of german public clients have to send their invoices in the so called “XRechnung” format. This format is an XML based data model that is being established as the standard for electronic invoicing.
-The XRechnung app for Microsoft Dynamics 365 Business Central makes it possible to create electronic invoices according to the XRechnung standard and to send them.</description>
+        <description>First steps Introduction XRechnung - the standard for electronic invoicing for public clients As of 27.11.2020, suppliers of public clients must send invoices in the so-called &amp;ldquo;XRechnung&amp;rdquo; format. This format is an XML-based data model that is currently being established as the standard for electronic invoices.
+According to the Decision of the IT Planning Council of 22.06.2017 (Link only available in German), XRechnung is decisive for the implementation of the Directive 2014/55/EU (Link only available in German) in Germany.</description>
       </item>
       
       <item>
@@ -30,7 +30,11 @@ The XRechnung app for Microsoft Dynamics 365 Business Central makes it possible 
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/test-purchase/</guid>
-        <description>First Steps Test &amp;amp; Purchase </description>
+        <description>First Steps Test &amp;amp; Purchase The App is available on Microsoft AppSource.
+After downloading, the app is available to you free of charge for 5 processes.
+Once these are reached, you have the option to order the app directly.
+If the trial period is too short for you, please contact us at support@belware.de. We will be happy to arrange an individual trial period with you.
+Connector 365 is available for the following BC licensing:</description>
       </item>
       
       <item>
@@ -39,7 +43,9 @@ The XRechnung app for Microsoft Dynamics 365 Business Central makes it possible 
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/installation/</guid>
-        <description>First steps Installation </description>
+        <description>First steps Installation Using the search function, open the Extension Marketplace and open it.
+The Microsoft AppSource will open. There you can use the search function again to find the Connector 365 XRechnung. Click on Free Trial to start the installation. Before the installation finally starts, you need to provide some contact information.
+After submitting your contact information, you will be prompted to choose a language for the app. Our app is available in English and German.</description>
       </item>
       
       <item>

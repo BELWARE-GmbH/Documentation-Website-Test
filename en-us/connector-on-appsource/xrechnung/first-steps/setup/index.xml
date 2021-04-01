@@ -20,7 +20,8 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-ident-id/</guid>
-        <description>Setup Ident ID </description>
+        <description>Setup Ident ID The Ident ID must be indicated on every electronic invoice sent to public-sector customers of the federal administration.
+The Ident ID is intended to enable addressing and, if necessary, forwarding of the received electronic invoice to the downstream invoice processing systems of the connected administrative units. In order to optimize acceptance and manageability both for public-sector customers and for their service providers and their service providers, the federal and state governments have agreed on a uniform system as part of the operation of the XRechnung standard.</description>
       </item>
       
       <item>
@@ -29,11 +30,10 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-customer/</guid>
-        <description>Setup Customer To be able to send invoices in XInvoice format, you need to make settings under the “Document Layouts” of the respective customer.
-This can be found on the customer’s page under:
-„Navigate“ -&amp;gt; „Document Layouts“
-After installing the app, there are three new columns named “XRechnung”, Ident ID&amp;quot; and “Add Document as Attachment” on the page.
-In the “XRechnung” field, place a check mark to indicate that invoices for this customer should be sent as XInvoices.</description>
+        <description>Setup Customer The settings to be able to send invoices and credit notes in XRechnung format are made on the respective customer. Under &amp;ldquo;Navigate&amp;rdquo; - &amp;ldquo;Document layouts&amp;rdquo; of the respective customer.
+When you open the document layouts, new fields are now available.
+XRechnung&amp;quot;, &amp;ldquo;Ident ID&amp;rdquo; and &amp;ldquo;Add document as attachment&amp;rdquo;.
+In the &amp;ldquo;XRechnung&amp;rdquo; field, place a check mark to activate the function that invoices/credit notes for this customer should be sent as XRechnung.</description>
       </item>
       
       <item>

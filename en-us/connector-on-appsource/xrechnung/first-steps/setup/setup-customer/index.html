@@ -1114,7 +1114,7 @@
     "datePublished": "2020-02-28T10:08:56+09:00",
     "dateModified": "2020-02-28T10:08:56+09:00",
     "url" : "http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-customer/",
-    "description": "Setup Customer To be able to send invoices in XInvoice format, you need to make settings under the “Document Layouts” of the respective customer. This can be found on the …",
+    "description": "Setup Customer The settings to be able to send invoices and credit notes in XRechnung format are made on the respective customer. Under \u0026ldquo;Navigate\u0026rdquo; - …",
     "mainEntityOfPage": {
       "@type": "WebPage",
       "@id": "http://docs.belware.de/"
@@ -2277,20 +2277,22 @@
 <p><p class="md__image">
   <img src="/images/XRechnung/XRechnungScreenshot1.png" alt=""  />
 </p></p>
-<p>To be able to send invoices in XInvoice format, you need to make settings under the <strong>“Document Layouts”</strong> of the respective customer.</p>
-<p>This can be found on the customer’s page under:<br />
-<strong>„Navigate“ -&gt; „Document Layouts“</strong></p>
-<p>After installing the app, there are three new columns named <strong>“XRechnung”, Ident ID&quot; and “Add Document as Attachment”</strong> on the page.</p>
+<p>The settings to be able to send invoices and credit notes in XRechnung format are made on the respective customer. Under <strong>&ldquo;Navigate&rdquo; - &ldquo;Document layouts&rdquo;</strong> of the respective customer.</p>
+<p>When you open the document layouts, new fields are now available.<br />
+<strong>XRechnung&quot;, &ldquo;Ident ID&rdquo; and &ldquo;Add document as attachment&rdquo;</strong>.</p>
 <p><p class="md__image">
   <img src="/images/XRechnung/XRechnungScreenshot2.PNG" alt=""  />
 </p></p>
-<p>In the <strong>“XRechnung”</strong> field, place a check mark to indicate that invoices for this customer should be sent as XInvoices.</p>
-<p>In the field <strong>“Ident ID”</strong> the Ident ID of the customer is entered. This is necessary to uniquely identify a bill recipient. This field is subject to a syntax check and only allows valid Ident IDs.</p>
-<p>In the field <strong>“Add Document as Attachment”</strong> you have 3 options, which determine how the original document and attachments are handled.</p>
-<p><strong>No</strong> - The original document will not be sent additionally, only the XML of the XRechnung will be sent. Regular attachments are sent as usual.</p>
-<p><strong>Embedded</strong> - The original document is sent along, but is embedded in the XML of the XRechnung. Further attachments are also embedded in the XML. These can be read out later by machine.</p>
-<p><strong>PDF</strong> - The original receipt is attached as a PDF in addition to the XML of the XRechnung. Other attachments are also attached as usual.</p>
-<p>If the checkmark for XRechnung is set, a correct Ident ID is stored and the desired attachment option is selected, invoices can be sent in XRechnung format.</p>
+<p>In the <strong>&ldquo;XRechnung&rdquo;</strong> field, place a check mark to activate the function that invoices/credit notes for this customer should be sent as XRechnung.</p>
+<p>In the field <strong>&ldquo;Ident ID&rdquo;</strong> the Ident ID of the customer is entered. This is necessary to uniquely identify an invoice recipient. This field is subject to a syntax check and only allows valid Ident IDs.</p>
+<p>In the field <strong>&ldquo;Add document as attachment&rdquo;</strong> you have 3 selection options which determine how the original document and any attachments are handled.</p>
+<p><p class="md__image">
+  <img src="/images/XRechnung/xrechnungbeleganhang.PNG" alt=""  />
+</p></p>
+<p><strong>No</strong> - The original document will not be sent additionally, only the XML of the XRechnung will be sent.</p>
+<p><strong>Embedded</strong> - The original document will be sent, but will be embedded in the XML of the XRechnung. Further attachments are also embedded in the XML. These can be read later by machine.</p>
+<p><strong>PDF</strong> - The original document is attached as a PDF in addition to the XML of the XRechnung. Other attachments are also attached as usual.</p>
+<p>If the checkmark for XRechnungis set, a correct Ident ID is stored, the desired attachment option is selected and all necessary master data is entered, invoices/credit notes can be sent in XRechnung format.</p>
 
   </article>
 </div>
