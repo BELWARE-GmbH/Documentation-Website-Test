@@ -318,6 +318,21 @@
   </url>
   
   <url>
+    <loc>http://docs.belware.de/en-us/apps/mail_attachment_plus/working-with-map/mail-report/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/mail_attachment_plus/working-with-map/mail-report/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/mail_attachment_plus/working-with-map/mail-report/"
+                />
+  </url>
+  
+  <url>
     <loc>http://docs.belware.de/en-us/privacy-policy/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -374,6 +389,21 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://docs.belware.de/en-us/connector-on-appsource/xrechnung/working-with-xrechnung/sending/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/en-us/under-construction/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/under-construction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/under-construction/"
                 />
   </url>
   
@@ -509,6 +539,21 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-customer/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/en-us/apps/mail_attachment_plus/working-with-map/mail-customer/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/mail_attachment_plus/working-with-map/mail-customer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/mail_attachment_plus/working-with-map/mail-customer/"
                 />
   </url>
   
@@ -783,6 +828,21 @@
   </url>
   
   <url>
+    <loc>http://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.4/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.4/"
+                />
+  </url>
+  
+  <url>
     <loc>http://docs.belware.de/en-us/apps/e-post/new-and-planned/vx.x.x.x/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -794,21 +854,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://docs.belware.de/en-us/apps/e-post/new-and-planned/vx.x.x.x/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/vx.x.x.x/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="http://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/vx.x.x.x/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/vx.x.x.x/"
                 />
   </url>
   
@@ -884,6 +929,21 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://docs.belware.de/en-us/apps/e-post/faq/international/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/en-us/apps/mail_attachment_plus/working-with-map/mail-document/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/mail_attachment_plus/working-with-map/mail-document/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/mail_attachment_plus/working-with-map/mail-document/"
                 />
   </url>
   
