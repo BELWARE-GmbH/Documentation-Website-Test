@@ -131,28 +131,6 @@ Die Einrichtung dafür finden Sie in der Suche unter &amp;ldquo;Länder/Regionen
       </item>
       
       <item>
-        <title>Mail Bericht</title>
-        <link>http://docs.belware.de/de-de/apps/mail_attachment_plus/working-with-map/mail-report/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/de-de/apps/mail_attachment_plus/working-with-map/mail-report/</guid>
-        <description>Arbeiten mit Mail Attachment Plus Nachdem Sie in der Berichtsauswahl die gewünschten Anhänge hinzugefügt haben, können Sie mit dem Mailversand beginnen.
-Für Dieses Beispiel haben wir die Standardanhänge im Rechnungsversand wie folgt eingerichtet:
-In diesem Beispiel haben wir zwei PDFs und ein zeitbegrenztes Bild angehängt.
-Sollten Sie eine Business Central Version einsetzen, in der die Mail Experience noch nicht zur verfügung steht, sieht der Ablauf ein wenig anders aus. Am Ende der Seite finden Sie eine entsprechende Anleitung.</description>
-      </item>
-      
-      <item>
-        <title>Under Construction</title>
-        <link>http://docs.belware.de/de-de/under-construction/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/de-de/under-construction/</guid>
-        <description>Dieser Teil unserer Docs-Seite befindet sich im Aufbau Dieser Teil der Website befindet sich noch im Aufbau und ist daher noch nicht öffentlich zugänglich.
-Bitte kehren Sie zu einem späteren Zeitpunkt zurück, wenn wir weitere informative Inhalte über die Nutzung unserer Lösungen dieser Website hinzugefügt haben.</description>
-      </item>
-      
-      <item>
         <title>V1.0.0.3 &amp; Roadmap</title>
         <link>http://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.3/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -289,18 +267,6 @@ Während der Testmodus aktiviert ist, werden keine Rechnungen versendet. Stattde
       </item>
       
       <item>
-        <title>Mail Debitor</title>
-        <link>http://docs.belware.de/de-de/apps/mail_attachment_plus/working-with-map/mail-customer/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/de-de/apps/mail_attachment_plus/working-with-map/mail-customer/</guid>
-        <description>Arbeiten mit Mail Attachment Plus Nachdem Sie in der Berichtsauswahl die gewünschten Anhänge hinzugefügt haben, können Sie mit dem Mailversand beginnen.
-Für Dieses Beispiel haben wir die Standardanhänge im Rechnungsversand wie folgt eingerichtet:
-Zwei PDFs werden angehängt und jeweils die eingerichteten Standards pro Beleg/Bericht
-Sollten Sie eine Business Central Version einsetzen, in der die Mail Experience noch nicht zur verfügung steht, sieht der Ablauf ein wenig anders aus. Am Ende der Seite finden Sie eine entsprechende Anleitung.</description>
-      </item>
-      
-      <item>
         <title>Negative XRechnungen</title>
         <link>http://docs.belware.de/de-de/apps/xrechnung/working-with-xrechnung/negative-xrechnung/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -422,21 +388,32 @@ Ihnen stehen als registrierter E-POST Kunde folgende Möglichkeiten zur Verfügu
       </item>
       
       <item>
-        <title>V1.0.0.4 &amp; Roadmap</title>
-        <link>http://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.4/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.4/</guid>
-        <description>Neu und geplant Version 1.0.0.4  Unbegrenzte Menge an Standardanhängen pro Dokument Anpassung an die Mail Experience  Geplante Funktionen für zukünftige Versionen  Anhangsfunktionalitäten auf weiteren Ebenen  </description>
-      </item>
-      
-      <item>
         <title>VX.X.X.X &amp; Roadmap</title>
         <link>http://docs.belware.de/de-de/apps/e-post/new-and-planned/vx.x.x.x/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/de-de/apps/e-post/new-and-planned/vx.x.x.x/</guid>
         <description>Neu und geplant Version X.X.X.X  Versand weiterer Belegarten (Gutschriften, Mahnungen, Angebote, Aufträge) Versand von Duplexbriefen Globale Jobliste in der Factbox E-Post Jobliste im Dashboard  Geplante Funktionen für zukünftige Versionen  Reaktivierung negativer Jobs Kontakte im Dialog editierbar Weitere Belegarten (Service Rechnungen/Gutschriften)  </description>
+      </item>
+      
+      <item>
+        <title>VX.X.X.X &amp; Roadmap</title>
+        <link>http://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/vx.x.x.x/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/vx.x.x.x/</guid>
+        <description>Neu und geplant Version X.X.X.X  Unbegrenzte Menge an Standardanhängen pro Dokument Anpassung an die Mail Experience  Geplante Funktionen für zukünftige Versionen  Anhangsfunktionalitäten auf weiteren Ebenen  </description>
+      </item>
+      
+      <item>
+        <title>Arbeiten mit Mail Attachments Plus</title>
+        <link>http://docs.belware.de/de-de/apps/mail_attachment_plus/working-with-map/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/mail_attachment_plus/working-with-map/</guid>
+        <description>Arbeiten mit Mail Attachments Plus Wenn Sie Ihre Standardanhänge an den entsprechenden Stellen angehängt haben, können Sie nun den Mailversand wie gewohnt starten.
+Ihnen wird auffallen, dass im Bereich der Anhänge, die zuvor eingerichteten Standardanhänge vorzufinden sind, vorrausgesetzt der entsprechende Beleg entspricht den Kriterien (Korrekter/es Bericht/Debitor/Dokument).
+Sollte einer der Standardanhänge zu dem aktuellen Versand nicht passen, so können Sie ganz einfach, wie auch mit den normalen Anhängen, entfernen. Klicken Sie einfach auf die drei Punkte neben dem Anhang und klicken Sie auf löschen.</description>
       </item>
       
       <item>
@@ -489,18 +466,6 @@ Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert e
         
         <guid>http://docs.belware.de/de-de/apps/e-post/faq/international/</guid>
         <description>FAQ Unterstützt die Erweiterung internationalen Versand? Ja, mit Hilfe unserer APP können Sie Ihre Rechnung um den ganzen Globus schicken.</description>
-      </item>
-      
-      <item>
-        <title>Mail Beleg</title>
-        <link>http://docs.belware.de/de-de/apps/mail_attachment_plus/working-with-map/mail-document/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/de-de/apps/mail_attachment_plus/working-with-map/mail-document/</guid>
-        <description>Arbeiten mit Mail Attachment Plus Wenn Sie alle Ihre gewünschten Anhänge über das &amp;ldquo;Anhänge&amp;rdquo; Menü hinzugefügt haben, können Sie mit dem Versand starten.
-Für das Beispiel haben wir die Anhänge für einen Beleg wie folgt eingerichtet:
-Es wurde ein Bild und eine PDF also Standard festgelegt.
-Sollten Sie eine Business Central Version einsetzen, in der die Mail Experience noch nicht zur verfügung steht, sieht der Ablauf ein wenig anders aus. Am Ende der Seite finden Sie eine entsprechende Anleitung.</description>
       </item>
       
       <item>
