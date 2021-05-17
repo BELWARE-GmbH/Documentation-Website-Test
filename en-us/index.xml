@@ -131,6 +131,17 @@ According to the Decision of the IT Planning Council of 22.06.2017 (Link only av
       </item>
       
       <item>
+        <title>Report default attachments</title>
+        <link>http://docs.belware.de/en-us/apps/mail_attachment_plus/working-with-map/defaults-report/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/mail_attachment_plus/working-with-map/defaults-report/</guid>
+        <description>Working with Mail Attachment Plus After you have added the attachments you want in the report selection, you can start sending the mail. If you have not done so yet, you can find the setup of the Report Default Attachments in the &amp;ldquo;Getting Started&amp;rdquo; section.
+For this example, we have set up the default attachments in invoice shipping as follows:
+In this example we have attached two PDFs and a time-limited image.</description>
+      </item>
+      
+      <item>
         <title>Sending</title>
         <link>http://docs.belware.de/en-us/apps/e-post/working-with-e-post/sending/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -166,6 +177,16 @@ The content of the mail can be customized and the current attachments are visibl
 A new dialog opens where you can make adjustments before sending.
 In the dialog, the sender, the recipient, the subject and also again the Ident ID can be viewed but also adjusted.
 The content of the mail can be customized and the current attachments are visible.</description>
+      </item>
+      
+      <item>
+        <title>Under Construction</title>
+        <link>http://docs.belware.de/en-us/under-construction/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/under-construction/</guid>
+        <description>This part of our docs page is under construction This part of the website is still being worked on and as such is not yet available to the public.
+Please return at a later date, when we will have added further informative content about the usage of our solutions to this website.</description>
       </item>
       
       <item>
@@ -236,6 +257,17 @@ In the &amp;ldquo;XRechnung&amp;rdquo; field, place a check mark to activate the
 When you open the document layouts, new fields are now available.
 XRechnung&amp;quot;, &amp;ldquo;Ident ID&amp;rdquo; and &amp;ldquo;Add document as attachment&amp;rdquo;.
 In the &amp;ldquo;XRechnung&amp;rdquo; field, place a check mark to activate the function that invoices/credit notes for this customer should be sent as XRechnung.</description>
+      </item>
+      
+      <item>
+        <title>Customer default attachments</title>
+        <link>http://docs.belware.de/en-us/apps/mail_attachment_plus/working-with-map/defaults-customer/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/mail_attachment_plus/working-with-map/defaults-customer/</guid>
+        <description>Working with Mail Attachment Plus After you have added the attachments you want in the report selection, you can start sending the mail. If you have not done so yet, you can find the setup of the Customer Default Attachments in the &amp;ldquo;Getting Started&amp;rdquo; section.
+For this example, we have set up the default attachments in invoice shipping as follows:
+Two PDFs are attached, each with the standards set up per document/report</description>
       </item>
       
       <item>
@@ -390,6 +422,15 @@ Connector 365 is available for the following BC licensing:</description>
       </item>
       
       <item>
+        <title>V1.0.0.4 &amp; Roadmap</title>
+        <link>http://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.4/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.4/</guid>
+        <description>New and planned Version 1.0.0.4  Unlimited amount of standard attachments per document Adaptation to the Mail Experience  Planned features for future versions  Attachment functionalities on further levels  </description>
+      </item>
+      
+      <item>
         <title>VX.X.X.X &amp; Roadmap</title>
         <link>http://docs.belware.de/en-us/apps/e-post/new-and-planned/vx.x.x.x/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -399,22 +440,25 @@ Connector 365 is available for the following BC licensing:</description>
       </item>
       
       <item>
-        <title>VX.X.X.X &amp; Roadmap</title>
-        <link>http://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/vx.x.x.x/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/vx.x.x.x/</guid>
-        <description>New and planned Version X.X.X.X  Unlimited amount of standard attachments per document Adaptation to the Mail Experience  Planned features for future versions  Attachment functionalities on further levels  </description>
-      </item>
-      
-      <item>
-        <title>Debitor default attachments</title>
+        <title>Customer default attachments</title>
         <link>http://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/setup/defaults-customer/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/setup/defaults-customer/</guid>
         <description>Setup Standard attachments per customer and report. Another way to add attachments is to add them as defaults for customers, for example, if there are conditions that only apply to a specific customer. Open the customer you want to add defaults to and expand the options in the menu via &amp;ldquo;More options&amp;rdquo;, click &amp;ldquo;Navigate&amp;rdquo; and select &amp;ldquo;Document layouts&amp;rdquo;.
 Select the report for which you want to add default attachments, we will use invoices again in this example.</description>
+      </item>
+      
+      <item>
+        <title>Document default attachments</title>
+        <link>http://docs.belware.de/en-us/apps/mail_attachment_plus/working-with-map/defaults-document/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/mail_attachment_plus/working-with-map/defaults-document/</guid>
+        <description>Working with Mail Attachment Plus Once you have added all your desired attachments via the &amp;ldquo;Attachments &amp;ldquo; menu, you can start sending. If you have not done so yet, you can find the setup of the Document Default Attachments in the &amp;ldquo;Getting Started&amp;rdquo; section.
+For the example, we have set up the attachments for a receipt as follows:
+An image and a PDF have been set as standard.
+If you are using a Business Central version in which the Mail Experience is not yet available, the procedure is a little different.</description>
       </item>
       
       <item>
@@ -543,17 +587,6 @@ There you change the field “VAT Scheme“ to the code for the corresponding co
         <description>Setup Checking the VAT Scheme You should check the VAT scheme codes for the respective countries. For XRechnung, this is normally only Germany.
 These can be changed under “Countries/Region“ in Business Central, the fastest way to find this point is via the search function.
 There you change the field “VAT Scheme“ to the code for the corresponding country. The code for Germany is 9930, all other codes can be found here.</description>
-      </item>
-      
-      <item>
-        <title>Working with Mail Attachments Plus</title>
-        <link>http://docs.belware.de/en-us/apps/mail_attachment_plus/working-with-map/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/en-us/apps/mail_attachment_plus/working-with-map/</guid>
-        <description>Working with Mail Attachments Plus Once you have attached your standard attachments in the appropriate places, you can now start sending mail as usual.
-You will notice that in the attachments area, the previously set up standard attachments can be found, provided that the corresponding document meets the criteria (Correct report/customer/document).
-If one of the default attachments does not match what you are sending, you can easily remove it, just like with the normal attachments.</description>
       </item>
       
       <item>
