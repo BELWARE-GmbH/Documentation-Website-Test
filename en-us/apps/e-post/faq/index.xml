@@ -66,8 +66,7 @@ The registration for the E-POST API can be found here (Please note that the site
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/en-us/apps/e-post/faq/reports/</guid>
-        <description>FAQ Is it possible to send other reports via E-POST Currently we only support sending out posted sales invoices.
-Yes, from version X.X.X.X. it is possible to send additional types of reports, which include the following in addition to invoices:
+        <description>FAQ Is it possible to send other reports via E-POST Yes, from version 1.0.1.0 it is possible to send additional types of reports, which include the following in addition to invoices:
  Credit memo Reminder Quotes Orders  </description>
       </item>
       

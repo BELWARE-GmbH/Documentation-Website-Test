@@ -20,7 +20,7 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/setup/allocating-license/</guid>
-        <description>Setup Assigning a license to a user In order for a user to use the Mail Attachments Plus APP features, they must first be assigned a license. You can set this up in the user setup. Go to the search and look for &amp;ldquo;User Setup&amp;rdquo;, if the user does not already exist, add it to the setup. Then put another check mark in the &amp;ldquo;Attachment Plus&amp;rdquo; field.
+        <description>Setup Assigning a license to a user In order for a user to use the Mail Attachments Plus App features, they must first be assigned a license. You can set this up in the user setup. Go to the search and look for &amp;ldquo;User Setup&amp;rdquo;, if the user does not already exist, add it to the setup. Then put another check mark in the &amp;ldquo;Attachment Plus&amp;rdquo; field.
 Repeat this process until your license capacity is used up.</description>
       </item>
       
@@ -89,7 +89,16 @@ More Information about the Ident ID can be found on the specific page</descripti
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/en-us/apps/e-post/first-steps/introduction/</guid>
-        <description>First steps Fast hybrid sending with the Connector 365 E-POSTBUSINESS API APP The need to receive invoices by mail is still ubiquitous. What does this mean for my cloud ERP Microsoft Dynamics 365 Business Central, which can be used from anywhere? Invoice processing in the traditional sense - printing, inserting, franking and posting at the post office - can delay the process - especially if the invoice creator is not on-site.</description>
+        <description>First steps Fast hybrid sending with the Connector 365 E-POST App The need to receive invoices by mail is still ubiquitous. What does this mean for my cloud ERP Microsoft Dynamics 365 Business Central, which can be used from anywhere? Invoice processing in the traditional sense - printing, inserting, franking and posting at the post office - can delay the process - especially if the invoice creator is not on-site. Depending on the volume of invoices to be sent, this process can become even more time-consuming - time that could be used more productively.</description>
+      </item>
+      
+      <item>
+        <title>Introduction</title>
+        <link>http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/introduction/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/introduction/</guid>
+        <description>First steps Introduction The Connector 365 Mail Sender Plus App allows you to control and use multiple mail sender addresses via an extended mail setup. By default, it is only possible to use a single SMTP sender address per company. The Mail Sender Plus App offers a priority-controlled setup for various scenarios within the sender addresses. It is possible to simply change the address in the dialog or set an address as default per report or customer/vendor.</description>
       </item>
       
       <item>
@@ -128,6 +137,17 @@ According to the Decision of the IT Planning Council of 22.06.2017 (Link only av
         
         <guid>http://docs.belware.de/en-us/apps/mail_attachment_plus/faq/limits/</guid>
         <description>FAQ What are my limits in the free version? When using the free version you are limited to a single user. That user however can utilize the app to its full extent.</description>
+      </item>
+      
+      <item>
+        <title>Priority System</title>
+        <link>http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/setup/priority-system/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/setup/priority-system/</guid>
+        <description>Setup The Priority System As mentioned in the introduction, the addresses that will be used are controlled by a priority
+system. The priority system works as follows, from lowest zu highest:
+ Default An address per user An address per report An address per customer  This documentation will go into detail how to set up each layer to your wishes.</description>
       </item>
       
       <item>
@@ -187,6 +207,15 @@ The content of the mail can be customized and the current attachments are visibl
         <guid>http://docs.belware.de/en-us/under-construction/</guid>
         <description>This part of our docs page is under construction This part of the website is still being worked on and as such is not yet available to the public.
 Please return at a later date, when we will have added further informative content about the usage of our solutions to this website.</description>
+      </item>
+      
+      <item>
+        <title>V1.0.0.2 &amp; Roadmap</title>
+        <link>http://docs.belware.de/en-us/apps/mail-sender-plus/new-and-planned/v1.0.0.2/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/mail-sender-plus/new-and-planned/v1.0.0.2/</guid>
+        <description>Neu und geplant Version 1.0.0.2  Advanced mail setup with multiple senders Changeable sender address in dialog Set an address per user A default address per report A default address per vendor/customer  Planned functions for future versions  Customize to the Mail Experience  </description>
       </item>
       
       <item>
@@ -271,6 +300,18 @@ Two PDFs are attached, each with the standards set up per document/report</descr
       </item>
       
       <item>
+        <title>Expanding the Setup</title>
+        <link>http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/setup/extending-the-setup/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/setup/extending-the-setup/</guid>
+        <description>Setup Expanding the mail setup &amp;amp; setting up addresses per user First you need to fill the setup with additional addresses that the system can use. Use the search function to get into the setup, just search for &amp;ldquo;Mail Sender Plus&amp;rdquo;. Here you enter the additional addresses you want to use.
+The following fields have to be filled
+Email Sender
+You can search for a user or select them directly. It is also possible to enter EMail Sender that are not bound to a user.</description>
+      </item>
+      
+      <item>
         <title>Negative XRechnung</title>
         <link>http://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/negative-xrechnung/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -345,8 +386,8 @@ Start by opening the report selection of the report you want, in this example we
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/en-us/apps/e-post/first-steps/setup/setup/</guid>
-        <description>Erste Schritte Einrichtung By searching &amp;ldquo;Connector 365 Setup &amp;ldquo; you can find the setup for the E-POST API, here you set all the necessary information to ensure that the APP works without problems.
-While the test mode is activated, no invoices are sent. Instead, the previously specified test mail will receive a notification  Set a Passwort To set a password for the APP, you should first make sure that the setup is completely filled in (except for the secret/password).</description>
+        <description>Erste Schritte Einrichtung By searching &amp;ldquo;Connector 365 Setup &amp;ldquo; you can find the setup for the E-POST API, here you set all the necessary information to ensure that the App works without problems.
+While the test mode is activated, no invoices are sent. Instead, the previously specified test mail will receive a notification  Set a Passwort To set a password for the App, you should first make sure that the setup is completely filled in (except for the secret/password).</description>
       </item>
       
       <item>
@@ -355,7 +396,7 @@ While the test mode is activated, no invoices are sent. Instead, the previously 
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/en-us/apps/e-post/first-steps/test-costs/</guid>
-        <description>First Steps Test &amp;amp; Costs The APP is available on Microsoft AppSource.
+        <description>First Steps Test The App is available on Microsoft AppSource.
 After the download you have the following test options:
 No registered E-POST customer
 You will receive a message when testing the app stating that there would be a letter dispatch at this point.
@@ -366,13 +407,26 @@ The following options are available to you as a registered E-POST customer:
       
       <item>
         <title>Test &amp; Purchase</title>
+        <link>http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/test-purchase/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/test-purchase/</guid>
+        <description>First Steps Test &amp;amp; Purchase The app is available in the Microsoft AppSource.
+After downloading, a user can use the App completely free.
+Für den Fall, dass weitere Nutzer die Funktionen der App nutzen sollen, können Sie über unser Formular kostenpflichtig weitere Lizenzen erwerben.
+Connector 365 Mail Sender Plus is available for the following BC licensing:
+ SaaS Essential SaaS Premium  </description>
+      </item>
+      
+      <item>
+        <title>Test &amp; Purchase</title>
         <link>http://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/test-purchase/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/test-purchase/</guid>
         <description>First steps Test &amp;amp; Purchase The app is available in the Microsoft AppSource.
-After downloading, one user can use the APP completely free.
-In the event that additional users are to use the functions of the APP, you can purchase additional licenses for a fee via our form.
+After downloading, one user can use the App completely free.
+In the event that additional users are to use the functions of the App, you can purchase additional licenses for a fee via our form.
 Connector 365 XInvoice is available for the following BC licensing:
  SaaS Essential SaaS Premium  </description>
       </item>
@@ -431,12 +485,12 @@ Connector 365 is available for the following BC licensing:</description>
       </item>
       
       <item>
-        <title>VX.X.X.X &amp; Roadmap</title>
-        <link>http://docs.belware.de/en-us/apps/e-post/new-and-planned/vx.x.x.x/</link>
+        <title>V1.0.1.0 &amp; Roadmap</title>
+        <link>http://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.1.0/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>http://docs.belware.de/en-us/apps/e-post/new-and-planned/vx.x.x.x/</guid>
-        <description>New and plannedd Version X.X.X.X  Dispatch of other document types (credit notes, reminders, quotations, orders) Sending duplex letters Global joblist in the factbox E-Post joblist in dashboard  Planned functions for future versions  Reactivation of negative jobs Contacts editable in dialog Other report types (service invoices/credit memos)  </description>
+        <guid>http://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.1.0/</guid>
+        <description>New and plannedd Version 1.0.1.0  Dispatch of other document types (credit notes, reminders, quotations, orders) Sending duplex letters Global joblist in the factbox E-Post joblist in dashboard  Planned functions for future versions  Reactivation of negative jobs Contacts editable in dialog Other report types (service invoices/credit memos)  </description>
       </item>
       
       <item>
@@ -459,6 +513,17 @@ Select the report for which you want to add default attachments, we will use inv
 For the example, we have set up the attachments for a receipt as follows:
 An image and a PDF have been set as standard.
 If you are using a Business Central version in which the Mail Experience is not yet available, the procedure is a little different.</description>
+      </item>
+      
+      <item>
+        <title>Installation</title>
+        <link>http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/installation/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/installation/</guid>
+        <description>First Steps Installation Using the search function, open the Marketplace for Extensions and open it.
+The Microsoft AppSource will open. There you can use the search function again to find the Connector 365 Mail Sender Plus. Click on Free Trial to start the installation. Before the installation starts, you have to provide some contact information.
+After submitting your contact information, you will be prompted to choose a language for the app.</description>
       </item>
       
       <item>
@@ -539,8 +604,18 @@ If you want to purchase additional licenses for the app, you can use our form.</
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/en-us/apps/e-post/first-steps/registration/</guid>
-        <description>First steps Registration To fully use the APP, prior registration with Deutsche Post is required. The registration page can be found here (only available in German) but also directly in the Connector 365 setup.
+        <description>First steps Registration To fully use the App, prior registration with Deutsche Post is required. The registration page can be found here (only available in German) but also directly in the Connector 365 setup.
 We will be happy to assist you in registering with Deutsche Post. To do so, simply contact support@belware.de.  In the registration form you will be asked for various contact information. Fill in the form, but first make sure that you are registering as a business customer.</description>
+      </item>
+      
+      <item>
+        <title>Settings per report</title>
+        <link>http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/setup/report/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/setup/report/</guid>
+        <description>Setup Setting up addresses per report in the report selection To set up addresses in the report selection you first need to open the search function and search for &amp;ldquo;report selection&amp;rdquo;. You will now see a list of all possible report selections and their departments. Open the report selection for the desired department.
+Afterwards you can enter the desired address into the &amp;ldquo;Email Sender&amp;rdquo; field. You can either fill the field manually or select an address from the setup.</description>
       </item>
       
       <item>
@@ -590,6 +665,17 @@ There you change the field “VAT Scheme“ to the code for the corresponding co
       </item>
       
       <item>
+        <title>Working with Mail Sender Plus</title>
+        <link>http://docs.belware.de/en-us/apps/mail-sender-plus/working-with-msp/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/mail-sender-plus/working-with-msp/</guid>
+        <description>Working with Mail Sender Plus The Dialog Once the desired sender addresses have been set up, it is possible to start sending mail.
+Open a report and send it per mail.
+You will notice a new &amp;ldquo;Email Sender&amp;rdquo; field once the dialog opens. From there it is possible to access the list that you have just filled and manually selet an address. After selecting the desired sender, confirm with OK to start the process as usual.</description>
+      </item>
+      
+      <item>
         <title>Document default attachments</title>
         <link>http://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/setup/defaults-document/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -597,6 +683,16 @@ There you change the field “VAT Scheme“ to the code for the corresponding co
         <guid>http://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/setup/defaults-document/</guid>
         <description>Setup Adding standard attachments per document Using the Factbox, you have the option of adding standard attachments to each document, which are automatically attached when the document is sent. To do this, select the desired document in the overview and choose &amp;ldquo;Attachments&amp;rdquo; in the factbox on the right.
 Now click on the 0 at &amp;ldquo;Documents&amp;rdquo;, a window opens in which you can add attachments via &amp;ldquo;Select file&amp;rdquo; in the table.</description>
+      </item>
+      
+      <item>
+        <title>FAQ</title>
+        <link>http://docs.belware.de/en-us/apps/mail-sender-plus/faq/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/mail-sender-plus/faq/</guid>
+        <description>FAQ How many accounts can I add? There currently is no limit to the number of accounts that can be added in the setup. However in the trial version it is only possible to add a single account to the setup, each additional account needs to be licensed. New licenses incur a monthly fee.
+Is it possible to add any account? Yes, however each account added needs to have the rights to send mail via SMTP.</description>
       </item>
       
       <item>
@@ -648,6 +744,16 @@ After submitting your contact information, you will be prompted to choose a lang
       </item>
       
       <item>
+        <title>Setting up addresses per customer/vendor</title>
+        <link>http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/setup/customer-vendor/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/setup/customer-vendor/</guid>
+        <description>Setup Setting up addresses per customer It is also possible to set addresses per customer/vendor, this is controlled by the document layouts. This option has the highest priority. To make changes you need to open the page of customer/vendor that you want to set up. Now expand the options, click on navigate and then customer, finally select document layouts.
+The most important fields here are “Usage”, “Report ID” and our newly added field “EMail Sender”.</description>
+      </item>
+      
+      <item>
         <title>Unit codes</title>
         <link>http://docs.belware.de/en-us/apps/xrechnung/first-steps/setup/setup-unit-codes/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -684,6 +790,20 @@ Then you should adjust the field &amp;ldquo;International Standard Code” accor
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/en-us/apps/e-post/help-support/</guid>
+        <description>Help &amp;amp; Support We are always happy to take care of your requests, regardless if they are general questions about the BELWARE GmbH and our products or specific questions. Just contact us either via phone or mail. We will get back to you within 1 to 2 business days.
+For general things you can reach us under:
+E-Mail: info@belware.de
+alternatively
+Phone: +49 2362 788 90 55
+Fax: +49 2362 788 90 56</description>
+      </item>
+      
+      <item>
+        <title>Help &amp; Support</title>
+        <link>http://docs.belware.de/en-us/apps/mail-sender-plus/help-support/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/mail-sender-plus/help-support/</guid>
         <description>Help &amp;amp; Support We are always happy to take care of your requests, regardless if they are general questions about the BELWARE GmbH and our products or specific questions. Just contact us either via phone or mail. We will get back to you within 1 to 2 business days.
 For general things you can reach us under:
 E-Mail: info@belware.de
@@ -769,8 +889,7 @@ Here you should now fill the field “Tax category” with the respective design
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/en-us/apps/e-post/faq/reports/</guid>
-        <description>FAQ Is it possible to send other reports via E-POST Currently we only support sending out posted sales invoices.
-Yes, from version X.X.X.X. it is possible to send additional types of reports, which include the following in addition to invoices:
+        <description>FAQ Is it possible to send other reports via E-POST Yes, from version 1.0.1.0 it is possible to send additional types of reports, which include the following in addition to invoices:
  Credit memo Reminder Quotes Orders  </description>
       </item>
       
@@ -780,8 +899,18 @@ Yes, from version X.X.X.X. it is possible to send additional types of reports, w
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/en-us/apps/e-post/videos/</guid>
-        <description>Videos Here you can find some informative videos about our E-POST APP, each video covers a special topic
+        <description>Videos Here you can find some informative videos about our E-POST App, each video covers a special topic
 Sending E-POST Letters </description>
+      </item>
+      
+      <item>
+        <title>Videos</title>
+        <link>http://docs.belware.de/en-us/apps/mail-sender-plus/videos/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/mail-sender-plus/videos/</guid>
+        <description>Videos Here you can find some informative videos about our XRechnung, each video covers a special topic
+Setup of the App </description>
       </item>
       
       <item>
@@ -790,8 +919,8 @@ Sending E-POST Letters </description>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/en-us/apps/mail_attachment_plus/videos/</guid>
-        <description>Videos Here you can find some informative videos about our Mail Attachments Plus APP, each video covers a special topic
-Using the APP </description>
+        <description>Videos Here you can find some informative videos about our Mail Attachments Plus App, each video covers a special topic
+Using the App </description>
       </item>
       
       <item>
