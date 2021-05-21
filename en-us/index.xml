@@ -30,7 +30,7 @@ Repeat this process until your license capacity is used up.</description>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/en-us/apps/e-post/faq/countries/</guid>
-        <description>FAQ In what countries is the extension available? Since the Deutsche Post is a German business, the E-Post Connector is also currently only available in Germany.</description>
+        <description>FAQ In what countries is the App available? Since the Deutsche Post is a German business, the Connector 365 E-POST App is also currently only available in Germany.</description>
       </item>
       
       <item>
@@ -39,8 +39,8 @@ Repeat this process until your license capacity is used up.</description>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/en-us/apps/e-post/first-steps/setup/countrynames/</guid>
-        <description>Erste Schritte Ländercodes Deutsche Post uses country names according to ISO 3166-1 in shipping, so if you want to use the E-POST API, you have to adjust the country names in the appropriate setup in your Business Central environment beforehand.
-You can find the setup for this in the search under &amp;ldquo;Countries/Regions &amp;ldquo;. You only need to change country names in this setup which also receive letters from you, domestic shipping is not affected.</description>
+        <description>Erste Schritte Ländercodes Deutsche Post uses country names according to ISO 3166-1 in shipping, so if you want to use the Connector 365 E-POST App, you have to adjust the country names in the appropriate setup in your Business Central environment beforehand.
+You can find the setup for this in the search under &amp;ldquo;Countries/Regions&amp;rdquo;. You only need to change country names in this setup which also receive letters from you, domestic shipping is not affected.</description>
       </item>
       
       <item>
@@ -167,9 +167,9 @@ In this example we have attached two PDFs and a time-limited image.</description
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/en-us/apps/e-post/working-with-e-post/sending/</guid>
-        <description>Working with E-POST Sending With our API you can send invoices, credit notes, reminders, quotes and orders. However, in our application example we will focus on invoices.
+        <description>Working with E-POST Sending With our App you can send invoices, credit notes, reminders, quotes and orders. However, in our application example we will focus on invoices.
 First select the invoice you want to send.
-The function for sending E-POST letters can be found under &amp;ldquo;Print/Send&amp;rdquo; in the menu bar. Open it and select &amp;ldquo;Send as E-Post letter&amp;rdquo; to open the dialog for sending E-POST letters.
+The function for sending E-POST letters can be found under &amp;ldquo;Print/Send&amp;rdquo; in the menu bar. Open it and select &amp;ldquo;Send as E-POST letter&amp;rdquo; to open the dialog for sending E-POST letters.
 The dialog In the dialog you have the possibility to adjust certain options for sending the letter, e.</description>
       </item>
       
@@ -366,8 +366,7 @@ There are many places that cause an XRechnung to not conform to the schema. For 
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/en-us/apps/e-post/faq/registration/</guid>
-        <description>FAQ How do I register with the Deutsche Post? The registration for the E-POST API can be found here here (Please note that the site is only available in German). We are happy to support you during the registration process. Just contact us via support@belware.de
-The registration for the E-POST API can be found here (Please note that the site is only available in German). Instructions for the registration can be found here.</description>
+        <description>FAQ How do I register with the Deutsche Post? The registration for the E-POSTBUSINESS API can be found here here (Please note that the site is only available in German). We are happy to support you during the registration process. Just contact us via support@belware.de</description>
       </item>
       
       <item>
@@ -386,7 +385,7 @@ Start by opening the report selection of the report you want, in this example we
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/en-us/apps/e-post/first-steps/setup/setup/</guid>
-        <description>Erste Schritte Einrichtung By searching &amp;ldquo;Connector 365 Setup &amp;ldquo; you can find the setup for the E-POST API, here you set all the necessary information to ensure that the App works without problems.
+        <description>Erste Schritte Einrichtung By searching &amp;ldquo;Connector 365 Setup&amp;rdquo; you can find the setup for the E-POST API, here you set all the necessary information to ensure that the App works without problems.
 While the test mode is activated, no invoices are sent. Instead, the previously specified test mail will receive a notification  Set a Passwort To set a password for the App, you should first make sure that the setup is completely filled in (except for the secret/password).</description>
       </item>
       
@@ -490,7 +489,7 @@ Connector 365 is available for the following BC licensing:</description>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.1.0/</guid>
-        <description>New and plannedd Version 1.0.1.0  Dispatch of other document types (credit notes, reminders, quotations, orders) Sending duplex letters Global joblist in the factbox E-Post joblist in dashboard  Planned functions for future versions  Reactivation of negative jobs Contacts editable in dialog Other report types (service invoices/credit memos)  </description>
+        <description>New and plannedd Version 1.0.1.0  Dispatch of other document types (credit notes, reminders, quotations, orders) Sending duplex letters Global joblist in the factbox E-POST joblist in dashboard  Planned functions for future versions  Reactivation of negative jobs Contacts editable in dialog Other report types (service invoices/credit memos)  </description>
       </item>
       
       <item>
@@ -730,7 +729,7 @@ Is it possible to add any account? Yes, however each account added needs to have
         
         <guid>http://docs.belware.de/en-us/apps/e-post/first-steps/installation/</guid>
         <description>Erste Schritte Installation Using the search function, open the Marketplace for Extensions and open it.
-The Microsoft AppSource opens. There you can use the search function again to find the Connector 365 E-POST API. Click on Free Trial to start the installation. Before the installation starts, you have to provide some contact information.
+The Microsoft AppSource opens. There you can use the search function again to find the Connector 365 E-POST. Click on Free Trial to start the installation. Before the installation starts, you have to provide some contact information.
 After submitting your contact information, you will be prompted to choose a language for the app. Our app is available in English and German.</description>
       </item>
       
@@ -860,7 +859,7 @@ Fax: +49 2362 788 90 56</description>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/en-us/apps/e-post/faq/getting-started/</guid>
-        <description>FAQ How do I start? After installing the extension and registering with the Deutsche Post, you simply need to fill in the necessary fields on the E-Post setup page. You can find this Menu via the search function. For a more detailed guide please refer to our extended documentation.</description>
+        <description>FAQ How do I start? After installing the extension and registering with the Deutsche Post, you simply need to fill in the necessary fields on the E-POST setup page. You can find this Menu via the search function. For a more detailed guide please refer to our extended documentation.</description>
       </item>
       
       <item>

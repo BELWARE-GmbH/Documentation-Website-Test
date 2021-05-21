@@ -126,7 +126,7 @@ Wiederholen Sie diesen Prozess solange bis Ihre Lizenzkapazität aufgebraucht is
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/de-de/apps/e-post/faq/countries/</guid>
-        <description>FAQ In welchen Ländern in die Erweiterung Verfügbar? Da die Deutsche Post ein deutsches Unternehmen ist, ist unsere Erweiterung nur in Deutschland verfügbar.</description>
+        <description>FAQ In welchen Ländern in die App Verfügbar? Da die Deutsche Post ein deutsches Unternehmen ist, ist unsere App nur in Deutschland verfügbar.</description>
       </item>
       
       <item>
@@ -135,7 +135,7 @@ Wiederholen Sie diesen Prozess solange bis Ihre Lizenzkapazität aufgebraucht is
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/de-de/apps/e-post/first-steps/setup/countrynames/</guid>
-        <description>Erste Schritte Ländercodes Die Deutsche Post benutzt im Versand Ländernamen nach ISO 3166-1, wenn Sie die E-POST API nutzen möchten, müssen Sie also zuvor in Ihrer Business Central Umgebung die Ländernamen in der entsprechenden Einrichtung anpassen.
+        <description>Erste Schritte Ländercodes Die Deutsche Post benutzt im Versand Ländernamen nach ISO 3166-1, wenn Sie die Connector 365 E-POST App nutzen möchten, müssen Sie also zuvor in Ihrer Business Central Umgebung die Ländernamen in der entsprechenden Einrichtung anpassen.
 Die Einrichtung dafür finden Sie in der Suche unter &amp;ldquo;Länder/Regionen&amp;rdquo;. Sie müssen in dieser Einrichtung nur Ländernamen ändern welche auch von Ihnen Briefe erhalten, der Inlandsversand ist nicht betroffen. Bitte schreiben Sie die Ländernamen in Großbuchstaben.</description>
       </item>
       
@@ -193,7 +193,7 @@ Mail Experience Wenn Ihnen schon die Mail Experience zur Verfügung steht (ab Ve
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.0.5/</guid>
-        <description>Neu und geplant Version 1.0.0.5  Versenden von E-Post Briefen aus geb. Verkaufsrechnungen Versand in Farbe bzw. S/W Einschreiben (Einwurf/Rückschein) Archivierung versendeter Briefe Auslandsversand  Geplante Funktionen für zukünftige Versionen  Weitere Belegarten (Lieferscheine, Aufträge, Angebote) Kleine Verbesserungen  </description>
+        <description>Neu und geplant Version 1.0.0.5  Versenden von E-POST Briefen aus geb. Verkaufsrechnungen Versand in Farbe bzw. S/W Einschreiben (Einwurf/Rückschein) Archivierung versendeter Briefe Auslandsversand  Geplante Funktionen für zukünftige Versionen  Weitere Belegarten (Lieferscheine, Aufträge, Angebote) Kleine Verbesserungen  </description>
       </item>
       
       <item>
@@ -220,9 +220,9 @@ Mail Experience Wenn Ihnen schon die Mail Experience zur Verfügung steht (ab Ve
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/de-de/apps/e-post/working-with-e-post/sending/</guid>
-        <description>Arbeiten mit der E-POST API Versand Mit unserer API können Sie Rechnungen, Gutschriften, Mahnungen, Angebote und Aufträge versenden. In unserem Beispiel für die Anwendung werden wir uns aber auf Rechnungen konzentrieren.
+        <description>Arbeiten mit der E-POST API Versand Mit unserer App können Sie Rechnungen, Gutschriften, Mahnungen, Angebote und Aufträge versenden. In unserem Beispiel für die Anwendung werden wir uns aber auf Rechnungen konzentrieren.
 Wählen Sie zunächst die Rechnung aus welche Sie versenden möchten.
-Die Funktion zum versenden von E-POST Briefen finden Sie unter &amp;ldquo;Drucken/Senden&amp;rdquo; in der Menüleiste. Klappen Sie diese auf und wählen &amp;ldquo;Als E-Post Brief versenden&amp;rdquo;, um den Dialog zum versenden von E-POST Briefen zu öffnen.</description>
+Die Funktion zum versenden von E-POST Briefen finden Sie unter &amp;ldquo;Drucken/Senden&amp;rdquo; in der Menüleiste. Klappen Sie diese auf und wählen &amp;ldquo;Als E-POST Brief versenden&amp;rdquo;, um den Dialog zum versenden von E-POST Briefen zu öffnen.</description>
       </item>
       
       <item>
@@ -322,7 +322,7 @@ In das Feld „Leitweg-ID“ wird die Leitweg-ID des Debitors eingetragen.</desc
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/de-de/apps/e-post/first-steps/setup/setup/</guid>
-        <description>Erste Schritte Einrichtung Über die Suche unter &amp;ldquo;Connector 365 Setup&amp;rdquo; können Sie die Einrichtung für die E-POST API finden, hier setzen Sie alle nötigen Informationen um sicherzustellen, dass die App ohne Probleme funktioniert.
+        <description>Erste Schritte Einrichtung Über die Suche unter &amp;ldquo;Connector 365 Setup&amp;rdquo; können Sie die Einrichtung für die Connector 365 E-POST App finden, hier setzen Sie alle nötigen Informationen um sicherzustellen, dass die App ohne Probleme funktioniert.
 Während der Testmodus aktiviert ist, werden keine Rechnungen versendet. Stattdessen erhält die zuvor angegebene Testmail eine Benachrichtigung  Passwort setzen Um ein Passwort für die App zu setzen, sollten Sie zuerst sicherstellen, dass die Einrichtung vollständig (bis auf das Geheimnis/Passwort) ausgefüllt ist.</description>
       </item>
       
@@ -384,7 +384,7 @@ Es gibt viele Stellen, die dazu führen, dass eine XRechnung nicht dem Schema en
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/de-de/apps/e-post/faq/registration/</guid>
-        <description>FAQ Wie registriere ich mich bei der Deutschen Post? Die Registrierung für die E-Post API finden Sie hier. Eine Anleitung für die Registrierung finden Sie hier. Gerne unterstützen wir Sie auch persönlich bei der Registrierung, wenden Sie sich dazu einfach an support@belware.de.</description>
+        <description>FAQ Wie registriere ich mich bei der Deutschen Post? Die Registrierung für die E-POSTBUSINESS API finden Sie hier. Eine Anleitung für die Registrierung finden Sie hier. Gerne unterstützen wir Sie auch persönlich bei der Registrierung, wenden Sie sich dazu einfach an support@belware.de.</description>
       </item>
       
       <item>
@@ -487,7 +487,7 @@ Ihnen stehen als registrierter E-POST Kunde folgende Möglichkeiten zur Verfügu
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.1.0/</guid>
-        <description>Neu und geplant Version 1.0.1.0  Versand weiterer Belegarten (Gutschriften, Mahnungen, Angebote, Aufträge) Versand von Duplexbriefen Globale Jobliste in der Factbox E-Post Jobliste im Dashboard  Geplante Funktionen für zukünftige Versionen  Reaktivierung negativer Jobs Kontakte im Dialog editierbar Weitere Belegarten (Service Rechnungen/Gutschriften)  </description>
+        <description>Neu und geplant Version 1.0.1.0  Versand weiterer Belegarten (Gutschriften, Mahnungen, Angebote, Aufträge) Versand von Duplexbriefen Globale Jobliste in der Factbox E-POST Jobliste im Dashboard  Geplante Funktionen für zukünftige Versionen  Reaktivierung negativer Jobs Kontakte im Dialog editierbar Weitere Belegarten (Service Rechnungen/Gutschriften)  </description>
       </item>
       
       <item>
@@ -744,7 +744,7 @@ Wie sieht die Preisgestaltung aus? Die Testversion erlaubt es ein Konto kostenfr
         
         <guid>http://docs.belware.de/de-de/apps/e-post/first-steps/installation/</guid>
         <description>Erste Schritte Installation Öffnen Sie mithilfe der Suchfunktion den Marketplace für Erweiterungen und öffnen Sie ihn.
-Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den Connector 365 E-POST API zu finden. Klicken Sie auf Free Trial um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
+Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den Connector 365 E-POST zu finden. Klicken Sie auf Free Trial um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
 Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert eine Sprache für die App zu wählen.</description>
       </item>
       
@@ -791,7 +791,7 @@ Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert e
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/de-de/apps/e-post/faq/getting-started/</guid>
-        <description>FAQ Wie fange ich an? Nachdem Sie unserere Erweiterung installiert haben und sich bei der Deutschen Post registriert haben, müssen Sie nur noch alle benötigten Felder in der E-Post Einrichtung ausfüllen. Das Menü lässt sich über die Suchfunktion finden. Für eine detaillierte Anleitung schauen Sie bitte in unsere Dokumentation.</description>
+        <description>FAQ Wie fange ich an? Nachdem Sie unserere Erweiterung installiert haben und sich bei der Deutschen Post registriert haben, müssen Sie nur noch alle benötigten Felder in der E-POST Einrichtung ausfüllen. Das Menü lässt sich über die Suchfunktion finden. Für eine detaillierte Anleitung schauen Sie bitte in unsere Dokumentation.</description>
       </item>
       
       <item>
@@ -899,7 +899,7 @@ Hier sollte nun das Feld “Steuerkategorie” mit der jeweiligen Bezeichnung ge
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/de-de/apps/e-post/faq/reports/</guid>
-        <description>FAQ Ist es möglich andere Berichte per E-Post zu senden? Ja, ab der Version 1.0.1.0 ist es möglich weitere Belegarten zu versenden, dazu gehören neben Rechnungen die folgenden:
+        <description>FAQ Ist es möglich andere Berichte per E-POST zu senden? Ja, ab der Version 1.0.1.0 ist es möglich weitere Belegarten zu versenden, dazu gehören neben Rechnungen die folgenden:
  Gutschriften Mahnungen Angebote Aufträge  </description>
       </item>
       
@@ -909,8 +909,8 @@ Hier sollte nun das Feld “Steuerkategorie” mit der jeweiligen Bezeichnung ge
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/de-de/apps/e-post/videos/</guid>
-        <description>Videos Hier finden Sie einige informative Videos zur unserer E-Post App, jedes Video behandelt ein spezielles Thema
-Versand von E-Post Briefen </description>
+        <description>Videos Hier finden Sie einige informative Videos zur unserer Connector 365 E-POST App, jedes Video behandelt ein spezielles Thema
+Versand von E-POST Briefen </description>
       </item>
       
       <item>
