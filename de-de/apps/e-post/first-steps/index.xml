@@ -20,22 +20,21 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/de-de/apps/e-post/first-steps/introduction/</guid>
-        <description>Erste Schritte Schneller hybrider Versand mit der App Connector 365 E-POST Der Bedarf an postalischen Rechnungsempfang ist immer noch allgegenwärtig. Was heißt das für meine Cloud ERP Microsoft Dynamics 365 Business Central, die von überall nutzbar ist? Die Verarbeitung der Rechnung im traditionellen Sinn, also das Drucken, Kuvertieren, Frankieren und Einliefern bei der Post, kann den Prozess hinauszögern - ganz besonders dann, wenn der Rechnungsersteller nicht &amp;ldquo;vor Ort&amp;rdquo; ist. Je nach Menge der zu versendenden Rechnungen kann dieser Prozess noch zeitaufwändiger werden - Zeit, die produktiver genutzt werden könnte.</description>
+        <description>Erste Schritte Schneller hybrider Versand mit der Connector 365 E-POST App Der Bedarf an postalischen Belegempfang ist immer noch allgegenwärtig. Was heißt das für meine Cloud ERP Microsoft Dynamics 365 Business Central, die von überall nutzbar ist? Die Verarbeitung der Belege im traditionellen Sinn, also das Drucken, Kuvertieren, Frankieren und Einliefern bei der Post, kann den Prozess hinauszögern - ganz besonders dann, wenn der Ersteller nicht &amp;ldquo;vor Ort&amp;rdquo; ist. Je nach Menge der zu versendenden Belege kann dieser Prozess noch zeitaufwändiger werden - Zeit, die produktiver genutzt werden könnte.</description>
       </item>
       
       <item>
-        <title>Test &amp; Kosten</title>
-        <link>http://docs.belware.de/de-de/apps/e-post/first-steps/test-costs/</link>
+        <title>Test &amp; Kauf</title>
+        <link>http://docs.belware.de/de-de/apps/e-post/first-steps/test-purchase/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>http://docs.belware.de/de-de/apps/e-post/first-steps/test-costs/</guid>
-        <description>Erste Schritte Test Die App steht Ihnen im Microsoft AppSource zur Verfügung.
+        <guid>http://docs.belware.de/de-de/apps/e-post/first-steps/test-purchase/</guid>
+        <description>Erste Schritte Test &amp;amp; Kauf Die Connector 365 E-POST App steht Ihnen im Microsoft AppSource zur Verfügung.
 Nach dem Download haben Sie folgende Testmöglichkeiten:
 Kein registrierter E-POST Kunde
-Sie erhalten beim testen der App eine Nachricht mit dem Hinweis, dass an dieser Stelle ein Briefversand stattfinden würde.
+Sie erhalten beim testen der Connector 365 E-POST App eine Nachricht mit dem Hinweis, dass an dieser Stelle ein Briefversand stattfinden würde. Wenn Sie sich registrieren wollen, finden Sie hier eine Anleitung.
 Registrierter E-POST Kunde
-Ihnen stehen als registrierter E-POST Kunde folgende Möglichkeiten zur Verfügung:
- Testmodus Versand - Sie erhalten den Brief per Mail an eine zuvor angegebene Adresse. Produktiver Versand - Ihr Brief wird korrekt an den Empfänger gesendet.</description>
+Ihnen stehen als registrierter E-POST Kunde folgende Möglichkeiten zur Verfügung:</description>
       </item>
       
       <item>
