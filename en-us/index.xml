@@ -25,15 +25,6 @@ Repeat this process until your license capacity is used up.</description>
       </item>
       
       <item>
-        <title>Countries?</title>
-        <link>http://docs.belware.de/en-us/apps/e-post/faq/countries/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/en-us/apps/e-post/faq/countries/</guid>
-        <description>FAQ In what countries is the App available? Since the Deutsche Post is a German business, the Connector 365 E-POST App is also currently only available in Germany.</description>
-      </item>
-      
-      <item>
         <title>Country names</title>
         <link>http://docs.belware.de/en-us/apps/e-post/first-steps/setup/countrynames/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -163,10 +154,10 @@ In this example we have attached two PDFs and a time-limited image.</description
       
       <item>
         <title>Sending</title>
-        <link>http://docs.belware.de/en-us/apps/e-post/working-with-e-post/sending/</link>
+        <link>http://docs.belware.de/en-us/apps/e-post/working-with-connector-365-e-post/sending/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>http://docs.belware.de/en-us/apps/e-post/working-with-e-post/sending/</guid>
+        <guid>http://docs.belware.de/en-us/apps/e-post/working-with-connector-365-e-post/sending/</guid>
         <description>Working with E-POST Sending With our App you can send invoices, credit notes, reminders, quotes and orders. However, in our application example we will focus on invoices.
 First select the invoice you want to send.
 The function for sending E-POST letters can be found under &amp;ldquo;Print/Send&amp;rdquo; in the menu bar. Open it and select &amp;ldquo;Send as E-POST letter&amp;rdquo; to open the dialog for sending E-POST letters.
@@ -256,10 +247,10 @@ Please return at a later date, when we will have added further informative conte
       
       <item>
         <title>Archive</title>
-        <link>http://docs.belware.de/en-us/apps/e-post/working-with-e-post/archive/</link>
+        <link>http://docs.belware.de/en-us/apps/e-post/working-with-connector-365-e-post/archive/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>http://docs.belware.de/en-us/apps/e-post/working-with-e-post/archive/</guid>
+        <guid>http://docs.belware.de/en-us/apps/e-post/working-with-connector-365-e-post/archive/</guid>
         <description>Working with the E-POST API Archive After sending the invoice, you can check the status in the job list. This can be found in the factbox area directly on the overview of the documents. Here you can see when the letter was sent, who sent it and what the status is.
 The job list provides you with a detailed overview of all letters that have been sent. It shows which options were used and displays any error messages that may have occurred.</description>
       </item>
@@ -358,15 +349,6 @@ There are many places that cause an XRechnung to not conform to the schema. For 
         
         <guid>http://docs.belware.de/en-us/apps/mail_attachment_plus/faq/outside-timeframe/</guid>
         <description>FAQ Wh was my default attached despite it being outside of the given date range? Make sure that you are dating your default attachments according to the work date of your Dynamics environment and not the your system</description>
-      </item>
-      
-      <item>
-        <title>Registration?</title>
-        <link>http://docs.belware.de/en-us/apps/e-post/faq/registration/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/en-us/apps/e-post/faq/registration/</guid>
-        <description>FAQ How do I register with the Deutsche Post? The registration for the E-POSTBUSINESS API can be found here here (Please note that the site is only available in German). We are happy to support you during the registration process. Just contact us via support@belware.de</description>
       </item>
       
       <item>
@@ -559,15 +541,6 @@ After submitting your contact information, you will be prompted to choose a lang
       </item>
       
       <item>
-        <title>International?</title>
-        <link>http://docs.belware.de/en-us/apps/e-post/faq/international/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/en-us/apps/e-post/faq/international/</guid>
-        <description>FAQ Does the app support international shipping? Yes, the extension allows its users to send invoices in any country of their choice.</description>
-      </item>
-      
-      <item>
         <title>Pricing?</title>
         <link>http://docs.belware.de/en-us/apps/mail_attachment_plus/faq/pricing/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -734,16 +707,6 @@ After submitting your contact information, you will be prompted to choose a lang
       </item>
       
       <item>
-        <title>Pricing?</title>
-        <link>http://docs.belware.de/en-us/apps/e-post/faq/pricing/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/en-us/apps/e-post/faq/pricing/</guid>
-        <description>FAQ how does the pricing work? The app itself costs 9,90€/month and can be ordered via our form. The license allows you to send an unlimited number of letters with an unlimited number of users.
-During the sending, the usual postage costs of the Deutsche Post are incurred, the Deutsche Post bills these directly with you.</description>
-      </item>
-      
-      <item>
         <title>Setting up addresses per customer/vendor</title>
         <link>http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/setup/customer-vendor/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -855,15 +818,6 @@ Fax: +49 2362 788 90 56</description>
       </item>
       
       <item>
-        <title>Starting?</title>
-        <link>http://docs.belware.de/en-us/apps/e-post/faq/getting-started/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/en-us/apps/e-post/faq/getting-started/</guid>
-        <description>FAQ How do I start? After installing the extension and registering with the Deutsche Post, you simply need to fill in the necessary fields on the E-POST setup page. You can find this Menu via the search function. For a more detailed guide please refer to our extended documentation.</description>
-      </item>
-      
-      <item>
         <title>Tax Category</title>
         <link>http://docs.belware.de/en-us/apps/xrechnung/first-steps/setup/setup-tax-category/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -881,16 +835,6 @@ Here you should now fill the field “Tax category” with the respective design
         <guid>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-tax-category/</guid>
         <description>Setup Check the Tax Category Finally, it is also worth looking at the tax category, this can be found in the VAT Posting Setup, this can again be called up most quickly via the search function.
 Here you should now fill the field “Tax category” with the respective designation, you can find this here finden. In most cases you will only need E S and Z.</description>
-      </item>
-      
-      <item>
-        <title>Other reports?</title>
-        <link>http://docs.belware.de/en-us/apps/e-post/faq/reports/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/en-us/apps/e-post/faq/reports/</guid>
-        <description>FAQ Is it possible to send other reports via E-POST Yes, from version 1.0.1.0 it is possible to send additional types of reports, which include the following in addition to invoices:
- Credit memo Reminder Quotes Orders  </description>
       </item>
       
       <item>
