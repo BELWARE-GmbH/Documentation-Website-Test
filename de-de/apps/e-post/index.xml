@@ -15,18 +15,6 @@
     
       
       <item>
-        <title>Erste Schritte</title>
-        <link>http://docs.belware.de/de-de/apps/e-post/first-steps/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/de-de/apps/e-post/first-steps/</guid>
-        <description>Erste Schritte mit der Connector 365 E-POST App Hier finden Sie alle wichtigen Informationen und Hinweise zur Testversion, Installation und Kauf der Connector 365 E-POST App*.
-Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
-Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der Support-Seite.
-*Die Connector 365 E-POST App, setzt auf die E-POSTBUSINESS API, einen Service der Deutschen Post.</description>
-      </item>
-      
-      <item>
         <title>Neu und geplant</title>
         <link>http://docs.belware.de/de-de/apps/e-post/new-and-planned/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -39,11 +27,23 @@ Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir
       </item>
       
       <item>
-        <title>Arbeiten mit der Connector 365 E-POST</title>
-        <link>http://docs.belware.de/de-de/apps/e-post/working-with-connector-365-e-post/</link>
+        <title>Erste Schritte</title>
+        <link>http://docs.belware.de/de-de/apps/e-post/first-steps/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>http://docs.belware.de/de-de/apps/e-post/working-with-connector-365-e-post/</guid>
+        <guid>http://docs.belware.de/de-de/apps/e-post/first-steps/</guid>
+        <description>Erste Schritte mit der Connector 365 E-POST App Hier finden Sie alle wichtigen Informationen und Hinweise zur Testversion, Installation und Kauf der Connector 365 E-POST App*.
+Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
+Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der Support-Seite.
+*Die Connector 365 E-POST App, setzt auf die E-POSTBUSINESS API, einen Service der Deutschen Post.</description>
+      </item>
+      
+      <item>
+        <title>Arbeiten mit der E-POST</title>
+        <link>http://docs.belware.de/de-de/apps/e-post/working-with-e-post/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/e-post/working-with-e-post/</guid>
         <description>Arbeiten mit der Connector 365 E-POST Hier finden Sie alle wichtigen Informationen und Hinweise zur korrekten Anwendung der Connector 365 E-POST App*.
 Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der Support-Seite.
@@ -71,7 +71,7 @@ Fax: +49 2362 788 90 56</description>
         
         <guid>http://docs.belware.de/de-de/apps/e-post/videos/</guid>
         <description>Videos Hier finden Sie einige informative Videos zur unserer Connector 365 E-POST App*, jedes Video behandelt ein spezielles Thema
-kurze Übersicht der App - Englisch kurze Übersicht der App - Deutsch *Die Connector 365 E-POST App, setzt auf die E-POSTBUSINESS API, einen Service der Deutschen Post.</description>
+kurze Übersicht der App - Deutsch *Die Connector 365 E-POST App, setzt auf die E-POSTBUSINESS API, einen Service der Deutschen Post.</description>
       </item>
       
     

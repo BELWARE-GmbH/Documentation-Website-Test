@@ -154,10 +154,10 @@ In this example we have attached two PDFs and a time-limited image.</description
       
       <item>
         <title>Sending</title>
-        <link>http://docs.belware.de/en-us/apps/e-post/working-with-connector-365-e-post/sending/</link>
+        <link>http://docs.belware.de/en-us/apps/e-post/working-with-e-post/sending/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>http://docs.belware.de/en-us/apps/e-post/working-with-connector-365-e-post/sending/</guid>
+        <guid>http://docs.belware.de/en-us/apps/e-post/working-with-e-post/sending/</guid>
         <description>Working with E-POST Sending With our Connector 365 E-POST App* you can send pos. sales invoices, pos. credit notes, issued reminders, quotes and sales orders. However, in our application example we will focus on invoices. All other document types can be sent in the same way.
 First select the invoice you want to send.
 The function for sending letters by post can be found under &amp;ldquo;Print/Send&amp;rdquo; in the menu bar. Open it and select &amp;ldquo;Send as letter&amp;rdquo; to open the dialog for sending letters.</description>
@@ -250,10 +250,10 @@ Please return at a later date, when we will have added further informative conte
       
       <item>
         <title>Archive</title>
-        <link>http://docs.belware.de/en-us/apps/e-post/working-with-connector-365-e-post/archive/</link>
+        <link>http://docs.belware.de/en-us/apps/e-post/working-with-e-post/archive/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>http://docs.belware.de/en-us/apps/e-post/working-with-connector-365-e-post/archive/</guid>
+        <guid>http://docs.belware.de/en-us/apps/e-post/working-with-e-post/archive/</guid>
         <description>Working with the E-POST API Archive After sending the invoice, you can check the status in the joblist. This can be found in the factbox area directly on the overview of the documents. Here you can see when the letter was sent, who sent it and what the status is.
 The job list provides you with a detailed overview of all letters that have been sent. It shows which options were used and displays any error messages that may have occurred.</description>
       </item>
@@ -703,7 +703,7 @@ Is it possible to add any account? Yes, however each account added needs to have
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/en-us/apps/e-post/first-steps/installation/</guid>
-        <description>Erste Schritte Installation Using the search function, open the Marketplace for Extensions and open it.
+        <description>First steps Installation Using the search function, open the Marketplace for Extensions and open it.
 The Microsoft AppSource opens. There you can use the search function again to find the Connector 365 E-POST. Click on Free Trial to start the installation. Before the installation starts, you have to provide some contact information.
 After submitting your contact information, you will be prompted to choose a language for the app. Our Connector 365 E-POST App* is available in English and German.</description>
       </item>
@@ -846,7 +846,7 @@ Here you should now fill the field “Tax category” with the respective design
         
         <guid>http://docs.belware.de/en-us/apps/e-post/videos/</guid>
         <description>Videos Here you can find some informative videos about our Connector 365 E-POST App, each video covers a special topic
-Connector 365 E-POST - Quick Overview - English Connector 365 E-POST - Quick Overview - German *The Connector 365 E-POST App is powered by the E-POSTBUSINESS API, a service of the Deutsche Post</description>
+Connector 365 E-POST - Quick Overview - English *The Connector 365 E-POST App is powered by the E-POSTBUSINESS API, a service of the Deutsche Post</description>
       </item>
       
       <item>

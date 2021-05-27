@@ -93,21 +93,6 @@
   </url>
   
   <url>
-    <loc>http://docs.belware.de/en-us/apps/e-post/first-steps/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="http://docs.belware.de/de-de/apps/e-post/first-steps/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://docs.belware.de/en-us/apps/e-post/first-steps/"
-                />
-  </url>
-  
-  <url>
     <loc>http://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -348,6 +333,21 @@
   </url>
   
   <url>
+    <loc>http://docs.belware.de/en-us/apps/e-post/new-and-planned/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/e-post/new-and-planned/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/e-post/new-and-planned/"
+                />
+  </url>
+  
+  <url>
     <loc>http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/setup/priority-system/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -393,17 +393,17 @@
   </url>
   
   <url>
-    <loc>http://docs.belware.de/en-us/apps/e-post/working-with-connector-365-e-post/sending/</loc>
+    <loc>http://docs.belware.de/en-us/apps/e-post/working-with-e-post/sending/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="http://docs.belware.de/de-de/apps/e-post/working-with-connector-365-e-post/sending/"
+                href="http://docs.belware.de/de-de/apps/e-post/working-with-e-post/sending/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://docs.belware.de/en-us/apps/e-post/working-with-connector-365-e-post/sending/"
+                href="http://docs.belware.de/en-us/apps/e-post/working-with-e-post/sending/"
                 />
   </url>
   
@@ -558,17 +558,17 @@
   </url>
   
   <url>
-    <loc>http://docs.belware.de/en-us/apps/e-post/working-with-connector-365-e-post/archive/</loc>
+    <loc>http://docs.belware.de/en-us/apps/e-post/working-with-e-post/archive/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="http://docs.belware.de/de-de/apps/e-post/working-with-connector-365-e-post/archive/"
+                href="http://docs.belware.de/de-de/apps/e-post/working-with-e-post/archive/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://docs.belware.de/en-us/apps/e-post/working-with-connector-365-e-post/archive/"
+                href="http://docs.belware.de/en-us/apps/e-post/working-with-e-post/archive/"
                 />
   </url>
   
@@ -648,6 +648,21 @@
   </url>
   
   <url>
+    <loc>http://docs.belware.de/en-us/apps/e-post/first-steps/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/e-post/first-steps/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/e-post/first-steps/"
+                />
+  </url>
+  
+  <url>
     <loc>http://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/negative-xrechnung/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -674,21 +689,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://docs.belware.de/en-us/connector-on-appsource/xrechnung/working-with-xrechnung/negative-xrechnung/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://docs.belware.de/en-us/apps/e-post/new-and-planned/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="http://docs.belware.de/de-de/apps/e-post/new-and-planned/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://docs.belware.de/en-us/apps/e-post/new-and-planned/"
                 />
   </url>
   
@@ -1203,17 +1203,17 @@
   </url>
   
   <url>
-    <loc>http://docs.belware.de/en-us/apps/e-post/working-with-connector-365-e-post/</loc>
+    <loc>http://docs.belware.de/en-us/apps/e-post/working-with-e-post/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="http://docs.belware.de/de-de/apps/e-post/working-with-connector-365-e-post/"
+                href="http://docs.belware.de/de-de/apps/e-post/working-with-e-post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://docs.belware.de/en-us/apps/e-post/working-with-connector-365-e-post/"
+                href="http://docs.belware.de/en-us/apps/e-post/working-with-e-post/"
                 />
   </url>
   

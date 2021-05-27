@@ -24,6 +24,18 @@
       </item>
       
       <item>
+        <title>Einrichtung</title>
+        <link>http://docs.belware.de/de-de/apps/e-post/first-steps/setup/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/e-post/first-steps/setup/</guid>
+        <description>Einrichtungen der Connector 365 E-POST App Hier finden Sie alle wichtigen Informationen und Hinweise zur Einrichtung der Connector 365 E-POST App*.
+Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
+Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der Support-Seite.
+*Die Connector 365 E-POST App, setzt auf die E-POSTBUSINESS API, einen Service der Deutschen Post.</description>
+      </item>
+      
+      <item>
         <title>Test &amp; Kauf</title>
         <link>http://docs.belware.de/de-de/apps/e-post/first-steps/test-purchase/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -56,18 +68,6 @@ Gerne unterstützen wir Sie bei der Registrierung der E-POSTBUSINESS API bei der
         <description>Erste Schritte Installation Öffnen Sie mithilfe der Suchfunktion den Marketplace für Erweiterungen und öffnen Sie ihn.
 Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den Connector 365 E-POST zu finden. Klicken Sie auf Free Trial um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
 Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert eine Sprache für die Connector 365 E-POST App zu wählen.</description>
-      </item>
-      
-      <item>
-        <title>Einrichtung</title>
-        <link>http://docs.belware.de/de-de/apps/e-post/first-steps/setup/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/de-de/apps/e-post/first-steps/setup/</guid>
-        <description>Einrichtungen der Connector 365 E-POST App Hier finden Sie alle wichtigen Informationen und Hinweise zur Einrichtung der Connector 365 E-POST App*.
-Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
-Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der Support-Seite.
-*Die Connector 365 E-POST App, setzt auf die E-POSTBUSINESS API, einen Service der Deutschen Post.</description>
       </item>
       
     
