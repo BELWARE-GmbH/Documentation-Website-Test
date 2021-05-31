@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/click-to-dial/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://docs.belware.de/de-de/apps/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -30,6 +35,11 @@
                 hreflang="de-de"
                 href="http://docs.belware.de/de-de/connector-on-appsource/"
                 />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/de-de/apps/cti-for-starface/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
@@ -75,6 +85,16 @@
                 hreflang="de-de"
                 href="http://docs.belware.de/de-de/apps/e-post/first-steps/setup/epostbusiness-api/"
                 />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/incoming-calls/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/introduction/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
@@ -363,6 +383,11 @@
   </url>
   
   <url>
+    <loc>http://docs.belware.de/de-de/apps/cti-for-starface/new-and-planned/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://docs.belware.de/de-de/apps/e-post/new-and-planned/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -440,6 +465,11 @@
                 hreflang="de-de"
                 href="http://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.3/"
                 />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.0/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
@@ -530,6 +560,11 @@
                 hreflang="de-de"
                 href="http://docs.belware.de/de-de/connector-on-appsource/xrechnung/working-with-xrechnung/sending/"
                 />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/web-services/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
@@ -650,6 +685,11 @@
                 hreflang="de-de"
                 href="http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-customer/"
                 />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
@@ -818,6 +858,16 @@
   </url>
   
   <url>
+    <loc>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/starface-modul/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/test-purchase/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://docs.belware.de/de-de/apps/e-post/first-steps/test-purchase/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -893,6 +943,11 @@
   </url>
   
   <url>
+    <loc>http://docs.belware.de/de-de/apps/cti-for-starface/new-and-planned/v1.0.0.1/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.0.1/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -950,6 +1005,11 @@
                 hreflang="de-de"
                 href="http://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.0.5/"
                 />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
@@ -1058,6 +1118,11 @@
   </url>
   
   <url>
+    <loc>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/installation/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/installation/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1145,6 +1210,11 @@
                 hreflang="de-de"
                 href="http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-vat-scheme/"
                 />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/user-groups/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
@@ -1238,6 +1308,11 @@
   </url>
   
   <url>
+    <loc>http://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/cti-notes/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/setup/customer-vendor/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1250,6 +1325,11 @@
                 hreflang="de-de"
                 href="http://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/setup/customer-vendor/"
                 />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/call-list/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
@@ -1325,6 +1405,11 @@
                 hreflang="de-de"
                 href="http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-unit-codes/"
                 />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
@@ -1445,6 +1530,11 @@
                 hreflang="de-de"
                 href="http://docs.belware.de/de-de/connector-on-appsource/xrechnung/faq/"
                 />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/de-de/apps/cti-for-starface/help-support/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
@@ -1640,6 +1730,11 @@
                 hreflang="de-de"
                 href="http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-tax-category/"
                 />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/de-de/apps/cti-for-starface/videos/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>

@@ -15,6 +15,17 @@
     
       
       <item>
+        <title>Click to dial</title>
+        <link>http://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/click-to-dial/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/click-to-dial/</guid>
+        <description>Arbeiten mit CTI for STARFACE Click to dial Mit unserer App haben Sie die Möglichkeit direkt aus Ihren Kontakten Anrufe zu starten. Öffnen Sie den entsprechenden Kontakt mit dem Sie telefonieren möchten und
+klappen Sie den Bereich &amp;ldquo;Kommunikation&amp;rdquo; auf. Neben der Telefonnr. befinden sich nun eine Schaltfläche mit 3 Punkten. Mit einem Klick auf die Schaltfläche wird ein Telefonat ausgelöst.
+Sollte kein Anruf ausgelöst werden, müssen Sie ggf. den Popup-Blocker Ihres Browsers ausschalten oder Ihren STARFACE-Client zum öffnen von Telefonnr.</description>
+      </item>
+      
+      <item>
         <title>E-POSTBUSINESS API</title>
         <link>http://docs.belware.de/de-de/apps/e-post/first-steps/setup/epostbusiness-api/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -22,6 +33,28 @@
         <guid>http://docs.belware.de/de-de/apps/e-post/first-steps/setup/epostbusiness-api/</guid>
         <description>Erste Schritte E-POSTBUSINESS API Über die Suche unter &amp;ldquo;Connector 365 Setup&amp;rdquo; können Sie die Einrichtung für die Connector 365 E-POST App* finden, hier setzen Sie alle nötigen Informationen um sicherzustellen, dass die App ohne Probleme funktioniert.
 Während der Testmodus aktiviert ist, werden keine Rechnungen versendet. Stattdessen erhält die zuvor angegebene Testmail eine Benachrichtigung  Passwort setzen Um ein Passwort für die App zu setzen, sollten Sie zuerst sicherstellen, dass die Einrichtung vollständig (bis auf das Geheimnis/Passwort) ausgefüllt ist.</description>
+      </item>
+      
+      <item>
+        <title>Eingehende Anrufe/CTI-Client</title>
+        <link>http://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/incoming-calls/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/incoming-calls/</guid>
+        <description>Arbeiten mit CTI for STARFACE Eingehende Anrufe und der CTI-Client Die Connector 365 CTI for STARFACE App öffnet Ihnen bei eigehenden Telefonaten automatisch die Kontaktkarte der anrufenden Person. Damit dieser Prozess reibungslos funktioniert, muss auf zwei Sachen geachtet werden.
+  Die Telefonnr. der anrufenden Person ist in einem Kontakt hinterlegt. Sollte dies nicht der Fall sein wird Ihnen nur die unbekannte Nummer angezeigt.
+  Der &amp;ldquo;CTI-Client&amp;rdquo; muss geöffnet sein, der Client ist der Kern der Connector 365 CTI for STARFACE App und wird zwingend benötigt.</description>
+      </item>
+      
+      <item>
+        <title>Einleitung</title>
+        <link>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/introduction/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/introduction/</guid>
+        <description>Erste Schritte Einleitung Die Telefonaktivitäten Ihrer Mitarbeiter zu kontrollieren kann aufwendig sein, ein ständiges Wechseln zwischen dem STARFACE Client und der Microsoft Dynamics 365 Business Central Umgebung verursacht einen Bruch im Workflow. Dieser Bruch lässt sich aber vehindern.
+Volle Kontrolle über Ihre STARFACE CTI
+Mit unserer Connector 365 CTI for STARFACE App ist es möglich ihre Dynamics 365 Business Central Umgebung zu Ihrer CTI-Zentrale zu machen. Wir bieten Ihnen viele Möglichkeiten die Sie dabei unterstützt Ihre STARFACE-Lösung vollständig zu nutzen.</description>
       </item>
       
       <item>
@@ -180,6 +213,15 @@ Mail Experience Wenn Ihnen schon die Mail Experience zur Verfügung steht (ab Ve
       
       <item>
         <title>V1.0.1.0 &amp; Roadmap</title>
+        <link>http://docs.belware.de/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.0/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.0/</guid>
+        <description>Neu und geplant Version 1.0.1.0  Kleinere Korrekturen Click to Dial für Telefon- und Handynummer Unbekannte Nummern bei eingehenden Anrufen anzeigen  Geplante Funktionen für zukünftige Versionen  Dashboard verfeinern Automatisches Anlegen von kontakten bei unbekannten Nummern  </description>
+      </item>
+      
+      <item>
+        <title>V1.0.1.0 &amp; Roadmap</title>
         <link>http://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.1.0/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -238,6 +280,21 @@ Im Dialog lassen sich der Absender, der Empfänger, der Betreff und auch nochmal
 „Drucken/Senden“ -&amp;gt; „Als XRechnung senden“
 Es öffnet sich ein neuer Dialog, in dem Sie vor dem Versenden noch Anpassungen vornehmen können.
 Im Dialog lassen sich der Absender, der Empfänger, der Betreff und auch nochmal die Leitweg-ID einsehen aber auch anpassen.</description>
+      </item>
+      
+      <item>
+        <title>Webdienste</title>
+        <link>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/web-services/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/web-services/</guid>
+        <description>Einrichtung Einrichtung des Webdienstes Nachdem die Extension erfolgreich in Ihrer Lösung veröffentlicht wurde, muss diese zunächst eingerichtet werden. Über die Suche gelangen Sie zur Seite &amp;ldquo;Webdienste&amp;rdquo;. Hier müssen Sie einen neuen Eintrag erstellen.
+Dazu benötigen Sie die folgenden Daten:
+Objektart: Seite
+Objekt-ID: 70109820
+Objektname: CTI-Client
+Servicename: CTI
+Nachdem Sie die Einrichtung hier vorgenommen haben, können Sie mit der weiteren Einrichtung fortfahren.</description>
       </item>
       
       <item>
@@ -371,6 +428,28 @@ Es gibt viele Stellen, die dazu führen, dass eine XRechnung nicht dem Schema en
       </item>
       
       <item>
+        <title>STARFACE Modul</title>
+        <link>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/starface-modul/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/starface-modul/</guid>
+        <description>Einrichtung Einrichten des STARFACE Moduls Damit die Kommunikation zwischen Microsoft Dynamics 365 Business Central und der STARFACE Telefonanlage funktioniert, muss auch hier eine Einrichtung stattfinden. Dazu benötigen Sie ein Modul welches Sie auf hier downloaden können.
+Nachdem Sie das Modul über das Adminportal hinzugefügt haben, muss dieses noch konfiguriert werden. Über das Stift-Symbol gelangen Sie in die Konfiguration.
+Unter dem Reiter Einrichtung müssen Sie nun die Nutzer anhand der Starface Login-ID einrichten.</description>
+      </item>
+      
+      <item>
+        <title>Test &amp; Kauf</title>
+        <link>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/test-purchase/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/test-purchase/</guid>
+        <description>Erste Schritte Test &amp;amp; Kauf Die App steht Ihnen im Microsoft AppSource zur Verfügung.
+Nachdem die Connector 365 CTI for STARFACE App installiert wurde, haben Sie die Möglichkeit sofort loszulegen und die App kostenlos zu nutzen. In der kostenlosen Version sind Sie jedoch auf eine einzigen Benutzer in der Einrichtung limitiert. Außerhalb dieser Limitation können Sie die Optionen der Connector 365 CTI for STARFACE App jedoch voll nutzen.
+Sie haben jederzeit die Möglichkeit Ihre kostenlose Version um weitere Lizenzen zu erweitern.</description>
+      </item>
+      
+      <item>
         <title>Test &amp; Kauf</title>
         <link>http://docs.belware.de/de-de/apps/e-post/first-steps/test-purchase/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -434,6 +513,15 @@ Nach dem Download steht Ihnen die App für 5 Vorgänge kostenlos zur Verfügung.
 Sind diese erreicht, haben Sie die Möglichkeit, ihre App direkt zu bestellen.
 Ist der Testzeitraum für Sie zu knapp, dann setzen Sie sich mit uns unter support@belware.de in Verbindung. Gerne können vereinbaren wir mit Ihnen einen individuellen Testzeitraum.
 Connector 365 steht Ihnen für die folgende BC Lizensierung zur Verfügung:</description>
+      </item>
+      
+      <item>
+        <title>V1.0.0.1 &amp; Roadmap</title>
+        <link>http://docs.belware.de/de-de/apps/cti-for-starface/new-and-planned/v1.0.0.1/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/cti-for-starface/new-and-planned/v1.0.0.1/</guid>
+        <description>Neu und geplant Version 1.0.0.1  Anzeigen von Kontaktdaten bei eingehenden Anrufen Keine verpassten Anrufe durch eine automatische Anrufverwaltung Verlinkung zu Kontakt, Debitor oder Kreditor Automatische Zeiterfassung von Uhrzeit und Dauer jedes Anrufs  Geplante Funktionen für zukünftige Versionen  Erweiterung der Anrufliste - Globale Jobliste Anrufliste im Dashboard Unbekannte Nummern bei eingehenden Anrufen anzeigen  </description>
       </item>
       
       <item>
@@ -516,6 +604,17 @@ Danach können Sie die gewünschte Adresse in das „E-Mail Sender“ Feld eintr
       
       <item>
         <title>Installation</title>
+        <link>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/installation/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/installation/</guid>
+        <description>Erste Schritte Installation Öffnen Sie mithilfe der Suchfunktion den Marketplace für Erweiterungen und öffnen Sie ihn.
+Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den Connector 365 CTI for STARFACE zu finden. Klicken Sie auf Get it now um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
+Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert eine Sprache für die App zu wählen.</description>
+      </item>
+      
+      <item>
+        <title>Installation</title>
         <link>http://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/installation/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -578,6 +677,17 @@ Dort ändern Sie nun das Feld “MwSt.-Schema” in den Code für das entspreche
         <description>Einrichtung MwSt.-Schema überprüfen Sie sollten die MwSt.-Schema Codes für die jeweiligen Länder überprüfen. Für die XRechnung ist dies in Normalfall nur Deutschland.
 Diese lassen sich unter “Länder/Regionen” in Dynamics NAV anpassen, am schnellsten Finden Sie diesen Punkt über die Suchfunktion.
 Dort ändern Sie nun das Feld “MwSt.-Schema” in den Code für das entsprechende Land. Der Code für Deutschland lautet 9930, alle weiteren Codes finden Sie hier.</description>
+      </item>
+      
+      <item>
+        <title>Nutzer &amp; Gruppen</title>
+        <link>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/user-groups/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/user-groups/</guid>
+        <description>Einrichtung Gruppen Gruppen bieten Ihnen die Möglichkeit Ihre Nutzer zu sortieren egal ob es eine Unterteilung pro Abteilung oder pro Team ist, es lässt sich mit Gruppen abbilden. Nutzer die einer Gruppe zugewiesen werden, sehen nur andere Nutzer aus der gleichen Gruppe in ihrem CTI Client. Die Benutzung von Gruppen ist optional.
+Öffnen Sie über die Suchfunktion die &amp;ldquo;CTI Gruppen&amp;rdquo;, hier findet sich eine Tabelle mit zwei Spalten.
+Wenn Sie eine neue Gruppe anlegen wollen, klicken Sie auf &amp;ldquo;Neu&amp;rdquo; um die Bearbeitung zu aktivieren.</description>
       </item>
       
       <item>
@@ -645,6 +755,16 @@ Protokoll Fehlerhafte XRechnungen Hier werden XRechnungen abgebildet, welche dur
       </item>
       
       <item>
+        <title>Telefonnotiz</title>
+        <link>http://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/cti-notes/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/cti-notes/</guid>
+        <description>Arbeiten mit CTI for STARFACE Erstellen von Telefonnotizen Nach Ihrem Telefonat haben Sie die Möglichkeit eigene Notizen zum Inhalt des Gesprächs zu verfassen. Dies können Sie direkt aus der &amp;ldquo;Kontaktkarte&amp;rdquo;, welche nach dem Telefonat noch offen sein sollte, vornehmen.
+Wählen Sie zunächst den entsprechenden Eintrag in den &amp;ldquo;CTI-Einträgen&amp;rdquo; aus, schauen Sie nun im rechten Bereich in die Factbox. Dort finden Sie den Bereich &amp;ldquo;CTI-Notizen&amp;rdquo;, mit einem klick auf den Feldnamen, haben Sie die Möglichkeit eine neue Notiz zu verfassen.</description>
+      </item>
+      
+      <item>
         <title>Absender-Adresse Debitor/Kreditor</title>
         <link>http://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/setup/customer-vendor/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -652,6 +772,16 @@ Protokoll Fehlerhafte XRechnungen Hier werden XRechnungen abgebildet, welche dur
         <guid>http://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/setup/customer-vendor/</guid>
         <description>Einrichtung Absender-Adressen pro Debitor/Kreditor anhand von Dokumentenlayouts Es ist auch möglich Adressen pro Debitor/Kreditor festzulegen, dies wird über die Dokumentenlayouts gesteuert. Diese Einstellung hat dann die höchste Priorität. Um die Einrichtung vorzunehmen, müssen Sie zunächst die Seite des jeweiligen Debitors/Kreditors öffnen, bei dem Sie eine Adresse einrichten möchten. In den Einstellungen am Debitor finden Sie die Dokumentenlayouts.
 Die Wichtigsten Felder hier sind „Verwendung“, „Berichts-ID“ und unser neu hinzugefügtes Feld „E-Mail Sender“.</description>
+      </item>
+      
+      <item>
+        <title>Anrufliste</title>
+        <link>http://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/call-list/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/call-list/</guid>
+        <description>Arbeiten mit CTI for STARFACE Die Anrufliste Ein- und ausgehende Anrufe werden an zwei Stellen erfasst. Entweder direkt in den Kontakten oder auf globaler Ebene in der Jobliste.
+CTI-Einträge In Ihren Kontakten können Sie die &amp;ldquo;CTI-Einträge&amp;rdquo; finden, diese befinden sich am Ende der Kontaktkarte. Dort finden Sie die Details zu allen Telefonaten die mit diesem Kontakt gefürht wurden, wie z.B. ob es ein- oder ausgehende war, Wer das Telefonat geführt hat, wann das Telefonat angenommen wurde und wie lange es gedauert hat.</description>
       </item>
       
       <item>
@@ -708,6 +838,20 @@ Anschließend sollten Sie das Feld “Internationaler Standardcode” anhand der
         <description>FAQ Wieviele Konten kann ich hinzufügen? Aktuell gibt es kein Limit der Konten, die hinzugefügt werden können. Jedoch ist die Testversion auf ein Konto beschränkt, jedes weitere Konto muss zusätzlich kostenpflichtig lizenziert werden.
 Kann jedes Konto hinzugefügt werden? Ja. Es muss ein vorhandenes Konto sein, dem es erlaubt ist, Mail per SMTP zu versenden.
 Wie sieht die Preisgestaltung aus? Die Testversion erlaubt es ein Konto kostenfrei zu nutzen. Jedes weitere Konto muss danach kostenpflichtig lizenziert werden.</description>
+      </item>
+      
+      <item>
+        <title>Hilfe &amp; Support</title>
+        <link>http://docs.belware.de/de-de/apps/cti-for-starface/help-support/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/cti-for-starface/help-support/</guid>
+        <description>Hilfe &amp;amp; Support Wir freuen uns darauf, uns um Ihre Anliegen kümmern zu dürfen. Egal, ob es allgemeine Fragen zu der BELWARE GmbH und unseren Produkten oder spezifische Fragen sind. Melden Sie sich einfach per Telefon oder Mail bei uns. Auf Ihre Anfragen reagieren wir innerhalb von 1 - 2 Werktagen.
+Für Allgemeines sind wir zu erreichen über:
+E-Mail: info@belware.de
+Alternativ
+Tel.: +49 2362 788 90 55
+Fax: +49 2362 788 90 56</description>
       </item>
       
       <item>
@@ -846,6 +990,16 @@ Hier sollte nun das Feld “Steuerkategorie” mit der jeweiligen Bezeichnung ge
         <guid>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-tax-category/</guid>
         <description>Einrichtung Überprüfen der Steuerkategorie Zuletzt lohnt es sich auch die Steuerkategorie anzusehen, diese ist in der MwSt.-Buchungsmatrix zu finden, diese lässt sich auch wieder am schnellsten über die Suchfunktion aufrufen.
 Hier sollte nun das Feld “Steuerkategorie” mit der jeweiligen Bezeichnung gefüllt werden, diese können Sie hier finden. In den meisten Fällen werden Sie nur E S und Z benötigen.</description>
+      </item>
+      
+      <item>
+        <title>Videos</title>
+        <link>http://docs.belware.de/de-de/apps/cti-for-starface/videos/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/cti-for-starface/videos/</guid>
+        <description>Videos Hier finden Sie einige informative Videos zur unserer Mail Attachments Plus App, jedes Video behandelt ein spezielles Thema
+Einrichtung der App </description>
       </item>
       
       <item>
