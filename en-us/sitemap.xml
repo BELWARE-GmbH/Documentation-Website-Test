@@ -453,11 +453,6 @@
   </url>
   
   <url>
-    <loc>http://docs.belware.de/en-us/terms-of-use/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://docs.belware.de/en-us/apps/mail_attachment_plus/working-with-map/defaults-report/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -515,6 +510,11 @@
                 hreflang="en-us"
                 href="http://docs.belware.de/en-us/connector-on-appsource/xrechnung/working-with-xrechnung/sending/"
                 />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/en-us/terms-of-use/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
