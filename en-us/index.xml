@@ -25,6 +25,16 @@ Repeat this process until your license capacity is used up.</description>
       </item>
       
       <item>
+        <title>Click to dial</title>
+        <link>http://docs.belware.de/en-us/apps/cti-for-starface/working-with-cti-for-starface/click-to-dial/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/cti-for-starface/working-with-cti-for-starface/click-to-dial/</guid>
+        <description>Working with CTI for STARFACE Click to dial With our app you have the possibility to start calls directly from your contacts. Open the contact you want to make a call with and open the area &amp;ldquo;Communication&amp;rdquo;. Next to the phone number there is now a button with 3 dots. Click on the button to initiate a phone call.
+If no call is triggered, you may have to switch off the popup blocker of your browser or set your STARFACE client to open phone numbers.</description>
+      </item>
+      
+      <item>
         <title>E-POSTBUSINESS API</title>
         <link>http://docs.belware.de/en-us/apps/e-post/first-steps/setup/epostbusiness-api/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -72,6 +82,27 @@ More Information about the Ident ID can be found on the specific page</descripti
         <guid>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/faq/ident-id/</guid>
         <description>FAQ What is the Ident ID? The ident ID is a unique identifier for the recipient of the invoice. As invoicing party you do not need one yourself. You only need the ident ID of the recipient, which they should tell you when ordering from you.
 More Information about the Ident ID can be found on the specific page</description>
+      </item>
+      
+      <item>
+        <title>Incoming calls/CTI client</title>
+        <link>http://docs.belware.de/en-us/apps/cti-for-starface/working-with-cti-for-starface/incoming-calls/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/cti-for-starface/working-with-cti-for-starface/incoming-calls/</guid>
+        <description>Working with CTI for STARFACE Incoming calls and the CTI client The Connector 365 CTI for STARFACE app automatically opens the contact card of the calling person for incoming calls. For this process to work smoothly, two things need to be taken care of.
+  The phone number of the person calling is stored in a contact. If this is not the case, only the unknown number is displayed.</description>
+      </item>
+      
+      <item>
+        <title>Introduction</title>
+        <link>http://docs.belware.de/en-us/apps/cti-for-starface/first-steps/introduction/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/cti-for-starface/first-steps/introduction/</guid>
+        <description>First steps Introduction Controlling the telephone activities of your employees can be time-consuming. A constant switching between the STARFACE client and the Microsoft Dynamics 365 Business Central environment causes a break in the workflow. But this break can be prevented.
+Full control over your STARFACE CTI
+With our Connector 365 CTI for STARFACE it is possible to turn your Dynamics 365 Business Central environment into your CTI center. We offer you many options that help you to fully utilize your STARFACE solution.</description>
       </item>
       
       <item>
@@ -219,6 +250,15 @@ Please return at a later date, when we will have added further informative conte
       
       <item>
         <title>V1.0.1.0 &amp; Roadmap</title>
+        <link>http://docs.belware.de/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.0/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.0/</guid>
+        <description>New and planned Version 1.0.1.0  Minor corrections Click to Dial for phone and mobile number Show unknown numbers on incoming calls  Planned functions for future versions  Refining the dashboard Automatic creation of contacts for unknown numbers  </description>
+      </item>
+      
+      <item>
+        <title>V1.0.1.0 &amp; Roadmap</title>
         <link>http://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.1.0/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -246,6 +286,21 @@ Please return at a later date, when we will have added further informative conte
         
         <guid>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/new-and-planned/v1.0.1.0/</guid>
         <description>New and planned Version 1.0.1.0  Status tracking in dashboard Invoice accompanying attachments Revised XRechnung dialog Syntax check of Ident ID Extension of input for Ident IDs XRechnung version adapted  Planned features for future versions  Service invoices and service credit notes Extension and improvement of the XRechnung setting on the customer side Ident ID 1:N Improvement Dimension Events Change from KoSit to 2.01  </description>
+      </item>
+      
+      <item>
+        <title>Web service</title>
+        <link>http://docs.belware.de/en-us/apps/cti-for-starface/first-steps/setup/web-services/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/cti-for-starface/first-steps/setup/web-services/</guid>
+        <description>Setup Setting up the Web service After the extension has been successfully published to your solution, it must first be set up. The search will take you to the &amp;ldquo;Web Services&amp;rdquo; page. Here you need to create a new entry.
+For this you need the following data:
+Object type: Page
+Object ID: 70109820
+Object name: CTI-Client
+Service name: CTI
+After you have set up here, you can proceed with the rest of the setup.</description>
       </item>
       
       <item>
@@ -375,6 +430,17 @@ Start by opening the report selection of the report you want, in this example we
       </item>
       
       <item>
+        <title>STARFACE Module</title>
+        <link>http://docs.belware.de/en-us/apps/cti-for-starface/first-steps/setup/starface-modul/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/cti-for-starface/first-steps/setup/starface-modul/</guid>
+        <description>Setup Setting up the STARFACE module In order for the communication between Microsoft Dynamics 365 Business Central and the STARFACE telephone system to work, a setup must take place here as well. For this you need a module which you can download here.
+After you have added the module via the admin portal, it still has to be configured. You can access the configuration via the pencil icon.
+Under the Setup tab, you must now set up the users using the Starface Login ID.</description>
+      </item>
+      
+      <item>
         <title>Test &amp; Purchase</title>
         <link>http://docs.belware.de/en-us/apps/e-post/first-steps/test-purchase/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -441,6 +507,25 @@ Connector 365 is available for the following BC licensing:</description>
       </item>
       
       <item>
+        <title>Test &amp; purchase</title>
+        <link>http://docs.belware.de/en-us/apps/cti-for-starface/first-steps/test-purchase/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/cti-for-starface/first-steps/test-purchase/</guid>
+        <description>First steps Test &amp;amp; purchase The Connector 365 CTI for STARFACE App is available in the Microsoft AppSource.
+After the Connector 365 CTI for STARFACE app is installed, you have the option to get started immediately and use the app for free. However, in the free version you are limited to a single user in the setup. Outside of this limitation, however, you can take full advantage of the Connector 365 CTI for STARFACE App options.</description>
+      </item>
+      
+      <item>
+        <title>V1.0.0.1 &amp; Roadmap</title>
+        <link>http://docs.belware.de/en-us/apps/cti-for-starface/new-and-planned/v1.0.0.1/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/cti-for-starface/new-and-planned/v1.0.0.1/</guid>
+        <description>New and planned Version 1.0.0.1  Displaying contact data during incoming calls No missed calls, thanks to automatic call tracking Note function to write down important call details Automatic logging of start times and the length of every call  Planned functions for future versions  Call list extension - Global job list Call list in dashboard Show unknown numbers on incoming calls  </description>
+      </item>
+      
+      <item>
         <title>V1.0.0.1 &amp; Roadmap</title>
         <link>http://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.0.1/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -477,6 +562,16 @@ Connector 365 is available for the following BC licensing:</description>
       </item>
       
       <item>
+        <title>CTI notes</title>
+        <link>http://docs.belware.de/en-us/apps/cti-for-starface/working-with-cti-for-starface/cti-notes/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/cti-for-starface/working-with-cti-for-starface/cti-notes/</guid>
+        <description>Working with CTI for STARFACE Creating CTI notes After your phone call, you have the option to write your own notes about the content of the conversation. You can do this directly from the &amp;ldquo;Contact card&amp;rdquo;, which should still be open after the phone call.
+First select the corresponding entry in the &amp;ldquo;CTI entries&amp;rdquo;, now look in the right area in the factbox. There you will find the area &amp;ldquo;CTI notes&amp;rdquo;, with a click on the field name, you have the possibility to write a new note.</description>
+      </item>
+      
+      <item>
         <title>Customer default attachments</title>
         <link>http://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/setup/defaults-customer/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -496,6 +591,17 @@ Select the report for which you want to add default attachments, we will use inv
 For the example, we have set up the attachments for a receipt as follows:
 An image and a PDF have been set as standard.
 If you are using a Business Central version in which the Mail Experience is not yet available, the procedure is a little different.</description>
+      </item>
+      
+      <item>
+        <title>Installation</title>
+        <link>http://docs.belware.de/en-us/apps/cti-for-starface/first-steps/installation/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/cti-for-starface/first-steps/installation/</guid>
+        <description>First steps Installation Using the search function, open the Extension Marketplace and open it.
+The Microsoft AppSource opens. There you can use the search function again to find the Connector 365 CTI for STARFACE. Click on Get it now to start the installation. Before the installation starts, you have to provide some contact information.
+After submitting your contact information, you will be prompted to choose a language for the app. Our Connector 365 E-POST App* is available in English and German.</description>
       </item>
       
       <item>
@@ -617,6 +723,17 @@ Protocol incorrect XRechnung Here XRechnung are displayed, which failed the chec
       </item>
       
       <item>
+        <title>User &amp; Groups</title>
+        <link>http://docs.belware.de/en-us/apps/cti-for-starface/first-steps/setup/user-groups/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/cti-for-starface/first-steps/setup/user-groups/</guid>
+        <description>Setup Groups Groups offer you the possibility to sort your users no matter if it is a subdivision per department or per team, it can be mapped with groups. Users assigned to a group will only see other users from the same group in their CTI client. The use of groups is optional.
+Open with the search function the &amp;ldquo;CTI Groups&amp;rdquo;, here you find a table with two columns.
+If you want to create a new group, click &amp;ldquo;New&amp;rdquo; to activate the editing.</description>
+      </item>
+      
+      <item>
         <title>VAT Scheme</title>
         <link>http://docs.belware.de/en-us/apps/xrechnung/first-steps/setup/setup-vat-scheme/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -650,6 +767,16 @@ You will notice a new &amp;ldquo;Email Sender&amp;rdquo; field once the dialog o
       </item>
       
       <item>
+        <title>Call list</title>
+        <link>http://docs.belware.de/en-us/apps/cti-for-starface/working-with-cti-for-starface/call-list/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/cti-for-starface/working-with-cti-for-starface/call-list/</guid>
+        <description>Working with CTI for STARFACE The call list Incoming and outgoing calls are recorded in two places. Either directly in the contacts or on a global level in the joblist.
+CTI Entries In your contacts you can find the &amp;ldquo;CTI Entries&amp;rdquo;, these are located at the end of the contact card. There you can find the details of all phone calls made to this contact, such as whether it was incoming or outgoing, who made the call, when the call was answered and how long it lasted.</description>
+      </item>
+      
+      <item>
         <title>Document default attachments</title>
         <link>http://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/setup/defaults-document/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -667,6 +794,20 @@ Now click on the 0 at &amp;ldquo;Documents&amp;rdquo;, a window opens in which y
         <guid>http://docs.belware.de/en-us/apps/mail-sender-plus/faq/</guid>
         <description>FAQ How many accounts can I add? There currently is no limit to the number of accounts that can be added in the setup. However in the trial version it is only possible to add a single account to the setup, each additional account needs to be licensed. New licenses incur a monthly fee.
 Is it possible to add any account? Yes, however each account added needs to have the rights to send mail via SMTP.</description>
+      </item>
+      
+      <item>
+        <title>Help &amp; Support</title>
+        <link>http://docs.belware.de/en-us/apps/cti-for-starface/help-support/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/cti-for-starface/help-support/</guid>
+        <description>Help &amp;amp; Support We are always happy to take care of your requests, regardless if they are general questions about the BELWARE GmbH and our products or specific questions. Just contact us either via phone or mail. We will get back to you within 1 to 2 business days.
+For general things you can reach us under:
+E-Mail: info@belware.de
+alternatively
+Phone: +49 2362 788 90 55
+Fax: +49 2362 788 90 56</description>
       </item>
       
       <item>
@@ -837,6 +978,15 @@ Here you should now fill the field “Tax category” with the respective design
         <guid>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-tax-category/</guid>
         <description>Setup Check the Tax Category Finally, it is also worth looking at the tax category, this can be found in the VAT Posting Setup, this can again be called up most quickly via the search function.
 Here you should now fill the field “Tax category” with the respective designation, you can find this here finden. In most cases you will only need E S and Z.</description>
+      </item>
+      
+      <item>
+        <title>Videos</title>
+        <link>http://docs.belware.de/en-us/apps/cti-for-starface/videos/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/cti-for-starface/videos/</guid>
+        <description>Videos Here you can find some informative videos about our Connector 365 CTI for STARFACE App, each video covers a special topic</description>
       </item>
       
       <item>

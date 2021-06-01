@@ -433,7 +433,7 @@ Es gibt viele Stellen, die dazu führen, dass eine XRechnung nicht dem Schema en
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/starface-modul/</guid>
-        <description>Einrichtung Einrichten des STARFACE Moduls Damit die Kommunikation zwischen Microsoft Dynamics 365 Business Central und der STARFACE Telefonanlage funktioniert, muss auch hier eine Einrichtung stattfinden. Dazu benötigen Sie ein Modul welches Sie auf hier downloaden können.
+        <description>Einrichtung Einrichten des STARFACE Moduls Damit die Kommunikation zwischen Microsoft Dynamics 365 Business Central und der STARFACE Telefonanlage funktioniert, muss auch hier eine Einrichtung stattfinden. Dazu benötigen Sie ein Modul welches Sie hier downloaden können.
 Nachdem Sie das Modul über das Adminportal hinzugefügt haben, muss dieses noch konfiguriert werden. Über das Stift-Symbol gelangen Sie in die Konfiguration.
 Unter dem Reiter Einrichtung müssen Sie nun die Nutzer anhand der Starface Login-ID einrichten.</description>
       </item>
@@ -444,9 +444,8 @@ Unter dem Reiter Einrichtung müssen Sie nun die Nutzer anhand der Starface Logi
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/test-purchase/</guid>
-        <description>Erste Schritte Test &amp;amp; Kauf Die App steht Ihnen im Microsoft AppSource zur Verfügung.
-Nachdem die Connector 365 CTI for STARFACE App installiert wurde, haben Sie die Möglichkeit sofort loszulegen und die App kostenlos zu nutzen. In der kostenlosen Version sind Sie jedoch auf eine einzigen Benutzer in der Einrichtung limitiert. Außerhalb dieser Limitation können Sie die Optionen der Connector 365 CTI for STARFACE App jedoch voll nutzen.
-Sie haben jederzeit die Möglichkeit Ihre kostenlose Version um weitere Lizenzen zu erweitern.</description>
+        <description>Erste Schritte Test &amp;amp; Kauf Die Connector 365 CTI for STARFACE App steht Ihnen im Microsoft AppSource zur Verfügung.
+Nachdem die Connector 365 CTI for STARFACE App installiert wurde, haben Sie die Möglichkeit sofort loszulegen und die App kostenlos zu nutzen. In der kostenlosen Version sind Sie jedoch auf eine einzigen Benutzer in der Einrichtung limitiert. Außerhalb dieser Limitation können Sie die Optionen der Connector 365 CTI for STARFACE App jedoch voll nutzen.</description>
       </item>
       
       <item>
@@ -998,8 +997,7 @@ Hier sollte nun das Feld “Steuerkategorie” mit der jeweiligen Bezeichnung ge
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/de-de/apps/cti-for-starface/videos/</guid>
-        <description>Videos Hier finden Sie einige informative Videos zur unserer Mail Attachments Plus App, jedes Video behandelt ein spezielles Thema
-Einrichtung der App </description>
+        <description>Videos Hier finden Sie einige informative Videos zur unserer Connector 365 CTI for STARFACE App, jedes Video behandelt ein spezielles Thema</description>
       </item>
       
       <item>

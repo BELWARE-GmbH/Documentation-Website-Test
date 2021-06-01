@@ -5,6 +5,16 @@
   <url>
     <loc>http://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/click-to-dial/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/cti-for-starface/working-with-cti-for-starface/click-to-dial/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/click-to-dial/"
+                />
   </url>
   
   <url>
@@ -40,6 +50,16 @@
   <url>
     <loc>http://docs.belware.de/de-de/apps/cti-for-starface/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/cti-for-starface/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/cti-for-starface/"
+                />
   </url>
   
   <url>
@@ -90,11 +110,31 @@
   <url>
     <loc>http://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/incoming-calls/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/cti-for-starface/working-with-cti-for-starface/incoming-calls/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/incoming-calls/"
+                />
   </url>
   
   <url>
     <loc>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/introduction/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/cti-for-starface/first-steps/introduction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/introduction/"
+                />
   </url>
   
   <url>
@@ -385,6 +425,16 @@
   <url>
     <loc>http://docs.belware.de/de-de/apps/cti-for-starface/new-and-planned/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/cti-for-starface/new-and-planned/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/cti-for-starface/new-and-planned/"
+                />
   </url>
   
   <url>
@@ -470,6 +520,16 @@
   <url>
     <loc>http://docs.belware.de/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.0/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.0/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.0/"
+                />
   </url>
   
   <url>
@@ -565,6 +625,16 @@
   <url>
     <loc>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/web-services/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/cti-for-starface/first-steps/setup/web-services/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/web-services/"
+                />
   </url>
   
   <url>
@@ -690,6 +760,16 @@
   <url>
     <loc>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/cti-for-starface/first-steps/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/"
+                />
   </url>
   
   <url>
@@ -860,11 +940,31 @@
   <url>
     <loc>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/starface-modul/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/cti-for-starface/first-steps/setup/starface-modul/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/starface-modul/"
+                />
   </url>
   
   <url>
     <loc>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/test-purchase/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/cti-for-starface/first-steps/test-purchase/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/test-purchase/"
+                />
   </url>
   
   <url>
@@ -945,6 +1045,16 @@
   <url>
     <loc>http://docs.belware.de/de-de/apps/cti-for-starface/new-and-planned/v1.0.0.1/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/cti-for-starface/new-and-planned/v1.0.0.1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/cti-for-starface/new-and-planned/v1.0.0.1/"
+                />
   </url>
   
   <url>
@@ -1010,6 +1120,16 @@
   <url>
     <loc>http://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/cti-for-starface/working-with-cti-for-starface/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/"
+                />
   </url>
   
   <url>
@@ -1120,6 +1240,16 @@
   <url>
     <loc>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/installation/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/cti-for-starface/first-steps/installation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/installation/"
+                />
   </url>
   
   <url>
@@ -1215,6 +1345,16 @@
   <url>
     <loc>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/user-groups/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/cti-for-starface/first-steps/setup/user-groups/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/user-groups/"
+                />
   </url>
   
   <url>
@@ -1310,6 +1450,16 @@
   <url>
     <loc>http://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/cti-notes/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/cti-for-starface/working-with-cti-for-starface/cti-notes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/cti-notes/"
+                />
   </url>
   
   <url>
@@ -1330,6 +1480,16 @@
   <url>
     <loc>http://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/call-list/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/cti-for-starface/working-with-cti-for-starface/call-list/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/call-list/"
+                />
   </url>
   
   <url>
@@ -1410,6 +1570,16 @@
   <url>
     <loc>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/cti-for-starface/first-steps/setup/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/"
+                />
   </url>
   
   <url>
@@ -1535,6 +1705,16 @@
   <url>
     <loc>http://docs.belware.de/de-de/apps/cti-for-starface/help-support/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/cti-for-starface/help-support/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/cti-for-starface/help-support/"
+                />
   </url>
   
   <url>
@@ -1735,6 +1915,16 @@
   <url>
     <loc>http://docs.belware.de/de-de/apps/cti-for-starface/videos/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/cti-for-starface/videos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/cti-for-starface/videos/"
+                />
   </url>
   
   <url>
