@@ -850,12 +850,12 @@ After submitting your contact information, you will be prompted to choose a lang
       </item>
       
       <item>
-        <title>Setting up addresses per customer/vendor</title>
+        <title>Sender per Customer/Vendor</title>
         <link>http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/setup/customer-vendor/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/setup/customer-vendor/</guid>
-        <description>Setup Setting up addresses per customer It is also possible to set addresses per customer/vendor, this is controlled by the document layouts. This option has the highest priority. To make changes you need to open the page of customer/vendor that you want to set up. Now expand the options, click on navigate and then customer, finally select document layouts.
+        <description>Setup Sender per Customer/Vendor It is also possible to set addresses per customer/vendor, this is controlled by the document layouts. This option has the highest priority. To make changes you need to open the page of customer/vendor that you want to set up. Now expand the options, click on navigate and then customer, finally select document layouts.
 The most important fields here are “Usage”, “Report ID” and our newly added field “EMail Sender”.</description>
       </item>
       
@@ -986,7 +986,8 @@ Here you should now fill the field “Tax category” with the respective design
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/en-us/apps/cti-for-starface/videos/</guid>
-        <description>Videos Here you can find some informative videos about our Connector 365 CTI for STARFACE App, each video covers a special topic</description>
+        <description>Videos Here you can find some informative videos about our Connector 365 CTI for STARFACE App, each video covers a special topic
+Connector 365 CTI for STARFACE - Quick Overview </description>
       </item>
       
       <item>
