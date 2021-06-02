@@ -50,6 +50,19 @@ Protocol Sent XRechnung In the detailed dispatch log &amp;ldquo;Who&amp;rdquo; -
 Protocol incorrect XRechnung Here XRechnung are displayed, which failed the check and are not accepted as XRechnung. This can have different reasons - you can find out exactly which ones by opening the validation report.</description>
       </item>
       
+      <item>
+        <title>Events</title>
+        <link>http://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/events/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/events/</guid>
+        <description>Working with XRechnung Events We offer you the possibility to link into our programming logic with events, here we describe how this works.
+To subscribe an event for sales invoices or service invoices, the XML port BEL365 S. Inv. XRechnung 2.0 must be specified in an EventSubscriber.
+Beispiel:
+For sales credit notes or service credit notes, the following XML port must be entered: BEL365 S. Cr. M. XRechnung 2.0.
+Example:</description>
+      </item>
+      
     
   </channel>
 </rss>

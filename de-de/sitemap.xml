@@ -213,21 +213,6 @@
   </url>
   
   <url>
-    <loc>http://docs.belware.de/de-de/apps/e-post/first-steps/setup/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://docs.belware.de/en-us/apps/e-post/first-steps/setup/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="http://docs.belware.de/de-de/apps/e-post/first-steps/setup/"
-                />
-  </url>
-  
-  <url>
     <loc>http://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -258,21 +243,6 @@
   </url>
   
   <url>
-    <loc>http://docs.belware.de/de-de/apps/xrechnung/first-steps/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://docs.belware.de/en-us/apps/xrechnung/first-steps/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="http://docs.belware.de/de-de/apps/xrechnung/first-steps/"
-                />
-  </url>
-  
-  <url>
     <loc>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -299,21 +269,6 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="http://docs.belware.de/de-de/legalnotice/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://docs.belware.de/de-de/apps/xrechnung/faq/ident-id/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://docs.belware.de/en-us/apps/xrechnung/faq/ident-id/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="http://docs.belware.de/de-de/apps/xrechnung/faq/ident-id/"
                 />
   </url>
   
@@ -453,6 +408,21 @@
   </url>
   
   <url>
+    <loc>http://docs.belware.de/de-de/apps/xrechnung/new-and-planned/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/xrechnung/new-and-planned/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/xrechnung/new-and-planned/"
+                />
+  </url>
+  
+  <url>
     <loc>http://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/setup/priority-system/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -548,21 +518,6 @@
   </url>
   
   <url>
-    <loc>http://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.0/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.1.0/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="http://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.0/"
-                />
-  </url>
-  
-  <url>
     <loc>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/new-and-planned/v1.0.1.0/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -574,6 +529,36 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="http://docs.belware.de/de-de/connector-on-appsource/xrechnung/new-and-planned/v1.0.1.0/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.1.1/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.1.1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.1.1/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.1/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.1.1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.1/"
                 />
   </url>
   
@@ -788,6 +773,21 @@
   </url>
   
   <url>
+    <loc>http://docs.belware.de/de-de/apps/xrechnung/first-steps/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/xrechnung/first-steps/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/xrechnung/first-steps/"
+                />
+  </url>
+  
+  <url>
     <loc>http://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/setup/extending-the-setup/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -878,21 +878,6 @@
   </url>
   
   <url>
-    <loc>http://docs.belware.de/de-de/apps/xrechnung/new-and-planned/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://docs.belware.de/en-us/apps/xrechnung/new-and-planned/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="http://docs.belware.de/de-de/apps/xrechnung/new-and-planned/"
-                />
-  </url>
-  
-  <url>
     <loc>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/new-and-planned/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -904,21 +889,6 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="http://docs.belware.de/de-de/connector-on-appsource/xrechnung/new-and-planned/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://docs.belware.de/de-de/apps/xrechnung/faq/not-sent/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://docs.belware.de/en-us/apps/xrechnung/faq/not-sent/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="http://docs.belware.de/de-de/apps/xrechnung/faq/not-sent/"
                 />
   </url>
   
@@ -1058,21 +1028,6 @@
   </url>
   
   <url>
-    <loc>http://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.0.1/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.0.1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="http://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.0.1/"
-                />
-  </url>
-  
-  <url>
     <loc>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/new-and-planned/v1.0.0.1/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1114,6 +1069,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="http://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.0.5/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.0/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.1.0/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.0/"
                 />
   </url>
   
@@ -1373,21 +1343,6 @@
   </url>
   
   <url>
-    <loc>http://docs.belware.de/de-de/apps/xrechnung/faq/pricing/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://docs.belware.de/en-us/apps/xrechnung/faq/pricing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="http://docs.belware.de/de-de/apps/xrechnung/faq/pricing/"
-                />
-  </url>
-  
-  <url>
     <loc>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/faq/pricing/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1459,6 +1414,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="http://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/cti-notes/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.0.1/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.0.1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.0.1/"
                 />
   </url>
   
@@ -1643,6 +1613,21 @@
   </url>
   
   <url>
+    <loc>http://docs.belware.de/de-de/apps/xrechnung/working-with-xrechnung/events/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/events/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/xrechnung/working-with-xrechnung/events/"
+                />
+  </url>
+  
+  <url>
     <loc>http://docs.belware.de/de-de/apps/mail-sender-plus/faq/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1669,21 +1654,6 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="http://docs.belware.de/de-de/apps/mail_attachment_plus/faq/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://docs.belware.de/de-de/apps/xrechnung/faq/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://docs.belware.de/en-us/apps/xrechnung/faq/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="http://docs.belware.de/de-de/apps/xrechnung/faq/"
                 />
   </url>
   
@@ -1718,6 +1688,21 @@
   </url>
   
   <url>
+    <loc>http://docs.belware.de/de-de/apps/xrechnung/help-support/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/xrechnung/help-support/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/xrechnung/help-support/"
+                />
+  </url>
+  
+  <url>
     <loc>http://docs.belware.de/de-de/apps/e-post/first-steps/installation/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1748,21 +1733,6 @@
   </url>
   
   <url>
-    <loc>http://docs.belware.de/de-de/apps/xrechnung/faq/getting-started/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://docs.belware.de/en-us/apps/xrechnung/faq/getting-started/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="http://docs.belware.de/de-de/apps/xrechnung/faq/getting-started/"
-                />
-  </url>
-  
-  <url>
     <loc>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/faq/getting-started/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1774,6 +1744,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="http://docs.belware.de/de-de/connector-on-appsource/xrechnung/faq/getting-started/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/de-de/apps/e-post/first-steps/setup/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/e-post/first-steps/setup/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/e-post/first-steps/setup/"
                 />
   </url>
   
@@ -1819,21 +1804,6 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="http://docs.belware.de/de-de/apps/mail_attachment_plus/help-support/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://docs.belware.de/de-de/apps/xrechnung/help-support/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://docs.belware.de/en-us/apps/xrechnung/help-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="http://docs.belware.de/de-de/apps/xrechnung/help-support/"
                 />
   </url>
   
@@ -1928,6 +1898,21 @@
   </url>
   
   <url>
+    <loc>http://docs.belware.de/de-de/apps/xrechnung/videos/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/xrechnung/videos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/xrechnung/videos/"
+                />
+  </url>
+  
+  <url>
     <loc>http://docs.belware.de/de-de/apps/e-post/videos/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1969,21 +1954,6 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="http://docs.belware.de/de-de/apps/mail_attachment_plus/videos/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://docs.belware.de/de-de/apps/xrechnung/videos/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://docs.belware.de/en-us/apps/xrechnung/videos/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="http://docs.belware.de/de-de/apps/xrechnung/videos/"
                 />
   </url>
   

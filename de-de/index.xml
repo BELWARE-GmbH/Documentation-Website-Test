@@ -106,16 +106,6 @@ Gemäß des Beschlusses des IT-Planungsrats vom 22.06.2017 ist XRechnung maßg
       
       <item>
         <title>Leitweg ID?</title>
-        <link>http://docs.belware.de/de-de/apps/xrechnung/faq/ident-id/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/de-de/apps/xrechnung/faq/ident-id/</guid>
-        <description>FAQ Was ist die Leitweg ID? Die Leitweg ID ist eine eindeutige Kennung für den Rechnungsempfänger. Als Rechnungssteller benötigen Sie selbst keine. Sie benötigen nur die Leitweg ID des Empfängers, die dieser Ihnen bei der Bestellung bei Ihnen mitteilen sollte.
-Weitere Informationen zur Leitweg-ID finden Sie auf der entsprechenden Seite</description>
-      </item>
-      
-      <item>
-        <title>Leitweg ID?</title>
         <link>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/faq/ident-id/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -217,7 +207,7 @@ Mail Experience Wenn Ihnen schon die Mail Experience zur Verfügung steht (ab Ve
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.0/</guid>
-        <description>Neu und geplant Version 1.0.1.0  Kleinere Korrekturen Click to Dial für Telefon- und Handynummer Unbekannte Nummern bei eingehenden Anrufen anzeigen  Geplante Funktionen für zukünftige Versionen  Dashboard verfeinern Automatisches Anlegen von kontakten bei unbekannten Nummern  </description>
+        <description>Neu und geplant Version 1.0.1.0  Kleinere Korrekturen Click to Dial für Telefon- und Handynummer Unbekannte Nummern bei eingehenden Anrufen anzeigen Der CTI-Client öffnet sich automatisch anch Anmeldung bei Business Central  Geplante Funktionen für zukünftige Versionen  Dashboard verfeinern Automatisches Anlegen von kontakten bei unbekannten Nummern Anpassung der Jobliste passend zur App Editierbare CTI Notizen  </description>
       </item>
       
       <item>
@@ -226,16 +216,7 @@ Mail Experience Wenn Ihnen schon die Mail Experience zur Verfügung steht (ab Ve
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.1.0/</guid>
-        <description>Neu und geplant Version 1.0.1.0  Versand weiterer Belegarten  Geb. Verkaufsgutschriften Registrierte Mahnungen Angebote Verkaufsaufträge   Versand von Duplexbriefen Versandstatus (Jobliste) in der Factbox am Vorgang in der Übersicht Zwei Boxen für die Jobliste im Dashboard  Geplante Funktionen für zukünftige Versionen  Erneutes versenden von fehlerhaften Briefen Kontakte im Dialog editierbar Weitere Belegarten  Geb. Service-Rechnungen Geb. Service-Gutschriften Bestellungen    </description>
-      </item>
-      
-      <item>
-        <title>V1.0.1.0 &amp; Roadmap</title>
-        <link>http://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.0/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.0/</guid>
-        <description>Neu und geplant Version 1.0.1.0  Statusverfolgung im Dashboard Rechnungsbegleitende Anhänge Überarbeiteter XRechnungs-Dialog Syntaxüberprüfung der Leitweg-ID Erweiterung der Eingabe für Leitweg ID&amp;rsquo;s XRechnungsversion angepasst  Geplante Funktionen für zukünftige Versionen  Service Rechnungen und Service Gutschriften Erweiterung und Verbesserung der XRechnungseinstellung am Debitor Leitweg ID 1:N Verbesserung Dimension Events Wechsel von Kosit auf 2.01  </description>
+        <description>Neu und geplant Version 1.0.1.0  Versand weiterer Belegarten  Geb. Verkaufsgutschriften Registrierte Mahnungen Angebote Verkaufsaufträge   Versand von Duplexbriefen Versandstatus (Jobliste) in der Factbox am Vorgang in der Übersicht Zwei Boxen für die Jobliste im Dashboard Die Connector 365 XRechnung App stützt nun auf unsere Basis App  Geplante Funktionen für zukünftige Versionen  Erneutes versenden von fehlerhaften Briefen Kontakte im Dialog editierbar Weitere Belegarten  Geb. Service-Rechnungen Geb.</description>
       </item>
       
       <item>
@@ -245,6 +226,24 @@ Mail Experience Wenn Ihnen schon die Mail Experience zur Verfügung steht (ab Ve
         
         <guid>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/new-and-planned/v1.0.1.0/</guid>
         <description>Neu und geplant Version 1.0.1.0  Statusverfolgung im Dashboard Rechnungsbegleitende Anhänge Überarbeiteter XRechnungs-Dialog Syntaxüberprüfung der Leitweg-ID Erweiterung der Eingabe für Leitweg ID&amp;rsquo;s XRechnungsversion angepasst  Geplante Funktionen für zukünftige Versionen  Service Rechnungen und Service Gutschriften Erweiterung und Verbesserung der XRechnungseinstellung am Debitor Leitweg ID 1:N Verbesserung Dimension Events Wechsel von Kosit auf 2.01  </description>
+      </item>
+      
+      <item>
+        <title>V1.0.1.1 &amp; Roadmap</title>
+        <link>http://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.1.1/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.1.1/</guid>
+        <description>Neu und geplant Version 1.0.1.0  Korrektur der Übersetzung  Geplante Funktionen für zukünftige Versionen </description>
+      </item>
+      
+      <item>
+        <title>V1.0.1.1 &amp; Roadmap</title>
+        <link>http://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.1/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.1/</guid>
+        <description>Neu und geplant Version 1.0.1.1  Die Connector 365 XRechnung App stützt nun auf unsere Basis App Hinzufügen von Events zur Steuerung der XRechnung Fehlerkorrekturen  Geplante Funktionen für zukünftige Versionen    </description>
       </item>
       
       <item>
@@ -411,15 +410,6 @@ Es gibt viele Stellen, die dazu führen, dass eine XRechnung nicht dem Schema en
       
       <item>
         <title>Nicht versendet?</title>
-        <link>http://docs.belware.de/de-de/apps/xrechnung/faq/not-sent/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/de-de/apps/xrechnung/faq/not-sent/</guid>
-        <description>FAQ Warum wurde meine Rechnung nicht gesendet? Stellen Sie sicher, dass die Rechnung, die Sie zu versenden versuchen, den Anforderungen der XRechung entspricht. Sie können dies überprüfen, indem Sie sich den Bericht ansehen, der angezeigt wird, wenn ein Konformitätsfehler vorliegt. Dies können fehlende Informationen über den Kunden oder in der Rechnung sein.</description>
-      </item>
-      
-      <item>
-        <title>Nicht versendet?</title>
         <link>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/faq/not-sent/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -433,7 +423,8 @@ Es gibt viele Stellen, die dazu führen, dass eine XRechnung nicht dem Schema en
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/starface-modul/</guid>
-        <description>Einrichtung Einrichten des STARFACE Moduls Damit die Kommunikation zwischen Microsoft Dynamics 365 Business Central und der STARFACE Telefonanlage funktioniert, muss auch hier eine Einrichtung stattfinden. Dazu benötigen Sie ein Modul welches Sie hier downloaden können.
+        <description>Einrichtung Einrichten des STARFACE Moduls Damit die Kommunikation zwischen Microsoft Dynamics 365 Business Central und der STARFACE Telefonanlage funktioniert, muss auch hier eine Einrichtung stattfinden. Dazu benötigen Sie ein Modul welches Sie auf dieser Seite downloaden können.
+Hier Downloaden
 Nachdem Sie das Modul über das Adminportal hinzugefügt haben, muss dieses noch konfiguriert werden. Über das Stift-Symbol gelangen Sie in die Konfiguration.
 Unter dem Reiter Einrichtung müssen Sie nun die Nutzer anhand der Starface Login-ID einrichten.</description>
       </item>
@@ -525,15 +516,6 @@ Connector 365 steht Ihnen für die folgende BC Lizensierung zur Verfügung:</des
       
       <item>
         <title>V1.0.0.1 &amp; Roadmap</title>
-        <link>http://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.0.1/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.0.1/</guid>
-        <description>Neu und geplant Version 1.0.0.1  Erstellen einer XRechnung XML-Datei Versand der XRechnung per Mail mit dem Standard BC Mail - Dialog Versand eines Prüfberichts, welcher dem Empfänger die Konformität der Rechnung bestätigt. Anzeigen des Prüfberichts für den Nutzer bei “Nicht-Konformität” Abbruch des Versands bei &amp;ldquo;Nicht-Konformität Verbesserung der WebService Abfrage / DLL für das Prüfprotokoll  Geplante Funktionen für zukünftige Versionen  Statusverfolgung im Rollencenter Rechnungsbegleitende Anhänge Überarbeiteter XRechnungs-Dialog Syntaxüberprüfung der Leitweg-ID Erweiterung der Eingabe für Leitweg ID&amp;rsquo;s  </description>
-      </item>
-      
-      <item>
-        <title>V1.0.0.1 &amp; Roadmap</title>
         <link>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/new-and-planned/v1.0.0.1/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -557,6 +539,15 @@ Connector 365 steht Ihnen für die folgende BC Lizensierung zur Verfügung:</des
         
         <guid>http://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.0.5/</guid>
         <description>Neu und geplant Version 1.0.0.5  Versenden von E-POST Briefen aus geb. Verkaufsrechnungen Versand in Farbe bzw. S/W Einschreiben (Einwurf/Rückschein) Archivierung versendeter Briefe Auslandsversand  Geplante Funktionen für zukünftige Versionen  Weitere Belegarten  Lieferscheine Verkaufsaufträge Angebote   Kleine Verbesserungen  </description>
+      </item>
+      
+      <item>
+        <title>V1.0.1.0 &amp; Roadmap</title>
+        <link>http://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.0/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.0/</guid>
+        <description>Neu und geplant Version 1.0.1.0  Statusverfolgung im Dashboard Rechnungsbegleitende Anhänge Überarbeiteter XRechnungs-Dialog Syntaxüberprüfung der Leitweg-ID Erweiterung der Eingabe für Leitweg ID&amp;rsquo;s XRechnungsversion angepasst  Geplante Funktionen für zukünftige Versionen  Service Rechnungen und Service Gutschriften Erweiterung und Verbesserung der XRechnungseinstellung am Debitor Leitweg ID 1:N Verbesserung Dimension Events Wechsel von Kosit auf 2.01  </description>
       </item>
       
       <item>
@@ -701,16 +692,6 @@ Weitere Lizenzen können Sie direkt über dieses Formular erwerben.</description
       
       <item>
         <title>Preisgestaltung?</title>
-        <link>http://docs.belware.de/de-de/apps/xrechnung/faq/pricing/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/de-de/apps/xrechnung/faq/pricing/</guid>
-        <description>FAQ Wie sieht die Preisgestaltung aus? Eine Lizenz für die XRechnung App kostet 19,90€/Monat und wird entweder vierteljährlich oder jährlich abgerechnet. Die Lizenz ist Userunabhängig. Für weitere Informationen kontaktieren Sie uns bitte direkt.
-Falls Sie weitere Lizenzen für die App erwerben wollen So können SIe dafür unser Formular nutzen.</description>
-      </item>
-      
-      <item>
-        <title>Preisgestaltung?</title>
         <link>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/faq/pricing/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -760,7 +741,16 @@ Protokoll Fehlerhafte XRechnungen Hier werden XRechnungen abgebildet, welche dur
         
         <guid>http://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/cti-notes/</guid>
         <description>Arbeiten mit CTI for STARFACE Erstellen von Telefonnotizen Nach Ihrem Telefonat haben Sie die Möglichkeit eigene Notizen zum Inhalt des Gesprächs zu verfassen. Dies können Sie direkt aus der &amp;ldquo;Kontaktkarte&amp;rdquo;, welche nach dem Telefonat noch offen sein sollte, vornehmen.
-Wählen Sie zunächst den entsprechenden Eintrag in den &amp;ldquo;CTI-Einträgen&amp;rdquo; aus, schauen Sie nun im rechten Bereich in die Factbox. Dort finden Sie den Bereich &amp;ldquo;CTI-Notizen&amp;rdquo;, mit einem klick auf den Feldnamen, haben Sie die Möglichkeit eine neue Notiz zu verfassen.</description>
+Wählen Sie zunächst den entsprechenden Eintrag in den &amp;ldquo;CTI-Einträgen&amp;rdquo; aus, schauen Sie nun im rechten Bereich in die Factbox. Dort finden Sie den Bereich &amp;ldquo;CTI-Notizen&amp;rdquo;, mit einem klick auf den Feldnamen, haben Sie die Möglichkeit eine neue Notiz zu verfassen, diese kann maximal 1024 Zeichen lang sein.</description>
+      </item>
+      
+      <item>
+        <title>V1.0.0.1 &amp; Roadmap</title>
+        <link>http://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.0.1/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.0.1/</guid>
+        <description>Neu und geplant Version 1.0.0.1  Erstellen einer XRechnung XML-Datei Versand der XRechnung per Mail mit dem Standard BC Mail - Dialog Versand eines Prüfberichts, welcher dem Empfänger die Konformität der Rechnung bestätigt. Anzeigen des Prüfberichts für den Nutzer bei “Nicht-Konformität” Abbruch des Versands bei &amp;ldquo;Nicht-Konformität Verbesserung der WebService Abfrage / DLL für das Prüfprotokoll  Geplante Funktionen für zukünftige Versionen  Statusverfolgung im Rollencenter Rechnungsbegleitende Anhänge Überarbeiteter XRechnungs-Dialog Syntaxüberprüfung der Leitweg-ID Erweiterung der Eingabe für Leitweg ID&amp;rsquo;s  </description>
       </item>
       
       <item>
@@ -829,6 +819,20 @@ Anschließend sollten Sie das Feld “Internationaler Standardcode” anhand der
       </item>
       
       <item>
+        <title>Events</title>
+        <link>http://docs.belware.de/de-de/apps/xrechnung/working-with-xrechnung/events/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/xrechnung/working-with-xrechnung/events/</guid>
+        <description>Arbeiten mit XRechnung Events Wir bieten Ihnen die Möglichkeit sich mit Events in unsere Programmierlogik einzuklinken, hier beschreiben wir Ihnen wie dies geht.
+Um ein Event für Verkaufsrechnungen bzw. Servicerechnungen zu subscriben, muss der XML-Port BEL365 S. Inv. XRechnung 2.0 in einem EventSubscriber angegeben werden.
+Beispiel:
+Für Verkaufsgutschriften bzw. Servicegutschriften ist als folgender XML-Port einzutragen: BEL365 S. Cr. M. XRechnung 2.0.
+Beispiel:
+Die XRechnung-Events bieten die Möglichkeit, Business Terms zu „füllen“ nachdem Sie standardmäßig gesetzt werden und noch bevor Sie weiterverarbeitet, also in die resultierende XML-Datei eingefügt werden.</description>
+      </item>
+      
+      <item>
         <title>FAQ</title>
         <link>http://docs.belware.de/de-de/apps/mail-sender-plus/faq/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -845,6 +849,20 @@ Wie sieht die Preisgestaltung aus? Die Testversion erlaubt es ein Konto kostenfr
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/de-de/apps/cti-for-starface/help-support/</guid>
+        <description>Hilfe &amp;amp; Support Wir freuen uns darauf, uns um Ihre Anliegen kümmern zu dürfen. Egal, ob es allgemeine Fragen zu der BELWARE GmbH und unseren Produkten oder spezifische Fragen sind. Melden Sie sich einfach per Telefon oder Mail bei uns. Auf Ihre Anfragen reagieren wir innerhalb von 1 - 2 Werktagen.
+Für Allgemeines sind wir zu erreichen über:
+E-Mail: info@belware.de
+Alternativ
+Tel.: +49 2362 788 90 55
+Fax: +49 2362 788 90 56</description>
+      </item>
+      
+      <item>
+        <title>Hilfe &amp; Support</title>
+        <link>http://docs.belware.de/de-de/apps/xrechnung/help-support/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/xrechnung/help-support/</guid>
         <description>Hilfe &amp;amp; Support Wir freuen uns darauf, uns um Ihre Anliegen kümmern zu dürfen. Egal, ob es allgemeine Fragen zu der BELWARE GmbH und unseren Produkten oder spezifische Fragen sind. Melden Sie sich einfach per Telefon oder Mail bei uns. Auf Ihre Anfragen reagieren wir innerhalb von 1 - 2 Werktagen.
 Für Allgemeines sind wir zu erreichen über:
 E-Mail: info@belware.de
@@ -872,15 +890,6 @@ Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert e
         <guid>http://docs.belware.de/de-de/apps/mail_attachment_plus/faq/getting-started/</guid>
         <description>FAQ Wie kann ich anfangen? Nach der Installation der App sollten Sie zunächst Standardanhänge einrichten, dies ist an mehreren Stellen möglich:
  Pro Debitor Pro Bericht Pro Dokument  </description>
-      </item>
-      
-      <item>
-        <title>Wie kann ich anfangen?</title>
-        <link>http://docs.belware.de/de-de/apps/xrechnung/faq/getting-started/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/de-de/apps/xrechnung/faq/getting-started/</guid>
-        <description>FAQ Wie kann ich anfangen? Sobald die App installiert ist, gehen Sie zu dem Debitor, der die XRechnung erhalten soll, kreuzen Sie das Kästchen in Dokumentenlayouts an und fügen Sie die Leitweg ID hinzu. Dann können Sie mit dem Senden beginnen. Einen ausführlicheren Leitfaden finden Sie unter Arbeiten mit XRechnung bzw.Einrichtung</description>
       </item>
       
       <item>
@@ -926,20 +935,6 @@ Fax: +49 2362 788 90 56</description>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/de-de/apps/mail_attachment_plus/help-support/</guid>
-        <description>Hilfe &amp;amp; Support Wir freuen uns darauf, uns um Ihre Anliegen kümmern zu dürfen. Egal, ob es allgemeine Fragen zu der BELWARE GmbH und unseren Produkten oder spezifische Fragen sind. Melden Sie sich einfach per Telefon oder Mail bei uns. Auf Ihre Anfragen reagieren wir innerhalb von 1 - 2 Werktagen.
-Für Allgemeines sind wir zu erreichen über:
-E-Mail: info@belware.de
-Alternativ
-Tel.: +49 2362 788 90 55
-Fax: +49 2362 788 90 56</description>
-      </item>
-      
-      <item>
-        <title>Hilfe &amp; Support</title>
-        <link>http://docs.belware.de/de-de/apps/xrechnung/help-support/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/de-de/apps/xrechnung/help-support/</guid>
         <description>Hilfe &amp;amp; Support Wir freuen uns darauf, uns um Ihre Anliegen kümmern zu dürfen. Egal, ob es allgemeine Fragen zu der BELWARE GmbH und unseren Produkten oder spezifische Fragen sind. Melden Sie sich einfach per Telefon oder Mail bei uns. Auf Ihre Anfragen reagieren wir innerhalb von 1 - 2 Werktagen.
 Für Allgemeines sind wir zu erreichen über:
 E-Mail: info@belware.de
@@ -1003,6 +998,16 @@ kurze Übersicht der App </description>
       
       <item>
         <title>Videos</title>
+        <link>http://docs.belware.de/de-de/apps/xrechnung/videos/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/xrechnung/videos/</guid>
+        <description>Videos Hier finden Sie einige informative Videos zur unserer XRechnung, jedes Video behandelt ein spezielles Thema
+Einrichtung und Versand </description>
+      </item>
+      
+      <item>
+        <title>Videos</title>
         <link>http://docs.belware.de/de-de/apps/e-post/videos/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -1029,16 +1034,6 @@ Einrichtung der App </description>
         <guid>http://docs.belware.de/de-de/apps/mail_attachment_plus/videos/</guid>
         <description>Videos Hier finden Sie einige informative Videos zur unserer Mail Attachments Plus App, jedes Video behandelt ein spezielles Thema
 Nutzung der App </description>
-      </item>
-      
-      <item>
-        <title>Videos</title>
-        <link>http://docs.belware.de/de-de/apps/xrechnung/videos/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/de-de/apps/xrechnung/videos/</guid>
-        <description>Videos Hier finden Sie einige informative Videos zur unserer XRechnung, jedes Video behandelt ein spezielles Thema
-Einrichtung und Versand </description>
       </item>
       
       <item>

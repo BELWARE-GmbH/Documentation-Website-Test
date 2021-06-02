@@ -66,16 +66,6 @@ The Ident ID is intended to enable addressing and, if necessary, forwarding of t
       
       <item>
         <title>Ident ID?</title>
-        <link>http://docs.belware.de/en-us/apps/xrechnung/faq/ident-id/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/en-us/apps/xrechnung/faq/ident-id/</guid>
-        <description>FAQ What is the Ident ID? The ident ID is a unique identifier for the recipient of the invoice. As invoicing party you do not need one yourself. You only need the ident ID of the recipient, which they should tell you when ordering from you.
-More Information about the Ident ID can be found on the specific page</description>
-      </item>
-      
-      <item>
-        <title>Ident ID?</title>
         <link>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/faq/ident-id/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -254,29 +244,7 @@ Please return at a later date, when we will have added further informative conte
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.0/</guid>
-        <description>New and planned Version 1.0.1.0  Minor corrections Click to Dial for phone and mobile number Show unknown numbers on incoming calls  Planned functions for future versions  Refining the dashboard Automatic creation of contacts for unknown numbers  </description>
-      </item>
-      
-      <item>
-        <title>V1.0.1.0 &amp; Roadmap</title>
-        <link>http://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.1.0/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.1.0/</guid>
-        <description>New and plannedd Version 1.0.1.0   Sending of other document types (credit notes, reminders, quotations, orders)
- Posted Sales Credit Memos Issued Reminders Quotes Sales orders    Sending duplex letters
-  Sending status (joblist) in the factbox per document in the overview
-  Two boxes for the joblist in the dashboard
-  Planned functions for future versions  Reactivation of negative jobs Contacts editable in dialog Other report types (service invoices/credit memos)  Pos.</description>
-      </item>
-      
-      <item>
-        <title>V1.0.1.0 &amp; Roadmap</title>
-        <link>http://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.1.0/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.1.0/</guid>
-        <description>New and planned Version 1.0.1.0  Status tracking in dashboard Invoice accompanying attachments Revised XRechnung dialog Syntax check of Ident ID Extension of input for Ident IDs XRechnung version adapted  Planned features for future versions  Service invoices and service credit notes Extension and improvement of the XRechnung setting on the customer side Ident ID 1:N Improvement Dimension Events Change from KoSit to 2.01  </description>
+        <description>New and planned Version 1.0.1.0  Minor corrections Click to Dial for phone and mobile number Show unknown numbers on incoming calls The CTI client opens automatically when you log in to Business Central  Planned functions for future versions  Refining the dashboard Automatic creation of contacts for unknown numbers Customization of the job list to match the app Editable CTI notes  </description>
       </item>
       
       <item>
@@ -286,6 +254,24 @@ Please return at a later date, when we will have added further informative conte
         
         <guid>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/new-and-planned/v1.0.1.0/</guid>
         <description>New and planned Version 1.0.1.0  Status tracking in dashboard Invoice accompanying attachments Revised XRechnung dialog Syntax check of Ident ID Extension of input for Ident IDs XRechnung version adapted  Planned features for future versions  Service invoices and service credit notes Extension and improvement of the XRechnung setting on the customer side Ident ID 1:N Improvement Dimension Events Change from KoSit to 2.01  </description>
+      </item>
+      
+      <item>
+        <title>V1.0.1.1 &amp; Roadmap</title>
+        <link>http://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.1.1/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.1.1/</guid>
+        <description>New and plannedd Version 1.0.1.1  Corrections in the translation  Planned functions for future versions -</description>
+      </item>
+      
+      <item>
+        <title>V1.0.1.1 &amp; Roadmap</title>
+        <link>http://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.1.1/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.1.1/</guid>
+        <description>Neu und geplant Version 1.0.1.1  The Connector 365 XRechnung app now relies on our base app Adding events to control the XRechnung Bug fixes  Geplante Funktionen für zukünftige Versionen    </description>
       </item>
       
       <item>
@@ -394,15 +380,6 @@ There are many places that cause an XRechnung to not conform to the schema. For 
       
       <item>
         <title>Not sent?</title>
-        <link>http://docs.belware.de/en-us/apps/xrechnung/faq/not-sent/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/en-us/apps/xrechnung/faq/not-sent/</guid>
-        <description>FAQ Why was my invoice not sent? Make sure that the invoice you are trying to send is compliant with the requirement of the XRechung. You can check this by looking at the report that is displayed when a compliancy error exists. These can be missing information on the customer or in the invoice.</description>
-      </item>
-      
-      <item>
-        <title>Not sent?</title>
         <link>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/faq/not-sent/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -435,9 +412,9 @@ Start by opening the report selection of the report you want, in this example we
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/en-us/apps/cti-for-starface/first-steps/setup/starface-modul/</guid>
-        <description>Setup Setting up the STARFACE module In order for the communication between Microsoft Dynamics 365 Business Central and the STARFACE telephone system to work, a setup must take place here as well. For this you need a module which you can download here.
-After you have added the module via the admin portal, it still has to be configured. You can access the configuration via the pencil icon.
-Under the Setup tab, you must now set up the users using the Starface Login ID.</description>
+        <description>Setup Setting up the STARFACE module In order for the communication between Microsoft Dynamics 365 Business Central and the STARFACE telephone system to work, a setup must take place here as well. For this you need a module which you can download on this page.
+Download here
+After you have added the module via the admin portal, it still has to be configured. You can access the configuration via the pencil icon.</description>
       </item>
       
       <item>
@@ -527,15 +504,6 @@ After the Connector 365 CTI for STARFACE app is installed, you have the option t
       
       <item>
         <title>V1.0.0.1 &amp; Roadmap</title>
-        <link>http://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.0.1/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.0.1/</guid>
-        <description>New and planned Version 1.0.0.1  Creating an XRechnung XML file Sending the XRechnung by mail using the standard BC Mail dialog. Sending of a validation report, which confirms the conformity of the invoice to the recipient. Displaying the validation report for the user in case of &amp;ldquo;non-conformity&amp;rdquo; Aborting the sending in case of &amp;ldquo;non-conformity&amp;rdquo; Improvement of the WebService query / DLL for the check report  Planned features for future versions  Status tracking in dashboard Invoice accompanying attachments Revised XRechnung dialog Syntax check of Ident ID Extension of input for Ident IDs XRechnung version adapted  </description>
-      </item>
-      
-      <item>
-        <title>V1.0.0.1 &amp; Roadmap</title>
         <link>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/new-and-planned/v1.0.0.1/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -553,12 +521,26 @@ After the Connector 365 CTI for STARFACE app is installed, you have the option t
       </item>
       
       <item>
-        <title>V1.0.0.5 &amp; Roadmap</title>
-        <link>http://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.0.5/</link>
+        <title>V1.0.1.0 &amp; Roadmap</title>
+        <link>http://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.1.0/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>http://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.0.5/</guid>
-        <description>New and planned Version 1.0.0.5  Sending E-POST letters from posted sales invoices Shipping in color or b/w Registered mail (posting/return receipt) Archiving sent letters Shipping abroad  Planned functions for future versions  Other document types  Delivery bills Sales orders Quotes   Small improvements  </description>
+        <guid>http://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.1.0/</guid>
+        <description>New and plannedd Version 1.0.1.0   Sending of other document types (credit notes, reminders, quotations, orders)
+ Posted Sales Credit Memos Issued Reminders Quotes Sales orders    Sending duplex letters
+  Sending status (joblist) in the factbox per document in the overview
+  Two boxes for the joblist in the dashboard
+  The Connector 365 XRechnung app now relies on our base app
+  Planned functions for future versions  Reactivation of negative jobs Contacts editable in dialog Other report types (service invoices/credit memos)  Pos.</description>
+      </item>
+      
+      <item>
+        <title>V1.0.1.0 &amp; Roadmap</title>
+        <link>http://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.1.0/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.1.0/</guid>
+        <description>New and planned Version 1.0.1.0  Status tracking in dashboard Invoice accompanying attachments Revised XRechnung dialog Syntax check of Ident ID Extension of input for Ident IDs XRechnung version adapted  Planned features for future versions  Service invoices and service credit notes Extension and improvement of the XRechnung setting on the customer side Ident ID 1:N Improvement Dimension Events Change from KoSit to 2.01  </description>
       </item>
       
       <item>
@@ -568,7 +550,7 @@ After the Connector 365 CTI for STARFACE app is installed, you have the option t
         
         <guid>http://docs.belware.de/en-us/apps/cti-for-starface/working-with-cti-for-starface/cti-notes/</guid>
         <description>Working with CTI for STARFACE Creating CTI notes After your phone call, you have the option to write your own notes about the content of the conversation. You can do this directly from the &amp;ldquo;Contact card&amp;rdquo;, which should still be open after the phone call.
-First select the corresponding entry in the &amp;ldquo;CTI entries&amp;rdquo;, now look in the right area in the factbox. There you will find the area &amp;ldquo;CTI notes&amp;rdquo;, with a click on the field name, you have the possibility to write a new note.</description>
+First select the corresponding entry in the &amp;ldquo;CTI entries&amp;rdquo;, now look in the right area in the factbox. There you will find the area &amp;ldquo;CTI notes&amp;rdquo;, with a click on the field name, you have the possibility to write a new note, this note can have a maximum of 1024 characters.</description>
       </item>
       
       <item>
@@ -660,16 +642,6 @@ You can purchase additional licenses directly via this form.</description>
       
       <item>
         <title>Pricing?</title>
-        <link>http://docs.belware.de/en-us/apps/xrechnung/faq/pricing/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/en-us/apps/xrechnung/faq/pricing/</guid>
-        <description>FAQ How does the pricing work? A license for the XRechnung app costs 19,90€/month and is billed either quartly or yearly. The license is not bound to certain users. Please contact us for more information.
-If you want to purchase additional licenses for the app, you can use our form.</description>
-      </item>
-      
-      <item>
-        <title>Pricing?</title>
         <link>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/faq/pricing/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -734,6 +706,24 @@ If you want to create a new group, click &amp;ldquo;New&amp;rdquo; to activate t
       </item>
       
       <item>
+        <title>V1.0.0.1 &amp; Roadmap</title>
+        <link>http://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.0.1/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.0.1/</guid>
+        <description>New and planned Version 1.0.0.1  Creating an XRechnung XML file Sending the XRechnung by mail using the standard BC Mail dialog. Sending of a validation report, which confirms the conformity of the invoice to the recipient. Displaying the validation report for the user in case of &amp;ldquo;non-conformity&amp;rdquo; Aborting the sending in case of &amp;ldquo;non-conformity&amp;rdquo; Improvement of the WebService query / DLL for the check report  Planned features for future versions  Status tracking in dashboard Invoice accompanying attachments Revised XRechnung dialog Syntax check of Ident ID Extension of input for Ident IDs XRechnung version adapted  </description>
+      </item>
+      
+      <item>
+        <title>V1.0.0.5 &amp; Roadmap</title>
+        <link>http://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.0.5/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.0.5/</guid>
+        <description>New and planned Version 1.0.0.5  Sending E-POST letters from posted sales invoices Shipping in color or b/w Registered mail (posting/return receipt) Archiving sent letters Shipping abroad  Planned functions for future versions  Other document types  Delivery bills Sales orders Quotes   Small improvements  </description>
+      </item>
+      
+      <item>
         <title>VAT Scheme</title>
         <link>http://docs.belware.de/en-us/apps/xrechnung/first-steps/setup/setup-vat-scheme/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -787,6 +777,19 @@ Now click on the 0 at &amp;ldquo;Documents&amp;rdquo;, a window opens in which y
       </item>
       
       <item>
+        <title>Events</title>
+        <link>http://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/events/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/events/</guid>
+        <description>Working with XRechnung Events We offer you the possibility to link into our programming logic with events, here we describe how this works.
+To subscribe an event for sales invoices or service invoices, the XML port BEL365 S. Inv. XRechnung 2.0 must be specified in an EventSubscriber.
+Beispiel:
+For sales credit notes or service credit notes, the following XML port must be entered: BEL365 S. Cr. M. XRechnung 2.0.
+Example:</description>
+      </item>
+      
+      <item>
         <title>FAQ</title>
         <link>http://docs.belware.de/en-us/apps/mail-sender-plus/faq/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -811,6 +814,20 @@ Fax: +49 2362 788 90 56</description>
       </item>
       
       <item>
+        <title>Help &amp; Support</title>
+        <link>http://docs.belware.de/en-us/apps/xrechnung/help-support/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/xrechnung/help-support/</guid>
+        <description>Help &amp;amp; Support We are always happy to take care of your requests, regardless if they are general questions about the BELWARE GmbH and our products or specific questions. Just contact us either via phone or mail. We will get back to you within 1 to 2 business days.
+For general things you can reach us under:
+E-Mail: info@belware.de
+alternatively
+Phone: +49 2362 788 90 55
+Fax: +49 2362 788 90 56</description>
+      </item>
+      
+      <item>
         <title>How can I get started?</title>
         <link>http://docs.belware.de/en-us/apps/mail_attachment_plus/faq/getting-started/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -818,15 +835,6 @@ Fax: +49 2362 788 90 56</description>
         <guid>http://docs.belware.de/en-us/apps/mail_attachment_plus/faq/getting-started/</guid>
         <description>FAQ How can I get started? After installing the app you should first set up default attachments, this is possible in several places:
  Per Debtor Per Report Per Document  </description>
-      </item>
-      
-      <item>
-        <title>How do I start?</title>
-        <link>http://docs.belware.de/en-us/apps/xrechnung/faq/getting-started/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/en-us/apps/xrechnung/faq/getting-started/</guid>
-        <description>FAQ How do I start? Once the app is installed, go to the customer that should receive the XRechnung and tick the box in document layouts and add the ident ID. Then you can start sending. A more detailed guide can be found under Working with XRechnung or Setup.</description>
       </item>
       
       <item>
@@ -934,20 +942,6 @@ Fax: +49 2362 788 90 56</description>
       
       <item>
         <title>Help &amp; Support</title>
-        <link>http://docs.belware.de/en-us/apps/xrechnung/help-support/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/en-us/apps/xrechnung/help-support/</guid>
-        <description>Help &amp;amp; Support We are always happy to take care of your requests, regardless if they are general questions about the BELWARE GmbH and our products or specific questions. Just contact us either via phone or mail. We will get back to you within 1 to 2 business days.
-For general things you can reach us under:
-E-Mail: info@belware.de
-alternatively
-Phone: +49 2362 788 90 55
-Fax: +49 2362 788 90 56</description>
-      </item>
-      
-      <item>
-        <title>Help &amp; Support</title>
         <link>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/help-support/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -992,6 +986,16 @@ Connector 365 CTI for STARFACE - Quick Overview </description>
       
       <item>
         <title>Videos</title>
+        <link>http://docs.belware.de/en-us/apps/xrechnung/videos/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/xrechnung/videos/</guid>
+        <description>Videos Here you can find some informative videos about our XRechnung, each video covers a special topic
+Setup &amp;amp; Sending </description>
+      </item>
+      
+      <item>
+        <title>Videos</title>
         <link>http://docs.belware.de/en-us/apps/e-post/videos/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -1018,16 +1022,6 @@ Setup of the App </description>
         <guid>http://docs.belware.de/en-us/apps/mail_attachment_plus/videos/</guid>
         <description>Videos Here you can find some informative videos about our Mail Attachments Plus App, each video covers a special topic
 Using the App </description>
-      </item>
-      
-      <item>
-        <title>Videos</title>
-        <link>http://docs.belware.de/en-us/apps/xrechnung/videos/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/en-us/apps/xrechnung/videos/</guid>
-        <description>Videos Here you can find some informative videos about our XRechnung, each video covers a special topic
-Setup &amp;amp; Sending </description>
       </item>
       
       <item>

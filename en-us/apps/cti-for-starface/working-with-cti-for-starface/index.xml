@@ -41,7 +41,7 @@ If no call is triggered, you may have to switch off the popup blocker of your br
         
         <guid>http://docs.belware.de/en-us/apps/cti-for-starface/working-with-cti-for-starface/cti-notes/</guid>
         <description>Working with CTI for STARFACE Creating CTI notes After your phone call, you have the option to write your own notes about the content of the conversation. You can do this directly from the &amp;ldquo;Contact card&amp;rdquo;, which should still be open after the phone call.
-First select the corresponding entry in the &amp;ldquo;CTI entries&amp;rdquo;, now look in the right area in the factbox. There you will find the area &amp;ldquo;CTI notes&amp;rdquo;, with a click on the field name, you have the possibility to write a new note.</description>
+First select the corresponding entry in the &amp;ldquo;CTI entries&amp;rdquo;, now look in the right area in the factbox. There you will find the area &amp;ldquo;CTI notes&amp;rdquo;, with a click on the field name, you have the possibility to write a new note, this note can have a maximum of 1024 characters.</description>
       </item>
       
       <item>

@@ -35,9 +35,9 @@ After you have set up here, you can proceed with the rest of the setup.</descrip
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/en-us/apps/cti-for-starface/first-steps/setup/starface-modul/</guid>
-        <description>Setup Setting up the STARFACE module In order for the communication between Microsoft Dynamics 365 Business Central and the STARFACE telephone system to work, a setup must take place here as well. For this you need a module which you can download here.
-After you have added the module via the admin portal, it still has to be configured. You can access the configuration via the pencil icon.
-Under the Setup tab, you must now set up the users using the Starface Login ID.</description>
+        <description>Setup Setting up the STARFACE module In order for the communication between Microsoft Dynamics 365 Business Central and the STARFACE telephone system to work, a setup must take place here as well. For this you need a module which you can download on this page.
+Download here
+After you have added the module via the admin portal, it still has to be configured. You can access the configuration via the pencil icon.</description>
       </item>
       
       <item>

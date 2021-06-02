@@ -49,6 +49,20 @@ Protokoll Gesendete XRechnungen In dem detaillierten Versandprotokoll &amp;ldquo
 Protokoll Fehlerhafte XRechnungen Hier werden XRechnungen abgebildet, welche durch die Prüfung durchgefallen sind und nicht als XRechnung akzeptiert werden. Dies kann unterschiedliche Gründe haben – Welche genau, können Sie herausfinden indem Sie den Prüfbericht öffnen.</description>
       </item>
       
+      <item>
+        <title>Events</title>
+        <link>http://docs.belware.de/de-de/apps/xrechnung/working-with-xrechnung/events/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/xrechnung/working-with-xrechnung/events/</guid>
+        <description>Arbeiten mit XRechnung Events Wir bieten Ihnen die Möglichkeit sich mit Events in unsere Programmierlogik einzuklinken, hier beschreiben wir Ihnen wie dies geht.
+Um ein Event für Verkaufsrechnungen bzw. Servicerechnungen zu subscriben, muss der XML-Port BEL365 S. Inv. XRechnung 2.0 in einem EventSubscriber angegeben werden.
+Beispiel:
+Für Verkaufsgutschriften bzw. Servicegutschriften ist als folgender XML-Port einzutragen: BEL365 S. Cr. M. XRechnung 2.0.
+Beispiel:
+Die XRechnung-Events bieten die Möglichkeit, Business Terms zu „füllen“ nachdem Sie standardmäßig gesetzt werden und noch bevor Sie weiterverarbeitet, also in die resultierende XML-Datei eingefügt werden.</description>
+      </item>
+      
     
   </channel>
 </rss>

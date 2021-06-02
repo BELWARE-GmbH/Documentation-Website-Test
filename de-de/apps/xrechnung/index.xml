@@ -15,15 +15,6 @@
     
       
       <item>
-        <title>Erste Schritte</title>
-        <link>http://docs.belware.de/de-de/apps/xrechnung/first-steps/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/de-de/apps/xrechnung/first-steps/</guid>
-        <description></description>
-      </item>
-      
-      <item>
         <title>Neu und geplant</title>
         <link>http://docs.belware.de/de-de/apps/xrechnung/new-and-planned/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -33,20 +24,20 @@
       </item>
       
       <item>
+        <title>Erste Schritte</title>
+        <link>http://docs.belware.de/de-de/apps/xrechnung/first-steps/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/xrechnung/first-steps/</guid>
+        <description></description>
+      </item>
+      
+      <item>
         <title>Arbeiten mit XRechnung</title>
         <link>http://docs.belware.de/de-de/apps/xrechnung/working-with-xrechnung/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/de-de/apps/xrechnung/working-with-xrechnung/</guid>
-        <description></description>
-      </item>
-      
-      <item>
-        <title>FAQ</title>
-        <link>http://docs.belware.de/de-de/apps/xrechnung/faq/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/de-de/apps/xrechnung/faq/</guid>
         <description></description>
       </item>
       
@@ -71,7 +62,7 @@ Fax: +49 2362 788 90 56</description>
         
         <guid>http://docs.belware.de/de-de/apps/xrechnung/videos/</guid>
         <description>Videos Hier finden Sie einige informative Videos zur unserer XRechnung, jedes Video behandelt ein spezielles Thema
-Einrichtung und Versand </description>
+Einrichtung und Versand </description>
       </item>
       
     
