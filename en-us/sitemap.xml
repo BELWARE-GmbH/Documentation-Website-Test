@@ -18,6 +18,81 @@
   </url>
   
   <url>
+    <loc>http://docs.belware.de/en-us/apps/cti-for-starface/first-steps/installation/appsource/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/installation/appsource/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/cti-for-starface/first-steps/installation/appsource/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/en-us/apps/e-post/first-steps/installation/appsource/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/e-post/first-steps/installation/appsource/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/e-post/first-steps/installation/appsource/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/installation/appsource/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/installation/appsource/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/installation/appsource/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/installation/appsource/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/mail_attachment_plus/first-steps/installation/appsource/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/installation/appsource/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/en-us/apps/xrechnung/first-steps/installation/appsource/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/xrechnung/first-steps/installation/appsource/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/xrechnung/first-steps/installation/appsource/"
+                />
+  </url>
+  
+  <url>
     <loc>http://docs.belware.de/en-us/apps/cti-for-starface/working-with-cti-for-starface/click-to-dial/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -314,21 +389,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://docs.belware.de/en-us/legalnotice/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://docs.belware.de/en-us/apps/mail_attachment_plus/faq/limits/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="http://docs.belware.de/de-de/apps/mail_attachment_plus/faq/limits/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://docs.belware.de/en-us/apps/mail_attachment_plus/faq/limits/"
                 />
   </url>
   
@@ -878,17 +938,77 @@
   </url>
   
   <url>
-    <loc>http://docs.belware.de/en-us/apps/mail_attachment_plus/faq/outside-timeframe/</loc>
+    <loc>http://docs.belware.de/en-us/apps/cti-for-starface/first-steps/installation/onprem/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="http://docs.belware.de/de-de/apps/mail_attachment_plus/faq/outside-timeframe/"
+                href="http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/installation/onprem/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://docs.belware.de/en-us/apps/mail_attachment_plus/faq/outside-timeframe/"
+                href="http://docs.belware.de/en-us/apps/cti-for-starface/first-steps/installation/onprem/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/en-us/apps/e-post/first-steps/installation/onprem/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/e-post/first-steps/installation/onprem/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/e-post/first-steps/installation/onprem/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/installation/onprem/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/installation/onprem/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/installation/onprem/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/installation/onprem/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/mail_attachment_plus/first-steps/installation/onprem/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/installation/onprem/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/en-us/apps/xrechnung/first-steps/installation/onprem/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/xrechnung/first-steps/installation/onprem/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/xrechnung/first-steps/installation/onprem/"
                 />
   </url>
   
@@ -1148,6 +1268,26 @@
   </url>
   
   <url>
+    <loc>http://docs.belware.de/en-us/apps/e-post/first-steps/installation/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/e-post/first-steps/installation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/e-post/first-steps/installation/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/installation/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/installation/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1165,6 +1305,11 @@
   <url>
     <loc>http://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/installation/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/installation/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
@@ -1175,6 +1320,11 @@
                 hreflang="en-us"
                 href="http://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/installation/"
                 />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/en-us/apps/xrechnung/first-steps/installation/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
@@ -1204,21 +1354,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/installation/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://docs.belware.de/en-us/apps/mail_attachment_plus/faq/pricing/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="http://docs.belware.de/de-de/apps/mail_attachment_plus/faq/pricing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://docs.belware.de/en-us/apps/mail_attachment_plus/faq/pricing/"
                 />
   </url>
   
@@ -1538,21 +1673,6 @@
   </url>
   
   <url>
-    <loc>http://docs.belware.de/en-us/apps/mail_attachment_plus/faq/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="http://docs.belware.de/de-de/apps/mail_attachment_plus/faq/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://docs.belware.de/en-us/apps/mail_attachment_plus/faq/"
-                />
-  </url>
-  
-  <url>
     <loc>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/faq/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1598,21 +1718,6 @@
   </url>
   
   <url>
-    <loc>http://docs.belware.de/en-us/apps/mail_attachment_plus/faq/getting-started/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="http://docs.belware.de/de-de/apps/mail_attachment_plus/faq/getting-started/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://docs.belware.de/en-us/apps/mail_attachment_plus/faq/getting-started/"
-                />
-  </url>
-  
-  <url>
     <loc>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/faq/getting-started/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1630,16 +1735,6 @@
   <url>
     <loc>http://docs.belware.de/en-us/apps/e-post/first-steps/installation/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="http://docs.belware.de/de-de/apps/e-post/first-steps/installation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://docs.belware.de/en-us/apps/e-post/first-steps/installation/"
-                />
   </url>
   
   <url>
@@ -1744,21 +1839,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-unit-codes/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://docs.belware.de/en-us/apps/mail_attachment_plus/faq/customer-overwrite/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="http://docs.belware.de/de-de/apps/mail_attachment_plus/faq/customer-overwrite/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://docs.belware.de/en-us/apps/mail_attachment_plus/faq/customer-overwrite/"
                 />
   </url>
   

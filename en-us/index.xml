@@ -25,6 +25,61 @@ Repeat this process until your license capacity is used up.</description>
       </item>
       
       <item>
+        <title>AppSource</title>
+        <link>http://docs.belware.de/en-us/apps/cti-for-starface/first-steps/installation/appsource/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/cti-for-starface/first-steps/installation/appsource/</guid>
+        <description>Installation AppSource Using the search function, open the Extension Marketplace and open it.
+The Microsoft AppSource opens. There you can use the search function again to find the Connector 365 CTI for STARFACE. Click on Get it now to start the installation. Before the installation starts, you have to provide some contact information.
+After submitting your contact information, you will be prompted to choose a language for the app. Our Connector 365 E-POST App* is available in English and German.</description>
+      </item>
+      
+      <item>
+        <title>AppSource</title>
+        <link>http://docs.belware.de/en-us/apps/e-post/first-steps/installation/appsource/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/e-post/first-steps/installation/appsource/</guid>
+        <description>Installation AppSource Using the search function, open the Extension Marketplace and open it.
+The Microsoft AppSource opens. There you can use the search function again to find the Connector 365 CTI for STARFACE. Click on Get it now to start the installation. Before the installation starts, you have to provide some contact information.
+After submitting your contact information, you will be prompted to choose a language for the app. Our Connector 365 E-POST App* is available in English and German.</description>
+      </item>
+      
+      <item>
+        <title>AppSource</title>
+        <link>http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/installation/appsource/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/installation/appsource/</guid>
+        <description>Installation AppSource Using the search function, open the Extension Marketplace and open it.
+The Microsoft AppSource opens. There you can use the search function again to find the Connector 365 CTI for STARFACE. Click on Get it now to start the installation. Before the installation starts, you have to provide some contact information.
+After submitting your contact information, you will be prompted to choose a language for the app. Our Connector 365 E-POST App* is available in English and German.</description>
+      </item>
+      
+      <item>
+        <title>AppSource</title>
+        <link>http://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/installation/appsource/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/installation/appsource/</guid>
+        <description>Installation AppSource Using the search function, open the Extension Marketplace and open it.
+The Microsoft AppSource opens. There you can use the search function again to find the Connector 365 CTI for STARFACE. Click on Get it now to start the installation. Before the installation starts, you have to provide some contact information.
+After submitting your contact information, you will be prompted to choose a language for the app. Our Connector 365 E-POST App* is available in English and German.</description>
+      </item>
+      
+      <item>
+        <title>AppSource</title>
+        <link>http://docs.belware.de/en-us/apps/xrechnung/first-steps/installation/appsource/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/xrechnung/first-steps/installation/appsource/</guid>
+        <description>Installation AppSource Using the search function, open the Extension Marketplace and open it.
+The Microsoft AppSource opens. There you can use the search function again to find the Connector 365 CTI for STARFACE. Click on Get it now to start the installation. Before the installation starts, you have to provide some contact information.
+After submitting your contact information, you will be prompted to choose a language for the app. Our Connector 365 E-POST App* is available in English and German.</description>
+      </item>
+      
+      <item>
         <title>Click to dial</title>
         <link>http://docs.belware.de/en-us/apps/cti-for-starface/working-with-cti-for-starface/click-to-dial/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -140,15 +195,6 @@ According to the Decision of the IT Planning Council of 22.06.2017 (Link only av
         <guid>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/introduction/</guid>
         <description>First steps Introduction XRechnung - the standard for electronic invoicing for public clients As of 27.11.2020, suppliers of public clients must send invoices in the so-called &amp;ldquo;XRechnung&amp;rdquo; format. This format is an XML-based data model that is currently being established as the standard for electronic invoices.
 According to the Decision of the IT Planning Council of 22.06.2017 (Link only available in German), XRechnung is decisive for the implementation of the Directive 2014/55/EU (Link only available in German) in Germany.</description>
-      </item>
-      
-      <item>
-        <title>Limitations?</title>
-        <link>http://docs.belware.de/en-us/apps/mail_attachment_plus/faq/limits/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/en-us/apps/mail_attachment_plus/faq/limits/</guid>
-        <description>FAQ What are my limits in the free version? When using the free version you are limited to a single user. That user however can utilize the app to its full extent.</description>
       </item>
       
       <item>
@@ -388,12 +434,53 @@ There are many places that cause an XRechnung to not conform to the schema. For 
       </item>
       
       <item>
-        <title>Outside timeframe?</title>
-        <link>http://docs.belware.de/en-us/apps/mail_attachment_plus/faq/outside-timeframe/</link>
+        <title>onPrem</title>
+        <link>http://docs.belware.de/en-us/apps/cti-for-starface/first-steps/installation/onprem/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>http://docs.belware.de/en-us/apps/mail_attachment_plus/faq/outside-timeframe/</guid>
-        <description>FAQ Wh was my default attached despite it being outside of the given date range? Make sure that you are dating your default attachments according to the work date of your Dynamics environment and not the your system</description>
+        <guid>http://docs.belware.de/en-us/apps/cti-for-starface/first-steps/installation/onprem/</guid>
+        <description>Installation onPrem You will receive the objects for the Connector 365 Base &amp;amp; CTI for STARFACE App from us by mail. In order to be able to use the App, they must first be published and then installed.
+Publishing of the Connector 365 Base &amp;amp; CTI for STARFACE App the publishing of the Connector Base &amp;amp; CTI for STARFACE App is done via the Business Central Administration Shell. First transfer the files we sent to you to the server where your Business Central instance is running.</description>
+      </item>
+      
+      <item>
+        <title>onPrem</title>
+        <link>http://docs.belware.de/en-us/apps/e-post/first-steps/installation/onprem/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/e-post/first-steps/installation/onprem/</guid>
+        <description>Installation onPrem You will receive the objects for the Connector 365 Base &amp;amp; E-POST App from us by mail. In order to be able to use the App, they must first be published and then installed.
+Publishing of the Connector 365 Base &amp;amp; E-POST App the publishing of the Connector Base &amp;amp; E-POST App is done via the Business Central Administration Shell. First transfer the files we sent to you to the server where your Business Central instance is running.</description>
+      </item>
+      
+      <item>
+        <title>onPrem</title>
+        <link>http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/installation/onprem/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/installation/onprem/</guid>
+        <description>Installation onPrem You will receive the objects for the Connector 365 Base &amp;amp; Mail Sender Plus App from us by mail. In order to be able to use the App, they must first be published and then installed.
+Publishing of the Connector 365 Base &amp;amp; Mail Sender Plus App the publishing of the Connector Base &amp;amp; Mail Sender Plus App is done via the Business Central Administration Shell. First transfer the files we sent to you to the server where your Business Central instance is running.</description>
+      </item>
+      
+      <item>
+        <title>onPrem</title>
+        <link>http://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/installation/onprem/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/installation/onprem/</guid>
+        <description>Installation onPrem You will receive the objects for the Connector 365 Base &amp;amp; Mail Attachment Plus App from us by mail. In order to be able to use the App, they must first be published and then installed.
+Publishing of the Connector 365 Base &amp;amp; Mail Attachment Plus App the publishing of the Connector Base &amp;amp; Mail Attachment Plus App is done via the Business Central Administration Shell. First transfer the files we sent to you to the server where your Business Central instance is running.</description>
+      </item>
+      
+      <item>
+        <title>onPrem</title>
+        <link>http://docs.belware.de/en-us/apps/xrechnung/first-steps/installation/onprem/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/xrechnung/first-steps/installation/onprem/</guid>
+        <description>Installation onPrem You will receive the objects for the Connector 365 Base &amp;amp; XRechnung App from us by mail. In order to be able to use the App, they must first be published and then installed.
+Publishing of the Connector 365 Base &amp;amp; XRechnung App the publishing of the Connector Base &amp;amp; XRechnung App is done via the Business Central Administration Shell. First transfer the files we sent to you to the server where your Business Central instance is running.</description>
       </item>
       
       <item>
@@ -577,17 +664,6 @@ If you are using a Business Central version in which the Mail Experience is not 
       
       <item>
         <title>Installation</title>
-        <link>http://docs.belware.de/en-us/apps/cti-for-starface/first-steps/installation/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/en-us/apps/cti-for-starface/first-steps/installation/</guid>
-        <description>First steps Installation Using the search function, open the Extension Marketplace and open it.
-The Microsoft AppSource opens. There you can use the search function again to find the Connector 365 CTI for STARFACE. Click on Get it now to start the installation. Before the installation starts, you have to provide some contact information.
-After submitting your contact information, you will be prompted to choose a language for the app. Our Connector 365 E-POST App* is available in English and German.</description>
-      </item>
-      
-      <item>
-        <title>Installation</title>
         <link>http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/installation/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -628,16 +704,6 @@ After submitting your contact information, you will be prompted to choose a lang
         <description>First steps Installation Using the search function, open the Extension Marketplace and open it.
 The Microsoft AppSource will open. There you can use the search function again to find the Connector 365 XRechnung. Click on Free Trial to start the installation. Before the installation finally starts, you need to provide some contact information.
 After submitting your contact information, you will be prompted to choose a language for the app. Our app is available in English and German.</description>
-      </item>
-      
-      <item>
-        <title>Pricing?</title>
-        <link>http://docs.belware.de/en-us/apps/mail_attachment_plus/faq/pricing/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/en-us/apps/mail_attachment_plus/faq/pricing/</guid>
-        <description>FAQ Wie sieht die Preisgestaltung aus? The free version offers a single free user, additional users can be licensed for 0,90€ per licensed User. Depending on your wishes we will send invoices either monthly, quarterly or yearly.
-You can purchase additional licenses directly via this form.</description>
       </item>
       
       <item>
@@ -828,16 +894,6 @@ Fax: +49 2362 788 90 56</description>
       </item>
       
       <item>
-        <title>How can I get started?</title>
-        <link>http://docs.belware.de/en-us/apps/mail_attachment_plus/faq/getting-started/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/en-us/apps/mail_attachment_plus/faq/getting-started/</guid>
-        <description>FAQ How can I get started? After installing the app you should first set up default attachments, this is possible in several places:
- Per Debtor Per Report Per Document  </description>
-      </item>
-      
-      <item>
         <title>How do I start?</title>
         <link>http://docs.belware.de/en-us/connector-on-appsource/xrechnung/faq/getting-started/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -887,15 +943,6 @@ Then you should adjust the field &amp;ldquo;International Standard Code” accor
         <description>Setup Check standard codes for units Another point worth checking are unit codes. These must have a special designation to be PEPPOL compliant in order to be accepted.
 The quickest way to get to the list of unit codes is to use the search function and search for “Units of Measure”.
 Then you should adjust the field &amp;ldquo;International Standard Code” according to the UN/ECE Recommendation 20 or 21.</description>
-      </item>
-      
-      <item>
-        <title>Customer overwrites report?</title>
-        <link>http://docs.belware.de/en-us/apps/mail_attachment_plus/faq/customer-overwrite/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/en-us/apps/mail_attachment_plus/faq/customer-overwrite/</guid>
-        <description>FAQ Why are the defaults per customer overwriting the defaults per report? To attach both default attachments per customer and default attachments per report you need to go into the document layout of the chosen customer and tick the box called &amp;ldquo;Attach Default&amp;rdquo;. This way both the default per customer and the default per report will be attached.</description>
       </item>
       
       <item>
