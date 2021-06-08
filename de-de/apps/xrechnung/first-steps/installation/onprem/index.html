@@ -2402,14 +2402,6 @@ if (!doNotTrack) {
         
         
         <li>
-          <a href="http://docs.belware.de/de-de/apps/mail-sender-plus/faq/" class="menu__title " data-depth="0">FAQ</a>
-        </li>
-      
-    
-      
-        
-        
-        <li>
           <a href="http://docs.belware.de/de-de/apps/mail-sender-plus/help-support/" class="menu__title " data-depth="0">Hilfe &amp; Support</a>
         </li>
       
@@ -4332,14 +4324,6 @@ if (!doNotTrack) {
         
         
         <li>
-          <a href="http://docs.belware.de/de-de/apps/mail-sender-plus/faq/" class="menu__title " data-depth="0">FAQ</a>
-        </li>
-      
-    
-      
-        
-        
-        <li>
           <a href="http://docs.belware.de/de-de/apps/mail-sender-plus/help-support/" class="menu__title " data-depth="0">Hilfe &amp; Support</a>
         </li>
       
@@ -4719,6 +4703,9 @@ if (!doNotTrack) {
 <p>Sie erhalten von uns die Objekte für die Connector 365 Base &amp; XRechnung App per Mail, damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.</p>
 <h4 id="veröffentlichen-der-connector-365-base--xrechnung-app">Veröffentlichen der Connector 365 Base &amp; XRechnung App</h4>
 <p>Das veröffentlichen der Connector 365 Base &amp; XRechnung App erfolgt via der <strong>Business Central Administration Shell</strong>. Transferieren Sie zunächst die von uns an Sie gesendete Dateien auf dem Server auf dem Ihre Business Central Instanz läuft.</p>
+<p><p class="md__image">
+  <img src="/images/apps/adminshell.PNG" alt=""  />
+</p></p>
 <p>Starten Sie nun die <strong>Business Central Administration Shell</strong> um den Prozess der Veröffentlichung zu starten. Navigieren Sie mit der Administration Shell zunächst an den Speicherort für die Datei mit dem <strong>cd</strong> Befehl.</p>
 <p><strong>Beispiel:</strong></p>
 <p><code>cd C:\Apps</code></p>
@@ -4738,11 +4725,18 @@ if (!doNotTrack) {
 </div>
 <h1 id="heading-1"></h1>
 <h4 id="installieren-der-connector-365-base--xrechnung-app">Installieren der Connector 365 Base &amp; XRechnung App</h4>
+<p>In der Erweiterungsverwaltung Ihrer Umgebung werden Sie Ihnne nun die Apps als veröffentlicht angezeigt, jedoch sind diese noch nicht installiert.</p>
+<p><p class="md__image">
+  <img src="/images/apps/xrechnungpublishde.PNG" alt=""  />
+</p></p>
 <h5 id="installieren-via-des-clients">Installieren via des Clients</h5>
 <p>Öffnen Sie Ihre Business Central Umgebung, öffnen Sie die Suchfunktion und suchen Sie nach der <strong>Erweiterungsverwaltung</strong>.</p>
 <p>Dort sollten Sie nun die beiden Apps vorfinden mit dem Status nicht installiert. Mit einem Klick auf die 3 Punkte der jeweiligen App, können Sie diese nun über den Punkt <strong>Installieren</strong> in Ihrer Umgebung installieren.</p>
+<p><p class="md__image">
+  <img src="/images/apps/appinstallde.PNG" alt=""  />
+</p></p>
 <h5 id="installieren-via-der-administration-shell">Installieren via der Administration Shell</h5>
-<p>Für den Fall, dass Sie die Installation über die Administration Shell vornehmen wollen, müssen Sie den <strong>Install-NAVApp</strong> Befehl nutzen. Dabei sollten Sie die <strong>Tenant ID</strong> spezifizieren. In den folgenden Beispielen installieren wir die Apps in zwei Tenants.</p>
+<p>Für den Fall, dass Sie die Installation über die Administration Shell vornehmen wollen (dies hat den Vorteil, dass man gleich auf mehreren Tenants installieren kann), müssen Sie den <strong>Install-NAVApp</strong> Befehl nutzen. Dabei sollten Sie die <strong>Tenant ID</strong> spezifizieren. In den folgenden Beispielen installieren wir die Apps in zwei Tenants.</p>
 <div class="notices info" data-title="Hinweis">
   <em>Auch die Reihenfolge bei der Installation spielt eine Rolle, installieren Sie bitte zuerst immer die Connector 365 Base App</em>
 </div>
