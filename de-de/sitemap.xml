@@ -713,6 +713,81 @@
   </url>
   
   <url>
+    <loc>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/test-purchase/appsource/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/cti-for-starface/first-steps/test-purchase/appsource/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/test-purchase/appsource/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/de-de/apps/e-post/first-steps/test-purchase/appsource/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/e-post/first-steps/test-purchase/appsource/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/e-post/first-steps/test-purchase/appsource/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/test-purchase/appsource/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/test-purchase/appsource/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/test-purchase/appsource/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/de-de/apps/mail_attachment_plus/first-steps/test-purchase/appsource/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/test-purchase/appsource/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/mail_attachment_plus/first-steps/test-purchase/appsource/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/de-de/apps/xrechnung/first-steps/test-purchase/appsource/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/xrechnung/first-steps/test-purchase/appsource/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/xrechnung/first-steps/test-purchase/appsource/"
+                />
+  </url>
+  
+  <url>
     <loc>http://docs.belware.de/de-de/apps/e-post/working-with-e-post/archive/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -968,6 +1043,21 @@
   </url>
   
   <url>
+    <loc>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/test-purchase/onprem/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/cti-for-starface/first-steps/test-purchase/onprem/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/test-purchase/onprem/"
+                />
+  </url>
+  
+  <url>
     <loc>http://docs.belware.de/de-de/apps/e-post/first-steps/installation/onprem/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -979,6 +1069,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="http://docs.belware.de/de-de/apps/e-post/first-steps/installation/onprem/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/de-de/apps/e-post/first-steps/test-purchase/onprem/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/e-post/first-steps/test-purchase/onprem/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/e-post/first-steps/test-purchase/onprem/"
                 />
   </url>
   
@@ -998,6 +1103,21 @@
   </url>
   
   <url>
+    <loc>http://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/test-purchase/onprem/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/test-purchase/onprem/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/test-purchase/onprem/"
+                />
+  </url>
+  
+  <url>
     <loc>http://docs.belware.de/de-de/apps/mail_attachment_plus/first-steps/installation/onprem/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1013,6 +1133,21 @@
   </url>
   
   <url>
+    <loc>http://docs.belware.de/de-de/apps/mail_attachment_plus/first-steps/test-purchase/onprem/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/test-purchase/onprem/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/mail_attachment_plus/first-steps/test-purchase/onprem/"
+                />
+  </url>
+  
+  <url>
     <loc>http://docs.belware.de/de-de/apps/xrechnung/first-steps/installation/onprem/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1024,6 +1159,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="http://docs.belware.de/de-de/apps/xrechnung/first-steps/installation/onprem/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/de-de/apps/xrechnung/first-steps/test-purchase/onprem/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/xrechnung/first-steps/test-purchase/onprem/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/xrechnung/first-steps/test-purchase/onprem/"
                 />
   </url>
   

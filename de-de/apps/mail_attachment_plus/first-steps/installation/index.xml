@@ -26,12 +26,12 @@ Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert e
       </item>
       
       <item>
-        <title>onPrem</title>
+        <title>OnPrem</title>
         <link>http://docs.belware.de/de-de/apps/mail_attachment_plus/first-steps/installation/onprem/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/de-de/apps/mail_attachment_plus/first-steps/installation/onprem/</guid>
-        <description>Installation onPrem Sie erhalten von uns die Objekte für die Connector 365 Base &amp;amp; Mail Attachment Plus App per Mail, damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
+        <description>Installation OnPrem Sie erhalten von uns die Objekte für die Connector 365 Base &amp;amp; Mail Attachment Plus App per Mail, damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
 Veröffentlichen der Connector 365 Base &amp;amp; Mail Attachment Plus App Das veröffentlichen der Connector 365 Base &amp;amp; Mail Attachment Plus App erfolgt via der Business Central Administration Shell. Transferieren Sie zunächst die von uns an Sie gesendete Dateien auf dem Server auf dem Ihre Business Central Instanz läuft.</description>
       </item>
       

@@ -343,6 +343,71 @@ Nachdem Sie die Einrichtung hier vorgenommen haben, können Sie mit der weiteren
       </item>
       
       <item>
+        <title>AppSource</title>
+        <link>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/test-purchase/appsource/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/test-purchase/appsource/</guid>
+        <description>Test &amp;amp; Kauf AppSource Die Connector 365 CTI for STARFACE App steht Ihnen im Microsoft AppSource zur Verfügung.
+Nachdem die Connector 365 CTI for STARFACE App installiert wurde, haben Sie die Möglichkeit sofort loszulegen und die App kostenlos zu nutzen. In der kostenlosen Version sind Sie jedoch auf eine einzigen Benutzer in der Einrichtung limitiert. Außerhalb dieser Limitation können Sie die Optionen der Connector 365 CTI for STARFACE App jedoch voll nutzen.</description>
+      </item>
+      
+      <item>
+        <title>AppSource</title>
+        <link>http://docs.belware.de/de-de/apps/e-post/first-steps/test-purchase/appsource/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/e-post/first-steps/test-purchase/appsource/</guid>
+        <description>Test &amp;amp; Kauf AppSource Die Connector 365 E-POST App* steht Ihnen im Microsoft AppSource zur Verfügung.
+Nach dem Download haben Sie folgende Testmöglichkeiten:
+Kein registrierter E-POST Kunde
+Sie erhalten beim testen der Connector 365 E-POST App eine Nachricht mit dem Hinweis, dass an dieser Stelle ein Briefversand stattfinden würde. Wenn Sie sich registrieren wollen, finden Sie hier eine Anleitung.
+Registrierter E-POST Kunde
+Ihnen stehen als registrierter E-POST Kunde folgende Möglichkeiten zur Verfügung:</description>
+      </item>
+      
+      <item>
+        <title>AppSource</title>
+        <link>http://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/test-purchase/appsource/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/test-purchase/appsource/</guid>
+        <description>Test &amp;amp; Kauf AppSource Die App steht Ihnen im Microsoft AppSource zur Verfügung.
+Nach dem Download kann ein Nutzer die App komplett frei benutzen.
+Für den Fall, dass weitere Nutzer die Funktionen der App nutzen sollen, können Sie über unser Formular kostenpflichtig weitere Lizenzen erwerben.
+Zum Formular
+Connector 365 Mail Sender Plus steht Ihnen für die folgende BC Lizensierung zur Verfügung:
+ SaaS Essential SaaS Premium  </description>
+      </item>
+      
+      <item>
+        <title>AppSource</title>
+        <link>http://docs.belware.de/de-de/apps/mail_attachment_plus/first-steps/test-purchase/appsource/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/mail_attachment_plus/first-steps/test-purchase/appsource/</guid>
+        <description>Test &amp;amp; Kauf AppSource Die App steht Ihnen im Microsoft AppSource zur Verfügung.
+Nach dem Download kann ein Nutzer die App komplett frei benutzen.
+Für den Fall, dass weitere Nutzer die Funktionen der App nutzen sollen, können Sie über unser Formular kostenpflichtig weitere Lizenzen erwerben.
+Zum Formular
+Connector 365 XRechnung steht Ihnen für die folgende BC Lizensierung zur Verfügung:
+ SaaS Essential SaaS Premium  </description>
+      </item>
+      
+      <item>
+        <title>AppSource</title>
+        <link>http://docs.belware.de/de-de/apps/xrechnung/first-steps/test-purchase/appsource/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/xrechnung/first-steps/test-purchase/appsource/</guid>
+        <description>Test &amp;amp; Kauf AppSource Die App steht Ihnen im Microsoft AppSource zur Verfügung.
+Nach dem Download steht Ihnen die App für 5 Vorgänge kostenlos zur Verfügung.
+Sind diese erreicht, haben Sie die Möglichkeit, Ihre App direkt über unser Formular zu bestellen.
+Zum Formular
+Ist der Testzeitraum für Sie zu knapp, dann setzen Sie sich mit uns unter support@belware.de in Verbindung. Gerne können vereinbaren wir mit Ihnen einen individuellen Testzeitraum.</description>
+      </item>
+      
+      <item>
         <title>Archiv</title>
         <link>http://docs.belware.de/de-de/apps/e-post/working-with-e-post/archive/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -455,53 +520,108 @@ Es gibt viele Stellen, die dazu führen, dass eine XRechnung nicht dem Schema en
       </item>
       
       <item>
-        <title>onPrem</title>
+        <title>OnPrem</title>
         <link>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/installation/onprem/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/installation/onprem/</guid>
-        <description>Installation onPrem Sie erhalten von uns die Objekte für die Connector 365 Base &amp;amp; CTI for STARFACE App per Mail, damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
+        <description>Installation OnPrem Sie erhalten von uns die Objekte für die Connector 365 Base &amp;amp; CTI for STARFACE App per Mail, damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
 Veröffentlichen der Connector 365 Base &amp;amp; CTI for STARFACE App Das veröffentlichen der Connector 365 Base &amp;amp; CTI for STARFACE App erfolgt via der Business Central Administration Shell. Transferieren Sie zunächst die von uns an Sie gesendete Dateien auf dem Server auf dem Ihre Business Central Instanz läuft.</description>
       </item>
       
       <item>
-        <title>onPrem</title>
+        <title>OnPrem</title>
+        <link>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/test-purchase/onprem/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/test-purchase/onprem/</guid>
+        <description>Test &amp;amp; Kauf OnPrem Sie haben die Möglichkeit unsere Connector 365 CTI for STARFACE App unverbindlich vorab zu testen oder auch direkt zu erwerben. Hier für benötigen wir einige Informationen von Ihnen.
+Zum Formular
+Wünschen Sie eine Testphase, erhalten Sie von uns die gewünschten Objekte für einen User und einen Testzeitraum von 30 Tagen. Vor Ablauf des Testzeitraums setzen wir uns mit Ihnen in Verbindung zwecks Übernahme in Kauf oder Deaktivierung der Testphase.</description>
+      </item>
+      
+      <item>
+        <title>OnPrem</title>
         <link>http://docs.belware.de/de-de/apps/e-post/first-steps/installation/onprem/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/de-de/apps/e-post/first-steps/installation/onprem/</guid>
-        <description>Installation onPrem Sie erhalten von uns die Objekte für die Connector 365 Base &amp;amp; E-POST* App per Mail, damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
+        <description>Installation OnPrem Sie erhalten von uns die Objekte für die Connector 365 Base &amp;amp; E-POST* App per Mail, damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
 Veröffentlichen der Connector 365 Base &amp;amp; E-POST App Das veröffentlichen der Connector 365 Base &amp;amp; E-POST App erfolgt via der Business Central Administration Shell. Transferieren Sie zunächst die von uns an Sie gesendete Dateien auf dem Server auf dem Ihre Business Central Instanz läuft.</description>
       </item>
       
       <item>
-        <title>onPrem</title>
+        <title>OnPrem</title>
+        <link>http://docs.belware.de/de-de/apps/e-post/first-steps/test-purchase/onprem/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/e-post/first-steps/test-purchase/onprem/</guid>
+        <description>Test &amp;amp; Kauf OnPrem Sie haben die Möglichkeit unsere Connector 365 E-POST App* unverbindlich vorab zu testen oder auch direkt zu erwerben. Hier für benötigen wir einige Informationen von Ihnen.
+Zum Formular
+Wünschen Sie eine Testphase, erhalten Sie von uns die gewünschten Objekte für einen User und einen Testzeitraum von 30 Tagen. Vor Ablauf des Testzeitraums setzen wir uns mit Ihnen in Verbindung zwecks Übernahme in Kauf oder Deaktivierung der Testphase.</description>
+      </item>
+      
+      <item>
+        <title>OnPrem</title>
         <link>http://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/installation/onprem/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/installation/onprem/</guid>
-        <description>Installation onPrem Sie erhalten von uns die Objekte für die Connector 365 Base &amp;amp; Mail Sender Plus App per Mail, damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
+        <description>Installation OnPrem Sie erhalten von uns die Objekte für die Connector 365 Base &amp;amp; Mail Sender Plus App per Mail, damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
 Veröffentlichen der Connector 365 Base &amp;amp; Mail Sender Plus App Das veröffentlichen der Connector 365 Base &amp;amp; Mail Sender Plus App erfolgt via der Business Central Administration Shell. Transferieren Sie zunächst die von uns an Sie gesendete Dateien auf dem Server auf dem Ihre Business Central Instanz läuft.</description>
       </item>
       
       <item>
-        <title>onPrem</title>
+        <title>OnPrem</title>
+        <link>http://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/test-purchase/onprem/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/test-purchase/onprem/</guid>
+        <description>Test &amp;amp; Kauf OnPrem Sie haben die Möglichkeit unsere Connector 365 Mail Sender Plus App unverbindlich vorab zu testen oder auch direkt zu erwerben. Hier für benötigen wir einige Informationen von Ihnen.
+Zum Formular
+Wünschen Sie eine Testphase, erhalten Sie von uns die gewünschten Objekte für einen User und einen Testzeitraum von 30 Tagen. Vor Ablauf des Testzeitraums setzen wir uns mit Ihnen in Verbindung zwecks Übernahme in Kauf oder Deaktivierung der Testphase.</description>
+      </item>
+      
+      <item>
+        <title>OnPrem</title>
         <link>http://docs.belware.de/de-de/apps/mail_attachment_plus/first-steps/installation/onprem/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/de-de/apps/mail_attachment_plus/first-steps/installation/onprem/</guid>
-        <description>Installation onPrem Sie erhalten von uns die Objekte für die Connector 365 Base &amp;amp; Mail Attachment Plus App per Mail, damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
+        <description>Installation OnPrem Sie erhalten von uns die Objekte für die Connector 365 Base &amp;amp; Mail Attachment Plus App per Mail, damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
 Veröffentlichen der Connector 365 Base &amp;amp; Mail Attachment Plus App Das veröffentlichen der Connector 365 Base &amp;amp; Mail Attachment Plus App erfolgt via der Business Central Administration Shell. Transferieren Sie zunächst die von uns an Sie gesendete Dateien auf dem Server auf dem Ihre Business Central Instanz läuft.</description>
       </item>
       
       <item>
-        <title>onPrem</title>
+        <title>OnPrem</title>
+        <link>http://docs.belware.de/de-de/apps/mail_attachment_plus/first-steps/test-purchase/onprem/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/mail_attachment_plus/first-steps/test-purchase/onprem/</guid>
+        <description>Test &amp;amp; Kauf OnPrem Sie haben die Möglichkeit unsere Connector 365 Mail Attachment Plus App unverbindlich vorab zu testen oder auch direkt zu erwerben. Hier für benötigen wir einige Informationen von Ihnen.
+Zum Formular
+Wünschen Sie eine Testphase, erhalten Sie von uns die gewünschten Objekte für einen User und einen Testzeitraum von 30 Tagen. Vor Ablauf des Testzeitraums setzen wir uns mit Ihnen in Verbindung zwecks Übernahme in Kauf oder Deaktivierung der Testphase.</description>
+      </item>
+      
+      <item>
+        <title>OnPrem</title>
         <link>http://docs.belware.de/de-de/apps/xrechnung/first-steps/installation/onprem/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/de-de/apps/xrechnung/first-steps/installation/onprem/</guid>
-        <description>Installation onPrem Sie erhalten von uns die Objekte für die Connector 365 Base &amp;amp; XRechnung App per Mail, damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
+        <description>Installation OnPrem Sie erhalten von uns die Objekte für die Connector 365 Base &amp;amp; XRechnung App per Mail, damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
 Veröffentlichen der Connector 365 Base &amp;amp; XRechnung App Das veröffentlichen der Connector 365 Base &amp;amp; XRechnung App erfolgt via der Business Central Administration Shell. Transferieren Sie zunächst die von uns an Sie gesendete Dateien auf dem Server auf dem Ihre Business Central Instanz läuft.</description>
+      </item>
+      
+      <item>
+        <title>OnPrem</title>
+        <link>http://docs.belware.de/de-de/apps/xrechnung/first-steps/test-purchase/onprem/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/xrechnung/first-steps/test-purchase/onprem/</guid>
+        <description>Test &amp;amp; Kauf OnPrem Sie haben die Möglichkeit unsere Connector 365 XRechnung App unverbindlich vorab zu testen oder auch direkt zu erwerben. Hier für benötigen wir einige Informationen von Ihnen.
+Zum Formular
+Wünschen Sie eine Testphase, erhalten Sie von uns die gewünschten Objekte für einen User und einen Testzeitraum von 30 Tagen. Vor Ablauf des Testzeitraums setzen wir uns mit Ihnen in Verbindung zwecks Übernahme in Kauf oder Deaktivierung der Testphase.</description>
       </item>
       
       <item>
@@ -514,69 +634,6 @@ Veröffentlichen der Connector 365 Base &amp;amp; XRechnung App Das veröffentli
 Hier Downloaden
 Nachdem Sie das Modul über das Adminportal hinzugefügt haben, muss dieses noch konfiguriert werden. Über das Stift-Symbol gelangen Sie in die Konfiguration.
 Unter dem Reiter Einrichtung müssen Sie nun die Nutzer anhand der Starface Login-ID einrichten.</description>
-      </item>
-      
-      <item>
-        <title>Test &amp; Kauf</title>
-        <link>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/test-purchase/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/test-purchase/</guid>
-        <description>Erste Schritte Test &amp;amp; Kauf Die Connector 365 CTI for STARFACE App steht Ihnen im Microsoft AppSource zur Verfügung.
-Nachdem die Connector 365 CTI for STARFACE App installiert wurde, haben Sie die Möglichkeit sofort loszulegen und die App kostenlos zu nutzen. In der kostenlosen Version sind Sie jedoch auf eine einzigen Benutzer in der Einrichtung limitiert. Außerhalb dieser Limitation können Sie die Optionen der Connector 365 CTI for STARFACE App jedoch voll nutzen.</description>
-      </item>
-      
-      <item>
-        <title>Test &amp; Kauf</title>
-        <link>http://docs.belware.de/de-de/apps/e-post/first-steps/test-purchase/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/de-de/apps/e-post/first-steps/test-purchase/</guid>
-        <description>Erste Schritte Test &amp;amp; Kauf Die Connector 365 E-POST App* steht Ihnen im Microsoft AppSource zur Verfügung.
-Nach dem Download haben Sie folgende Testmöglichkeiten:
-Kein registrierter E-POST Kunde
-Sie erhalten beim testen der Connector 365 E-POST App eine Nachricht mit dem Hinweis, dass an dieser Stelle ein Briefversand stattfinden würde. Wenn Sie sich registrieren wollen, finden Sie hier eine Anleitung.
-Registrierter E-POST Kunde
-Ihnen stehen als registrierter E-POST Kunde folgende Möglichkeiten zur Verfügung:</description>
-      </item>
-      
-      <item>
-        <title>Test &amp; Kauf</title>
-        <link>http://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/test-purchase/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/test-purchase/</guid>
-        <description>Erste Schritte Test &amp;amp; Kauf Die App steht Ihnen im Microsoft AppSource zur Verfügung.
-Nach dem Download kann ein Nutzer die App komplett frei benutzen.
-Für den Fall, dass weitere Nutzer die Funktionen der App nutzen sollen, können Sie über unser Formular kostenpflichtig weitere Lizenzen erwerben.
-Connector 365 Mail Sender Plus steht Ihnen für die folgende BC Lizensierung zur Verfügung:
- SaaS Essential SaaS Premium  </description>
-      </item>
-      
-      <item>
-        <title>Test &amp; Kauf</title>
-        <link>http://docs.belware.de/de-de/apps/mail_attachment_plus/first-steps/test-purchase/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/de-de/apps/mail_attachment_plus/first-steps/test-purchase/</guid>
-        <description>Erste Schritte Test &amp;amp; Kauf Die App steht Ihnen im Microsoft AppSource zur Verfügung.
-Nach dem Download kann ein Nutzer die App komplett frei benutzen.
-Für den Fall, dass weitere Nutzer die Funktionen der App nutzen sollen, können Sie über unser Formular kostenpflichtig weitere Lizenzen erwerben.
-Connector 365 XRechnung steht Ihnen für die folgende BC Lizensierung zur Verfügung:
- SaaS Essential SaaS Premium  </description>
-      </item>
-      
-      <item>
-        <title>Test &amp; Kauf</title>
-        <link>http://docs.belware.de/de-de/apps/xrechnung/first-steps/test-purchase/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/de-de/apps/xrechnung/first-steps/test-purchase/</guid>
-        <description>Erste Schritte Test &amp;amp; Kauf Die App steht Ihnen im Microsoft AppSource zur Verfügung.
-Nach dem Download steht Ihnen die App für 5 Vorgänge kostenlos zur Verfügung.
-Sind diese erreicht, haben Sie die Möglichkeit, ihre App direkt zu bestellen.
-Ist der Testzeitraum für Sie zu knapp, dann setzen Sie sich mit uns unter support@belware.de in Verbindung. Gerne können vereinbaren wir mit Ihnen einen individuellen Testzeitraum.
-Connector 365 XRechnung steht Ihnen für die folgende BC Lizensierung zur Verfügung:</description>
       </item>
       
       <item>

@@ -26,12 +26,12 @@ After submitting your contact information, you will be prompted to choose a lang
       </item>
       
       <item>
-        <title>onPrem</title>
+        <title>OnPrem</title>
         <link>http://docs.belware.de/en-us/apps/xrechnung/first-steps/installation/onprem/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/en-us/apps/xrechnung/first-steps/installation/onprem/</guid>
-        <description>Installation onPrem You will receive the objects for the Connector 365 Base &amp;amp; XRechnung App from us by mail. In order to be able to use the App, they must first be published and then installed.
+        <description>Installation OnPrem You will receive the objects for the Connector 365 Base &amp;amp; XRechnung App from us by mail. In order to be able to use the App, they must first be published and then installed.
 Publishing of the Connector 365 Base &amp;amp; XRechnung App the publishing of the Connector Base &amp;amp; XRechnung App is done via the Business Central Administration Shell. First transfer the files we sent to you to the server where your Business Central instance is running.</description>
       </item>
       
