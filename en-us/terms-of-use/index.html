@@ -8,6 +8,9 @@
     
 
 
+  
+  <script defer src="/js/fuse.min.c4bee9a8d44273d6154fe86006923d4131eb2e8069d8897687137c6f37f553e3.js"></script>
+
 
 
 <script src="/js/enquire.min.aa37bdcb743826eecdae5c5d177fc7d6552340f1b4378ffaa9c82b2c6111400b.js"></script>
@@ -568,7 +571,7 @@
     
     var enableSearchHighlight = JSON.parse("true");
     
-    var enableSearch = JSON.parse("false");
+    var enableSearch = JSON.parse("true");
 
     var fuse = null;
 
@@ -1311,9 +1314,38 @@ if (!doNotTrack) {
         <div class="grow"></div>
         <div id="siteSearch">
           
+
+<div class="search" data-bgimg="false">
+  <span class="icon">
+    <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="currentColor" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0V0z"/><path d="M15.5 14h-.79l-.28-.27c1.2-1.4 1.82-3.31 1.48-5.34-.47-2.78-2.79-5-5.59-5.34-4.23-.52-7.79 3.04-7.27 7.27.34 2.8 2.56 5.12 5.34 5.59 2.03.34 3.94-.28 5.34-1.48l.27.28v.79l4.25 4.25c.41.41 1.08.41 1.49 0 .41-.41.41-1.08 0-1.49L15.5 14zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/></svg>
+  </span>
+  <input id="search" aria-label="Site Search" class="input" type="text" autocomplete="off" placeholder="Search">
+  <div id="search-results" class="dropdown">
+    <div id="search-menu" class="dropdown-menu">
+    </div>
+  </div>
+</div>
+
+
         </div>
         <div id="mobileSearch" class="hide">
           
+<div id="mobileSearchBtn" class="mobile-search__btn">
+  <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="currentColor" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0V0z"/><path d="M15.5 14h-.79l-.28-.27c1.2-1.4 1.82-3.31 1.48-5.34-.47-2.78-2.79-5-5.59-5.34-4.23-.52-7.79 3.04-7.27 7.27.34 2.8 2.56 5.12 5.34 5.59 2.03.34 3.94-.28 5.34-1.48l.27.28v.79l4.25 4.25c.41.41 1.08.41 1.49 0 .41-.41.41-1.08 0-1.49L15.5 14zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/></svg>
+</div>
+
+<div id="search-mobile-container" class="mobile-search hide">
+  <div class="mobile-search__top">
+    <input id="search-mobile" type="text" aria-label="Mobile Search" placeholder="Search..." class="mobile-search__top--input"/>
+    <div id="search-mobile-close" class="mobile-search__top--icon">
+      <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24"><path opacity=".87" fill="none" d="M0 0h24v24H0V0z"/><path fill="currentColor" d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm3.59-13L12 10.59 8.41 7 7 8.41 10.59 12 7 15.59 8.41 17 12 13.41 15.59 17 17 15.59 13.41 12 17 8.41z"/></svg>
+    </div>
+  </div>
+  <div id="search-mobile-results" class="mobile-search__body">
+    
+  </div>
+</div>
+
         </div>
         <div class="navbar__icons">
   
@@ -1324,6 +1356,20 @@ if (!doNotTrack) {
   <div class="dropdown-content lang__dropdown--content">
     
     
+    
+      
+      
+        
+        
+          
+            
+              <a href="http://docs.belware.de/de-de/terms-of-use/" data-lang="de-de" class="lang__dropdown--item">Deutsch</a>
+            
+          
+        
+      
+        
+      
     
       
       
@@ -1517,93 +1563,93 @@ if (!doNotTrack) {
 
   <article class="single__contents" data-dir="ltr">
     <h3 id="terms-of-use">Terms of Use</h3>
-<p>Date 03/2016</p>
-<p>Licensor:</p>
+<p>Date 06/2021</p>
+<p><strong>Licensor:</strong></p>
 <p>BELWARE® GmbH<br />
 Martin-Luther-Str. 18<br />
 46284 Dorsten</p>
-<p>Licensee:</p>
+<p><strong>Licensee:</strong></p>
 <p>Buyer of the Software</p>
-<h3 id="1-subject-of-the-software-license-and-terms-of-use">§1 Subject of the Software License and Terms of Use</h3>
+<h4 id="1-subject-of-the-software-license-and-terms-of-use">§1 Subject of the Software License and Terms of Use</h4>
 <p>Subject matter of the license agreement between the licensor and<br />
-the licensee is the acquired Connector NAV.</p>
-<h3 id="2-terms-of-use">§2 Terms of use</h3>
-<p>a) The licensee shall be entitled to transfer the license which he has acquired to<br />
-of a Dynamics NAV database and in the number of licensed<br />
+the licensee is the acquired Connector NAV &amp; 365 BC.</p>
+<h4 id="2-terms-of-use">§2 Terms of use</h4>
+<p><strong>a)</strong> The licensee shall be entitled to transfer the license which he has acquired to<br />
+of a Dynamics NAV/365 BC database and in the number of licensed<br />
 User to use. The right of use always applies in connection with<br />
-with a valid Dynamics NAV license and the licensed user.<br />
+with a valid Dynamics NAV/365 BC license and the licensed user.<br />
 The right of use is not exclusive, non-transferable and<br />
 is not subject to any additional time limitation.<br />
-b) Licensees and distributors are not eligible:</p>
+<strong>b)</strong> Licensees and distributors are not eligible:</p>
 <ul>
 <li>renumber the modules,</li>
 <li>the modules from the database, for which they were licensed, to<br />
 and use it for other purposes,</li>
 <li>modify the software and continue to modify the software.<br />
 to market.<br />
-(c) Licenses delivered may be used only on exactly one of the following<br />
-NAV database can be installed. Copies beyond this<br />
+<strong>c)</strong> Licenses delivered may be used only on exactly one of the following<br />
+NAV/365 BC database can be installed. Copies beyond this<br />
 are only permitted within the scope of backup copies.<br />
 Further reproductions, for which the issue of the licenses to<br />
 third parties as well as copying the documentation, are not permitted.<br />
 permitted.<br />
-d) The scope of performance of the product shall be defined in the relevant<br />
+<strong>d)</strong> The scope of performance of the product shall be defined in the relevant<br />
 documentation. However, BELWARE GmbH shall be liable for<br />
 that the product will not be used in all applications described.<br />
 and combinations will run without errors. We would like to point out explicitly<br />
 that the product documentation does not contain any warranted or<br />
 Properties in the legal sense, but user support.</li>
 </ul>
-<h3 id="3-liability-and-warranty-of-the-licensor">§3 Liability and warranty of the licensor</h3>
-<p>a) The liability of BELWARE GmbH is limited, except in the case of intent, to the following<br />
+<h4 id="3-liability-and-warranty-of-the-licensor">§3 Liability and warranty of the licensor</h4>
+<p><strong>a)</strong> The liability of BELWARE GmbH is limited, except in the case of intent, to the following<br />
 limits the refund of royalties paid. The BELWARE<br />
 GmbH shall not be liable for any damages, insofar as the licensee<br />
 Entry through reasonable measures, in particular program and<br />
 Data backup, could have prevented.<br />
-b) BELWARE GmbH shall only be covered by the guarantee if the<br />
+<strong>b)</strong> BELWARE GmbH shall only be covered by the guarantee if the<br />
 individual provisions of this agreement shall not be infringed.<br />
 The warranty claims initially include the fault diagnosis<br />
 and the subsequent improvement by BELWARE GmbH.<br />
-c) The warranty shall only apply to the software in the version specified by the licensor.<br />
+<strong>c)</strong> The warranty shall only apply to the software in the version specified by the licensor.<br />
 delivered version. Errors in the program that are due to subsequent<br />
 Interventions by Licensee and/or Distributor<br />
 are also not covered by the warranty,<br />
 such as errors in the licensee&rsquo;s operating system or in the<br />
 Third-party products.<br />
-d) The licensee is not entitled to the execution of<br />
+<strong>d)</strong> The licensee is not entitled to the execution of<br />
 Program extensions or program changes after<br />
 transfer of risk, even if this is due to statutory regulations.<br />
 changes become necessary.<br />
-e) The Licensee shall immediately notify the Licensee of any obvious defects,<br />
+<strong>e)</strong> The Licensee shall immediately notify the Licensee of any obvious defects,<br />
 at the latest two weeks after delivery. Other<br />
 Defects are to be reported immediately after discovery. The<br />
 Notification must be made in writing. Your is a comprehensible<br />
 description of the defect. For not timely<br />
 The warranty does not apply to defects indicated.</p>
-<h3 id="4-duration-extension-and-termination-of-the-software-license-and-terms-of-use">§4 Duration, extension and termination of the Software License and Terms of Use</h3>
-<p>a) The term of this software license agreement is unlimited.<br />
-b) The right of extraordinary termination remains unaffected.<br />
-c) In particular, BELWARE GmbH shall be entitled to terminate the license for extraordinary reasons.<br />
+<h4 id="4-duration-extension-and-termination-of-the-software-license-and-terms-of-use">§4 Duration, extension and termination of the Software License and Terms of Use</h4>
+<p><strong>a)</strong> The term of this software license agreement is unlimited.<br />
+<strong>b)</strong> The right of extraordinary termination remains unaffected.<br />
+<strong>c)</strong> In particular, BELWARE GmbH shall be entitled to terminate the license for extraordinary reasons.<br />
 termination, if the licensee is not entitled to</p>
 <ul>
 <li>either seriously violate the provisions of this Agreement<br />
 the rights of use granted or the copyrights of the BELWARE<br />
-GmbH violates the Connector NAV, or</li>
+GmbH violates the Connector NAV &amp; 365 BC, or</li>
 <li>is in arrears with payments due.</li>
 </ul>
-<h3 id="5-general-provisions">§5 General provisions</h3>
-<p>a) The licence shall remain the property of<br />
+<h4 id="5-general-provisions">§5 General provisions</h4>
+<p><strong>a)</strong> The licence shall remain the property of<br />
 BELWARE GmbH.<br />
-b) The software is fully owned by BELWARE without encumbrance.<br />
+<strong>b)</strong> The software is fully owned by BELWARE without encumbrance.<br />
 GmbH.<br />
-c) All copyrights and the design of further rights of use<br />
+<strong>c)</strong> All copyrights and the design of further rights of use<br />
 are the sole property of BELWARE GmbH.<br />
-d) No subsidiary agreements to this contract have been made.<br />
-e) The general terms and conditions of BELWARE apply.<br />
+<strong>d)</strong> No subsidiary agreements to this contract have been made.<br />
+<strong>e)</strong> The general terms and conditions of BELWARE apply.<br />
 GmbH.</p>
-<h3 id="6-place-of-performance-jurisdiction-and-law">§6 Place of Performance, Jurisdiction and Law</h3>
-<p>a) Place of performance and jurisdiction is Dorsten.<br />
-b) This software license agreement is subject to German law.</p>
+<h4 id="6-place-of-performance-jurisdiction-and-law">§6 Place of Performance, Jurisdiction and Law</h4>
+<p><strong>a)</strong> Place of performance and jurisdiction is Dorsten.<br />
+<strong>b)</strong> This software license agreement is subject to German law.</p>
 
   </article>
 </div>

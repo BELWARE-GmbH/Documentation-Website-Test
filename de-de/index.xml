@@ -239,12 +239,12 @@ Mail Experience Wenn Ihnen schon die Mail Experience zur Verfügung steht (ab Ve
       </item>
       
       <item>
-        <title>V1.0.0.3 &amp; Roadmap</title>
-        <link>http://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.3/</link>
+        <title>V1.0.0.5 &amp; Roadmap</title>
+        <link>http://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.5/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>http://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.3/</guid>
-        <description>Neu und geplant Version 1.0.0.3  Unbegrenzte Menge an Anhängen im Dialog Unbegrenzt viele Standardanhänge pro Bericht festlegen Unbegrenzt viele Standardanhänge pro Kunde/Bericht Auf einen bestimmten Zeitraum eingeschränkte Standardanhänge Kompatibel mit allen gängigen Dateitypen  Geplante Funktionen für zukünftige Versionen  Unbegrenzte Menge an Standardanhängen pro Dokument  </description>
+        <guid>http://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.5/</guid>
+        <description>Neu und geplant Version 1.0.0.5  Fehlerkorrekturen  Geplante Funktionen für zukünftige Versionen    </description>
       </item>
       
       <item>
@@ -841,6 +841,15 @@ Wählen Sie zunächst den entsprechenden Eintrag in den &amp;ldquo;CTI-Einträge
         
         <guid>http://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.0.1/</guid>
         <description>Neu und geplant Version 1.0.0.1  Erstellen einer XRechnung XML-Datei Versand der XRechnung per Mail mit dem Standard BC Mail - Dialog Versand eines Prüfberichts, welcher dem Empfänger die Konformität der Rechnung bestätigt. Anzeigen des Prüfberichts für den Nutzer bei “Nicht-Konformität” Abbruch des Versands bei &amp;ldquo;Nicht-Konformität Verbesserung der WebService Abfrage / DLL für das Prüfprotokoll  Geplante Funktionen für zukünftige Versionen  Statusverfolgung im Rollencenter Rechnungsbegleitende Anhänge Überarbeiteter XRechnungs-Dialog Syntaxüberprüfung der Leitweg-ID Erweiterung der Eingabe für Leitweg ID&amp;rsquo;s  </description>
+      </item>
+      
+      <item>
+        <title>V1.0.0.3 &amp; Roadmap</title>
+        <link>http://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.3/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.3/</guid>
+        <description>Neu und geplant Version 1.0.0.3  Unbegrenzte Menge an Anhängen im Dialog Unbegrenzt viele Standardanhänge pro Bericht festlegen Unbegrenzt viele Standardanhänge pro Kunde/Bericht Auf einen bestimmten Zeitraum eingeschränkte Standardanhänge Kompatibel mit allen gängigen Dateitypen  Geplante Funktionen für zukünftige Versionen  Unbegrenzte Menge an Standardanhängen pro Dokument  </description>
       </item>
       
       <item>
