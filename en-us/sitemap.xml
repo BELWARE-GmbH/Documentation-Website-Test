@@ -1793,21 +1793,6 @@
   </url>
   
   <url>
-    <loc>http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/setup/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="http://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/setup/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/setup/"
-                />
-  </url>
-  
-  <url>
     <loc>http://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/events/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1914,6 +1899,21 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://docs.belware.de/en-us/apps/cti-for-starface/first-steps/setup/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/setup/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/setup/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/setup/"
                 />
   </url>
   
