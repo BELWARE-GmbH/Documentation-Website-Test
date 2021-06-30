@@ -43,7 +43,7 @@
         "date_modified" : "2020-02-28T10:08:56+09:00",
         "id" : "http://docs.belware.de/de-de/apps/mail-sender-plus/videos/",
         "url" : "http://docs.belware.de/de-de/apps/mail-sender-plus/videos/",
-        "content_html" : "\u003ch3 id=\"videos\"\u003eVideos\u003c/h3\u003e\n\u003cp\u003eHier finden Sie einige informative Videos zur unserer Mail Attachments Plus App, jedes Video behandelt ein spezielles Thema\u003c/p\u003e\n\u003ch4 id=\"einrichtung-der-app\"\u003eEinrichtung der App\u003c/h4\u003e\n\u003ciframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/EJ_6SmwDDtU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen\u003e\u003c/iframe\u003e"
+        "content_html" : "\u003ch3 id=\"videos\"\u003eVideos\u003c/h3\u003e\n\u003cp\u003eHier finden Sie einige informative Videos zur unserer Mail Attachments Plus App, jedes Video behandelt ein spezielles Thema\u003c/p\u003e\n\u003ch4 id=\"einrichtung-der-app\"\u003eEinrichtung der App\u003c/h4\u003e\n\u003cp style=\"text-align: center;\"\u003e\r\n\u003ciframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/EJ_6SmwDDtU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen\u003e\u003c/iframe\u003e\r\n\u003c/p\u003e "
     }
     ]
 }

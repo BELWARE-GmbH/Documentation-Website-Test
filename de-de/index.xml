@@ -258,15 +258,6 @@ Mail Experience Wenn Ihnen schon die Mail Experience zur Verfügung steht (ab Ve
       
       <item>
         <title>V1.0.1.0 &amp; Roadmap</title>
-        <link>http://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.1.0/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.1.0/</guid>
-        <description>Neu und geplant Version 1.0.1.0  Versand weiterer Belegarten  Geb. Verkaufsgutschriften Registrierte Mahnungen Angebote Verkaufsaufträge   Versand von Duplexbriefen Versandstatus (Jobliste) in der Factbox am Vorgang in der Übersicht Zwei Boxen für die Jobliste im Dashboard Die Connector 365 XRechnung App stützt nun auf unsere Basis App  Geplante Funktionen für zukünftige Versionen  Erneutes versenden von fehlerhaften Briefen Kontakte im Dialog editierbar Weitere Belegarten  Geb. Service-Rechnungen Geb.</description>
-      </item>
-      
-      <item>
-        <title>V1.0.1.0 &amp; Roadmap</title>
         <link>http://docs.belware.de/de-de/connector-on-appsource/xrechnung/new-and-planned/v1.0.1.0/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -376,8 +367,8 @@ Ihnen stehen als registrierter E-POST Kunde folgende Möglichkeiten zur Verfügu
 Nach dem Download kann ein Nutzer die App komplett frei benutzen.
 Für den Fall, dass weitere Nutzer die Funktionen der App nutzen sollen, können Sie über unser Formular kostenpflichtig weitere Lizenzen erwerben.
 Ihre Kosten:
-   Connector 365 Mail Sender Plus App 0,90€ / Sender / Monat    Zum Formular
-Connector 365 Mail Sender Plus steht Ihnen für die folgende BC Lizensierung zur Verfügung:</description>
+   Monatliche Subscription inkl. Wartung*     0,90€/Absender    *Wahlweise monatlich, quartalsweise oder jährlich abgerechnet.
+Zum Formular</description>
       </item>
       
       <item>
@@ -390,8 +381,8 @@ Connector 365 Mail Sender Plus steht Ihnen für die folgende BC Lizensierung zur
 Nach dem Download kann ein Nutzer die App komplett frei benutzen.
 Für den Fall, dass weitere Nutzer die Funktionen der App nutzen sollen, können Sie über unser Formular kostenpflichtig weitere Lizenzen erwerben.
 Ihre Kosten:
-   Connector 365 Mail Attachment Plus App 590€    Zum Formular
-Connector 365 XRechnung steht Ihnen für die folgende BC Lizensierung zur Verfügung:</description>
+   Monatliche Subscription inkl. Wartung*     0,90€    *Wahlweise monatlich, quartalsweise oder jährlich abgerechnet.
+Zum Formular</description>
       </item>
       
       <item>
@@ -404,7 +395,8 @@ Connector 365 XRechnung steht Ihnen für die folgende BC Lizensierung zur Verfü
 Nach dem Download steht Ihnen die App für 5 Vorgänge kostenlos zur Verfügung.
 Sind diese erreicht, haben Sie die Möglichkeit, Ihre App direkt über unser Formular zu bestellen.
 Ihre Kosten:
-   Connector 365 XRechnung App 1690€    Zum Formular
+   Monatliche Subscription inkl. Wartung*     19,90€    *Wahlweise monatlich, quartalsweise oder jährlich abgerechnet.
+Zum Formular
 Ist der Testzeitraum für Sie zu knapp, dann setzen Sie sich mit uns unter support@belware.</description>
       </item>
       
@@ -678,12 +670,12 @@ Connector 365 steht Ihnen für die folgende BC Lizensierung zur Verfügung:</des
       </item>
       
       <item>
-        <title>V1.0.0.5 &amp; Roadmap</title>
-        <link>http://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.0.5/</link>
+        <title>V1.0.1.0 &amp; Roadmap</title>
+        <link>http://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.1.0/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>http://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.0.5/</guid>
-        <description>Neu und geplant Version 1.0.0.5  Versenden von E-POST Briefen aus geb. Verkaufsrechnungen Versand in Farbe bzw. S/W Einschreiben (Einwurf/Rückschein) Archivierung versendeter Briefe Auslandsversand  Geplante Funktionen für zukünftige Versionen  Weitere Belegarten  Lieferscheine Verkaufsaufträge Angebote   Kleine Verbesserungen  </description>
+        <guid>http://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.1.0/</guid>
+        <description>Neu und geplant Version 1.0.1.0  Versand weiterer Belegarten  Geb. Verkaufsgutschriften Registrierte Mahnungen Angebote Verkaufsaufträge   Versand von Duplexbriefen Versandstatus (Jobliste) in der Factbox am Vorgang in der Übersicht Zwei Boxen für die Jobliste im Dashboard Die Connector 365 XRechnung App stützt nun auf unsere Basis App  Geplante Funktionen für zukünftige Versionen  Erneutes versenden von fehlerhaften Briefen Kontakte im Dialog editierbar Weitere Belegarten  Geb. Service-Rechnungen Geb.</description>
       </item>
       
       <item>
@@ -851,6 +843,15 @@ Wählen Sie zunächst den entsprechenden Eintrag in den &amp;ldquo;CTI-Einträge
         
         <guid>http://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.3/</guid>
         <description>Neu und geplant Version 1.0.0.3  Unbegrenzte Menge an Anhängen im Dialog Unbegrenzt viele Standardanhänge pro Bericht festlegen Unbegrenzt viele Standardanhänge pro Kunde/Bericht Auf einen bestimmten Zeitraum eingeschränkte Standardanhänge Kompatibel mit allen gängigen Dateitypen  Geplante Funktionen für zukünftige Versionen  Unbegrenzte Menge an Standardanhängen pro Dokument  </description>
+      </item>
+      
+      <item>
+        <title>V1.0.0.5 &amp; Roadmap</title>
+        <link>http://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.0.5/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.0.5/</guid>
+        <description>Neu und geplant Version 1.0.0.5  Versenden von E-POST Briefen aus geb. Verkaufsrechnungen Versand in Farbe bzw. S/W Einschreiben (Einwurf/Rückschein) Archivierung versendeter Briefe Auslandsversand  Geplante Funktionen für zukünftige Versionen  Weitere Belegarten  Lieferscheine Verkaufsaufträge Angebote   Kleine Verbesserungen  </description>
       </item>
       
       <item>
@@ -1082,7 +1083,7 @@ kurze Übersicht der App - Deutsch *Die Connector 365 E-POST App, setzt auf die
         
         <guid>http://docs.belware.de/de-de/apps/mail-sender-plus/videos/</guid>
         <description>Videos Hier finden Sie einige informative Videos zur unserer Mail Attachments Plus App, jedes Video behandelt ein spezielles Thema
-Einrichtung der App </description>
+Einrichtung der App </description>
       </item>
       
       <item>
@@ -1092,7 +1093,7 @@ Einrichtung der App </description>
         
         <guid>http://docs.belware.de/de-de/apps/mail_attachment_plus/videos/</guid>
         <description>Videos Hier finden Sie einige informative Videos zur unserer Mail Attachments Plus App, jedes Video behandelt ein spezielles Thema
-Nutzung der App </description>
+Nutzung der App </description>
       </item>
       
       <item>

@@ -43,7 +43,7 @@
         "date_modified" : "2020-02-28T10:08:56+09:00",
         "id" : "http://docs.belware.de/en-us/apps/mail-sender-plus/videos/",
         "url" : "http://docs.belware.de/en-us/apps/mail-sender-plus/videos/",
-        "content_html" : "\u003ch3 id=\"videos\"\u003eVideos\u003c/h3\u003e\n\u003cp\u003eHere you can find some informative videos about our XRechnung, each video covers a special topic\u003c/p\u003e\n\u003ch4 id=\"setup-of-the-app\"\u003eSetup of the App\u003c/h4\u003e\n\u003ciframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/EJ_6SmwDDtU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen\u003e\u003c/iframe\u003e"
+        "content_html" : "\u003ch3 id=\"videos\"\u003eVideos\u003c/h3\u003e\n\u003cp\u003eHere you can find some informative videos about our XRechnung, each video covers a special topic\u003c/p\u003e\n\u003ch4 id=\"setup-of-the-app\"\u003eSetup of the App\u003c/h4\u003e\n\u003cp style=\"text-align: center;\"\u003e\r\n\u003ciframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/EJ_6SmwDDtU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen\u003e\u003c/iframe\u003e\r\n\u003c/p\u003e"
     }
     ]
 }
