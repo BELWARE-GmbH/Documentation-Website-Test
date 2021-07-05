@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Setup on Connector 365 Online Help</title>
-    <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/first-steps/setup/</link>
+    <link>http://belware-gmbh.github.io/en-us/apps/cti-for-starface/first-steps/setup/</link>
     <description>Recent content in Setup on Connector 365 Online Help</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
     <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
     
-        <atom:link href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/first-steps/setup/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://belware-gmbh.github.io/en-us/apps/cti-for-starface/first-steps/setup/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>Web service</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/first-steps/setup/web-services/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/cti-for-starface/first-steps/setup/web-services/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/first-steps/setup/web-services/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/cti-for-starface/first-steps/setup/web-services/</guid>
         <description>Setup Setting up the Web service After the extension has been successfully published to your solution, it must first be set up. The search will take you to the &amp;ldquo;Web Services&amp;rdquo; page. Here you need to create a new entry.
 For this you need the following data:
 Object type: Page
@@ -31,10 +31,10 @@ After you have set up here, you can proceed with the rest of the setup.</descrip
       
       <item>
         <title>STARFACE Module</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/first-steps/setup/starface-modul/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/cti-for-starface/first-steps/setup/starface-modul/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/first-steps/setup/starface-modul/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/cti-for-starface/first-steps/setup/starface-modul/</guid>
         <description>Setup Setting up the STARFACE module In order for the communication between Microsoft Dynamics 365 Business Central and the STARFACE telephone system to work, a setup must take place here as well. For this you need a module which you can download on this page.
 Download here
 After you have added the module via the admin portal, it still has to be configured. You can access the configuration via the pencil icon.</description>
@@ -42,10 +42,10 @@ After you have added the module via the admin portal, it still has to be configu
       
       <item>
         <title>User &amp; Groups</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/first-steps/setup/user-groups/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/cti-for-starface/first-steps/setup/user-groups/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/first-steps/setup/user-groups/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/cti-for-starface/first-steps/setup/user-groups/</guid>
         <description>Setup Groups Groups offer you the possibility to sort your users no matter if it is a subdivision per department or per team, it can be mapped with groups. Users assigned to a group will only see other users from the same group in their CTI client. The use of groups is optional.
 Open with the search function the &amp;ldquo;CTI Groups&amp;rdquo;, here you find a table with two columns.
 If you want to create a new group, click &amp;ldquo;New&amp;rdquo; to activate the editing.</description>

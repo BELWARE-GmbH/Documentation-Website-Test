@@ -1,0 +1,25 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Connector NAV/BC on Connector 365 Online Hilfe",
+    "description": "Recent content in Connector NAV/BC on Connector 365 Online Hilfe",
+    "home_page_url" : "http://belware-gmbh.github.io/",
+    "feed_url" : "http://belware-gmbh.github.io/de-de/connectornav/index.json",
+    "items" : [
+    {
+        "title" : "Konfiguration und Einrichtung",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "http://belware-gmbh.github.io/de-de/connectornav/configuration-and-setup/",
+        "url" : "http://belware-gmbh.github.io/de-de/connectornav/configuration-and-setup/",
+        "content_html" : ""
+    },
+    {
+        "title" : "Basis",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "http://belware-gmbh.github.io/de-de/connectornav/base/",
+        "url" : "http://belware-gmbh.github.io/de-de/connectornav/base/",
+        "content_html" : ""
+    }
+    ]
+}

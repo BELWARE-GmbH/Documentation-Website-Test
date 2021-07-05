@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Connector 365 Online Hilfe on Connector 365 Online Help</title>
-    <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/</link>
+    <link>http://belware-gmbh.github.io/en-us/</link>
     <description>Recent content in Connector 365 Online Hilfe on Connector 365 Online Help</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
     <lastBuildDate>Sun, 26 Jan 2020 04:15:05 +0900</lastBuildDate>
     
-        <atom:link href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://belware-gmbh.github.io/en-us/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>Allocating licenses</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/first-steps/setup/allocating-license/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/mail_attachment_plus/first-steps/setup/allocating-license/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/first-steps/setup/allocating-license/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/mail_attachment_plus/first-steps/setup/allocating-license/</guid>
         <description>Setup Assigning a license to a user In order for a user to use the Mail Attachments Plus App features, they must first be assigned a license. You can set this up in the user setup. Go to the search and look for &amp;ldquo;User Setup&amp;rdquo;, if the user does not already exist, add it to the setup. Then put another check mark in the &amp;ldquo;Attachment Plus&amp;rdquo; field.
 Repeat this process until your license capacity is used up.</description>
       </item>
       
       <item>
         <title>AppSource</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/first-steps/installation/appsource/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/cti-for-starface/first-steps/installation/appsource/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/first-steps/installation/appsource/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/cti-for-starface/first-steps/installation/appsource/</guid>
         <description>Installation AppSource Using the search function, open the Extension Marketplace and open it.
 The Microsoft AppSource opens. There you can use the search function again to find the Connector 365 CTI for STARFACE. Click on Get it now to start the installation. Before the installation starts, you have to provide some contact information.
 After submitting your contact information, you will be prompted to choose a language for the app. Our Connector 365 E-POST App* is available in English and German.</description>
@@ -37,10 +37,10 @@ After submitting your contact information, you will be prompted to choose a lang
       
       <item>
         <title>AppSource</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/first-steps/installation/appsource/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/e-post/first-steps/installation/appsource/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/first-steps/installation/appsource/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/e-post/first-steps/installation/appsource/</guid>
         <description>Installation AppSource Using the search function, open the Extension Marketplace and open it.
 The Microsoft AppSource opens. There you can use the search function again to find the Connector 365 CTI for STARFACE. Click on Get it now to start the installation. Before the installation starts, you have to provide some contact information.
 After submitting your contact information, you will be prompted to choose a language for the app. Our Connector 365 E-POST App* is available in English and German.</description>
@@ -48,10 +48,10 @@ After submitting your contact information, you will be prompted to choose a lang
       
       <item>
         <title>AppSource</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail-sender-plus/first-steps/installation/appsource/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/mail-sender-plus/first-steps/installation/appsource/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail-sender-plus/first-steps/installation/appsource/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/mail-sender-plus/first-steps/installation/appsource/</guid>
         <description>Installation AppSource Using the search function, open the Extension Marketplace and open it.
 The Microsoft AppSource opens. There you can use the search function again to find the Connector 365 CTI for STARFACE. Click on Get it now to start the installation. Before the installation starts, you have to provide some contact information.
 After submitting your contact information, you will be prompted to choose a language for the app. Our Connector 365 E-POST App* is available in English and German.</description>
@@ -59,10 +59,10 @@ After submitting your contact information, you will be prompted to choose a lang
       
       <item>
         <title>AppSource</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/first-steps/installation/appsource/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/mail_attachment_plus/first-steps/installation/appsource/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/first-steps/installation/appsource/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/mail_attachment_plus/first-steps/installation/appsource/</guid>
         <description>Installation AppSource Using the search function, open the Extension Marketplace and open it.
 The Microsoft AppSource opens. There you can use the search function again to find the Connector 365 CTI for STARFACE. Click on Get it now to start the installation. Before the installation starts, you have to provide some contact information.
 After submitting your contact information, you will be prompted to choose a language for the app. Our Connector 365 E-POST App* is available in English and German.</description>
@@ -70,10 +70,10 @@ After submitting your contact information, you will be prompted to choose a lang
       
       <item>
         <title>AppSource</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/first-steps/installation/appsource/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/xrechnung/first-steps/installation/appsource/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/first-steps/installation/appsource/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/xrechnung/first-steps/installation/appsource/</guid>
         <description>Installation AppSource Using the search function, open the Extension Marketplace and open it.
 The Microsoft AppSource opens. There you can use the search function again to find the Connector 365 CTI for STARFACE. Click on Get it now to start the installation. Before the installation starts, you have to provide some contact information.
 After submitting your contact information, you will be prompted to choose a language for the app. Our Connector 365 E-POST App* is available in English and German.</description>
@@ -81,70 +81,70 @@ After submitting your contact information, you will be prompted to choose a lang
       
       <item>
         <title>Click to dial</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/working-with-cti-for-starface/click-to-dial/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/cti-for-starface/working-with-cti-for-starface/click-to-dial/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/working-with-cti-for-starface/click-to-dial/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/cti-for-starface/working-with-cti-for-starface/click-to-dial/</guid>
         <description>Working with CTI for STARFACE Click to dial With our app you have the possibility to start calls directly from your contacts. Open the contact you want to make a call with and open the area &amp;ldquo;Communication&amp;rdquo;. Next to the phone number there is now a button with 3 dots. Click on the button to initiate a phone call.
 If no call is triggered, you may have to switch off the popup blocker of your browser or set your STARFACE client to open phone numbers.</description>
       </item>
       
       <item>
         <title>E-POSTBUSINESS API</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/first-steps/setup/epostbusiness-api/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/e-post/first-steps/setup/epostbusiness-api/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/first-steps/setup/epostbusiness-api/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/e-post/first-steps/setup/epostbusiness-api/</guid>
         <description>Erste Schritte Einrichtung By searching &amp;ldquo;Connector 365 Setup&amp;rdquo; you can find the setup for the E-POST API, here you set all the necessary information to ensure that the App works without problems.
 While the test mode is activated, no invoices are sent. Instead, the previously specified test mail will receive a notification  Set a Passwort To set a password for the App, you should first make sure that the setup is completely filled in (except for the secret/password).</description>
       </item>
       
       <item>
         <title>Ident ID</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/first-steps/setup/setup-ident-id/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/xrechnung/first-steps/setup/setup-ident-id/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/first-steps/setup/setup-ident-id/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/xrechnung/first-steps/setup/setup-ident-id/</guid>
         <description>Setup Ident ID The Ident ID must be indicated on every electronic invoice sent to public-sector customers of the federal administration.
 The Ident ID is intended to enable addressing and, if necessary, forwarding of the received electronic invoice to the downstream invoice processing systems of the connected administrative units. In order to optimize acceptance and manageability both for public-sector customers and for their service providers and their service providers, the federal and state governments have agreed on a uniform system as part of the operation of the XRechnung standard.</description>
       </item>
       
       <item>
         <title>Ident ID</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-ident-id/</link>
+        <link>http://belware-gmbh.github.io/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-ident-id/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-ident-id/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-ident-id/</guid>
         <description>Setup Ident ID The Ident ID must be indicated on every electronic invoice sent to public-sector customers of the federal administration.
 The Ident ID is intended to enable addressing and, if necessary, forwarding of the received electronic invoice to the downstream invoice processing systems of the connected administrative units. In order to optimize acceptance and manageability both for public-sector customers and for their service providers and their service providers, the federal and state governments have agreed on a uniform system as part of the operation of the XRechnung standard.</description>
       </item>
       
       <item>
         <title>Ident ID?</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connector-on-appsource/xrechnung/faq/ident-id/</link>
+        <link>http://belware-gmbh.github.io/en-us/connector-on-appsource/xrechnung/faq/ident-id/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connector-on-appsource/xrechnung/faq/ident-id/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/connector-on-appsource/xrechnung/faq/ident-id/</guid>
         <description>FAQ What is the Ident ID? The ident ID is a unique identifier for the recipient of the invoice. As invoicing party you do not need one yourself. You only need the ident ID of the recipient, which they should tell you when ordering from you.
 More Information about the Ident ID can be found on the specific page</description>
       </item>
       
       <item>
         <title>Incoming calls/CTI client</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/working-with-cti-for-starface/incoming-calls/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/cti-for-starface/working-with-cti-for-starface/incoming-calls/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/working-with-cti-for-starface/incoming-calls/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/cti-for-starface/working-with-cti-for-starface/incoming-calls/</guid>
         <description>Working with CTI for STARFACE Incoming calls and the CTI client The Connector 365 CTI for STARFACE app automatically opens the contact card of the calling person for incoming calls. For this process to work smoothly, two things need to be taken care of.
   The phone number of the person calling is stored in a contact. If this is not the case, only the unknown number is displayed.</description>
       </item>
       
       <item>
         <title>Introduction</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/first-steps/introduction/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/cti-for-starface/first-steps/introduction/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/first-steps/introduction/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/cti-for-starface/first-steps/introduction/</guid>
         <description>First steps Introduction Controlling the telephone activities of your employees can be time-consuming. A constant switching between the STARFACE client and the Microsoft Dynamics 365 Business Central environment causes a break in the workflow. But this break can be prevented.
 Full control over your STARFACE CTI
 With our Connector 365 CTI for STARFACE it is possible to turn your Dynamics 365 Business Central environment into your CTI center. We offer you many options that help you to fully utilize your STARFACE solution.</description>
@@ -152,57 +152,57 @@ With our Connector 365 CTI for STARFACE it is possible to turn your Dynamics 365
       
       <item>
         <title>Introduction</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/first-steps/introduction/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/e-post/first-steps/introduction/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/first-steps/introduction/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/e-post/first-steps/introduction/</guid>
         <description>First steps Fast hybrid sending with the Connector 365 E-POST App The need to receive invoices by mail is still ubiquitous. What does this mean for my ERP Microsoft Dynamics 365 Business Central, which can be used from anywhere? Document processing in the traditional sense - printing, inserting, franking and posting at the post office - can delay the process - especially if the document creator is not on-site. Depending on the volume of documents to be sent, this process can become even more time-consuming - time that could be used more productively.</description>
       </item>
       
       <item>
         <title>Introduction</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail-sender-plus/first-steps/introduction/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/mail-sender-plus/first-steps/introduction/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail-sender-plus/first-steps/introduction/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/mail-sender-plus/first-steps/introduction/</guid>
         <description>First steps Introduction The Connector 365 Mail Sender Plus App allows you to control and use multiple mail sender addresses via an extended mail setup. By default, it is only possible to use a single SMTP sender address per company. The Mail Sender Plus App offers a priority-controlled setup for various scenarios within the sender addresses. It is possible to simply change the address in the dialog or set an address as default per report or customer/vendor.</description>
       </item>
       
       <item>
         <title>Introduction</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/first-steps/introduction/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/mail_attachment_plus/first-steps/introduction/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/first-steps/introduction/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/mail_attachment_plus/first-steps/introduction/</guid>
         <description>First steps Introduction Connector 365 Mail Attachment Plus - Your Attachment Solution in Microsoft Dynamics 365 Business Central Do you also find yourself in situations where you want to attach more than just the report to an email? Like your T&amp;amp;Cs, drafts or additional information for customers, but the default settings of Microsoft Dynamics 365 Business Central prevent you from doing so? This forces you to interrupt the workflow and send these files after the recipient has already received the report&amp;hellip;.</description>
       </item>
       
       <item>
         <title>Introduction</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/first-steps/introduction/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/xrechnung/first-steps/introduction/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/first-steps/introduction/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/xrechnung/first-steps/introduction/</guid>
         <description>First steps Introduction XRechnung - the standard for electronic invoicing for public clients As of 27.11.2020, suppliers of public clients must send invoices in the so-called &amp;ldquo;XRechnung&amp;rdquo; format. This format is an XML-based data model that is currently being established as the standard for electronic invoices.
 According to the Decision of the IT Planning Council of 22.06.2017 (Link only available in German), XRechnung is decisive for the implementation of the Directive 2014/55/EU (Link only available in German) in Germany.</description>
       </item>
       
       <item>
         <title>Introduction</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connector-on-appsource/xrechnung/first-steps/introduction/</link>
+        <link>http://belware-gmbh.github.io/en-us/connector-on-appsource/xrechnung/first-steps/introduction/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connector-on-appsource/xrechnung/first-steps/introduction/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/connector-on-appsource/xrechnung/first-steps/introduction/</guid>
         <description>First steps Introduction XRechnung - the standard for electronic invoicing for public clients As of 27.11.2020, suppliers of public clients must send invoices in the so-called &amp;ldquo;XRechnung&amp;rdquo; format. This format is an XML-based data model that is currently being established as the standard for electronic invoices.
 According to the Decision of the IT Planning Council of 22.06.2017 (Link only available in German), XRechnung is decisive for the implementation of the Directive 2014/55/EU (Link only available in German) in Germany.</description>
       </item>
       
       <item>
         <title>Priority System</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail-sender-plus/first-steps/setup/priority-system/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/mail-sender-plus/first-steps/setup/priority-system/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail-sender-plus/first-steps/setup/priority-system/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/mail-sender-plus/first-steps/setup/priority-system/</guid>
         <description>Setup The Priority System As mentioned in the introduction, the addresses that will be used are controlled by a priority
 system. The priority system works as follows, from lowest zu highest:
  Default An address per user An address per report An address per customer  This documentation will go into detail how to set up each layer to your wishes.</description>
@@ -210,10 +210,10 @@ system. The priority system works as follows, from lowest zu highest:
       
       <item>
         <title>Report default attachments</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/working-with-map/defaults-report/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/mail_attachment_plus/working-with-map/defaults-report/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/working-with-map/defaults-report/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/mail_attachment_plus/working-with-map/defaults-report/</guid>
         <description>Working with Mail Attachment Plus After you have added the attachments you want in the report selection, you can start sending the mail. If you have not done so yet, you can find the setup of the Report Default Attachments in the &amp;ldquo;Getting Started&amp;rdquo; section.
 For this example, we have set up the default attachments in invoice shipping as follows:
 In this example we have attached two PDFs and a time-limited image.</description>
@@ -221,10 +221,10 @@ In this example we have attached two PDFs and a time-limited image.</description
       
       <item>
         <title>Sending</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/working-with-e-post/sending/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/e-post/working-with-e-post/sending/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/working-with-e-post/sending/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/e-post/working-with-e-post/sending/</guid>
         <description>Working with E-POST Sending With our Connector 365 E-POST App* you can send pos. sales invoices, pos. credit notes, issued reminders, quotes and sales orders. However, in our application example we will focus on invoices. All other document types can be sent in the same way.
 First select the invoice you want to send.
 The function for sending letters by post can be found under &amp;ldquo;Print/Send&amp;rdquo; in the menu bar. Open it and select &amp;ldquo;Send as letter&amp;rdquo; to open the dialog for sending letters.</description>
@@ -232,10 +232,10 @@ The function for sending letters by post can be found under &amp;ldquo;Print/Sen
       
       <item>
         <title>Sending</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/working-with-xrechnung/sending/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/xrechnung/working-with-xrechnung/sending/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/working-with-xrechnung/sending/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/xrechnung/working-with-xrechnung/sending/</guid>
         <description>Working with XRechnung Sending If the setup has been completed, then you can easily send invoices by email. Simply open your posted sales invoices and select the invoice you want to send.
 „Print/Send“ -&amp;gt; „Send as XRechnung“
 A new dialog opens where you can make adjustments before sending.
@@ -245,10 +245,10 @@ The content of the mail can be customized and the current attachments are visibl
       
       <item>
         <title>Sending</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connector-on-appsource/xrechnung/working-with-xrechnung/sending/</link>
+        <link>http://belware-gmbh.github.io/en-us/connector-on-appsource/xrechnung/working-with-xrechnung/sending/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connector-on-appsource/xrechnung/working-with-xrechnung/sending/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/connector-on-appsource/xrechnung/working-with-xrechnung/sending/</guid>
         <description>Working with XRechnung Sending If the setup has been completed, then you can easily send invoices by email. Simply open your posted sales invoices and select the invoice you want to send.
 „Print/Send“ -&amp;gt; „Send as XRechnung“
 A new dialog opens where you can make adjustments before sending.
@@ -258,74 +258,74 @@ The content of the mail can be customized and the current attachments are visibl
       
       <item>
         <title>Under Construction</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/under-construction/</link>
+        <link>http://belware-gmbh.github.io/en-us/under-construction/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/under-construction/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/under-construction/</guid>
         <description>This part of our docs page is under construction This part of the website is still being worked on and as such is not yet available to the public.
 Please return at a later date, when we will have added further informative content about the usage of our solutions to this website.</description>
       </item>
       
       <item>
         <title>V1.0.0.2 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail-sender-plus/new-and-planned/v1.0.0.2/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/mail-sender-plus/new-and-planned/v1.0.0.2/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail-sender-plus/new-and-planned/v1.0.0.2/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/mail-sender-plus/new-and-planned/v1.0.0.2/</guid>
         <description>Neu und geplant Version 1.0.0.2  Advanced mail setup with multiple senders Changeable sender address in dialog Set an address per user A default address per report A default address per vendor/customer  Planned functions for future versions  Customize to the Mail Experience  </description>
       </item>
       
       <item>
         <title>V1.0.0.5 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.5/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.5/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.5/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.5/</guid>
         <description>New and planned Version 1.0.0.5  Bug fixes  Planned features for future versions    </description>
       </item>
       
       <item>
         <title>V1.0.1.0 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.0/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.0/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.0/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.0/</guid>
         <description>New and planned Version 1.0.1.0  Minor corrections Click to Dial for phone and mobile number Show unknown numbers on incoming calls The CTI client opens automatically when you log in to Business Central  Planned functions for future versions  Refining the dashboard Automatic creation of contacts for unknown numbers Customization of the job list to match the app Editable CTI notes  </description>
       </item>
       
       <item>
         <title>V1.0.1.0 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connector-on-appsource/xrechnung/new-and-planned/v1.0.1.0/</link>
+        <link>http://belware-gmbh.github.io/en-us/connector-on-appsource/xrechnung/new-and-planned/v1.0.1.0/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connector-on-appsource/xrechnung/new-and-planned/v1.0.1.0/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/connector-on-appsource/xrechnung/new-and-planned/v1.0.1.0/</guid>
         <description>New and planned Version 1.0.1.0  Status tracking in dashboard Invoice accompanying attachments Revised XRechnung dialog Syntax check of Ident ID Extension of input for Ident IDs XRechnung version adapted  Planned features for future versions  Service invoices and service credit notes Extension and improvement of the XRechnung setting on the customer side Ident ID 1:N Improvement Dimension Events Change from KoSit to 2.01  </description>
       </item>
       
       <item>
         <title>V1.0.1.1 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/new-and-planned/v1.0.1.1/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/e-post/new-and-planned/v1.0.1.1/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/new-and-planned/v1.0.1.1/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/e-post/new-and-planned/v1.0.1.1/</guid>
         <description>New and plannedd Version 1.0.1.1  Corrections in the translation  Planned functions for future versions -</description>
       </item>
       
       <item>
         <title>V1.0.1.1 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.1.1/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/xrechnung/new-and-planned/v1.0.1.1/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.1.1/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/xrechnung/new-and-planned/v1.0.1.1/</guid>
         <description>Neu und geplant Version 1.0.1.1  The Connector 365 XRechnung app now relies on our base app Adding events to control the XRechnung Bug fixes  Geplante Funktionen für zukünftige Versionen    </description>
       </item>
       
       <item>
         <title>Web service</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/first-steps/setup/web-services/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/cti-for-starface/first-steps/setup/web-services/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/first-steps/setup/web-services/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/cti-for-starface/first-steps/setup/web-services/</guid>
         <description>Setup Setting up the Web service After the extension has been successfully published to your solution, it must first be set up. The search will take you to the &amp;ldquo;Web Services&amp;rdquo; page. Here you need to create a new entry.
 For this you need the following data:
 Object type: Page
@@ -337,20 +337,20 @@ After you have set up here, you can proceed with the rest of the setup.</descrip
       
       <item>
         <title>AppSource</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/first-steps/test-purchase/appsource/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/cti-for-starface/first-steps/test-purchase/appsource/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/first-steps/test-purchase/appsource/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/cti-for-starface/first-steps/test-purchase/appsource/</guid>
         <description>Test &amp;amp; purchase AppSource The Connector 365 CTI for STARFACE App is available in the Microsoft AppSource.
 After the Connector 365 CTI for STARFACE app is installed, you have the option to get started immediately and use the app for free. However, in the free version you are limited to a single user in the setup. Outside of this limitation, however, you can take full advantage of the Connector 365 CTI for STARFACE App options.</description>
       </item>
       
       <item>
         <title>AppSource</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/first-steps/test-purchase/appsource/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/e-post/first-steps/test-purchase/appsource/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/first-steps/test-purchase/appsource/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/e-post/first-steps/test-purchase/appsource/</guid>
         <description>Test &amp;amp; purchase AppSource The Connector 365 E-POST App* is available on Microsoft AppSource.
 After the download you have the following test options:
 No registered E-POST customer
@@ -361,10 +361,10 @@ The following options are available to you as a registered E-POST customer:</des
       
       <item>
         <title>AppSource</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail-sender-plus/first-steps/test-purchase/appsource/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/mail-sender-plus/first-steps/test-purchase/appsource/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail-sender-plus/first-steps/test-purchase/appsource/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/mail-sender-plus/first-steps/test-purchase/appsource/</guid>
         <description>Test &amp;amp; purchase AppSource The app is available in the Microsoft AppSource.
 After downloading, a user can use the App completely free.
 In case that more Users want to use the function, you can simply order more licenses via our form.
@@ -376,10 +376,10 @@ Connector 365 Mail Sender Plus is available for the following BC licensing:</des
       
       <item>
         <title>AppSource</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/first-steps/test-purchase/appsource/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/mail_attachment_plus/first-steps/test-purchase/appsource/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/first-steps/test-purchase/appsource/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/mail_attachment_plus/first-steps/test-purchase/appsource/</guid>
         <description>Test &amp;amp; purchase AppSource The app is available in the Microsoft AppSource.
 After downloading, a user can use the App completely free.
 In case that more Users want to use the function, you can simply order more licenses via our form.
@@ -391,10 +391,10 @@ Connector 365 Mail Sender Plus is available for the following BC licensing:</des
       
       <item>
         <title>AppSource</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/first-steps/test-purchase/appsource/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/xrechnung/first-steps/test-purchase/appsource/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/first-steps/test-purchase/appsource/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/xrechnung/first-steps/test-purchase/appsource/</guid>
         <description>Test &amp;amp; purchase AppSource The App is available on Microsoft AppSource.
 After downloading, the app is available to you free of charge for 5 processes.
 Once these are reached, you have the option to order the app directly.
@@ -406,30 +406,30 @@ If the trial period is too short for you, please contact us at support@belware.<
       
       <item>
         <title>Archive</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/working-with-e-post/archive/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/e-post/working-with-e-post/archive/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/working-with-e-post/archive/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/e-post/working-with-e-post/archive/</guid>
         <description>Working with the E-POST API Archive After sending the invoice, you can check the status in the joblist. This can be found in the factbox area directly on the overview of the documents. Here you can see when the letter was sent, who sent it and what the status is.
 The job list provides you with a detailed overview of all letters that have been sent. It shows which options were used and displays any error messages that may have occurred.</description>
       </item>
       
       <item>
         <title>Country names</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/first-steps/setup/countrynames/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/e-post/first-steps/setup/countrynames/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/first-steps/setup/countrynames/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/e-post/first-steps/setup/countrynames/</guid>
         <description>First Steps Country names Deutsche Post uses country names according to ISO 3166-1 in shipping, so if you want to use the Connector 365 E-POST App, you have to adjust the country names in the appropriate setup in your Business Central environment beforehand.
 You can find the setup for this in the search under &amp;ldquo;Countries/Regions&amp;rdquo;. You only need to change country names in this setup which also receive letters from you, domestic shipping is not affected.</description>
       </item>
       
       <item>
         <title>Customer</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/first-steps/setup/setup-customer/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/xrechnung/first-steps/setup/setup-customer/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/first-steps/setup/setup-customer/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/xrechnung/first-steps/setup/setup-customer/</guid>
         <description>Setup Customer The settings to be able to send invoices and credit notes in XRechnung format are made on the respective customer. Under &amp;ldquo;Navigate&amp;rdquo; - &amp;ldquo;Document layouts&amp;rdquo; of the respective customer.
 When you open the document layouts, new fields are now available.
 XRechnung&amp;quot;, &amp;ldquo;Ident ID&amp;rdquo; and &amp;ldquo;Add document as attachment&amp;rdquo;.
@@ -438,10 +438,10 @@ In the &amp;ldquo;XRechnung&amp;rdquo; field, place a check mark to activate the
       
       <item>
         <title>Customer</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-customer/</link>
+        <link>http://belware-gmbh.github.io/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-customer/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-customer/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-customer/</guid>
         <description>Setup Customer The settings to be able to send invoices and credit notes in XRechnung format are made on the respective customer. Under &amp;ldquo;Navigate&amp;rdquo; - &amp;ldquo;Document layouts&amp;rdquo; of the respective customer.
 When you open the document layouts, new fields are now available.
 XRechnung&amp;quot;, &amp;ldquo;Ident ID&amp;rdquo; and &amp;ldquo;Add document as attachment&amp;rdquo;.
@@ -450,10 +450,10 @@ In the &amp;ldquo;XRechnung&amp;rdquo; field, place a check mark to activate the
       
       <item>
         <title>Customer default attachments</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/working-with-map/defaults-customer/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/mail_attachment_plus/working-with-map/defaults-customer/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/working-with-map/defaults-customer/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/mail_attachment_plus/working-with-map/defaults-customer/</guid>
         <description>Working with Mail Attachment Plus After you have added the attachments you want in the report selection, you can start sending the mail. If you have not done so yet, you can find the setup of the Customer Default Attachments in the &amp;ldquo;Getting Started&amp;rdquo; section.
 For this example, we have set up the default attachments in invoice shipping as follows:
 Two PDFs are attached, each with the standards set up per document/report</description>
@@ -461,10 +461,10 @@ Two PDFs are attached, each with the standards set up per document/report</descr
       
       <item>
         <title>Expanding the Setup</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail-sender-plus/first-steps/setup/extending-the-setup/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/mail-sender-plus/first-steps/setup/extending-the-setup/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail-sender-plus/first-steps/setup/extending-the-setup/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/mail-sender-plus/first-steps/setup/extending-the-setup/</guid>
         <description>Setup Expanding the mail setup &amp;amp; setting up addresses per user First you need to fill the setup with additional addresses that the system can use. Use the search function to get into the setup, just search for &amp;ldquo;Mail Sender Plus&amp;rdquo;. Here you enter the additional addresses you want to use.
 The following fields have to be filled
 Email Sender
@@ -473,10 +473,10 @@ You can search for a user or select them directly. It is also possible to enter 
       
       <item>
         <title>Negative XRechnung</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/working-with-xrechnung/negative-xrechnung/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/xrechnung/working-with-xrechnung/negative-xrechnung/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/working-with-xrechnung/negative-xrechnung/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/xrechnung/working-with-xrechnung/negative-xrechnung/</guid>
         <description>Working with XRechnung Negative XRechnung In case an XRechnung does not correspond to the required scheme, an error message will be displayed, if confirmed, the XRechnung validation report will be opened.
 There you can see which points do not match the required scheme. Correct these points and send the XRechnung again.
 There are many places that cause an XRechnung to not conform to the schema. For the most common ones we have a list and guidance at the setup</description>
@@ -484,10 +484,10 @@ There are many places that cause an XRechnung to not conform to the schema. For 
       
       <item>
         <title>Negative XRechnung</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connector-on-appsource/xrechnung/working-with-xrechnung/negative-xrechnung/</link>
+        <link>http://belware-gmbh.github.io/en-us/connector-on-appsource/xrechnung/working-with-xrechnung/negative-xrechnung/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connector-on-appsource/xrechnung/working-with-xrechnung/negative-xrechnung/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/connector-on-appsource/xrechnung/working-with-xrechnung/negative-xrechnung/</guid>
         <description>Working with XRechnung Negative XRechnung In case an XRechnung does not correspond to the required scheme, an error message will be displayed, if confirmed, the XRechnung validation report will be opened.
 There you can see which points do not match the required scheme. Correct these points and send the XRechnung again.
 There are many places that cause an XRechnung to not conform to the schema. For the most common ones we have a list and guidance at the setup</description>
@@ -495,29 +495,29 @@ There are many places that cause an XRechnung to not conform to the schema. For 
       
       <item>
         <title>Not sent?</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connector-on-appsource/xrechnung/faq/not-sent/</link>
+        <link>http://belware-gmbh.github.io/en-us/connector-on-appsource/xrechnung/faq/not-sent/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connector-on-appsource/xrechnung/faq/not-sent/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/connector-on-appsource/xrechnung/faq/not-sent/</guid>
         <description>FAQ Why was my invoice not sent? Make sure that the invoice you are trying to send is compliant with the requirement of the XRechung. You can check this by looking at the report that is displayed when a compliancy error exists. These can be missing information on the customer or in the invoice.</description>
       </item>
       
       <item>
         <title>OnPrem</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/first-steps/installation/onprem/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/cti-for-starface/first-steps/installation/onprem/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/first-steps/installation/onprem/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/cti-for-starface/first-steps/installation/onprem/</guid>
         <description>Installation OnPrem You will receive the objects for the Connector 365 Base &amp;amp; CTI for STARFACE App from us by mail. In order to be able to use the App, they must first be published and then installed.
 Publishing of the Connector 365 Base &amp;amp; CTI for STARFACE App the publishing of the Connector Base &amp;amp; CTI for STARFACE App is done via the Business Central Administration Shell. First transfer the files we sent to you to the server where your Business Central instance is running.</description>
       </item>
       
       <item>
         <title>OnPrem</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/first-steps/test-purchase/onprem/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/cti-for-starface/first-steps/test-purchase/onprem/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/first-steps/test-purchase/onprem/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/cti-for-starface/first-steps/test-purchase/onprem/</guid>
         <description>Test &amp;amp; Purchase OnPrem Test You have the possibility to test our Connector 365 CTI for STARFACE App without obligation or to purchase it directly. For this we need some information from you.
 To the form
 If you wish a test phase, you will receive the desired objects for one user and for a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.</description>
@@ -525,20 +525,20 @@ If you wish a test phase, you will receive the desired objects for one user and 
       
       <item>
         <title>OnPrem</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/first-steps/installation/onprem/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/e-post/first-steps/installation/onprem/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/first-steps/installation/onprem/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/e-post/first-steps/installation/onprem/</guid>
         <description>Installation OnPrem You will receive the objects for the Connector 365 Base &amp;amp; E-POST App from us by mail. In order to be able to use the App, they must first be published and then installed.
 Publishing of the Connector 365 Base &amp;amp; E-POST App the publishing of the Connector Base &amp;amp; E-POST App is done via the Business Central Administration Shell. First transfer the files we sent to you to the server where your Business Central instance is running.</description>
       </item>
       
       <item>
         <title>OnPrem</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/first-steps/test-purchase/onprem/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/e-post/first-steps/test-purchase/onprem/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/first-steps/test-purchase/onprem/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/e-post/first-steps/test-purchase/onprem/</guid>
         <description>Test &amp;amp; Purchase OnPrem Test You have the possibility to test our Connector 365 E-POST App* without obligation or to purchase it directly. For this we need some information from you.
 To the form
 If you wish a test phase, you will receive the desired objects for one user and for a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.</description>
@@ -546,20 +546,20 @@ If you wish a test phase, you will receive the desired objects for one user and 
       
       <item>
         <title>OnPrem</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail-sender-plus/first-steps/installation/onprem/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/mail-sender-plus/first-steps/installation/onprem/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail-sender-plus/first-steps/installation/onprem/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/mail-sender-plus/first-steps/installation/onprem/</guid>
         <description>Installation OnPrem You will receive the objects for the Connector 365 Base &amp;amp; Mail Sender Plus App from us by mail. In order to be able to use the App, they must first be published and then installed.
 Publishing of the Connector 365 Base &amp;amp; Mail Sender Plus App the publishing of the Connector Base &amp;amp; Mail Sender Plus App is done via the Business Central Administration Shell. First transfer the files we sent to you to the server where your Business Central instance is running.</description>
       </item>
       
       <item>
         <title>OnPrem</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail-sender-plus/first-steps/test-purchase/onprem/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/mail-sender-plus/first-steps/test-purchase/onprem/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail-sender-plus/first-steps/test-purchase/onprem/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/mail-sender-plus/first-steps/test-purchase/onprem/</guid>
         <description>Test &amp;amp; Purchase OnPrem Test You have the possibility to test our Connector 365 Mail Sender Plus App without obligation or to purchase it directly. For this we need some information from you.
 To the form
 If you wish a test phase, you will receive the desired objects for one user and for a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.</description>
@@ -567,20 +567,20 @@ If you wish a test phase, you will receive the desired objects for one user and 
       
       <item>
         <title>OnPrem</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/first-steps/installation/onprem/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/mail_attachment_plus/first-steps/installation/onprem/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/first-steps/installation/onprem/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/mail_attachment_plus/first-steps/installation/onprem/</guid>
         <description>Installation OnPrem You will receive the objects for the Connector 365 Base &amp;amp; Mail Attachment Plus App from us by mail. In order to be able to use the App, they must first be published and then installed.
 Publishing of the Connector 365 Base &amp;amp; Mail Attachment Plus App the publishing of the Connector Base &amp;amp; Mail Attachment Plus App is done via the Business Central Administration Shell. First transfer the files we sent to you to the server where your Business Central instance is running.</description>
       </item>
       
       <item>
         <title>OnPrem</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/first-steps/test-purchase/onprem/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/mail_attachment_plus/first-steps/test-purchase/onprem/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/first-steps/test-purchase/onprem/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/mail_attachment_plus/first-steps/test-purchase/onprem/</guid>
         <description>Test &amp;amp; Purchase OnPrem Test You have the possibility to test our Connector 365 Mail Attachment Plus App without obligation or to purchase it directly. For this we need some information from you.
 To the form
 If you wish a test phase, you will receive the desired objects for one user and for a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.</description>
@@ -588,20 +588,20 @@ If you wish a test phase, you will receive the desired objects for one user and 
       
       <item>
         <title>OnPrem</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/first-steps/installation/onprem/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/xrechnung/first-steps/installation/onprem/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/first-steps/installation/onprem/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/xrechnung/first-steps/installation/onprem/</guid>
         <description>Installation OnPrem You will receive the objects for the Connector 365 Base &amp;amp; XRechnung App from us by mail. In order to be able to use the App, they must first be published and then installed.
 Publishing of the Connector 365 Base &amp;amp; XRechnung App the publishing of the Connector Base &amp;amp; XRechnung App is done via the Business Central Administration Shell. First transfer the files we sent to you to the server where your Business Central instance is running.</description>
       </item>
       
       <item>
         <title>OnPrem</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/first-steps/test-purchase/onprem/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/xrechnung/first-steps/test-purchase/onprem/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/first-steps/test-purchase/onprem/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/xrechnung/first-steps/test-purchase/onprem/</guid>
         <description>Test &amp;amp; Purchase OnPrem Test You have the possibility to test our Connector 365 Mail Attachment Plus App without obligation or to purchase it directly. For this we need some information from you.
 Your costs:
    Purchase license + 18% maintenance/year Monthly Subscription incl. maintenance     1690,-€ 55,-€    To the form
@@ -610,20 +610,20 @@ If you wish a test phase, you will receive the desired objects for one user and 
       
       <item>
         <title>Report default attachments</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/first-steps/setup/defaults-report/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/mail_attachment_plus/first-steps/setup/defaults-report/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/first-steps/setup/defaults-report/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/mail_attachment_plus/first-steps/setup/defaults-report/</guid>
         <description>Setup Adding default attachments per report Default attachments are a great way to save time when adding files to your emails. If you use the same attachment in every email, just add it as a default and it will be automatically attached to every email.
 Start by opening the report selection of the report you want, in this example we will use Sales and Invoices. If you are not sure where to find the report selector, you can always use the Dynamics 365 Business Central search feature.</description>
       </item>
       
       <item>
         <title>STARFACE Module</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/first-steps/setup/starface-modul/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/cti-for-starface/first-steps/setup/starface-modul/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/first-steps/setup/starface-modul/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/cti-for-starface/first-steps/setup/starface-modul/</guid>
         <description>Setup Setting up the STARFACE module In order for the communication between Microsoft Dynamics 365 Business Central and the STARFACE telephone system to work, a setup must take place here as well. For this you need a module which you can download on this page.
 Download here
 After you have added the module via the admin portal, it still has to be configured. You can access the configuration via the pencil icon.</description>
@@ -631,10 +631,10 @@ After you have added the module via the admin portal, it still has to be configu
       
       <item>
         <title>Test &amp; Purchase</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connector-on-appsource/xrechnung/first-steps/test-purchase/</link>
+        <link>http://belware-gmbh.github.io/en-us/connector-on-appsource/xrechnung/first-steps/test-purchase/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connector-on-appsource/xrechnung/first-steps/test-purchase/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/connector-on-appsource/xrechnung/first-steps/test-purchase/</guid>
         <description>First Steps Test &amp;amp; Purchase The App is available on Microsoft AppSource.
 After downloading, the app is available to you free of charge for 5 processes.
 Once these are reached, you have the option to order the app directly.
@@ -644,37 +644,37 @@ Connector 365 is available for the following BC licensing:</description>
       
       <item>
         <title>V1.0.0.1 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.0.1/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/cti-for-starface/new-and-planned/v1.0.0.1/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.0.1/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/cti-for-starface/new-and-planned/v1.0.0.1/</guid>
         <description>New and planned Version 1.0.0.1  Displaying contact data during incoming calls No missed calls, thanks to automatic call tracking Note function to write down important call details Automatic logging of start times and the length of every call  Planned functions for future versions  Call list extension - Global job list Call list in dashboard Show unknown numbers on incoming calls  </description>
       </item>
       
       <item>
         <title>V1.0.0.1 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connector-on-appsource/xrechnung/new-and-planned/v1.0.0.1/</link>
+        <link>http://belware-gmbh.github.io/en-us/connector-on-appsource/xrechnung/new-and-planned/v1.0.0.1/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connector-on-appsource/xrechnung/new-and-planned/v1.0.0.1/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/connector-on-appsource/xrechnung/new-and-planned/v1.0.0.1/</guid>
         <description>New and planned Version 1.0.0.1  Creating an XRechnung XML file Sending the XRechnung by mail using the standard BC Mail dialog. Sending of a validation report, which confirms the conformity of the invoice to the recipient. Displaying the validation report for the user in case of &amp;ldquo;non-conformity&amp;rdquo; Aborting the sending in case of &amp;ldquo;non-conformity&amp;rdquo; Improvement of the WebService query / DLL for the check report  Planned features for future versions  Status tracking in dashboard Invoice accompanying attachments Revised XRechnung dialog Syntax check of Ident ID Extension of input for Ident IDs XRechnung version adapted  </description>
       </item>
       
       <item>
         <title>V1.0.0.4 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.4/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.4/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.4/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.4/</guid>
         <description>New and planned Version 1.0.0.4  Unlimited amount of standard attachments per document Adaptation to the Mail Experience  Planned features for future versions  Attachment functionalities on further levels  </description>
       </item>
       
       <item>
         <title>V1.0.1.0 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/new-and-planned/v1.0.1.0/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/e-post/new-and-planned/v1.0.1.0/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/new-and-planned/v1.0.1.0/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/e-post/new-and-planned/v1.0.1.0/</guid>
         <description>New and plannedd Version 1.0.1.0   Sending of other document types (credit notes, reminders, quotations, orders)
  Posted Sales Credit Memos Issued Reminders Quotes Sales orders    Sending duplex letters
   Sending status (joblist) in the factbox per document in the overview
@@ -685,39 +685,39 @@ Connector 365 is available for the following BC licensing:</description>
       
       <item>
         <title>V1.0.1.0 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.1.0/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/xrechnung/new-and-planned/v1.0.1.0/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.1.0/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/xrechnung/new-and-planned/v1.0.1.0/</guid>
         <description>New and planned Version 1.0.1.0  Status tracking in dashboard Invoice accompanying attachments Revised XRechnung dialog Syntax check of Ident ID Extension of input for Ident IDs XRechnung version adapted  Planned features for future versions  Service invoices and service credit notes Extension and improvement of the XRechnung setting on the customer side Ident ID 1:N Improvement Dimension Events Change from KoSit to 2.01  </description>
       </item>
       
       <item>
         <title>CTI notes</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/working-with-cti-for-starface/cti-notes/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/cti-for-starface/working-with-cti-for-starface/cti-notes/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/working-with-cti-for-starface/cti-notes/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/cti-for-starface/working-with-cti-for-starface/cti-notes/</guid>
         <description>Working with CTI for STARFACE Creating CTI notes After your phone call, you have the option to write your own notes about the content of the conversation. You can do this directly from the &amp;ldquo;Contact card&amp;rdquo;, which should still be open after the phone call.
 First select the corresponding entry in the &amp;ldquo;CTI entries&amp;rdquo;, now look in the right area in the factbox. There you will find the area &amp;ldquo;CTI notes&amp;rdquo;, with a click on the field name, you have the possibility to write a new note, this note can have a maximum of 1024 characters.</description>
       </item>
       
       <item>
         <title>Customer default attachments</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/first-steps/setup/defaults-customer/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/mail_attachment_plus/first-steps/setup/defaults-customer/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/first-steps/setup/defaults-customer/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/mail_attachment_plus/first-steps/setup/defaults-customer/</guid>
         <description>Setup Standard attachments per customer and report. Another way to add attachments is to add them as defaults for customers, for example, if there are conditions that only apply to a specific customer. Open the customer you want to add defaults to and expand the options in the menu via &amp;ldquo;More options&amp;rdquo;, click &amp;ldquo;Navigate&amp;rdquo; and select &amp;ldquo;Document layouts&amp;rdquo;.
 Select the report for which you want to add default attachments, we will use invoices again in this example.</description>
       </item>
       
       <item>
         <title>Document default attachments</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/working-with-map/defaults-document/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/mail_attachment_plus/working-with-map/defaults-document/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/working-with-map/defaults-document/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/mail_attachment_plus/working-with-map/defaults-document/</guid>
         <description>Working with Mail Attachment Plus Once you have added all your desired attachments via the &amp;ldquo;Attachments &amp;ldquo; menu, you can start sending. If you have not done so yet, you can find the setup of the Document Default Attachments in the &amp;ldquo;Getting Started&amp;rdquo; section.
 For the example, we have set up the attachments for a receipt as follows:
 An image and a PDF have been set as standard.
@@ -726,10 +726,10 @@ If you are using a Business Central version in which the Mail Experience is not 
       
       <item>
         <title>Installation</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/first-steps/installation/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/mail_attachment_plus/first-steps/installation/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/first-steps/installation/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/mail_attachment_plus/first-steps/installation/</guid>
         <description>First steps Installation Use the search function to open the Marketplace for Extensions and open it.
 The Microsoft AppSource will open. There you can use the search function again to find the Connector 365 Mail Attachment Plus. Click on Free Trial to start the installation. Before the installation starts, you have to provide some contact information.
 After submitting your contact information, you will be prompted to choose a language for the app.</description>
@@ -737,10 +737,10 @@ After submitting your contact information, you will be prompted to choose a lang
       
       <item>
         <title>Installation</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connector-on-appsource/xrechnung/first-steps/installation/</link>
+        <link>http://belware-gmbh.github.io/en-us/connector-on-appsource/xrechnung/first-steps/installation/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connector-on-appsource/xrechnung/first-steps/installation/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/connector-on-appsource/xrechnung/first-steps/installation/</guid>
         <description>First steps Installation Using the search function, open the Extension Marketplace and open it.
 The Microsoft AppSource will open. There you can use the search function again to find the Connector 365 XRechnung. Click on Free Trial to start the installation. Before the installation finally starts, you need to provide some contact information.
 After submitting your contact information, you will be prompted to choose a language for the app. Our app is available in English and German.</description>
@@ -748,40 +748,40 @@ After submitting your contact information, you will be prompted to choose a lang
       
       <item>
         <title>Pricing?</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connector-on-appsource/xrechnung/faq/pricing/</link>
+        <link>http://belware-gmbh.github.io/en-us/connector-on-appsource/xrechnung/faq/pricing/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connector-on-appsource/xrechnung/faq/pricing/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/connector-on-appsource/xrechnung/faq/pricing/</guid>
         <description>FAQ How does the pricing work? A license for the XRechnung app costs 19,90€/month and is billed either quartly or yearly. The license is not bound to certain users. Please contact us for more information.
 If you want to purchase additional licenses for the app, you can use our form.</description>
       </item>
       
       <item>
         <title>Registration</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/first-steps/registration/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/e-post/first-steps/registration/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/first-steps/registration/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/e-post/first-steps/registration/</guid>
         <description>First steps Registration To fully use the Connector 365 E-POST App*, prior registration with Deutsche Post is required. The registration page can be found here (only available in German) but also directly in the Connector 365 E-POST App.
 We will be happy to assist you in registering the E-POSTBUSINESS API with the Deutsche Post. To do so, simply contact support@belware.de.  In the registration form you will be asked for various contact information.</description>
       </item>
       
       <item>
         <title>Settings per report</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail-sender-plus/first-steps/setup/report/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/mail-sender-plus/first-steps/setup/report/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail-sender-plus/first-steps/setup/report/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/mail-sender-plus/first-steps/setup/report/</guid>
         <description>Setup Setting up addresses per report in the report selection To set up addresses in the report selection you first need to open the search function and search for &amp;ldquo;report selection&amp;rdquo;. You will now see a list of all possible report selections and their departments. Open the report selection for the desired department.
 Afterwards you can enter the desired address into the &amp;ldquo;Email Sender&amp;rdquo; field. You can either fill the field manually or select an address from the setup.</description>
       </item>
       
       <item>
         <title>State</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/working-with-xrechnung/state/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/xrechnung/working-with-xrechnung/state/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/working-with-xrechnung/state/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/xrechnung/working-with-xrechnung/state/</guid>
         <description>Working with XRechnung State Two XRechnung dispatch logs are available in the dashboard.
 Sent XRechnung&amp;quot; &amp;amp; &amp;ldquo;Incorrect XRechnung&amp;rdquo;.
 Protocol Sent XRechnung In the detailed dispatch log &amp;ldquo;Who&amp;rdquo; - &amp;ldquo;What&amp;rdquo; - &amp;ldquo;When &amp;ldquo; all successfully sent XRechnung are archived. The original XML file as well as the validation report are included in the log.
@@ -790,10 +790,10 @@ Protocol incorrect XRechnung Here XRechnung are displayed, which failed the chec
       
       <item>
         <title>State</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connector-on-appsource/xrechnung/working-with-xrechnung/state/</link>
+        <link>http://belware-gmbh.github.io/en-us/connector-on-appsource/xrechnung/working-with-xrechnung/state/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connector-on-appsource/xrechnung/working-with-xrechnung/state/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/connector-on-appsource/xrechnung/working-with-xrechnung/state/</guid>
         <description>Working with XRechnung State Two XRechnung dispatch logs are available in the dashboard.
 Sent XRechnung&amp;quot; &amp;amp; &amp;ldquo;Incorrect XRechnung&amp;rdquo;.
 Protocol Sent XRechnung In the detailed dispatch log &amp;ldquo;Who&amp;rdquo; - &amp;ldquo;What&amp;rdquo; - &amp;ldquo;When &amp;ldquo; all successfully sent XRechnung are archived. The original XML file as well as the validation report are included in the log.
@@ -802,10 +802,10 @@ Protocol incorrect XRechnung Here XRechnung are displayed, which failed the chec
       
       <item>
         <title>User &amp; Groups</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/first-steps/setup/user-groups/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/cti-for-starface/first-steps/setup/user-groups/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/first-steps/setup/user-groups/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/cti-for-starface/first-steps/setup/user-groups/</guid>
         <description>Setup Groups Groups offer you the possibility to sort your users no matter if it is a subdivision per department or per team, it can be mapped with groups. Users assigned to a group will only see other users from the same group in their CTI client. The use of groups is optional.
 Open with the search function the &amp;ldquo;CTI Groups&amp;rdquo;, here you find a table with two columns.
 If you want to create a new group, click &amp;ldquo;New&amp;rdquo; to activate the editing.</description>
@@ -813,37 +813,37 @@ If you want to create a new group, click &amp;ldquo;New&amp;rdquo; to activate t
       
       <item>
         <title>V1.0.0.1 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.0.1/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/xrechnung/new-and-planned/v1.0.0.1/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.0.1/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/xrechnung/new-and-planned/v1.0.0.1/</guid>
         <description>New and planned Version 1.0.0.1  Creating an XRechnung XML file Sending the XRechnung by mail using the standard BC Mail dialog. Sending of a validation report, which confirms the conformity of the invoice to the recipient. Displaying the validation report for the user in case of &amp;ldquo;non-conformity&amp;rdquo; Aborting the sending in case of &amp;ldquo;non-conformity&amp;rdquo; Improvement of the WebService query / DLL for the check report  Planned features for future versions  Status tracking in dashboard Invoice accompanying attachments Revised XRechnung dialog Syntax check of Ident ID Extension of input for Ident IDs XRechnung version adapted  </description>
       </item>
       
       <item>
         <title>V1.0.0.3 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.3/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.3/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.3/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.3/</guid>
         <description>New and planned Version 1.0.0.3  Unlimited number of attachments in dialog Set unlimited amount of default attachments per report Unlimited amount of standard attachments per customer/report Standard attachments limited to a specific time period Compatible with all common file types  Planned features for future versions  Unlimited amount of standard attachments per document  </description>
       </item>
       
       <item>
         <title>V1.0.0.5 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/new-and-planned/v1.0.0.5/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/e-post/new-and-planned/v1.0.0.5/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/new-and-planned/v1.0.0.5/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/e-post/new-and-planned/v1.0.0.5/</guid>
         <description>New and planned Version 1.0.0.5  Sending E-POST letters from posted sales invoices Shipping in color or b/w Registered mail (posting/return receipt) Archiving sent letters Shipping abroad  Planned functions for future versions  Other document types  Delivery bills Sales orders Quotes   Small improvements  </description>
       </item>
       
       <item>
         <title>VAT Scheme</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/first-steps/setup/setup-vat-scheme/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/xrechnung/first-steps/setup/setup-vat-scheme/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/first-steps/setup/setup-vat-scheme/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/xrechnung/first-steps/setup/setup-vat-scheme/</guid>
         <description>Setup Checking the VAT Scheme You should check the VAT scheme codes for the respective countries. For XRechnung, this is normally only Germany.
 These can be changed under “Countries/Region“ in Business Central, the fastest way to find this point is via the search function.
 There you change the field “VAT Scheme“ to the code for the corresponding country. The code for Germany is 9930, all other codes can be found here.</description>
@@ -851,10 +851,10 @@ There you change the field “VAT Scheme“ to the code for the corresponding co
       
       <item>
         <title>VAT Scheme</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-vat-scheme/</link>
+        <link>http://belware-gmbh.github.io/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-vat-scheme/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-vat-scheme/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-vat-scheme/</guid>
         <description>Setup Checking the VAT Scheme You should check the VAT scheme codes for the respective countries. For XRechnung, this is normally only Germany.
 These can be changed under “Countries/Region“ in Business Central, the fastest way to find this point is via the search function.
 There you change the field “VAT Scheme“ to the code for the corresponding country. The code for Germany is 9930, all other codes can be found here.</description>
@@ -862,10 +862,10 @@ There you change the field “VAT Scheme“ to the code for the corresponding co
       
       <item>
         <title>Working with Mail Sender Plus</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail-sender-plus/working-with-msp/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/mail-sender-plus/working-with-msp/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail-sender-plus/working-with-msp/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/mail-sender-plus/working-with-msp/</guid>
         <description>Working with Mail Sender Plus The Dialog Once the desired sender addresses have been set up, it is possible to start sending mail.
 Open a report and send it per mail.
 You will notice a new &amp;ldquo;Email Sender&amp;rdquo; field once the dialog opens. From there it is possible to access the list that you have just filled and manually selet an address. After selecting the desired sender, confirm with OK to start the process as usual.</description>
@@ -873,30 +873,30 @@ You will notice a new &amp;ldquo;Email Sender&amp;rdquo; field once the dialog o
       
       <item>
         <title>Call list</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/working-with-cti-for-starface/call-list/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/cti-for-starface/working-with-cti-for-starface/call-list/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/working-with-cti-for-starface/call-list/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/cti-for-starface/working-with-cti-for-starface/call-list/</guid>
         <description>Working with CTI for STARFACE The call list Incoming and outgoing calls are recorded in two places. Either directly in the contacts or on a global level in the joblist.
 CTI Entries In your contacts you can find the &amp;ldquo;CTI Entries&amp;rdquo;, these are located at the end of the contact card. There you can find the details of all phone calls made to this contact, such as whether it was incoming or outgoing, who made the call, when the call was answered and how long it lasted.</description>
       </item>
       
       <item>
         <title>Document default attachments</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/first-steps/setup/defaults-document/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/mail_attachment_plus/first-steps/setup/defaults-document/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/first-steps/setup/defaults-document/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/mail_attachment_plus/first-steps/setup/defaults-document/</guid>
         <description>Setup Adding standard attachments per document Using the Factbox, you have the option of adding standard attachments to each document, which are automatically attached when the document is sent. To do this, select the desired document in the overview and choose &amp;ldquo;Attachments&amp;rdquo; in the factbox on the right.
 Now click on the 0 at &amp;ldquo;Documents&amp;rdquo;, a window opens in which you can add attachments via &amp;ldquo;Select file&amp;rdquo; in the table.</description>
       </item>
       
       <item>
         <title>Events</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/working-with-xrechnung/events/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/xrechnung/working-with-xrechnung/events/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/working-with-xrechnung/events/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/xrechnung/working-with-xrechnung/events/</guid>
         <description>Working with XRechnung Events We offer you the possibility to link into our programming logic with events, here we describe how this works.
 To subscribe an event for sales invoices or service invoices, the XML port BEL365 S. Inv. XRechnung 2.0 must be specified in an EventSubscriber.
 Beispiel:
@@ -906,10 +906,10 @@ Example:</description>
       
       <item>
         <title>Help &amp; Support</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/help-support/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/cti-for-starface/help-support/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/help-support/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/cti-for-starface/help-support/</guid>
         <description>Help &amp;amp; Support We are always happy to take care of your requests, regardless if they are general questions about the BELWARE GmbH and our products or specific questions. Just contact us either via phone or mail. We will get back to you within 1 to 2 business days.
 For general things you can reach us under:
 E-Mail: info@belware.de
@@ -920,10 +920,10 @@ Fax: +49 2362 788 90 56</description>
       
       <item>
         <title>Help &amp; Support</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/help-support/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/xrechnung/help-support/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/help-support/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/xrechnung/help-support/</guid>
         <description>Help &amp;amp; Support We are always happy to take care of your requests, regardless if they are general questions about the BELWARE GmbH and our products or specific questions. Just contact us either via phone or mail. We will get back to you within 1 to 2 business days.
 For general things you can reach us under:
 E-Mail: info@belware.de
@@ -934,19 +934,19 @@ Fax: +49 2362 788 90 56</description>
       
       <item>
         <title>How do I start?</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connector-on-appsource/xrechnung/faq/getting-started/</link>
+        <link>http://belware-gmbh.github.io/en-us/connector-on-appsource/xrechnung/faq/getting-started/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connector-on-appsource/xrechnung/faq/getting-started/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/connector-on-appsource/xrechnung/faq/getting-started/</guid>
         <description>FAQ How do I start? Once the app is installed, go to the customer that should receive the XRechnung and tick the box in document layouts and add the ident ID. Then you can start sending. A more detailed guide can be found under Working with XRechnung or Setup.</description>
       </item>
       
       <item>
         <title>Installation</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/first-steps/installation/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/e-post/first-steps/installation/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/first-steps/installation/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/e-post/first-steps/installation/</guid>
         <description>First steps Installation Using the search function, open the Marketplace for Extensions and open it.
 The Microsoft AppSource opens. There you can use the search function again to find the Connector 365 E-POST. Click on Free Trial to start the installation. Before the installation starts, you have to provide some contact information.
 After submitting your contact information, you will be prompted to choose a language for the app. Our Connector 365 E-POST App* is available in English and German.</description>
@@ -954,20 +954,20 @@ After submitting your contact information, you will be prompted to choose a lang
       
       <item>
         <title>Sender per Customer/Vendor</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail-sender-plus/first-steps/setup/customer-vendor/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/mail-sender-plus/first-steps/setup/customer-vendor/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail-sender-plus/first-steps/setup/customer-vendor/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/mail-sender-plus/first-steps/setup/customer-vendor/</guid>
         <description>Setup Sender per Customer/Vendor It is also possible to set addresses per customer/vendor, this is controlled by the document layouts. This option has the highest priority. To make changes you need to open the page of customer/vendor that you want to set up. Now expand the options, click on navigate and then customer, finally select document layouts.
 The most important fields here are “Usage”, “Report ID” and our newly added field “EMail Sender”.</description>
       </item>
       
       <item>
         <title>Unit codes</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/first-steps/setup/setup-unit-codes/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/xrechnung/first-steps/setup/setup-unit-codes/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/first-steps/setup/setup-unit-codes/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/xrechnung/first-steps/setup/setup-unit-codes/</guid>
         <description>Setup Check standard codes for units Another point worth checking are unit codes. These must have a special designation to be PEPPOL compliant in order to be accepted.
 The quickest way to get to the list of unit codes is to use the search function and search for “Units of Measure”.
 Then you should adjust the field &amp;ldquo;International Standard Code” according to the UN/ECE Recommendation 20 or 21.</description>
@@ -975,10 +975,10 @@ Then you should adjust the field &amp;ldquo;International Standard Code” accor
       
       <item>
         <title>Unit codes</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-unit-codes/</link>
+        <link>http://belware-gmbh.github.io/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-unit-codes/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-unit-codes/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-unit-codes/</guid>
         <description>Setup Check standard codes for units Another point worth checking are unit codes. These must have a special designation to be PEPPOL compliant in order to be accepted.
 The quickest way to get to the list of unit codes is to use the search function and search for “Units of Measure”.
 Then you should adjust the field &amp;ldquo;International Standard Code” according to the UN/ECE Recommendation 20 or 21.</description>
@@ -986,10 +986,10 @@ Then you should adjust the field &amp;ldquo;International Standard Code” accor
       
       <item>
         <title>Help &amp; Support</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/help-support/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/e-post/help-support/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/help-support/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/e-post/help-support/</guid>
         <description>Help &amp;amp; Support We are always happy to take care of your requests, regardless if they are general questions about the BELWARE GmbH and our products or specific questions. Just contact us either via phone or mail. We will get back to you within 1 to 2 business days.
 For general things you can reach us under:
 E-Mail: info@belware.de
@@ -1000,10 +1000,10 @@ Fax: +49 2362 788 90 56</description>
       
       <item>
         <title>Help &amp; Support</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail-sender-plus/help-support/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/mail-sender-plus/help-support/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail-sender-plus/help-support/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/mail-sender-plus/help-support/</guid>
         <description>Help &amp;amp; Support We are always happy to take care of your requests, regardless if they are general questions about the BELWARE GmbH and our products or specific questions. Just contact us either via phone or mail. We will get back to you within 1 to 2 business days.
 For general things you can reach us under:
 E-Mail: info@belware.de
@@ -1014,10 +1014,10 @@ Fax: +49 2362 788 90 56</description>
       
       <item>
         <title>Help &amp; Support</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/help-support/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/mail_attachment_plus/help-support/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/help-support/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/mail_attachment_plus/help-support/</guid>
         <description>Help &amp;amp; Support We are always happy to take care of your requests, regardless if they are general questions about the BELWARE GmbH and our products or specific questions. Just contact us either via phone or mail. We will get back to you within 1 to 2 business days.
 For general things you can reach us under:
 E-Mail: info@belware.de
@@ -1028,10 +1028,10 @@ Fax: +49 2362 788 90 56</description>
       
       <item>
         <title>Help &amp; Support</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connector-on-appsource/xrechnung/help-support/</link>
+        <link>http://belware-gmbh.github.io/en-us/connector-on-appsource/xrechnung/help-support/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connector-on-appsource/xrechnung/help-support/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/connector-on-appsource/xrechnung/help-support/</guid>
         <description>Help &amp;amp; Support We are always happy to take care of your requests, regardless if they are general questions about the BELWARE GmbH and our products or specific questions. Just contact us either via phone or mail. We will get back to you within 1 to 2 business days.
 For general things you can reach us under:
 E-Mail: info@belware.de
@@ -1042,80 +1042,80 @@ Fax: +49 2362 788 90 56</description>
       
       <item>
         <title>Tax Category</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/first-steps/setup/setup-tax-category/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/xrechnung/first-steps/setup/setup-tax-category/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/first-steps/setup/setup-tax-category/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/xrechnung/first-steps/setup/setup-tax-category/</guid>
         <description>Setup Check the Tax Category Finally, it is also worth looking at the tax category, this can be found in the VAT Posting Setup, this can again be called up most quickly via the search function.
 Here you should now fill the field “Tax category” with the respective designation, you can find this here finden. In most cases you will only need E S and Z.</description>
       </item>
       
       <item>
         <title>Tax Category</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-tax-category/</link>
+        <link>http://belware-gmbh.github.io/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-tax-category/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-tax-category/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-tax-category/</guid>
         <description>Setup Check the Tax Category Finally, it is also worth looking at the tax category, this can be found in the VAT Posting Setup, this can again be called up most quickly via the search function.
 Here you should now fill the field “Tax category” with the respective designation, you can find this here finden. In most cases you will only need E S and Z.</description>
       </item>
       
       <item>
         <title>Videos</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/videos/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/cti-for-starface/videos/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/videos/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/cti-for-starface/videos/</guid>
         <description>Videos Here you can find some informative videos about our Connector 365 CTI for STARFACE App, each video covers a special topic
 Connector 365 CTI for STARFACE - Quick Overview </description>
       </item>
       
       <item>
         <title>Videos</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/videos/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/xrechnung/videos/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/videos/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/xrechnung/videos/</guid>
         <description>Videos Here you can find some informative videos about our XRechnung, each video covers a special topic
 Setup &amp;amp; Sending </description>
       </item>
       
       <item>
         <title>Videos</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/videos/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/e-post/videos/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/videos/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/e-post/videos/</guid>
         <description>Videos Here you can find some informative videos about our Connector 365 E-POST App, each video covers a special topic
 Connector 365 E-POST - Quick Overview - English *The Connector 365 E-POST App is powered by the E-POSTBUSINESS API, a service of the Deutsche Post</description>
       </item>
       
       <item>
         <title>Videos</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail-sender-plus/videos/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/mail-sender-plus/videos/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail-sender-plus/videos/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/mail-sender-plus/videos/</guid>
         <description>Videos Here you can find some informative videos about our XRechnung, each video covers a special topic
 Setup of the App </description>
       </item>
       
       <item>
         <title>Videos</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/videos/</link>
+        <link>http://belware-gmbh.github.io/en-us/apps/mail_attachment_plus/videos/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/videos/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/apps/mail_attachment_plus/videos/</guid>
         <description>Videos Here you can find some informative videos about our Mail Attachments Plus App, each video covers a special topic
 Using the App </description>
       </item>
       
       <item>
         <title>Videos</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connector-on-appsource/xrechnung/videos/</link>
+        <link>http://belware-gmbh.github.io/en-us/connector-on-appsource/xrechnung/videos/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connector-on-appsource/xrechnung/videos/</guid>
+        <guid>http://belware-gmbh.github.io/en-us/connector-on-appsource/xrechnung/videos/</guid>
         <description>Videos Here you can find some informative videos about our XRechnung, each video covers a special topic
 Setup &amp;amp; Sending </description>
       </item>
