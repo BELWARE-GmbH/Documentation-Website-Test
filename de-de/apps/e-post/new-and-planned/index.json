@@ -2,31 +2,31 @@
     "version" : "https://jsonfeed.org/version/1",
     "title" : "Neu und geplant on Connector 365 Online Hilfe",
     "description": "Recent content in Neu und geplant on Connector 365 Online Hilfe",
-    "home_page_url" : "http://belware-gmbh.github.io/",
-    "feed_url" : "http://belware-gmbh.github.io/de-de/apps/e-post/new-and-planned/index.json",
+    "home_page_url" : "https://belware-gmbh.github.io/",
+    "feed_url" : "https://belware-gmbh.github.io/de-de/apps/e-post/new-and-planned/index.json",
     "items" : [
     {
         "title" : "V1.0.1.1 \u0026 Roadmap",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "http://belware-gmbh.github.io/de-de/apps/e-post/new-and-planned/v1.0.1.1/",
-        "url" : "http://belware-gmbh.github.io/de-de/apps/e-post/new-and-planned/v1.0.1.1/",
+        "id" : "https://belware-gmbh.github.io/de-de/apps/e-post/new-and-planned/v1.0.1.1/",
+        "url" : "https://belware-gmbh.github.io/de-de/apps/e-post/new-and-planned/v1.0.1.1/",
         "content_html" : "\u003ch3 id=\"neu-und-geplant\"\u003eNeu und geplant\u003c/h3\u003e\n\u003ch3 id=\"version-1010\"\u003eVersion 1.0.1.0\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eKorrektur der Übersetzung\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"geplante-funktionen-für-zukünftige-versionen\"\u003eGeplante Funktionen für zukünftige Versionen\u003c/h3\u003e\n"
     },
     {
         "title" : "V1.0.1.0 \u0026 Roadmap",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "http://belware-gmbh.github.io/de-de/apps/e-post/new-and-planned/v1.0.1.0/",
-        "url" : "http://belware-gmbh.github.io/de-de/apps/e-post/new-and-planned/v1.0.1.0/",
+        "id" : "https://belware-gmbh.github.io/de-de/apps/e-post/new-and-planned/v1.0.1.0/",
+        "url" : "https://belware-gmbh.github.io/de-de/apps/e-post/new-and-planned/v1.0.1.0/",
         "content_html" : "\u003ch3 id=\"neu-und-geplant\"\u003eNeu und geplant\u003c/h3\u003e\n\u003ch3 id=\"version-1010\"\u003eVersion 1.0.1.0\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eVersand weiterer Belegarten\n\u003cul\u003e\n\u003cli\u003eGeb. Verkaufsgutschriften\u003c/li\u003e\n\u003cli\u003eRegistrierte Mahnungen\u003c/li\u003e\n\u003cli\u003eAngebote\u003c/li\u003e\n\u003cli\u003eVerkaufsaufträge\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003eVersand von Duplexbriefen\u003c/li\u003e\n\u003cli\u003eVersandstatus (Jobliste) in der Factbox am Vorgang in der Übersicht\u003c/li\u003e\n\u003cli\u003eZwei Boxen für die Jobliste im Dashboard\u003c/li\u003e\n\u003cli\u003eDie Connector 365 XRechnung App stützt nun auf unsere Basis App\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"geplante-funktionen-für-zukünftige-versionen\"\u003eGeplante Funktionen für zukünftige Versionen\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eErneutes versenden von fehlerhaften Briefen\u003c/li\u003e\n\u003cli\u003eKontakte im Dialog editierbar\u003c/li\u003e\n\u003cli\u003eWeitere Belegarten\n\u003cul\u003e\n\u003cli\u003eGeb. Service-Rechnungen\u003c/li\u003e\n\u003cli\u003eGeb. Service-Gutschriften\u003c/li\u003e\n\u003cli\u003e\n\u003ctable\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003cth\u003eBestellungen\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003c/table\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n"
     },
     {
         "title" : "V1.0.0.5 \u0026 Roadmap",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "http://belware-gmbh.github.io/de-de/apps/e-post/new-and-planned/v1.0.0.5/",
-        "url" : "http://belware-gmbh.github.io/de-de/apps/e-post/new-and-planned/v1.0.0.5/",
+        "id" : "https://belware-gmbh.github.io/de-de/apps/e-post/new-and-planned/v1.0.0.5/",
+        "url" : "https://belware-gmbh.github.io/de-de/apps/e-post/new-and-planned/v1.0.0.5/",
         "content_html" : "\u003ch3 id=\"neu-und-geplant\"\u003eNeu und geplant\u003c/h3\u003e\n\u003ch3 id=\"version-1005\"\u003eVersion 1.0.0.5\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eVersenden von E-POST Briefen aus geb. Verkaufsrechnungen\u003c/li\u003e\n\u003cli\u003eVersand in Farbe bzw. S/W\u003c/li\u003e\n\u003cli\u003eEinschreiben (Einwurf/Rückschein)\u003c/li\u003e\n\u003cli\u003eArchivierung versendeter Briefe\u003c/li\u003e\n\u003cli\u003eAuslandsversand\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"geplante-funktionen-für-zukünftige-versionen\"\u003eGeplante Funktionen für zukünftige Versionen\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eWeitere Belegarten\n\u003cul\u003e\n\u003cli\u003eLieferscheine\u003c/li\u003e\n\u003cli\u003eVerkaufsaufträge\u003c/li\u003e\n\u003cli\u003eAngebote\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003eKleine Verbesserungen\u003c/li\u003e\n\u003c/ul\u003e\n"
     }
     ]
