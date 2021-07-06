@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Basis on Connector 365 Online Hilfe</title>
-    <link>https://belware-gmbh.github.io/de-de/connectornav/base/</link>
+    <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/base/</link>
     <description>Recent content in Basis on Connector 365 Online Hilfe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
     <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
     
-        <atom:link href="https://belware-gmbh.github.io/de-de/connectornav/base/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/base/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>Die Basisübersichten</title>
-        <link>https://belware-gmbh.github.io/de-de/connectornav/base/base_overview/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/base/base_overview/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/de-de/connectornav/base/base_overview/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/base/base_overview/</guid>
         <description>Die Basisübersichten Bitte beachten Sie, dass auch Funktionen für Module beschrieben werden deren Lizenz Sie nicht erworben haben. Diese sollten i.d.R. am Kontext erkennbar sein.  Die Connector NAV Jobliste Übersicht Wichtige Felder Connector NAV Jobliste Übersicht Die Connector NAV Jobliste Übersicht zeigt tabellarisch die jeweils erteilten Jobaufträge mit allen benötigten Informationen an. Die obere Abbildung zeigt einen kleinen Ausschnitt aus der Jobliste Übersicht.
    Feldbeschreibung      Lfd.</description>
       </item>
