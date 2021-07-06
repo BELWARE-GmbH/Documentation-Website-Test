@@ -22,12 +22,12 @@
         "content_html" : ""
     },
     {
-        "title" : "Working with Mail Sender Plus",
+        "title" : "Arbeiten mit Easy Batch",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/working-with-msp/",
-        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/working-with-msp/",
-        "content_html" : "\u003ch3 id=\"working-with-mail-sender-plus\"\u003eWorking with Mail Sender Plus\u003c/h3\u003e\n\u003ch3 id=\"the-dialog\"\u003eThe Dialog\u003c/h3\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/Documentation-Website-Test/images/apps/senderdialog.png\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003c/p\u003e\n\u003cp\u003eOnce the desired sender addresses have been set up, it is possible to start sending mail.\u003cbr /\u003e\nOpen a report and send it per mail.\u003c/p\u003e\n\u003cp\u003eYou will notice a new \u003cstrong\u003e\u0026ldquo;Email Sender\u0026rdquo;\u003c/strong\u003e field once the dialog opens. From there it is possible to access the list that you have just filled and manually selet an address. After selecting the desired sender, confirm with OK to start the process as usual.\u003c/p\u003e\n\u003cp\u003eIf it is desired it is also possible to set a permanent default via report selection or in the document layouts per customer/vendor. The priority system will then set the correct address for you by default.\u003c/p\u003e\n"
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/working-with-easy-batch/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/working-with-easy-batch/",
+        "content_html" : ""
     },
     {
         "title" : "Help \u0026 Support",

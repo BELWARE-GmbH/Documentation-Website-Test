@@ -261,15 +261,6 @@ Mail Experience Wenn Ihnen schon die Mail Experience zur Verfügung steht (ab Ve
       
       <item>
         <title>V1.0.0.2 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/v1.0.0.2/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/v1.0.0.2/</guid>
-        <description>Neu und geplant Version 1.0.0.2  Erweiterte Maileinrichtung mit mehreren Absendern Änderbare Absenderadresse im Dialog Eine Adresse pro Benutzer festlegen Eine Standardadresse pro Bericht Eine Standardadresse pro Kreditor/Debitor  Geplante Funktionen für zukünftige Versionen  Anpassen an die Mail Experience  </description>
-      </item>
-      
-      <item>
-        <title>V1.0.0.2 &amp; Roadmap</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/new-and-planned/v1.0.0.2/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -843,16 +834,6 @@ Connector 365 steht Ihnen für die folgende BC Lizensierung zur Verfügung:</des
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.0/</guid>
         <description>Neu und geplant Version 1.0.1.0  Statusverfolgung im Dashboard Rechnungsbegleitende Anhänge Überarbeiteter XRechnungs-Dialog Syntaxüberprüfung der Leitweg-ID Erweiterung der Eingabe für Leitweg ID&amp;rsquo;s XRechnungsversion angepasst  Geplante Funktionen für zukünftige Versionen  Service Rechnungen und Service Gutschriften Erweiterung und Verbesserung der XRechnungseinstellung am Debitor Leitweg ID 1:N Verbesserung Dimension Events Wechsel von Kosit auf 2.01  </description>
-      </item>
-      
-      <item>
-        <title>Arbeiten mit Mail Sender Plus</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/working-with-msp/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/working-with-msp/</guid>
-        <description>Arbeiten mit Mail Sender Plus Der Dialog Nachdem die gewünschten Absenderadressen eingerichtet worden sind, können Sie nun starten. Öffnen Sie einen Beleg und versenden Sie diesen per Mail.
-Sobald sich der Dialog öffnet, wird Ihnen das neue &amp;ldquo;E-Mail Sender&amp;rdquo; Feld auffallen, von dort aus haben Sie nun Zugriff auf die Absenderliste und können die Absenderadressen manuell auswählen. Nachdem Sie die gewünschte Adresse ausgewählt haben, bestätigen Sie nun mit OK, um den Versand wie gewohnt zu starten.</description>
       </item>
       
       <item>

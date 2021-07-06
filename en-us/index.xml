@@ -960,17 +960,6 @@ There you change the field “VAT Scheme“ to the code for the corresponding co
       
       <item>
         <title>Working with Mail Sender Plus</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/working-with-msp/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/working-with-msp/</guid>
-        <description>Working with Mail Sender Plus The Dialog Once the desired sender addresses have been set up, it is possible to start sending mail.
-Open a report and send it per mail.
-You will notice a new &amp;ldquo;Email Sender&amp;rdquo; field once the dialog opens. From there it is possible to access the list that you have just filled and manually selet an address. After selecting the desired sender, confirm with OK to start the process as usual.</description>
-      </item>
-      
-      <item>
-        <title>Working with Mail Sender Plus</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail-sender-plus/working-with-msp/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         

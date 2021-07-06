@@ -655,16 +655,6 @@
   <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/new-and-planned/v1.0.0.2/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/v1.0.0.2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/new-and-planned/v1.0.0.2/"
-                />
   </url>
   
   <url>
@@ -1528,6 +1518,21 @@
   </url>
   
   <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/working-with-easy-batch/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/working-with-easy-batch/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/working-with-easy-batch/"
+                />
+  </url>
+  
+  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/working-with-cti-for-starface/cti-notes/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1879,21 +1884,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/working-with-map/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/working-with-msp/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/working-with-msp/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/working-with-msp/"
                 />
   </url>
   
