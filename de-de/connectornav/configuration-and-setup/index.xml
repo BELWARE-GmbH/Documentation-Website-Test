@@ -15,15 +15,6 @@
     
       
       <item>
-        <title>Connector 365 setup</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/configuration-and-setup/setup/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/configuration-and-setup/setup/</guid>
-        <description></description>
-      </item>
-      
-      <item>
         <title>Vorbereitung</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/configuration-and-setup/preparations/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -43,6 +34,15 @@
 Konfigurationseinstellung.
 Die Konfiguration gibt Aufschluss über Ihre erworbenen Module.
 Register Codeunit Connector NAV Konfiguration, Register Codeunit    Feldbeschreibung      Fax-, Mail-, SMS-, PDF-, CTI-, IncaMail-, Archiv Codeunit Für jedes erworbene Modul wurde die entsprechende Objektnummer der Codeunit eingetragen.</description>
+      </item>
+      
+      <item>
+        <title>Connector 365 setup</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/configuration-and-setup/setup/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/configuration-and-setup/setup/</guid>
+        <description>Einrichtungen </description>
       </item>
       
     

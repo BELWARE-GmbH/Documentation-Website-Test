@@ -15,23 +15,15 @@
     
       
       <item>
-        <title>Aufgabenwarteschlange Einrichtung</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/configuration-and-setup/setup/setup_queue/</link>
+        <title>Einrichtung</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/configuration-and-setup/setup/setup_connectornav/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/configuration-and-setup/setup/setup_queue/</guid>
-        <description>Einrichten einer Aufgabenwarteschlange für die Hintergrundverarbeitung Die Einrichtung der Aufgabenwarteschlange befindet sich im Menü unter Verwaltung-&amp;gt; IT Verwaltung-&amp;gt; Anwendung Einrichtung-&amp;gt; Aufgabenwarteschlange.
-Microsoft Dynamics NAV, Aufgabenwarteschlange Um Connector NAV Serverjobs auszuführen, wird ein Aufgabenwarteschlangenposten mit der entsprechenden Codeunit 5402516 angelegt. Damit dieser Posten läuft, muss eine Aufgabenwarteschlange mit entsprechendem Dienst angelegt werden. Dazu gibt es verschiedene Möglichkeiten. Im nachfolgenden Beispiel wird eine Aufgabenwarteschlange mit dem Administrator-Benutzer ohne weitere Einrichtung am Server angelegt.</description>
-      </item>
-      
-      <item>
-        <title>Auswahl der Zieladressen</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/configuration-and-setup/setup/address_chooser/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/configuration-and-setup/setup/address_chooser/</guid>
-        <description>Auswahl der Zieladressen Connector NAV Auswahl Zieladresse Über die Auswahl der Zieladressen kann pro Jobmodus selbstständig eingestellt werden, welcher Beleg an welchen Empfänger geht. Auch individuelle Standardanpassungen können berücksichtig werden.
-Die Abbildung oben zeigt ein Beispiel für die Einrichtung der Zieladressen für Rechnungen, Gutschriften und Angeboten. Im Klartext gibt die Einrichtrung an, dass E-Mails für Rechnungen an das Feld „Rechnung an Kontaktnr.“ gehen und die Zieladresse sich im Feld „E-Mail“ befindet.</description>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/configuration-and-setup/setup/setup_connectornav/</guid>
+        <description>Die Connector NAV Einrichtung Aktionen Connector NAV Einrichtung, Aktionen Mit der Default-Funktion werden die Felder com_job bis com_form mittels des Servernamens automatisch eingetragen.
+Die Funktion DocImport erzeugt für alle Dokumente, die im Dokumenteneingangsverzeichnis hinterlegt sind, einen Eintrag in der Jobliste. Somit
+können externe Dokumente in Microsoft Dynamics NAV zugänglich gemacht werden.
+Register Allgemein Connector NAV Einrichtung, Register Allgemein In der Connector NAV-Einrichtung werden alle wichtigen Einstellungen einmalig hinterlegt.</description>
       </item>
       
       <item>
@@ -56,15 +48,13 @@ Anhangsdatei 1 - 4 Über diese Aktionen kann das gewünschte Dokument angezeigt 
       </item>
       
       <item>
-        <title>Einrichtung</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/configuration-and-setup/setup/setup_connectornav/</link>
+        <title>Auswahl der Zieladressen</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/configuration-and-setup/setup/address_chooser/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/configuration-and-setup/setup/setup_connectornav/</guid>
-        <description>Einrichtungen Die Connector NAV Einrichtung Aktionen Connector NAV Einrichtung, Aktionen Mit der Default-Funktion werden die Felder com_job bis com_form mittels des Servernamens automatisch eingetragen.
-Die Funktion DocImport erzeugt für alle Dokumente, die im Dokumenteneingangsverzeichnis hinterlegt sind, einen Eintrag in der Jobliste. Somit
-können externe Dokumente in Microsoft Dynamics NAV zugänglich gemacht werden.
-Register Allgemein Connector NAV Einrichtung, Register Allgemein In der Connector NAV-Einrichtung werden alle wichtigen Einstellungen einmalig hinterlegt.</description>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/configuration-and-setup/setup/address_chooser/</guid>
+        <description>Auswahl der Zieladressen Connector NAV Auswahl Zieladresse Über die Auswahl der Zieladressen kann pro Jobmodus selbstständig eingestellt werden, welcher Beleg an welchen Empfänger geht. Auch individuelle Standardanpassungen können berücksichtig werden.
+Die Abbildung oben zeigt ein Beispiel für die Einrichtung der Zieladressen für Rechnungen, Gutschriften und Angeboten. Im Klartext gibt die Einrichtrung an, dass E-Mails für Rechnungen an das Feld „Rechnung an Kontaktnr.“ gehen und die Zieladresse sich im Feld „E-Mail“ befindet.</description>
       </item>
       
       <item>
@@ -76,6 +66,16 @@ Register Allgemein Connector NAV Einrichtung, Register Allgemein In der Conne
         <description>Kommunikationsmatrix Die Kommunikationsmatrix ist die spezielle Einrichtung von Zieladressen. Mit der oben beschriebenen Übersicht werden globale Zieladressen bestimmt (z.B. Verkauf an Kontakt, Feld E-Mail). Mit der Kommunikationsmatrix können Ausnahmen bestimmt werden.
 Connector NAV Kommunikationsmatrix Übersicht Im unteren Bereich der Karte gibt es eine Übersicht der vorhandenen Globalen Einstellungen. Die Ausnahmen wirken sich nur aus, wenn es auch eine globale Einstellung gibt.
    Feldbeschreibung      Jobmodus Auswahl des Jobmodus.</description>
+      </item>
+      
+      <item>
+        <title>Aufgabenwarteschlange Einrichtung</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/configuration-and-setup/setup/setup_queue/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/configuration-and-setup/setup/setup_queue/</guid>
+        <description>Einrichten einer Aufgabenwarteschlange für die Hintergrundverarbeitung Die Einrichtung der Aufgabenwarteschlange befindet sich im Menü unter Verwaltung-&amp;gt; IT Verwaltung-&amp;gt; Anwendung Einrichtung-&amp;gt; Aufgabenwarteschlange.
+Microsoft Dynamics NAV, Aufgabenwarteschlange Um Connector NAV Serverjobs auszuführen, wird ein Aufgabenwarteschlangenposten mit der entsprechenden Codeunit 5402516 angelegt. Damit dieser Posten läuft, muss eine Aufgabenwarteschlange mit entsprechendem Dienst angelegt werden. Dazu gibt es verschiedene Möglichkeiten. Im nachfolgenden Beispiel wird eine Aufgabenwarteschlange mit dem Administrator-Benutzer ohne weitere Einrichtung am Server angelegt.</description>
       </item>
       
     

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Connector NAV/BC on Connector 365 Online Hilfe</title>
+    <title>Connector NAV/365 BC on Connector 365 Online Hilfe</title>
     <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/</link>
-    <description>Recent content in Connector NAV/BC on Connector 365 Online Hilfe</description>
+    <description>Recent content in Connector NAV/365 BC on Connector 365 Online Hilfe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
@@ -20,7 +20,7 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/configuration-and-setup/</guid>
-        <description></description>
+        <description>Die Dokumentation für Konfiguration und Einrichtung </description>
       </item>
       
       <item>
@@ -29,7 +29,43 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/base/</guid>
-        <description></description>
+        <description>Die Dokumentation für die Basis </description>
+      </item>
+      
+      <item>
+        <title>Modul E-Post</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/epost/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/epost/</guid>
+        <description>Die Dokumentation für das Modul E-POST </description>
+      </item>
+      
+      <item>
+        <title>Modul Fax</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/fax/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/fax/</guid>
+        <description>Die Dokumentation für das Modul Fax </description>
+      </item>
+      
+      <item>
+        <title>Modul Mail</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/mail/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/mail/</guid>
+        <description>Die Dokumentation für das Modul E-Mail </description>
+      </item>
+      
+      <item>
+        <title>Modul pdfpaper</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/pdfpaper/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/pdfpaper/</guid>
+        <description>Die Dokumentation für das Modul pdfPaper Server </description>
       </item>
       
     

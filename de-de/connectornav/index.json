@@ -1,7 +1,7 @@
 {
     "version" : "https://jsonfeed.org/version/1",
-    "title" : "Connector NAV/BC on Connector 365 Online Hilfe",
-    "description": "Recent content in Connector NAV/BC on Connector 365 Online Hilfe",
+    "title" : "Connector NAV/365 BC on Connector 365 Online Hilfe",
+    "description": "Recent content in Connector NAV/365 BC on Connector 365 Online Hilfe",
     "home_page_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/",
     "feed_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/index.json",
     "items" : [
@@ -11,7 +11,7 @@
         "date_modified" : "2020-02-28T10:08:56+09:00",
         "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/configuration-and-setup/",
         "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/configuration-and-setup/",
-        "content_html" : ""
+        "content_html" : "\u003ch3 id=\"die-dokumentation-für-konfiguration-und-einrichtung\"\u003eDie Dokumentation für Konfiguration und Einrichtung\u003c/h3\u003e\n"
     },
     {
         "title" : "Basis",
@@ -19,7 +19,39 @@
         "date_modified" : "2020-02-28T10:08:56+09:00",
         "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/base/",
         "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/base/",
-        "content_html" : ""
+        "content_html" : "\u003ch3 id=\"die-dokumentation-für-die-basis\"\u003eDie Dokumentation für die Basis\u003c/h3\u003e\n"
+    },
+    {
+        "title" : "Modul E-Post",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/epost/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/epost/",
+        "content_html" : "\u003ch3 id=\"die-dokumentation-für-das-modul-e-post\"\u003eDie Dokumentation für das Modul E-POST\u003c/h3\u003e\n"
+    },
+    {
+        "title" : "Modul Fax",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/fax/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/fax/",
+        "content_html" : "\u003ch3 id=\"die-dokumentation-für-das-modul-fax\"\u003eDie Dokumentation für das Modul Fax\u003c/h3\u003e\n"
+    },
+    {
+        "title" : "Modul Mail",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/mail/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/mail/",
+        "content_html" : "\u003ch3 id=\"die-dokumentation-für-das-modul-e-mail\"\u003eDie Dokumentation für das Modul E-Mail\u003c/h3\u003e\n"
+    },
+    {
+        "title" : "Modul pdfpaper",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/pdfpaper/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/pdfpaper/",
+        "content_html" : "\u003ch3 id=\"die-dokumentation-für-das-modul-pdfpaper-server\"\u003eDie Dokumentation für das Modul pdfPaper Server\u003c/h3\u003e\n"
     }
     ]
 }

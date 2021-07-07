@@ -219,17 +219,6 @@ According to the Decision of the IT Planning Council of 22.06.2017 (Link only av
       
       <item>
         <title>Priority System</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/first-steps/setup/priority-system/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/first-steps/setup/priority-system/</guid>
-        <description>Setup The Priority System As mentioned in the introduction, the addresses that will be used are controlled by a priority
-system. The priority system works as follows, from lowest zu highest:
- Default An address per user An address per report An address per customer  This documentation will go into detail how to set up each layer to your wishes.</description>
-      </item>
-      
-      <item>
-        <title>Priority System</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail-sender-plus/first-steps/setup/priority-system/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -295,15 +284,6 @@ The content of the mail can be customized and the current attachments are visibl
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/under-construction/</guid>
         <description>This part of our docs page is under construction This part of the website is still being worked on and as such is not yet available to the public.
 Please return at a later date, when we will have added further informative content about the usage of our solutions to this website.</description>
-      </item>
-      
-      <item>
-        <title>V1.0.0.2 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/new-and-planned/v1.0.0.2/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/new-and-planned/v1.0.0.2/</guid>
-        <description>Neu und geplant Version 1.0.0.2  Advanced mail setup with multiple senders Changeable sender address in dialog Set an address per user A default address per report A default address per vendor/customer  Planned functions for future versions  Customize to the Mail Experience  </description>
       </item>
       
       <item>
@@ -454,9 +434,7 @@ Connector 365 Mail Sender Plus is available for the following BC licensing:</des
 After downloading, the app is available to you free of charge for 5 processes.
 Once these are reached, you have the option to order the app directly.
 Your costs:
-   Subscription incl. maintenance*     19,90€    *billed either monthly, quarterly or annually
-To the form
-If the trial period is too short for you, please contact us at support@belware.</description>
+   Monthly subscription incl. maintenance per company with annual payment and term*     19,90€       Monthly subscription incl. maintenance per company with monthly payment and term*     25,90€    *Each additional customer or instance is charged with a 50% price advantage</description>
       </item>
       
       <item>
@@ -512,18 +490,6 @@ In the &amp;ldquo;XRechnung&amp;rdquo; field, place a check mark to activate the
         <description>Working with Mail Attachment Plus After you have added the attachments you want in the report selection, you can start sending the mail. If you have not done so yet, you can find the setup of the Customer Default Attachments in the &amp;ldquo;Getting Started&amp;rdquo; section.
 For this example, we have set up the default attachments in invoice shipping as follows:
 Two PDFs are attached, each with the standards set up per document/report</description>
-      </item>
-      
-      <item>
-        <title>Expanding the Setup</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/first-steps/setup/extending-the-setup/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/first-steps/setup/extending-the-setup/</guid>
-        <description>Setup Expanding the mail setup &amp;amp; setting up addresses per user First you need to fill the setup with additional addresses that the system can use. Use the search function to get into the setup, just search for &amp;ldquo;Mail Sender Plus&amp;rdquo;. Here you enter the additional addresses you want to use.
-The following fields have to be filled
-Email Sender
-You can search for a user or select them directly. It is also possible to enter EMail Sender that are not bound to a user.</description>
       </item>
       
       <item>
@@ -690,10 +656,9 @@ Publishing of the Connector 365 Base &amp;amp; XRechnung App the publishing of t
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/first-steps/test-purchase/onprem/</guid>
-        <description>Test &amp;amp; Purchase OnPrem Test You have the possibility to test our Connector 365 Mail Attachment Plus App without obligation or to purchase it directly. For this we need some information from you.
-Your costs:
-   Purchase license + 18% maintenance/year Monthly Subscription incl. maintenance     1690,-€ 55,-€    To the form
-If you wish a test phase, you will receive the desired objects for one user and for a test period of 30 days.</description>
+        <description>Test &amp;amp; Purchase OnPrem You have the possibility to test our Connector 365 Mail Attachment Plus App without obligation or to purchase it directly. For this we need some information from you.
+To the form
+If you wish a test phase, you will receive the desired objects for one user and for a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.</description>
       </item>
       
       <item>
@@ -852,16 +817,6 @@ If you want to purchase additional licenses for the app, you can use our form.</
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/first-steps/registration/</guid>
         <description>First steps Registration To fully use the Connector 365 E-POST App*, prior registration with Deutsche Post is required. The registration page can be found here (only available in German) but also directly in the Connector 365 E-POST App.
 We will be happy to assist you in registering the E-POSTBUSINESS API with the Deutsche Post. To do so, simply contact support@belware.de.  In the registration form you will be asked for various contact information.</description>
-      </item>
-      
-      <item>
-        <title>Settings per report</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/first-steps/setup/report/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/first-steps/setup/report/</guid>
-        <description>Setup Setting up addresses per report in the report selection To set up addresses in the report selection you first need to open the search function and search for &amp;ldquo;report selection&amp;rdquo;. You will now see a list of all possible report selections and their departments. Open the report selection for the desired department.
-Afterwards you can enter the desired address into the &amp;ldquo;Email Sender&amp;rdquo; field. You can either fill the field manually or select an address from the setup.</description>
       </item>
       
       <item>
@@ -1048,16 +1003,6 @@ Fax: +49 2362 788 90 56</description>
         <description>First steps Installation Using the search function, open the Marketplace for Extensions and open it.
 The Microsoft AppSource opens. There you can use the search function again to find the Connector 365 E-POST. Click on Free Trial to start the installation. Before the installation starts, you have to provide some contact information.
 After submitting your contact information, you will be prompted to choose a language for the app. Our Connector 365 E-POST App* is available in English and German.</description>
-      </item>
-      
-      <item>
-        <title>Sender per Customer/Vendor</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/first-steps/setup/customer-vendor/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/first-steps/setup/customer-vendor/</guid>
-        <description>Setup Sender per Customer/Vendor It is also possible to set addresses per customer/vendor, this is controlled by the document layouts. This option has the highest priority. To make changes you need to open the page of customer/vendor that you want to set up. Now expand the options, click on navigate and then customer, finally select document layouts.
-The most important fields here are “Usage”, “Report ID” and our newly added field “EMail Sender”.</description>
       </item>
       
       <item>
