@@ -15,13 +15,25 @@
     
       
       <item>
+        <title>Anlegen von Kontakten</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/matrix/contacts/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/matrix/contacts/</guid>
+        <description>Anlegen von Kontakten in Dynamics NAV / 365 BC Voraussetzung für einen elektronischen und/oder automatisierten Versand ist die grundsätzliche Pflege und Anlage von Kontakt- und Kommunikationsdaten. Standardmäßig erfolgt im 2. Schritt aus einem Kontakt ein Debitor oder Kreditor. Diese sind immer miteinander verknüpft und referenzieren aufeinander.
+D.h. jeder Debitor/Kreditor hat einen dazugehörigen Kontakt und zu diesem Kontakt gibt es dazugehörige Mitarbeiterkontakte.
+Darstellung einer Kontaktübersicht, Firma und Mitarbeiter. Beispiel Möbel-Meller ist als Unternehmen angelegt.</description>
+      </item>
+      
+      <item>
         <title>Anwendungsbeispiel</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/epost/example/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/epost/example/</guid>
         <description>Anwendungsbeispiel Das Senden von E-Post Briefen aus Dynamics NAV ist aus jeder beliebigen Page möglich, im Folgenden wird als Beispiel eine Geb. Verkaufsrechnung verwendet.
-Ausschnitt Beispielrechnung Connector NAV Integration    Aktionen      E-POST Mit dieser Aktion versenden Sie die E-POST.   PDF Mit dieser Aktion erstellen Sie das PDF.   Status Mit dieser Aktion gelangen Sie in die Jobliste und dem entsprechenden Eintrag.</description>
+Ausschnitt Beispielrechnung Connector NAV Integration
+   Aktionen      E-POST Mit dieser Aktion versenden Sie die E-POST.   PDF Mit dieser Aktion erstellen Sie das PDF.   Status Mit dieser Aktion gelangen Sie in die Jobliste und dem entsprechenden Eintrag.</description>
       </item>
       
       <item>
@@ -113,13 +125,37 @@ Die Connector NAV pdfPaper Einrichtung Aktionen Connector 365 BC pdfPaper Einric
       </item>
       
       <item>
+        <title>Datei anlegen</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/html-word/create_file/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/html-word/create_file/</guid>
+        <description>Datei anlegen Zunächst müssen Sie eine Datei im HTML- bzw. HTM-Format anlegen, öffnen Sie dazu ein neues Dokument und klicken Sie auf „Datei“ „Speichern unter“. Wählen Sie hier einen Ordner als Speicherort aus und benennen Sie die Datei beispielsweise mit „Bodytext_Mustermann“ oder „Newsletter_JJJJ-MM“. Als Dateityp müssen Sie „Webseite (*.htm; *.html)“ auswählen, hinter dem Dateinamen wird dann automatisch „.htm“ ergänzt.
+Bevor Sie die Datei speichern, müssen Sie überprüfen, ob die korrekte Zeichencodierung eingestellt ist.</description>
+      </item>
+      
+      <item>
         <title>Die Basisübersichten</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/base/base_overview/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/base/base_overview/</guid>
-        <description>Die Basisübersichten Bitte beachten Sie, dass auch Funktionen für Module beschrieben werden deren Lizenz Sie nicht erworben haben. Diese sollten i.d.R. am Kontext erkennbar sein.  Die Connector NAV Jobliste Übersicht Wichtige Felder Connector NAV Jobliste Übersicht Die Connector NAV Jobliste Übersicht zeigt tabellarisch die jeweils erteilten Jobaufträge mit allen benötigten Informationen an. Die obere Abbildung zeigt einen kleinen Ausschnitt aus der Jobliste Übersicht.
+        <description>Die Basisübersichten Bitte beachten Sie, dass auch Funktionen für Module beschrieben werden deren Lizenz Sie nicht erworben haben. Diese sollten i.d.R. am Kontext erkennbar sein.  Die Connector NAV Jobliste Übersicht Wichtige Felder Connector NAV Jobliste Übersicht
+Die Connector NAV Jobliste Übersicht zeigt tabellarisch die jeweils erteilten Jobaufträge mit allen benötigten Informationen an. Die obere Abbildung zeigt einen kleinen Ausschnitt aus der Jobliste Übersicht.
    Feldbeschreibung      Lfd.</description>
+      </item>
+      
+      <item>
+        <title>Die Konfiguration</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/status-report/configuration/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/status-report/configuration/</guid>
+        <description>Die Konfiguration Connector NAV Einrichtung, Register Steuerung
+In der Connector NAV Einrichtung kann unter dem Reiter Steuerung eingestellt werden, wann eine Rückmeldung für den Fax- oder Mailversand versendet werden soll.
+Der Versand setzt eine Einrichtung des internen SMTP von Microsoft Dynamics NAV voraus.
+Folgende Optionen stehen zur Verfügung.
+   Feldbeschreibung      &amp;lt;&amp;gt; Kein Rückmeldungsversand   Immer Rückmeldung unabhängig nach Status.   + Rückmeldung für positive Vorgänge.</description>
       </item>
       
       <item>
@@ -216,10 +252,75 @@ Gemäß des Beschlusses des IT-Planungsrats vom 22.06.2017 ist XRechnung maßg
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/configuration-and-setup/setup/setup_connectornav/</guid>
-        <description>Die Connector NAV Einrichtung Aktionen Connector NAV Einrichtung, Aktionen Mit der Default-Funktion werden die Felder com_job bis com_form mittels des Servernamens automatisch eingetragen.
-Die Funktion DocImport erzeugt für alle Dokumente, die im Dokumenteneingangsverzeichnis hinterlegt sind, einen Eintrag in der Jobliste. Somit
-können externe Dokumente in Microsoft Dynamics NAV zugänglich gemacht werden.
-Register Allgemein Connector NAV Einrichtung, Register Allgemein In der Connector NAV-Einrichtung werden alle wichtigen Einstellungen einmalig hinterlegt.</description>
+        <description>Die Connector NAV Einrichtung Aktionen Connector NAV Einrichtung, Aktionen
+Mit der Default-Funktion werden die Felder com_job bis com_form mittels des Servernamens automatisch eingetragen. Die Funktion DocImport erzeugt für alle Dokumente, die im Dokumenteneingangsverzeichnis hinterlegt sind, einen Eintrag in der Jobliste. Somit können externe Dokumente in Microsoft Dynamics NAV zugänglich gemacht werden.
+Register Allgemein Connector NAV Einrichtung, Register Allgemein
+In der Connector NAV-Einrichtung werden alle wichtigen Einstellungen einmalig hinterlegt.
+   Feldbeschreibung      Servername Um die Funktion Default Einstellungen zu nutzen, wird hier der Rechnername eintragen, auf dem die Netzwerkfreigabe erstellt wurde.</description>
+      </item>
+      
+      <item>
+        <title>Einrichtung</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/drag-and-drop/setup/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/drag-and-drop/setup/</guid>
+        <description>Einrichtung Um das Modul zu installieren muss zunächst die RTC-Instanz gestoppt werden, dieser Schritt ist auf sämtlichen RTC-Servern auszuführen. Platzieren Sie anschließend die .dll-Dateien „NetUiControll.dll“ und „OutlookHandlerLib.dll“ in den folgenden Ordner:
+Ordner zum ablegen
+Starten Sie nun die RTC-Instanz neu.
+Das Add-In wurde nun durch den RTC registriert. Rufen Sie nun die Steuerelement-Add-Ins-Seite auf.
+(Verwaltung/IT-Verwaltung/Allgemein/Steuerelement-Add-Ins)
+Steuerelement-Add-Ins durch Suchfunktion erreichen
+Auf der Seite öffnen Sie nun eine neue Zeile geben Sie die folgenden Parameter exakt ein:</description>
+      </item>
+      
+      <item>
+        <title>Einrichtung</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/sms/setup/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/sms/setup/</guid>
+        <description>Einrichtung: Nötig zur Einrichtung ist lediglich, dass Sie auf der Seite Konfiguration unter SMS Zieladresse, die Ihnen von Message Mobile zugewiesene Adresse hinterlegen. Sobald das geschehen ist können Sie SMS aus NAV versenden.</description>
+      </item>
+      
+      <item>
+        <title>Einrichtungsempfehlung Statusübersicht</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/status-view/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/status-view/</guid>
+        <description>Einrichtungsempfehlung der Statusübersicht Die Jobliste kann unsortiert einschüchternd wirken, deshalb zeigen wir Ihnen in diesem Dokument ein Beispiel wie Sie Ihre Jobliste einrichten können.
+Übersicht „Spalten auswählen…“
+           Lfd. Nr. Die laufende Nr. des Jobs. Name Name des Empfängers.   Jobrichtung Ist der Job eingehend oder ausgehend. Email Absender Wer die E-Mail abgeschickt hat.   Jobmodus Wie der Job verarbeitet wurde.</description>
+      </item>
+      
+      <item>
+        <title>Einspielen des Pakets</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/rapidstart/install/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/rapidstart/install/</guid>
+        <description>Einspielen des BELWARE RapidStart Pakets Bevor Sie den Rapidstart nutzen können, müssen Sie zunächst das von uns zur Verfügung gestellte Paket in Ihr System einspielen. Dies erfolgt mit Hilfe der RapidStart Services, diese finden Sie entweder direkt über die Suchfunktion oder Verwaltung -&amp;gt; Anwendung Einrichtung. Öffnen Sie dort die Seite für Konfigurationspakete.
+In der Übersicht für die RapidStart Services haben Sie nun die Möglichkeit das Paket über „Paket importieren“ in Ihr System zu übernehmen.</description>
+      </item>
+      
+      <item>
+        <title>Einstellen von PEPPOL</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/peppol/settings/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/peppol/settings/</guid>
+        <description>Einstellen von PEPPOL in der Kommunikationsmatrix Gehen Sie zunächst in die Kommunikationsmatrix und füllen diese wie gewohnt für den korrekten Bericht und dem Kunden der einen Beleg im PEPPOL-Format erhalten soll.
+Wählen Sie anschließend in der Spalte „PEPPOL Verwendung“ den Bericht aus in dem PEPPOL verwendet werden soll, aktuell werden nur Verkaufsrechnungen und Verkaufsgutschriften von uns unterstützt. Wenn Sie für einen Kunden PEPPOL wieder abstellen möchten, wählen Sie hier einfach „Nein“ aus.</description>
+      </item>
+      
+      <item>
+        <title>Gebuchte Belege</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/templates.md/booked_receipts/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/templates.md/booked_receipts/</guid>
+        <description>Gebuchte Belege </description>
       </item>
       
       <item>
@@ -274,6 +375,18 @@ system. The priority system works as follows, from lowest zu highest:
       </item>
       
       <item>
+        <title>Prioritäten</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/msp/priorities/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/msp/priorities/</guid>
+        <description>Prioritäten Standardmäßig gibt es im Connector NAV/365 BC zwei Stufen die wichtig sind:
+  Benutzerberichte
+  Benutzer Einrichtung
+  Beispiel: Ein ausgefülltes Absenderfeld in einem Benutzerbericht überschreibt die Einstellung pro Benutzer.</description>
+      </item>
+      
+      <item>
         <title>Prioritätensystem</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/first-steps/setup/priority-system/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -281,6 +394,19 @@ system. The priority system works as follows, from lowest zu highest:
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/first-steps/setup/priority-system/</guid>
         <description>Einrichtung Das Prioritätensystem Wie in der Einleitung schon erwähnt, werden die Adressen durch ein Prioritätensystem gesteuert. Die Prioritäten erfolgen von der niedrigsten zu der höchsten Stufe:
  Standard Eine Adresse pro Benutzer Eine Adresse pro Bericht Eine Adresse pro Debitor  Diese Dokumentation erklärt detailliert, wie Sie jede Ebene einrichten können.</description>
+      </item>
+      
+      <item>
+        <title>Segmentenübersicht</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/segment/segment_view/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/segment/segment_view/</guid>
+        <description>Segmentübersicht öffnen Im Register „Verkauf &amp;amp; Marketing“ im Unterpunkt „Marketing“ finden Sie den Segmenten-Versand.
+Die Segmenten-Übersicht In der Segmenten-Übersicht haben Sie Zugriff auf all Ihre erstellten Vorlagen. Wählen Sie das gewünschte Segment aus und gehen in den „Bearbeiten- Modus.
+Anlegen eines neuen Segments Um ein neues Segment anzulegen, klicken Sie im Menüband auf „Neu“.
+Zunächst müssen Sie nun die leeren Felder mit Informationen füllen:
+         Beschreibung Kurzbeschreibung bzw.</description>
       </item>
       
       <item>
@@ -408,7 +534,35 @@ Im Dialog lassen sich der Absender, der Empfänger, der Betreff und auch nochmal
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/configuration-and-setup/preparations/</guid>
         <description>Vorbereitung Bitte beachten Sie, dass auch Funktionen für Module beschrieben werden, deren Lizenz Sie nicht erworben haben. Diese sollten i.d.R. am Kontext erkennbar sein.  Bitte geben Sie ein Verzeichnis im Netzwerk frei und nennen es z.B. „T611“. Legen Sie die benötigten Unterordner an. Die Namen der Ordner sind optional, dienen aber für eine bessere Übersicht bezüglich der Connector NAV Einrichtung.
- Hierbei sollte beachtet werden, dass die User volle Berechtigung für diese Ordnerstruktur erhalten.</description>
+Hierbei sollte beachtet werden, dass die User volle Berechtigung für diese Ordnerstruktur erhalten.</description>
+      </item>
+      
+      <item>
+        <title>Vorbereitung</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/cti/preparation/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/cti/preparation/</guid>
+        <description>Vorbereitung Vor der Inbetriebnahme des CTI Moduls sollte mit dem „Leistungsbeobachter“ Tool geprüft werden ob Ihre Telefonanlage TAPI-fähig ist. Denn dies ist die Grundvoraussetzung für den Betrieb des Moduls.
+Download des Leistungsbeobachters 32 bit
+Download des Leistungsbeobachters 64 bit
+Tool „Leistungsbeobachter“ mit laufendem Test
+Nachdem Sie den „Leistungsbeobachter“ heruntergeladen und geöffnet haben, müssen Sie in dem Tool Ihre Anlage auswählen. Dies erfolgt oben links über den Punkt „Leitung“. Anschließend können Sie über die Felder unten Links einen Testanruf starten.</description>
+      </item>
+      
+      <item>
+        <title>Vorbereitung</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/preparation/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/preparation/</guid>
+        <description>Vorbereitung Gehen Sie sicher, dass Sie eine der folgenden Dynamics 365 Business Central Versionen installiert haben:
+NAV 2016 ab CU55 (05/20)
+NAV 2017 ab CU41 (04/20)
+NAV 2018 ab CU28 (04/20)
+Business Central 13 ab CU18 (04/20)
+Business Central 14 ab CU11 (04/20)
+Das Modul XRechnung erzeugt Rechnungen und Gutschriften im XRechnung-Format und prüft, ob die erzeugten XRechnung-Dateien konform zu den formalen Vorgaben sind. Diese Überprüfung geschieht standardmäßig mittels eines Validierungstools welches sich auf einem externen Server befindet.</description>
       </item>
       
       <item>
@@ -448,14 +602,36 @@ Hier setzen Sie den Haken bei Aktiviert. Als Pfad geben Sie den Pfad ein, den Si
       </item>
       
       <item>
+        <title>Anpassen der Tabellen</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/rapidstart/adjust/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/rapidstart/adjust/</guid>
+        <description>Anpassen der Tabellen Nach importieren des Pakets muss nun die Kommunikationsmatrix noch ausgefüllt werden, dazu muss diese zunächst exportiert werden. Dies erfolgt über die Schaltfläche „in Excel importieren“
+In Excel haben Sie nun eine Tabelle mit mehreren Blättern, hier relevant sind CON Feldauswahl Zieladresse, CON Kommunikationsmatrix &amp;amp; Matrix Target.
+In allen Tabellen finden Sie von uns angelegte Beispiele, die Ihnen die Einrichtung erleichtern soll. Wichtig ist, dass Sie diese vor einem importieren wieder löschen.</description>
+      </item>
+      
+      <item>
+        <title>Anwenderbeispiel</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/drag-and-drop/example/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/drag-and-drop/example/</guid>
+        <description>Anwenderbeispiel Mit Drag&amp;amp;Drop lassen sich beliebigen Belegen beliebig viele Dateien hinzufügen. So können Sie Dokumente welche Sie lokal auf Ihrem PC haben und zuvor nicht mit einem Beleg in NAV verknüpfen konnten, nun problemlos mit Drag&amp;amp;Drop einem Beleg anhängen und haben in NAV alles auf einem Blick.
+Übersicht Verkaufsangebote mit Drag &amp;amp; Drop Infobox
+Auf den Seiten auf welchen die Funktion Drag&amp;amp;Drop integriert ist sehen Sie nun die Infobox Drag and Drop.</description>
+      </item>
+      
+      <item>
         <title>Anwendungsbeispiel</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/fax/example/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/fax/example/</guid>
         <description>Anwendungsbeispiel Das Senden von Faxen aus Dynamics NAV ist aus jeder beliebigen Page möglich. Im Folgenden wird als Beispiel ein Angebot verwendet.
-Ausschnitt Beispielangebot Connector NAV Integration
-   Aktionen      Faxen Mit dieser Aktion versenden Sie das Fax.   PDF Mit dieser Aktion erstellen Sie das PDF.   Status Mit dieser Aktion gelangen Sie in die Jobliste und dem entsprechenden Eintrag.</description>
+Ausschnitt Beispielangebot Connector NAV Integration
+   Aktionen      Faxen Mit dieser Aktion versenden Sie das Fax.   PDF Mit dieser Aktion erstellen Sie das PDF.   Status Mit dieser Aktion gelangen Sie in die Jobliste und dem entsprechenden Eintrag.   Historie Zusätzlich zur Aktion Status werden hier auch Jobeinträge angezeigt, die dem Beleg zugeordnet wurden.</description>
       </item>
       
       <item>
@@ -560,6 +736,16 @@ Die Jobliste bietet Ihnen eine detaillierte Übersicht zu allen Briefen die vers
       </item>
       
       <item>
+        <title>Begriffsklärungen</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/matrix/definitions/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/matrix/definitions/</guid>
+        <description>Grundlegende Begriffserklärungen Im Laufe der Dokumentation werden bestimmte Begriffe verwendet. Diese und deren Bedeutung wollen wir zuvor noch abklären.
+   Feld Nr. Feldname Englisch Feldname Deutsch     1 Sell-to Customer No. Verk. an Deb.-Nr.   2 Sell-to Customer Name Verk. an Name   3 Sell to Contact No. Verk. an Kontaktnr.        Feld Nr. Feldname Englisch Feldname Deutsch     1 Bill-to Customer No.</description>
+      </item>
+      
+      <item>
         <title>Beispielvorgang PDF</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/pdfpaper/example/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -572,13 +758,37 @@ Pdf Vorschau - Diese Vorschaufunktion funktioniert auch wenn Sie den iPaper nich
       </item>
       
       <item>
+        <title>Benutzer einrichten</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/msp/setup_user/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/msp/setup_user/</guid>
+        <description>Einrichten einer SMTP Adresse pro Benutzer Zunächst müssen wir auf die Benutzer Einrichtung des gewünschten Nutzers zugreifen, um sicherzustellen, dass dort überhaupt bzw. die korrekte E-Mail-Adresse angegeben ist.
+Die Benutzereinrichtung für den Benutzer Max Mustermann
+Prüfen Sie ob das markierte E-Mail Feld (korrekt) ausgefüllt ist. Nehmen Sie ggf. Änderungen vor und schließen Sie die Benutzer Einrichtung anschließend. Öffnen Sie nun die Mail Sender Plus Einrichtung, welche im Connector NAV Menü zu finden ist.</description>
+      </item>
+      
+      <item>
         <title>Benutzer Einrichtung</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/configuration-and-setup/setup/user_setup_connectornav/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/configuration-and-setup/setup/user_setup_connectornav/</guid>
         <description>Die Connector NAV Benutzer Einrichtung Für die Nutzung des Connector NAV wird hier für jeden Benutzer ein Eintrag erstellt.
-Register Allgemein Connector NAV Benutzer Einrichtung, Register Allgemein    Feldbeschreibung      Benutzer-ID Hier wird auf die NAV-Standardtabelle Benutzer Einrichtung referenziert.   Externe Benutzer-ID Hier kann eine externe Benutzer-ID eingetragen werden.   E-Mail Diese E-Mail-Adresse wird beim Versand von E-Mails mittels des Connector NAV benutzt.</description>
+Register Allgemein Connector NAV Benutzer Einrichtung, Register Allgemein
+   Feldbeschreibung      Benutzer-ID Hier wird auf die NAV-Standardtabelle Benutzer Einrichtung referenziert.   Externe Benutzer-ID Hier kann eine externe Benutzer-ID eingetragen werden.   E-Mail Diese E-Mail-Adresse wird beim Versand von E-Mails mittels des Connector NAV benutzt.</description>
+      </item>
+      
+      <item>
+        <title>Benutzerbericht Einrichtung</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/status-report/user_report_setup/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/status-report/user_report_setup/</guid>
+        <description>Die Connector NAV Benutzerbericht Einrichtung Das Senden von Faxen aus Dynamics NAV ist aus jeder beliebigen Page möglich, im Folgenden wird als Beispiel ein Angebot verwendet.
+Connector NAV Benutzerbericht Einrichtung, Register Allgemein
+Für das Versenden von Statusmeldungen wird ein Satz in der Benutzerberichts Einrichtung mit folgenden Parametern angelegt:
+   Feldbeschreibung      Benutzer Leer.   Sprache Leer.   Berichts ID 0.   Bodytextdatei Bodytextdatei für die Statusrückmeldung.</description>
       </item>
       
       <item>
@@ -601,6 +811,16 @@ Beginnen Sie mit dem Öffnen der Berichtsauswahl des gewünschten Berichts, in d
 Für Dieses Beispiel haben wir die Standardanhänge im Rechnungsversand wie folgt eingerichtet:
 In diesem Beispiel haben wir zwei PDFs und ein zeitbegrenztes Bild angehängt.
 Sollten Sie eine Business Central Version einsetzen, in der die Mail Experience noch nicht zur verfügung steht, sieht der Ablauf ein wenig anders aus.</description>
+      </item>
+      
+      <item>
+        <title>Bilder verknüpfen</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/html-word/link_pics/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/html-word/link_pics/</guid>
+        <description>Bilder verknüpfen Wenn Sie Ihre HTML-Vorlagen mit Word erstellen wollen, müssen verwendete Bilder mittels URL im Dokument verknüpft werden. Andernfalls werden diese nach dem Versand per E-Mail nicht mehr angezeigt.
+Die Bilder müssen zunächst an geeigneter Stelle beispielsweise über ein FTP-Programm auf einem Webserver bereitgestellt werden, am besten im Format .jpg oder .png. Sobald Ihre Bilddateien auf dem Webserver hochgeladen sind, können Sie die genaue Adresse (beispielsweise „http://www.firma-xyz.de/images/testbild.jpg“) kopieren und in Ihren Newsletter einfügen.</description>
       </item>
       
       <item>
@@ -635,7 +855,8 @@ In das Feld „Leitweg-ID“ wird die Leitweg-ID des Debitors eingetragen.</desc
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/epost/dialog/</guid>
-        <description>Der Dialog Aktionen Dialog Modus E-Mail, Aktionen    Aktionen      Anhänge 1-4 anzeigen Über diese Aktion können Sie sich die ausgewählten Anhänge ansehen.   Dateien hinzufügen Über diese Aktion können Sie zusätzliche Dateien auswählen, die als Anhang mitversendet werden sollen.   Dokumente anzeigen Die hinzugefügten Dokumente lassen sich über diese Aktion als Liste anzeigen.    Register Allgemein Dialog Modus E-POST, Register Allgemein    Feldbeschreibung      Lfd.</description>
+        <description>Der Dialog Aktionen Dialog Modus E-Mail, Aktionen
+   Aktionen      Anhänge 1-4 anzeigen Über diese Aktion können Sie sich die ausgewählten Anhänge ansehen.   Dateien hinzufügen Über diese Aktion können Sie zusätzliche Dateien auswählen, die als Anhang mitversendet werden sollen.   Dokumente anzeigen Die hinzugefügten Dokumente lassen sich über diese Aktion als Liste anzeigen.    Register Allgemein Dialog Modus E-POST, Register Allgemein</description>
       </item>
       
       <item>
@@ -646,7 +867,19 @@ In das Feld „Leitweg-ID“ wird die Leitweg-ID des Debitors eingetragen.</desc
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/base/pdf_creation/</guid>
         <description>Die PDF Erzeugung Mit der Connector NAV Basis haben Sie die Möglichkeit, einfache PDF Dokumente direkt in Dynamics NAV zu erstellen und zu verwalten.
 Die Erzeugung von PDF Dateien aus Dynamics NAV ist aus jeder beliebigen Page möglich, im Folgenden wird als Beispiel ein Angebot verwendet.
-Ausschnitt Beispielangebot Connector NAV Integration    Aktionen      PDF Mit dieser Aktion erstellen Sie das PDF.</description>
+Ausschnitt Beispielangebot Connector NAV Integration
+   Aktionen      PDF Mit dieser Aktion erstellen Sie das PDF.   Status Mit dieser Aktion gelangen Sie in die Jobliste und zu dem entsprechenden Eintrag.</description>
+      </item>
+      
+      <item>
+        <title>Einrichtung</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/cti/setup/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/cti/setup/</guid>
+        <description>Einrichtung Voraussetzung ist, dass die Software ihrer TAPI-fähigen Telefonanlage installiert ist und bereits läuft.
+Zur Installation bekommen Sie einen Zip-Ordner von uns zur Verfügung gestellt, welcher alle nötigen Dateien des TapiMasters enthält. Diesen können Sie im Kundenportal unter Downloads/Sonstige Downloads abrufen. Je nachdem was für eine Telefonanlage Sie haben (Multi/Single Line) gibt es eine andere Vorgehensweise bei der Einrichtung.
+Single Line (Client) Öffnen Sie den Zip-Ordner, hier starten Sie nun die Anwendung FCTICLNT.</description>
       </item>
       
       <item>
@@ -679,10 +912,21 @@ You can search for a user or select them directly. It is also possible to enter 
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/configuration-and-setup/configuration/</guid>
-        <description>Konfiguration Die Connector NAV Konfiguration Konfigurationseinstellung Connector NAV Konfiguration, Aktionen Bevor Sie mit der Einrichtung des Connector NAV beginnen, werden Ihre individuellen Konfigurationsdaten geladen. Dafür betätigen Sie zu Beginn die Aktion
-Konfigurationseinstellung.
-Die Konfiguration gibt Aufschluss über Ihre erworbenen Module.
-Register Codeunit Connector NAV Konfiguration, Register Codeunit    Feldbeschreibung      Fax-, Mail-, SMS-, PDF-, CTI-, IncaMail-, Archiv Codeunit Für jedes erworbene Modul wurde die entsprechende Objektnummer der Codeunit eingetragen.</description>
+        <description>Konfiguration Die Connector NAV Konfiguration Konfigurationseinstellung Connector NAV Konfiguration, Aktionen
+Bevor Sie mit der Einrichtung des Connector NAV beginnen, werden Ihre individuellen Konfigurationsdaten geladen. Dafür betätigen Sie zu Beginn die Aktion Konfigurationseinstellung. Die Konfiguration gibt Aufschluss über Ihre erworbenen Module.
+Register Codeunit Connector NAV Konfiguration, Register Codeunit
+   Feldbeschreibung      Fax-, Mail-, SMS-, PDF-, CTI-, IncaMail-, Archiv Codeunit Für jedes erworbene Modul wurde die entsprechende Objektnummer der Codeunit eingetragen.</description>
+      </item>
+      
+      <item>
+        <title>Kontakte hinzufügen</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/segment/add_contacts/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/segment/add_contacts/</guid>
+        <description>Kontakte hinzufügen Um das Segment versenden zu können, müssen zuerst in den „Zeilen“ die Empfänger eingetragen werden. Dies können Sie entweder manuell, direkt in der Tabelle machen oder über die Funktion „Kontakte hinzufügen…“ im Menüband automatisch setzen.
+Wenn Sie auf „Kontakte hinzufügen…“ klicken, öffnet sich ein neues Fenster in dem Sie, mit Hilfe von verschiedenen Suchkriterien, große Mengen an Kontakten gleichzeitig Ihrem Segment hinzufügen können.
+Ihr Segment sollte nun gefüllt sein:</description>
       </item>
       
       <item>
@@ -693,6 +937,20 @@ Register Codeunit Connector NAV Konfiguration, Register Codeunit    Feldbesch
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/first-steps/setup/countrynames/</guid>
         <description>Erste Schritte Ländercodes Die Deutsche Post benutzt im Versand Ländernamen nach ISO 3166-1, wenn Sie die Connector 365 E-POST App* nutzen möchten, müssen Sie also zuvor in Ihrer Business Central Umgebung die Ländernamen in der entsprechenden Einrichtung anpassen.
 Die Einrichtung dafür finden Sie in der Suche unter &amp;ldquo;Länder/Regionen&amp;rdquo;. Sie müssen in dieser Einrichtung nur Ländernamen ändern welche auch von Ihnen Briefe erhalten, der Inlandsversand ist nicht betroffen. Bitte schreiben Sie die Ländernamen in Großbuchstaben.</description>
+      </item>
+      
+      <item>
+        <title>Mögliche Belegarten</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/receipts/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/receipts/</guid>
+        <description>Mögliche Belegarten Aktuell ist es möglich, folgende Belegarten in eine XRechnung umzuwandeln:
+  Verkaufsrechnungen
+  Verkaufsgutschriften
+  Servicerechnungen
+  Servicegutschriften
+  Die folgenden Abschnitte demonstrieren beispielhaft die XRechnung-Erzeugung von Verkaufsrechnungen. Die hier gezeigten Vorgehensweisen für Verkaufsrechnungen sind nahezu identisch mit denen für die jeweiligen anderen möglichen Belegarten. Das heißt, Sie können die hier gezeigten Methoden analog für die anderen Typen, beispielsweise für Servicegutschriften, durchführen. Es sind einzig minimale Anpassungen in der Einrichtung der Kommunikationsmatrix notwendig (BerichtsID, PEPPOL Verwendung).</description>
       </item>
       
       <item>
@@ -878,6 +1136,15 @@ Connector 365 steht Ihnen für die folgende BC Lizensierung zur Verfügung:</des
       </item>
       
       <item>
+        <title>Ungebuchte Belege</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/templates.md/unbooked_receipts/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/templates.md/unbooked_receipts/</guid>
+        <description>Ungebuchte Belege </description>
+      </item>
+      
+      <item>
         <title>V1.0.0.1 &amp; Roadmap</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.0.1/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -923,6 +1190,40 @@ Connector 365 steht Ihnen für die folgende BC Lizensierung zur Verfügung:</des
       </item>
       
       <item>
+        <title>Versand über Kontakte</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/sms/send_via_contacts/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/sms/send_via_contacts/</guid>
+        <description>Versand über Kontakte: Um SMS über die Kontakte zu versenden, öffnen Sie zunächst Ihre Kontaktübersicht und suchen den Kontakt an dem Sie die SMS senden wollen (wenn Sie mehrere SMS an mehrere Kontakte senden wollen, markieren Sie einfach alle Kontakte die eine SMS empfangen sollen.) Nachdem Sie den Kontakt gefunden und markiert haben, können den SMS-Dialog öffnen indem Sie auf den SMS-Knopf in der Menüleiste unter „Bericht“ klicken.
+Es öffnet sich ein neues Fenster, in dem Sie mit einer Übersicht mit allen wichtigen Parametern für Ihre SMS präsentiert werden.</description>
+      </item>
+      
+      <item>
+        <title>Versenden via E-Mail</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/peppol/send_email/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/peppol/send_email/</guid>
+        <description>Versenden einer PEPPOL-XML via E-Mail Nachdem Sie die gewünschten Einstellungen vorgenommen haben, können Sie Ihre PEPPOL-Dateien versenden. In unserem Beispiel verwenden wir Geb. Verkaufsrechnungen. Dort wählen Sie zunächst eine Rechnung für einen Kunden aus für den PEPPOL aktiviert ist.
+Übersicht Dialog Mail
+Klicken Sie nun auf den Knopf für einen E-Mail Versand. Nun haben Sie schon die Möglichkeit zu überprüfen ob die PEPPOL-Datei erfolgreich erzeugt wurde. Klicken Sie hierzu auf die Fläche „Dateien Anzeigen“ im Menüband.</description>
+      </item>
+      
+      <item>
+        <title>Anruf über Kontakte</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/cti/call_contacts/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/cti/call_contacts/</guid>
+        <description>Anruf über Kontakte Sie können Kontakte ganz einfach per Klick anrufen. Um dies zu tun, rufen Sie zunächst die Kontaktseite auf und suchen Sie nach dem Kontakt, den Sie anrufen wollen.
+Ausschnitt Kontaktübersicht
+Sie haben nun die Möglichkeit direkt auf die Telefonnummer des Kontakts zu klicken und Ihre Telefonanlage wird sie automatisch verbinden. Es ist ebenfalls möglich, diese Funktion innerhalb einer Kontaktkarte aufzurufen.
+Ausschnitt Kontaktkarte, Abschnitt „Kontakt“
+Klicken Sie einfach innerhalb der Kontaktkarte unter „Kontakt“ auf das Telefon neben der Nummer, Sie werden erneut automatisch verbunden.</description>
+      </item>
+      
+      <item>
         <title>Arbeiten mit Mail Sender Plus</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/working-with-msp/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -933,14 +1234,36 @@ Sobald sich der Dialog öffnet, wird Ihnen das neue &amp;ldquo;E-Mail Sender&amp
       </item>
       
       <item>
+        <title>Beispielvorgang Ausdruck</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/pdfpaper/example_print/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/pdfpaper/example_print/</guid>
+        <description>Beispielvorgang Ausdruck Mit der Aktion Ausdruck können Sie Ihre Dokumente mit Ihrem Briefpapier mischen und auf einem Drucker Ihrer Wahl ausdrucken. Dabei stehen Ihnen verschiedene Funktionen zur Verfügung.
+Dialog Vorgang Ausdruck Aktionen Connector NAV Dialog Modus Ausdruck, Aktionen
+   Aktionen      Briefpapier für den Vorgang Ausdruck anzeigen Über diese Aktion kann das Briefpapier aus der Schnittstellenübergabe angezeigt werden.    Register pdfPaper Connector NAV Dialog Modus Ausdruck, Register pdfPaper</description>
+      </item>
+      
+      <item>
         <title>Benutzerbericht Einrichtung</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/configuration-and-setup/setup/user_report_setup_connectornav/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/configuration-and-setup/setup/user_report_setup_connectornav/</guid>
         <description>Die Connector NAV Benutzerbericht Einrichtung Mittels der Benutzerbericht Einrichtung lassen sich individuellere Voreinstellungen pro Benutzer, Bericht und Sprache einstellen. Eine Einstellung in der Benutzerbericht Einrichtung hat höhere Priorität als die derDie Connector NAV Benutzer Einrichtung (z.B. E-Mail Absender).
-Aktionen Connector NAV Benutzerbericht Einrichtung, Aktionen    Aktionenbeschreibung      Bodytext/SMS Bodytext
-Anhangsdatei 1 - 4 Über diese Aktionen kann das gewünschte Dokument angezeigt werden.</description>
+Aktionen Connector NAV Benutzerbericht Einrichtung, Aktionen
+   Aktionenbeschreibung      Bodytext/SMS Bodytext
+Anhangsdatei 1 - 4 Über diese Aktionen kann das gewünschte Dokument angezeigt werden.   Briefpapier Client/Server</description>
+      </item>
+      
+      <item>
+        <title>Bodytext</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/html-word/bodytexts/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/html-word/bodytexts/</guid>
+        <description>Tabellarischer Bodytext Eine gute Möglichkeit einen Bodytext übersichtlich zu gestalten ist es eine Tabelle in die Datei einzufügen und diese dann als Grundlage nehmen für die weitere Bearbeitung. Dies erlaubt auch weitere Gestaltungsmöglichkeiten wie verschiedene Zellen farblich hervorzuheben oder variable Platzierung von Texten/Bildern.
+Falls gewünscht müssen Sie wenn Sie mit Ihrer Tabelle fertig sind die Rahmenlinien ausblenden. Platzhalter in Bodytexten Sie können für eine E-Mail-Bodytextvorlage Platzhalter für Bestandteile verwenden, die individuell für jeden Mitarbeiter sind, beispielsweise für den Namen oder die E-Mail-Adresse.</description>
       </item>
       
       <item>
@@ -1006,6 +1329,16 @@ Aufgabenwarteschlange einrichten Damit die Funktion wie gewünscht funktionieren
       </item>
       
       <item>
+        <title>Einrichtung</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/setup/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/setup/</guid>
+        <description>Einrichtung Die Einrichtung für XRechnung wird in der Connector-Einrichtung und in der Kommunikationsmatrix vorgenommen. Um in die Einrichtung zu gelangen, gehen Sie auf Connector 365 -&amp;gt; Einrichtung wie im folgenden Bild gezeigt.
+Sie sollten vor dem Einsatz ggf. einige Stammdaten überprüfen, damit Sie im späteren Versand nicht auf Fehler stoßen, die sich vermeiden lassen. Weitere Informationen dazu finden Sie am Ende der Dokumentation. Die Einstellungen, die XRechnung betreffen, finden Sie im Abschnitt Pro Mandant unter dem Reiter PEPPOL/XRechnung Einrichtung</description>
+      </item>
+      
+      <item>
         <title>Einstellungen pro Bericht</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/first-steps/setup/report/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -1013,6 +1346,28 @@ Aufgabenwarteschlange einrichten Damit die Funktion wie gewünscht funktionieren
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/first-steps/setup/report/</guid>
         <description>Einrichtung Einstellungen pro Bericht in der Berichtsauswahl Um die Absenderadressen in der Berichtsauswahl einzurichten, öffnen Sie zunächst die Suchfunktion und suchen Sie nach der „Berichtsauswahl“. Sie erhalten eine Liste aller möglichen Berichtsauswahlen und bekommen die dazugehörigen Abteilungen angezeigt. Öffnen Sie die Berichtsauswahl für die gewünschte Abteilung.
 Danach können Sie die gewünschte Adresse in das „E-Mail Sender“ Feld eintragen. Sie haben die Möglichkeit das Feld manuell zu befüllen oder aus dem Setup auszuwählen.</description>
+      </item>
+      
+      <item>
+        <title>Erstellen einer PEPPOL-XML</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/peppol/create_xml/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/peppol/create_xml/</guid>
+        <description>Erstellen einer reinen PEPPOL-XML über den Jobmodus PDF Zunächst müssen Sie in die pdfPaper Einrichtung um dort den Ablagepfad für die erstellen PEPPOL-XMLs ausfüllen. Diesen finden sie unter „Peppol Ablageordner“. Wichtig ist hier, dass es eine Berechtigung gibt Dateien in dem Pfad abzulegen. Deshalb empfehlen wir einen zusätzlichen Ordner in der T611-Struktur des Connector NAVs anzulegen, zum Beispiel „com_peppol“.
+Nachdem Sie den Pfad angelegt haben, gehen wir wieder wie schon im letzten Beispiel in die Geb.</description>
+      </item>
+      
+      <item>
+        <title>Import und Übernahme</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/rapidstart/import/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/rapidstart/import/</guid>
+        <description>Import der fertigen Tabelle &amp;amp; Übernahme der Daten Nachdem Sie alle nötigen Anpassungen an der Tabelle vorgenommen haben, können Sie diese nun speichern und in wieder in Business Central importieren.
+Öffnen Sie also zunächst wieder das Programm und die RapidStart Services und dessen Übersicht.
+Dort angekommen wählen Sie die Option „Aus Excel importieren“, wählen Sie die gespeicherte Excel-Datei aus und bestätigen Sie den Dialog.
+Anschließend öffnet sich ein weiter Dialog, klicken Sie hier auf import, dadurch wird der Prozess zum Importieren ausgelöst.</description>
       </item>
       
       <item>
@@ -1080,6 +1435,28 @@ Gerne unterstützen wir Sie bei der Registrierung der E-POSTBUSINESS API bei der
       </item>
       
       <item>
+        <title>Report einrichten</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/msp/setup_report/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/msp/setup_report/</guid>
+        <description>Einrichten einer SMTP Adresse pro Bericht Sie haben auch die Möglichkeit eine bestimmte Adresse pro Bericht festzulegen. Öffnen Sie zunächst wieder die Mail Sender Plus Einrichtung. Dort werden wir nun eine Adresse hinterlegen, die immer im Rechnungsversand genutzt werden soll.
+Die Mail Sender Plus Einrichtung, ein neuer Eintrag wurde angelegt
+Nun öffnen Sie die Einrichtung der Benutzerberichte und öffnen Sie den Einstellungen für den gewünschten Bericht, in unserem Fall Rechnungen. Tragen Sie dort im Feld „E-Mail Absender“ die so eben in der Einrichtung hinterlegte Adresse ein.</description>
+      </item>
+      
+      <item>
+        <title>Segmenten-Versand einrichten</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/segment/setup/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/segment/setup/</guid>
+        <description>Connector NAV für den Segmenten-Versand einrichten Nachdem die Liste mit den Kontakten, die das Segment empfangen sollen vorbereitet wurde, geht es nun an die Einrichtung der Mail mit dem Connector NAV. Über „Benutzerbericht“ richten Sie nun folgende Parameter ein:
+Berichts-ID: Ist fix – diese ist nicht zu ändern
+Sprache: Sollten Sie mehrsprachige Kunden haben und Ihre Mails dementsprechend in verschiedenen Sprachen versenden wollen. Ist die Benutzerberichts-Einrichtung pro Sprachcode zu definieren.</description>
+      </item>
+      
+      <item>
         <title>Settings per report</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/easybatch/first-steps/setup/report/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -1111,6 +1488,17 @@ Protokoll Fehlerhafte XRechnungen Hier werden XRechnungen abgebildet, welche dur
 &amp;ldquo;Gesendetet XRechnungen&amp;rdquo; &amp;amp; &amp;ldquo;Fehlerhafte XRechnungen&amp;rdquo;
 Protokoll Gesendete XRechnungen In dem detaillierten Versandprotokoll &amp;ldquo;Wer&amp;rdquo; - &amp;ldquo;Was&amp;rdquo; - &amp;ldquo;Wann&amp;rdquo; werden alle erfolgreich versendeten XRechnung archiviert. Die Original XML Datei, sowie das Prüfprotokoll liegen mit im Protokoll.
 Protokoll Fehlerhafte XRechnungen Hier werden XRechnungen abgebildet, welche durch die Prüfung durchgefallen sind und nicht als XRechnung akzeptiert werden. Dies kann unterschiedliche Gründe haben – Welche genau, können Sie herausfinden indem Sie den Prüfbericht öffnen.</description>
+      </item>
+      
+      <item>
+        <title>Tabellen-IDs</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/matrix/table_id/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/matrix/table_id/</guid>
+        <description>„Wo finde ich Tabellen-IDs?&amp;quot; Damit mit der Matrix gestartet werden kann, müssen wir zunächst herausfinden, um welche Tabelle es sich bei dem Bericht handelt. Dies erfolgt, indem Sie in einem geöffneten Angebot bzw. Einer Übersicht auf das blaue Feld mit Pfeil oben links in Dynamics NAV / 365 Business Central klicken, dort dann auf „Hilfe“ und „Info zu dieser Seite“.
+Hier finden Sie „Info zu dieser Seite“.
+Es öffnet sich nun ein zusätzliches Fenster mit verschiedenen Informationen zu der entsprechenden Seite.</description>
       </item>
       
       <item>
@@ -1151,6 +1539,16 @@ Wählen Sie zunächst den entsprechenden Eintrag in den &amp;ldquo;CTI-Einträge
       </item>
       
       <item>
+        <title>Versand über gebuchte Belege</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/sms/send_via_receipts/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/sms/send_via_receipts/</guid>
+        <description>Versand über gebuchte Belege: Zunächst rufen Sie wie gewohnt Ihre gebuchten Belege auf. Anschließend wählen Sie z.B. gebuchte Verkaufsrechnungen auf. Dort angekommen, wählen Sie die Rechnung aus von der aus Sie eine SMS an den verknüpften Kontakt senden wollen. Anschließend klicken Sie in der Menüleiste unter „Vorgang“ auf den SMS-Knopf
+Es öffnet sich wieder der SMS-Dialog wie auch schon bei dem Versand über Kontakten. Von dort aus können Sie wieder einen 160 Zeichen Text versenden bzw.</description>
+      </item>
+      
+      <item>
         <title>Absender je Kreditor/Debitor</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/first-steps/setup/customer-vendor/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -1176,8 +1574,19 @@ CTI-Einträge In Ihren Kontakten können Sie die &amp;ldquo;CTI-Einträge&amp;rd
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/configuration-and-setup/setup/address_chooser/</guid>
-        <description>Auswahl der Zieladressen Connector NAV Auswahl Zieladresse Über die Auswahl der Zieladressen kann pro Jobmodus selbstständig eingestellt werden, welcher Beleg an welchen Empfänger geht. Auch individuelle Standardanpassungen können berücksichtig werden.
+        <description>Auswahl der Zieladressen Connector NAV Auswahl Zieladresse
+Über die Auswahl der Zieladressen kann pro Jobmodus selbstständig eingestellt werden, welcher Beleg an welchen Empfänger geht. Auch individuelle Standardanpassungen können berücksichtig werden.
 Die Abbildung oben zeigt ein Beispiel für die Einrichtung der Zieladressen für Rechnungen, Gutschriften und Angeboten. Im Klartext gibt die Einrichtrung an, dass E-Mails für Rechnungen an das Feld „Rechnung an Kontaktnr.“ gehen und die Zieladresse sich im Feld „E-Mail“ befindet.</description>
+      </item>
+      
+      <item>
+        <title>Beispielvorgang Passwortvergabe</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/pdfpaper/example_password/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/pdfpaper/example_password/</guid>
+        <description>Beispielvorgang Passwortvergabe Durch die Vergabe von Passwörtern können Sie sensible Inhalte bei dem Versand schützen. Denn eine ungeschützte PDF-Datei ist vergleichbar mit einer Postkarte – Jeder der Zugriff hat, kann diese lesen. Zur Passwortvergabe stehen Ihnen verschiedene Möglichkeiten zur Verfügung.
+Funktion „Zeige Passwort“ Natürlich ist es wichtig, dass Passwörter geschützt bleiben - jedoch kann es passieren, dass Passwörter vergessen oder verlegt werden. Für diesen Fall gibt es die Funktion „Zeige Passwort“ - diese Funktion, die auf User-Basis vergeben werden kann, erlaubt es die Passwörter von PDF-Dateien einzusehen.</description>
       </item>
       
       <item>
@@ -1201,6 +1610,17 @@ Wählen Sie die gewünschte Datei aus und wiederholen diesen Prozess bis alle ge
 Für das Beispiel haben wir die Anhänge für einen Beleg wie folgt eingerichtet:
 Es wurde ein Bild und eine PDF also Standard festgelegt.
 Sollten Sie eine Business Central Version einsetzen, in der die Mail Experience noch nicht zur verfügung steht, sieht der Ablauf ein wenig anders aus.</description>
+      </item>
+      
+      <item>
+        <title>Der Dialog</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/msp/dialog/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/msp/dialog/</guid>
+        <description>Der Dialog Auch im Dialog haben Sie die Möglichkeit die Absenderadresse nochmal anzupassen, vorausgesetzt ist aber auch hier, dass die zu verwendende Adresse zuvor in der Mail Sender Plus Einrichtung hinterlegt wurde.
+Übersicht des Dialogs
+Ändern Sie dazu einfach die Adresse im „Email Absender“ Feld auf die von Ihnen gewünschte Adresse. Anschließend können Sie wie gewohnt den Dialog bestätigen</description>
       </item>
       
       <item>
@@ -1234,6 +1654,26 @@ Anschließend sollten Sie das Feld “Internationaler Standardcode” anhand der
         <description>Einrichtung Standardcodes für Einheiten überprüfen Ein weiterer Punkt der sich zu überprüfen lohnt sind Einheitencodes. Diese müssen, um PEPPOL-konform zu sein eine spezielle Bezeichnung haben, damit diese akzeptiert werden.
 Die Liste mit Ihrem Einheitencodes können Sie am schnellsten über die Suchfunktion erreichen in dem Sie einfach nach „Einheiten“ suchen.
 Anschließend sollten Sie das Feld “Internationaler Standardcode” anhand der UN/ECE Recommendation 20 bzw. 21 anpassen.</description>
+      </item>
+      
+      <item>
+        <title>Empfänger-Mailadressen</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/matrix/adresses/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/matrix/adresses/</guid>
+        <description>Wo kommen nun die Empfänger-Mailadressen her? (Nutzung ohne Ziel- und Kommunikationsmatrix) Der Connector NAV / 365 BC arbeitet analog zum Standardversand. Anhand verschiedener Beispiele erklären wir, wie der Ablauf eines Mailversands funktioniert. Für die folgenden 3 Beispiele beschränken wir uns auf den Report Angebote. Leistungsempfänger ist gleich Rechnungsempfänger. Der Ablauf ist bei jedem Bericht gleich anzuwenden.
+Beispiel 1 – Angebot an Debitor ohne Personen-Kontakt Sie haben Ihr Angebot angelegt und wollen es nun versenden.</description>
+      </item>
+      
+      <item>
+        <title>Erkennung eingehender Telefonate</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/cti/caller_identification/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/cti/caller_identification/</guid>
+        <description>Erkennung eingehender Telefonate Das Modul kann auch bei eingehenden Anrufen automatisch erkennen, wer Sie anruft. Dazu müssen Sie einfach den Knopf „CTI Client“ in Ihrem Rollencenter öffnen und im Hintergrund offenhalten.
+Kommt es nun zu einem eingehenden Anruf, während Sie Dynamics NAV bzw. den Client geöffnet haben, gleicht das Modul die Nummer des eingehenden Anrufs mit den Nummern in Ihrer Kontaktliste ab und öffnet die Karte des passenden Kontakts. So wissen Sie stets, wer Sie gerade anruft und können schnell auf Akten zugreifen, die den Kontakt betreffen.</description>
       </item>
       
       <item>
@@ -1290,6 +1730,40 @@ Mit der Einrichtung der Funktion Rückmeldung aus Jobliste Übersicht werden die
       </item>
       
       <item>
+        <title>Leitweg-ID</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/gateway_id/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/gateway_id/</guid>
+        <description>Leitweg-ID Wie bereits erwähnt, dient die Leitweg-ID der eindeutigen Identifikation von Rechnungsempfängern, um die Adressierung und ggf. Weiterleitung von elektronischen Rechnungen zu den richtigen Verwaltungseinheiten zu ermöglichen. Grundsätzlich besteht eine Leitweg-ID aus folgenden Bestandteilen:
+  Grobadressierung
+  Feinadressierung (optional)
+  Prüfziffer
+  Weitere Informationen zum Aufbau einer Leitweg-ID finden Sie hier.
+Der Connector ist in der Lage, die Syntax einer Leitweg-ID auf Richtigkeit zu überprüfen.
+Das heißt, es wird geprüft, ob die einzelnen Bestandteile die erlaubte Anzahl an Zeichen enthalten, und ob die Prüfziffer korrekt ist.</description>
+      </item>
+      
+      <item>
+        <title>Message Mobile Kontaktdaten</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/sms/message_mobile/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/sms/message_mobile/</guid>
+        <description>Message Mobile Kontaktdaten Message Mobile GmbH
+Stresemannstraße 6
+21335 Lüneburg
+Deutschland
+Geschäftsführer: Gilad Parness
+Amtsgericht: Lüneburg, Nr. HRB 2414
+Tel.: +49 (0) 4131 / 244 44 0
+Fax: +49 (0) 4131 / 244 44 200
+WhatsApp: +49 177 1967805
+E-Mail: info@message-mobile.de
+Web: www.message-mobile.de</description>
+      </item>
+      
+      <item>
         <title>Nützliche Funktionen</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/base/useful_functions/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -1303,6 +1777,16 @@ SetDialog(NewDialog : Boolean) Mit dieser Funktion kann die Sichtbarkeit des Dia
 NewDialog: Dialog anzeigen Ja/Nein
 SetJoblistSubject(„Jobno.“ : Integer;NewSubject : Text[250]) Mit dieser Funktion kann der Betreff eines bestimmten Jobs geändert werden.
 „Jobno.“: Lfd. Nummer des Jobeintrages.</description>
+      </item>
+      
+      <item>
+        <title>PEPPOL im Standard</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/peppol/standard/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/peppol/standard/</guid>
+        <description>Peppol im Standard Auch im Standard von Microsoft Dynamics NAV/365 BC lassen sich PEPPOL Belege erzeugen. Jedoch erst ab Version 2016 aufwärts. Die Versionsmöglichkeiten sehen wie folgt aus:
+         Ab Dynamics NAV 2016 PEPPOL 2.0   Ab Dynamics NAV 2016 PEPPOL 2.1   Ab Business Central 14 PEPPOL 3.0    Für mehr Informationen, wie Sie PEPPOL im Standard nutzen können, greifen Sie bitte auf offizielle Dokumentationen von Microsoft zurück wie z.</description>
       </item>
       
       <item>
@@ -1322,6 +1806,18 @@ The most important fields here are “Usage”, “Report ID” and our newly ad
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connector-on-appsource/xrechnung/faq/getting-started/</guid>
         <description>FAQ Wie kann ich anfangen? Sobald die App installiert ist, gehen Sie zu dem Debitor, der die XRechnung erhalten soll, kreuzen Sie das Kästchen in Dokumentenlayouts an und fügen Sie die Leitweg ID hinzu. Dann können Sie mit dem Senden beginnen. Einen ausführlicheren Leitfaden finden Sie unter Arbeiten mit XRechnung bzw.Einrichtung</description>
+      </item>
+      
+      <item>
+        <title>Erstellung von PDF/A-Dokumenten</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/pdfpaper/archive_pdf/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/pdfpaper/archive_pdf/</guid>
+        <description>Erstellung von PDF/A-Dokumenten in PDF/A-1b und PDF/A-3b (nur in Verbindung mit pdfPaper – als FM-Lizensierung)
+Einrichtung der PDF-Ebene In der „pdfPaper Einrichtung“ wird die gewünschte PDF-Ebene hinterlegt, die man standardmäßig pro Mandanten anwenden möchte. Diese Einrichtung greift direkt auf alle Berichte/Belege in einem Mandanten, die mit dem Connector NAV / 365 BC verarbeitet werden.
+Fenster „pdfPaper Einrichtung“
+Sie können in dem Feld „PDF Ebene“ zwischen „Leer“, „PDF/A- 1b“ und „PDF/A- 3b“ wählen und somit ihre Default Einstellung je Mandant festlegen.</description>
       </item>
       
       <item>
@@ -1401,7 +1897,8 @@ Fax: +49 2362 788 90 56</description>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/configuration-and-setup/setup/communication_matrix/</guid>
         <description>Kommunikationsmatrix Die Kommunikationsmatrix ist die spezielle Einrichtung von Zieladressen. Mit der oben beschriebenen Übersicht werden globale Zieladressen bestimmt (z.B. Verkauf an Kontakt, Feld E-Mail). Mit der Kommunikationsmatrix können Ausnahmen bestimmt werden.
-Connector NAV Kommunikationsmatrix Übersicht Im unteren Bereich der Karte gibt es eine Übersicht der vorhandenen Globalen Einstellungen. Die Ausnahmen wirken sich nur aus, wenn es auch eine globale Einstellung gibt.
+Connector NAV Kommunikationsmatrix Übersicht
+Im unteren Bereich der Karte gibt es eine Übersicht der vorhandenen Globalen Einstellungen. Die Ausnahmen wirken sich nur aus, wenn es auch eine globale Einstellung gibt.
    Feldbeschreibung      Jobmodus Auswahl des Jobmodus.</description>
       </item>
       
@@ -1446,13 +1943,74 @@ Einrichtung und Versand </description>
       </item>
       
       <item>
+        <title>XRechnung erzeugen</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/create/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/create/</guid>
+        <description>XRechnung erzeugen Da wir nun den **XRechnungs-**Eintrag für Gilde Jupiter Versicherungs AG für den Jobmodus PDF angelegt haben, können wir aus der markierten Rechnung 103003 über die Schaltfläche PDF eine XRechnung erzeugen.
+Alternativ geht dies auch über die Schaltfläche Stapellauf, insofern der betreffende Eintrag in der Kommunikationsmatrix für den Stapelmodus markiert worden ist:
+Sobald eine der oben genannten Schaltflächen aktiviert worden ist, wird aus der markierten Rechnung eine XRechnung erzeugt.</description>
+      </item>
+      
+      <item>
+        <title>Abweichender Versand</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/matrix/detour/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/matrix/detour/</guid>
+        <description>Abweichender Versand – Einsatz der Zieladressen-Matrix Die bisherigen Beispiele haben alle ohne die Matrix funktioniert, da immer auf direkte zusammenhängende Kontakte zugegriffen wurde.
+Nun besteht aber eine abweichende Unternehmenslogik. Der Leistungsempfänger ist nicht gleich der Rechnungsempfänger, sondern ein abweichendes Unternehmen. Auch spielen die Kunden-/Lieferanten bei der Zieladresse eine Rolle. Trotz Personen-Kontakt besteht der Wunsch, Belege aber grundsätzlich an abweichende/globale Adressen zu senden. Solche Anforderungen sind im Standard von Dynamics NAV / 365 BC nicht vorgesehen.</description>
+      </item>
+      
+      <item>
         <title>Aufgabenwarteschlange Einrichtung</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/configuration-and-setup/setup/setup_queue/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/configuration-and-setup/setup/setup_queue/</guid>
         <description>Einrichten einer Aufgabenwarteschlange für die Hintergrundverarbeitung Die Einrichtung der Aufgabenwarteschlange befindet sich im Menü unter Verwaltung-&amp;gt; IT Verwaltung-&amp;gt; Anwendung Einrichtung-&amp;gt; Aufgabenwarteschlange.
-Microsoft Dynamics NAV, Aufgabenwarteschlange Um Connector NAV Serverjobs auszuführen, wird ein Aufgabenwarteschlangenposten mit der entsprechenden Codeunit 5402516 angelegt. Damit dieser Posten läuft, muss eine Aufgabenwarteschlange mit entsprechendem Dienst angelegt werden. Dazu gibt es verschiedene Möglichkeiten. Im nachfolgenden Beispiel wird eine Aufgabenwarteschlange mit dem Administrator-Benutzer ohne weitere Einrichtung am Server angelegt.</description>
+Microsoft Dynamics NAV, Aufgabenwarteschlange
+Um Connector NAV Serverjobs auszuführen, wird ein Aufgabenwarteschlangenposten mit der entsprechenden Codeunit 5402516 angelegt. Damit dieser Posten läuft, muss eine Aufgabenwarteschlange mit entsprechendem Dienst angelegt werden. Dazu gibt es verschiedene Möglichkeiten. Im nachfolgenden Beispiel wird eine Aufgabenwarteschlange mit dem Administrator-Benutzer ohne weitere Einrichtung am Server angelegt.</description>
+      </item>
+      
+      <item>
+        <title>Begleitende Dokumente</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/added_documents/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/added_documents/</guid>
+        <description>Begleitende Dokumente Der XRechnung-Standard lässt es zu, rechnungsbegleitende Anlagen anzuhängen.
+Dieser Standard erlaubt Anhänge von folgenden MIME-Typen (Multipurpose Internet Mail Extensions):
+  Application/pdf (.pdf)
+  Image/png (.png)
+  Image/jpeg (.jpg)
+  Text/CSV (.csv)
+  Application/vnd.openxmlformats-officedocument.spreadsheethtml.sheet (.xslx)
+  Excel-Tabellen
+  Application/vnd.oasis.opendocument.spreadsheet (.ods)
+  OpenDocument-Tabellen
+  PDF-Anhänge können von manchen Auftraggebern als unsicher eingestuft werden und werden dementsprechend auch vom XRechnung Portal Deutschland als solche gekennzeichnet.</description>
+      </item>
+      
+      <item>
+        <title>Drehen von Anhängen</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/pdfpaper/rotate_attachments/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/pdfpaper/rotate_attachments/</guid>
+        <description>Automatisches Drehen von Anhängen. Es ist möglich PDF-Dateien, welche im Querformat gespeichert wurden, automatisch während der Verarbeitung eines Jobs in das Hochformat zu drehen. Dies ist dann nützlich, wenn man Dateien in einem einheitlichen Format übersenden möchte. Um die Option zu aktivieren, müssen Sie auf die pdfPaper Einrichtung zugreifen. Dort finden Sie die Felder „Automatisches drehen bei…“. Setzen Sie nun einen Haken bei dem jeweiligen Jobmodus in dem die Datei gedreht werden soll.</description>
+      </item>
+      
+      <item>
+        <title>Ein Drucker pro Nutzer / Bericht</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/pdfpaper/user_printer/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/pdfpaper/user_printer/</guid>
+        <description>Festlegen eines Druckers pro Nutzer / Bericht Durch Nutzung des Moduls haben Sie auch die Möglichkeit einen Drucker pro Benutzer festzulegen. Die Option Dazu finden Sie in der Benutzer Einrichtung.
+Benutzer Einrichtung mit ausgeklapptem pdfPaper Reiter.
+Dort finden Sie 2 Felder, Drucker für den Vorgang Ausdruck bzw. Ausdruck Server, welches Feld Sie benutzen müssen ist davon abhängig welche Version des iPapers Sie lizensiert haben. Client und Terminalserver nutzen Ausdruck, Folder Monitoring nutzt Ausdruck Server.</description>
       </item>
       
       <item>
@@ -1503,6 +2061,65 @@ Einrichtung und Versand </description>
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/easybatch/videos/</guid>
         <description>Videos Hier finden Sie einige informative Videos zur unserer Mail Attachments Plus App, jedes Video behandelt ein spezielles Thema
 Einrichtung der App </description>
+      </item>
+      
+      <item>
+        <title>Der Stapelmodus</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/matrix/stack_mode/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/matrix/stack_mode/</guid>
+        <description>Der Stapelmodus - Nutzen der Matrix zum Steuern der Versandart In einigen unserer Templates werden Sie den Knopf „Stapellauf“ bemerken, mit dieser Funktion lassen sich ausgewählte Belege nach einem zuvor festgelegten Schema verarbeiten. Dieses Schema lässt sich über die Kommunikationsmatrix einrichten.
+Damit ein Eintrag in der Kommunikationsmatrix für den Stapellauf verwendet werden kann, muss der Haken „Stapelmodus“ vor den jeweiligen Einträgen gesetzt werden. Ist der Haken gesetzt gilt diese Einrichtung ebenfalls für einen Stapellauf, es muss kein separater Eintrag angelegt werden.</description>
+      </item>
+      
+      <item>
+        <title>Direktversand per E-Mail</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/send_via_mail/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/send_via_mail/</guid>
+        <description>XRechnung direkt per E-Mail versenden (Connector E-Mail Modul) Wenn Sie zusätzlich das Connector365-Modul E-Mail installiert haben, können Sie eine XRechnung nach der Erzeugung direkt per E-Mail durch den Connector versenden. Dazu müssen sie eine Anpassung in der Kommunikationsmatrix vornehmen.
+Ändern Sie einfach den Wert des Feldes Jobmodus von PDF auf E-Mail. Zudem können Sie optional eine Standard-Zieladresse eingeben. Nun kann die markierte Rechnung über die Schaltfläche E-Mail, oder über die Schaltfläche Stapellauf, sofern der Eintrag für den Stapelmodus markiert worden ist, in das XRechnung-Format konvertiert und direkt per E-Mail weiter versendet werden.</description>
+      </item>
+      
+      <item>
+        <title>Buchen und Verarbeiten</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/matrix/book_and_process/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/matrix/book_and_process/</guid>
+        <description>Funktion buchen &amp;amp; verarbeiten Ähnlich wie die Standardfunktionen buchen &amp;amp; senden bzw. buchen &amp;amp; drucken, erlaubt die Funktion buchen &amp;amp; verarbeiten ihnen einen Beleg nach dem buchen noch weiter zu verarbeiten. Im Gegensatz zum Standard erlaubt Ihnen die Funktion ein verarbeiten des Belegs durch alle Connector NAV Schnittstellen. Außerdem haben Sie die Möglichkeit einen Beleg gleich mehrfach über verschiedene Kanäle z.B. Brief &amp;amp; E-Mail zu versenden.
+Wie genau der jeweilige Beleg verarbeitet werden soll, können Sie in unserer Kommunikationsmatrix einrichten.</description>
+      </item>
+      
+      <item>
+        <title>Fehler analysieren</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/error_analysis/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/error_analysis/</guid>
+        <description>Validierungsergebnisse bei Fehler analysieren Bei der Validierung der XRechnung-Datei kann es natürlich auch vorkommen, dass eine XRechnung als nicht konform eingestuft wird. Dies passiert dann, wenn wichtige Informationen in der Rechnung fehlen. Beispielsweise wird eine Validierung schon dann fehlschlagen, wenn die Stadt des Debitors nicht angegeben wurde.
+Um einen Fall zu simulieren, bei dem die Validierung fehlschlägt, ändern wir das obige Vorgehen so um, dass wir „vergessen“ eine Leitweg-ID anzugeben. Dazu rufen wir wieder für unsere Beispielrechnung 103003 die Kommunikationsmatrix auf, und entfernen in unserem Eintrag den Wert für die Spalte Leitweg-ID.</description>
+      </item>
+      
+      <item>
+        <title>Informationen zur Fehlersuche</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/more_error_analysis/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/more_error_analysis/</guid>
+        <description>Weitere Informationen zur Fehlersuche In dieser Dokumentation wurde beispielhaft ein möglicher Fall einer fehlerhaften Validierung aufgezeigt. Neben der dort gezeigten Problematik mit der Leitweg-ID, gibt es noch einige andere Fehlerquellen. Daher ist es enorm vorteilhaft, einen Validierungsdienst zu verwenden, da ansonsten Fehler möglicherweise erst in einem der Rechnungsportale oder beim Rechnungsempfänger auffallen. Anhand des Validierungsberichts und mithilfe der PEPPOL BIS Billing 3.0 Code Lists lassen sich die meisten Fehler schnell beseitigen.</description>
+      </item>
+      
+      <item>
+        <title>Optionen der Kommunikationsmatrix</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/matrix/options/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/matrix/options/</guid>
+        <description>Optionen &amp;amp; erweiterte Optionen der Kommunikationsmatrix Die folgenden Funktionen finden Sie in der Kommunikationsmatrix. Ab Punkt 11 sind diese nur in Verbindung mit dem pdfPaper-Modul verwendbar.
+   Feld Name Funktion     1 Stapelmodus legt fest, ob der Eintrag ebenfalls für die Verarbeitung im Stapelmodus gilt   2 TabellenID legt fest, auf welche Tabelle sich der Eintrag bezieht (Deb./Kred./Kontakt)   3 Tabellenname wird automatisch mit dem Namen der Tabelle gefüllt   4 Nr.</description>
       </item>
       
     

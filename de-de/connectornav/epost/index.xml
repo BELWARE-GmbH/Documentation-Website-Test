@@ -21,7 +21,8 @@
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/epost/example/</guid>
         <description>Anwendungsbeispiel Das Senden von E-Post Briefen aus Dynamics NAV ist aus jeder beliebigen Page möglich, im Folgenden wird als Beispiel eine Geb. Verkaufsrechnung verwendet.
-Ausschnitt Beispielrechnung Connector NAV Integration    Aktionen      E-POST Mit dieser Aktion versenden Sie die E-POST.   PDF Mit dieser Aktion erstellen Sie das PDF.   Status Mit dieser Aktion gelangen Sie in die Jobliste und dem entsprechenden Eintrag.</description>
+Ausschnitt Beispielrechnung Connector NAV Integration
+   Aktionen      E-POST Mit dieser Aktion versenden Sie die E-POST.   PDF Mit dieser Aktion erstellen Sie das PDF.   Status Mit dieser Aktion gelangen Sie in die Jobliste und dem entsprechenden Eintrag.</description>
       </item>
       
       <item>
@@ -30,7 +31,8 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/epost/dialog/</guid>
-        <description>Der Dialog Aktionen Dialog Modus E-Mail, Aktionen    Aktionen      Anhänge 1-4 anzeigen Über diese Aktion können Sie sich die ausgewählten Anhänge ansehen.   Dateien hinzufügen Über diese Aktion können Sie zusätzliche Dateien auswählen, die als Anhang mitversendet werden sollen.   Dokumente anzeigen Die hinzugefügten Dokumente lassen sich über diese Aktion als Liste anzeigen.    Register Allgemein Dialog Modus E-POST, Register Allgemein    Feldbeschreibung      Lfd.</description>
+        <description>Der Dialog Aktionen Dialog Modus E-Mail, Aktionen
+   Aktionen      Anhänge 1-4 anzeigen Über diese Aktion können Sie sich die ausgewählten Anhänge ansehen.   Dateien hinzufügen Über diese Aktion können Sie zusätzliche Dateien auswählen, die als Anhang mitversendet werden sollen.   Dokumente anzeigen Die hinzugefügten Dokumente lassen sich über diese Aktion als Liste anzeigen.    Register Allgemein Dialog Modus E-POST, Register Allgemein</description>
       </item>
       
       <item>

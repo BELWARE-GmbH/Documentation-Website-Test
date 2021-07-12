@@ -33,8 +33,8 @@ Hier setzen Sie den Haken bei Aktiviert. Als Pfad geben Sie den Pfad ein, den Si
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/fax/example/</guid>
         <description>Anwendungsbeispiel Das Senden von Faxen aus Dynamics NAV ist aus jeder beliebigen Page möglich. Im Folgenden wird als Beispiel ein Angebot verwendet.
-Ausschnitt Beispielangebot Connector NAV Integration
-   Aktionen      Faxen Mit dieser Aktion versenden Sie das Fax.   PDF Mit dieser Aktion erstellen Sie das PDF.   Status Mit dieser Aktion gelangen Sie in die Jobliste und dem entsprechenden Eintrag.</description>
+Ausschnitt Beispielangebot Connector NAV Integration
+   Aktionen      Faxen Mit dieser Aktion versenden Sie das Fax.   PDF Mit dieser Aktion erstellen Sie das PDF.   Status Mit dieser Aktion gelangen Sie in die Jobliste und dem entsprechenden Eintrag.   Historie Zusätzlich zur Aktion Status werden hier auch Jobeinträge angezeigt, die dem Beleg zugeordnet wurden.</description>
       </item>
       
       <item>

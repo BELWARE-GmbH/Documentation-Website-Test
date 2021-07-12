@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/matrix/contacts/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/epost/example/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
@@ -158,6 +163,11 @@
   </url>
   
   <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/html-word/create_file/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/privacy-policy/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -173,7 +183,17 @@
   </url>
   
   <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/base/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/base/base_overview/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/status-report/configuration/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
@@ -323,6 +343,36 @@
   </url>
   
   <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/drag-and-drop/setup/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/sms/setup/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/status-view/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/rapidstart/install/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/peppol/settings/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/first-steps/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -358,6 +408,21 @@
   </url>
   
   <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/drag-and-drop/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/templates.md/booked_receipts/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/html-word/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/legalnotice/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -370,6 +435,11 @@
                 hreflang="de-de"
                 href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/legalnotice/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/matrix/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
@@ -468,7 +538,42 @@
   </url>
   
   <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/msp/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/easybatch/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/cti/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/epost/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/fax/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/mail/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/pdfpaper/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/sms/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
@@ -533,7 +638,17 @@
   </url>
   
   <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/peppol/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/easybatch/first-steps/setup/priority-system/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/msp/priorities/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
@@ -553,6 +668,21 @@
   </url>
   
   <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/rapidstart/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/segment/segment_view/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/segment/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/terms-of-use/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -565,6 +695,11 @@
                 hreflang="de-de"
                 href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/terms-of-use/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/status-report/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
@@ -733,6 +868,16 @@
   </url>
   
   <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/cti/preparation/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/preparation/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/first-steps/setup/web-services/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -784,6 +929,21 @@
   
   <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/fax/faxmaker/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/templates.md/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/rapidstart/adjust/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/drag-and-drop/example/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
@@ -893,7 +1053,7 @@
   </url>
   
   <url>
-    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/base/</loc>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/matrix/definitions/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
@@ -903,7 +1063,17 @@
   </url>
   
   <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/msp/setup_user/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/configuration-and-setup/setup/user_setup_connectornav/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/status-report/user_report_setup/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
@@ -935,6 +1105,11 @@
                 hreflang="de-de"
                 href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/working-with-map/defaults-report/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/html-word/link_pics/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
@@ -974,6 +1149,11 @@
   
   <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/base/pdf_creation/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/cti/setup/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
@@ -1063,6 +1243,11 @@
   </url>
   
   <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/segment/add_contacts/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/first-steps/setup/countrynames/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1075,6 +1260,11 @@
                 hreflang="de-de"
                 href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/first-steps/setup/countrynames/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/receipts/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
@@ -1428,6 +1618,11 @@
   </url>
   
   <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/templates.md/unbooked_receipts/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.0.1/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1500,6 +1695,26 @@
                 hreflang="de-de"
                 href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.0/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/sms/send_via_contacts/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/peppol/send_email/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/cti/call_contacts/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
@@ -1583,7 +1798,17 @@
   </url>
   
   <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/pdfpaper/example_print/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/configuration-and-setup/setup/user_report_setup_connectornav/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/html-word/bodytexts/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
@@ -1643,6 +1868,11 @@
   </url>
   
   <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/setup/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/first-steps/setup/report/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1655,6 +1885,16 @@
                 hreflang="de-de"
                 href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/first-steps/setup/report/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/peppol/create_xml/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/rapidstart/import/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
@@ -1700,11 +1940,6 @@
                 hreflang="de-de"
                 href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connector-on-appsource/xrechnung/first-steps/installation/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/epost/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
@@ -1783,6 +2018,16 @@
   </url>
   
   <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/msp/setup_report/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/segment/setup/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/easybatch/first-steps/setup/report/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
@@ -1815,6 +2060,11 @@
                 hreflang="de-de"
                 href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connector-on-appsource/xrechnung/working-with-xrechnung/state/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/matrix/table_id/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
@@ -1878,6 +2128,11 @@
   </url>
   
   <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/sms/send_via_receipts/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/first-steps/setup/customer-vendor/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1928,6 +2183,11 @@
   </url>
   
   <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/pdfpaper/example_password/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/first-steps/setup/defaults-document/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1955,6 +2215,11 @@
                 hreflang="de-de"
                 href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/working-with-map/defaults-document/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/msp/dialog/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
@@ -2069,6 +2334,16 @@
   
   <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/easybatch/first-steps/setup/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/matrix/adresses/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/cti/caller_identification/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
@@ -2188,12 +2463,22 @@
   </url>
   
   <url>
-    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/fax/</loc>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/gateway_id/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/sms/message_mobile/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/base/useful_functions/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/peppol/standard/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
@@ -2230,6 +2515,11 @@
                 hreflang="de-de"
                 href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/first-steps/setup/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/pdfpaper/archive_pdf/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
@@ -2318,11 +2608,6 @@
   </url>
   
   <url>
-    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/mail/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/first-steps/setup/setup-tax-category/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -2383,12 +2668,32 @@
   </url>
   
   <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/create/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/matrix/detour/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/configuration-and-setup/setup/setup_queue/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/pdfpaper/</loc>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/added_documents/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/pdfpaper/rotate_attachments/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/pdfpaper/user_printer/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
@@ -2454,6 +2759,36 @@
   
   <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/easybatch/videos/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/matrix/stack_mode/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/send_via_mail/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/matrix/book_and_process/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/error_analysis/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/more_error_analysis/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/matrix/options/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
