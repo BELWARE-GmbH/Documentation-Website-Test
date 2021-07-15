@@ -1,0 +1,17 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Neu und geplant on Connector 365 Online Hilfe",
+    "description": "Recent content in Neu und geplant on Connector 365 Online Hilfe",
+    "home_page_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/",
+    "feed_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/index.json",
+    "items" : [
+    {
+        "title" : "VX.X.X.X \u0026 Roadmap",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/vx.x.x.x/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/vx.x.x.x/",
+        "content_html" : "\u003ch3 id=\"neu-und-geplant\"\u003eNeu und geplant\u003c/h3\u003e\n\u003ch3 id=\"version-xxxx\"\u003eVersion X.X.X.X\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eIntelligente Prozesssteuerung\u003c/li\u003e\n\u003cli\u003eStapelverarbeitung von Belegen\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"geplante-funktionen-für-zukünftige-versionen\"\u003eGeplante Funktionen für zukünftige Versionen\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003e\u003c/li\u003e\n\u003c/ul\u003e\n"
+    }
+    ]
+}

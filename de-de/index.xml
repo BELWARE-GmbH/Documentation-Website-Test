@@ -60,6 +60,18 @@ Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert e
       
       <item>
         <title>AppSource</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/first-steps/installation/appsource/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/first-steps/installation/appsource/</guid>
+        <description>Installation AppSource Öffnen Sie mithilfe der Suchfunktion den Marketplace für Erweiterungen und öffnen Sie ihn.
+Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den Connector 365 Easy Batch zu finden. Klicken Sie auf Free Trial um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
+![](images/apps/mailattachmentssuche.PNG - BILD ÄNDERN SOBALD MÖGLICH)
+Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert eine Sprache für die App zu wählen.</description>
+      </item>
+      
+      <item>
+        <title>AppSource</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/first-steps/installation/appsource/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -88,17 +100,6 @@ Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert e
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/first-steps/installation/appsource/</guid>
         <description>Installation AppSource Öffnen Sie mithilfe der Suchfunktion den Marketplace für Erweiterungen und öffnen Sie ihn.
 Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den Connector 365 XRechnung zu finden. Klicken Sie auf Free Trial um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
-Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert eine Sprache für die App zu wählen.</description>
-      </item>
-      
-      <item>
-        <title>AppSource</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/easybatch/first-steps/installation/appsource/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/easybatch/first-steps/installation/appsource/</guid>
-        <description>Installation AppSource Öffnen Sie mithilfe der Suchfunktion den Marketplace für Erweiterungen und öffnen Sie ihn.
-Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den Connector 365 Mail Sender Plus zu finden. Klicken Sie auf Free Trial um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
 Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert eine Sprache für die App zu wählen.</description>
       </item>
       
@@ -159,6 +160,19 @@ Folgende Optionen stehen zur Verfügung.
       </item>
       
       <item>
+        <title>Dokumentenlayouts</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/first-steps/setup/document-layouts/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/first-steps/setup/document-layouts/</guid>
+        <description>Einrichtung Einrichten der Dokumentenlayouts Damit die Connector 365 Easy Batch App korrekt genutzt werden kann, müssen Sie zunächst bei den Debitoren welche Belege im Stapelversand erhalten wollen dies entsprechend einrichten.
+Öffnen Sie den gewünschten Debitor und navigieren Sie in die Dokumentenlayouts
+Navigieren -&amp;gt; Dokumentenlayouts
+Dort angekommen, werden Sie zwei neue Schaltflächen entdecken, zum einen einen Haken für den Stapelmodus und zum anderen ein Dropdown-Menü für den Jobmodus.
+Der Haken im Feld Stapelmodus aktiviert für diesen Eintrag den Stapelmodus.</description>
+      </item>
+      
+      <item>
         <title>E-POSTBUSINESS API</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/first-steps/setup/epostbusiness-api/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -201,6 +215,16 @@ Mit unserer Connector 365 CTI for STARFACE App ist es möglich ihre Dynamics 365
       
       <item>
         <title>Einleitung</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/first-steps/introduction/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/first-steps/introduction/</guid>
+        <description>Erste Schritte Einleitung Beim versenden von Belegen aus Ihrer Microsoft Dynamics 365 Business Central Umgebung wollen Sie häufig mehrere Belege gleichzeitig verschicken, mit dem Dynamics 365 Business Central Standard ist dies jedoch nicht ohne weiteres möglich. Dies macht einen Prozess der nur ein paar Minuten dauern sollte, viel länger.
+Mit dem Connector 365 Easy Batch ist es möglich intelligent gesteuert mehrere Belege gleichzeitig zu versenden, richten Sie die gewünschte Versandmethode in den Dokumentenlayouts ein und wählen Sie einfach Ihre Belege aus die Sie versenden wollen - Ein Klick und alle Beleg werden versendet.</description>
+      </item>
+      
+      <item>
+        <title>Einleitung</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/first-steps/introduction/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -235,15 +259,6 @@ Gemäß des Beschlusses des IT-Planungsrats vom 22.06.2017 ist XRechnung maßg
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connector-on-appsource/xrechnung/first-steps/introduction/</guid>
         <description>Erste Schritte Einleitung XRechnung - der Standard zur elektronischen Rechnungsstellung bei öffentlichen Auftraggebern Ab dem 27.11.2020 müssen Lieferanten öffentlicher Auftraggeber Rechnungen in dem sogenannten „XRechnung“-Format versenden. Bei diesem Format handelt es sich um ein XML-basiertes Datenmodell, das aktuell als Standard für elektronische Rechnungen etabliert wird.
 Gemäß des Beschlusses des IT-Planungsrats vom 22.06.2017 ist XRechnung maßgeblich für die Umsetzung der Richtlinie 2014/55/EU in Deutschland. Damit bildet XRechnung eine verlässliche Basis für den Austausch elektronischer Rechnungen von und mit deutschen Verwaltungen.</description>
-      </item>
-      
-      <item>
-        <title>Einleitung</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/easybatch/first-steps/introduction/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/easybatch/first-steps/introduction/</guid>
-        <description>Erste Schritte Einleitung Die Connector 365 Mail Sender Plus App erlaubt Ihnen mit einem erweiterten Mail-Setup mehrere Mail-Absenderadressen zu steuern und zu nutzen. Standardmäßig ist nur eine einzige SMTP-Absenderadresse pro Mandanten nutzbar. Die Mail Sender Plus App bietet durch ein prioritätengesteuertes Setup verschiedene Einsatzszenarien in den Absenderadressen. Somit kann entweder einfach im Dialog die Adresse geändert werden, oder Sie setzen Adressen im Default für Report-ID’s oder Debitoren/Kreditoren. So können Sie z.</description>
       </item>
       
       <item>
@@ -364,17 +379,6 @@ Wiederholen Sie diesen Prozess solange bis Ihre Lizenzkapazität aufgebraucht is
       </item>
       
       <item>
-        <title>Priority System</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/easybatch/first-steps/setup/priority-system/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/easybatch/first-steps/setup/priority-system/</guid>
-        <description>Setup The Priority System As mentioned in the introduction, the addresses that will be used are controlled by a priority
-system. The priority system works as follows, from lowest zu highest:
- Default An address per user An address per report An address per customer  This documentation will go into detail how to set up each layer to your wishes.</description>
-      </item>
-      
-      <item>
         <title>Prioritäten</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/msp/priorities/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -436,15 +440,6 @@ Mail Experience Wenn Ihnen schon die Mail Experience zur Verfügung steht (ab Ve
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/new-and-planned/v1.0.0.2/</guid>
         <description>Neu und geplant Version 1.0.0.2  Erweiterte Maileinrichtung mit mehreren Absendern Änderbare Absenderadresse im Dialog Eine Adresse pro Benutzer festlegen Eine Standardadresse pro Bericht Eine Standardadresse pro Kreditor/Debitor  Geplante Funktionen für zukünftige Versionen  Anpassen an die Mail Experience  </description>
-      </item>
-      
-      <item>
-        <title>V1.0.0.2 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/easybatch/new-and-planned/v1.0.0.2/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/easybatch/new-and-planned/v1.0.0.2/</guid>
-        <description>Neu und geplant Version 1.0.0.2  Advanced mail setup with multiple senders Changeable sender address in dialog Set an address per user A default address per report A default address per vendor/customer  Planned functions for future versions  Customize to the Mail Experience  </description>
       </item>
       
       <item>
@@ -528,6 +523,18 @@ Im Dialog lassen sich der Absender, der Empfänger, der Betreff und auch nochmal
       </item>
       
       <item>
+        <title>Versandszenarios</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/working-with-easy-batch/sendingscenarios/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/working-with-easy-batch/sendingscenarios/</guid>
+        <description>Arbeiten mit Easy Batch Versandszenarios Grundsätzlich haben Sie die Möglichkeit mehrere Jobmodi gleichzeitig zu nutzen in Verwendung mit der Stapelfunktion. Sie müssen dies nur dem entsprechend in den Dokumentenlayouts einrichten.
+Wird der Stapelversand ausgelöst während für einen Beleg mehrere Jobmodi eingerichtet sind, werden diese nacheinander ausgelöst.
+Beispiel 1
+Ein Szenario bei der diese Funktionsweise gewünscht sein kann, wäre in der Übergangsphase von einem postalischen Versand zu einem rein digitalen Versand per E-Mail, dies sieht in den Dokumentenlayouts wie folgt aus:</description>
+      </item>
+      
+      <item>
         <title>Vorbereitung</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/configuration-and-setup/preparations/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -563,6 +570,15 @@ NAV 2018 ab CU28 (04/20)
 Business Central 13 ab CU18 (04/20)
 Business Central 14 ab CU11 (04/20)
 Das Modul XRechnung erzeugt Rechnungen und Gutschriften im XRechnung-Format und prüft, ob die erzeugten XRechnung-Dateien konform zu den formalen Vorgaben sind. Diese Überprüfung geschieht standardmäßig mittels eines Validierungstools welches sich auf einem externen Server befindet.</description>
+      </item>
+      
+      <item>
+        <title>VX.X.X.X &amp; Roadmap</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/vx.x.x.x/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/vx.x.x.x/</guid>
+        <description>Neu und geplant Version X.X.X.X  Intelligente Prozesssteuerung Stapelverarbeitung von Belegen  Geplante Funktionen für zukünftige Versionen    </description>
       </item>
       
       <item>
@@ -671,6 +687,20 @@ Ihnen stehen als registrierter E-POST Kunde folgende Möglichkeiten zur Verfügu
       
       <item>
         <title>AppSource</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/first-steps/test-purchase/appsource/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/first-steps/test-purchase/appsource/</guid>
+        <description>Test &amp;amp; Kauf AppSource Die App steht Ihnen im [Microsoft AppSource](LINK NOCH NICHT VORHANDEN) zur Verfügung.
+![](images/apps/senderappsource.PNG - RICHTIGES BILD SETZEN SOBALD MÖGLICH)
+Nach dem Download kann ein Nutzer die App komplett frei benutzen.
+Für den Fall, dass weitere Nutzer die Funktionen der App nutzen sollen, können Sie über unser Formular kostenpflichtig weitere Lizenzen erwerben.
+Ihre Kosten:
+   Monatliche Subscription inkl. Wartung*     x,xx€    *Wahlweise monatlich, quartalsweise oder jährlich abgerechnet.</description>
+      </item>
+      
+      <item>
+        <title>AppSource</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/first-steps/test-purchase/appsource/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -711,20 +741,6 @@ Ihre Kosten:
       </item>
       
       <item>
-        <title>AppSource</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/easybatch/first-steps/test-purchase/appsource/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/easybatch/first-steps/test-purchase/appsource/</guid>
-        <description>Test &amp;amp; Kauf AppSource Die App steht Ihnen im Microsoft AppSource zur Verfügung.
-Nach dem Download kann ein Nutzer die App komplett frei benutzen.
-Für den Fall, dass weitere Nutzer die Funktionen der App nutzen sollen, können Sie über unser Formular kostenpflichtig weitere Lizenzen erwerben.
-Ihre Kosten:
-   Monatliche Subscription inkl. Wartung*     0,90€/Absender    *Wahlweise monatlich, quartalsweise oder jährlich abgerechnet.
-Zum Formular</description>
-      </item>
-      
-      <item>
         <title>Archiv</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/working-with-e-post/archive/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -755,6 +771,15 @@ Die Jobliste bietet Ihnen eine detaillierte Übersicht zu allen Briefen die vers
 Preview-Funktion Vor dem erzeugen einer PDF-Datei haben Sie jederzeit die Möglichkeit für Ihren Bericht eine Vorschau zu erzeugen - eine Ansicht Ihrer fertigen PDF. Ein nutzen dieser Funktion erzeugt keinen Joblisteeintrag.
 Es gibt 2 Varianten der Vorschau:
 Pdf Vorschau - Diese Vorschaufunktion funktioniert auch wenn Sie den iPaper nicht lizensiert haben. Eine Mischung mit einem Briefpapier findet bei dieser Funktion nicht statt, es wird nur eine einfache PDF Ihres Berichts erzeugt.</description>
+      </item>
+      
+      <item>
+        <title>Belegsendeprofil?</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/first-steps/setup/document-sending-profile/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/first-steps/setup/document-sending-profile/</guid>
+        <description>Einrichtung Belegsendeprofil? (Macht das Sinn das mit zu dokumentieren? - Ist ja eine Standardfunktion)</description>
       </item>
       
       <item>
@@ -895,18 +920,6 @@ Sie können nach einem Benutzer suchen und ihn direkt auswählen. Ebenfalls ist 
       </item>
       
       <item>
-        <title>Expanding the Setup</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/easybatch/first-steps/setup/extending-the-setup/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/easybatch/first-steps/setup/extending-the-setup/</guid>
-        <description>Setup Expanding the mail setup &amp;amp; setting up addresses per user First you need to fill the setup with additional addresses that the system can use. Use the search function to get into the setup, just search for &amp;ldquo;Mail Sender Plus&amp;rdquo;. Here you enter the additional addresses you want to use.
-The following fields have to be filled
-Email Sender
-You can search for a user or select them directly. It is also possible to enter EMail Sender that are not bound to a user.</description>
-      </item>
-      
-      <item>
         <title>Konfiguration</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/configuration-and-setup/configuration/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -1028,6 +1041,27 @@ Wünschen Sie eine Testphase, erhalten Sie von uns die gewünschten Objekte für
       
       <item>
         <title>OnPrem</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/first-steps/installation/onprem/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/first-steps/installation/onprem/</guid>
+        <description>Installation OnPrem Sie erhalten von uns die Objekte für die Connector 365 Base &amp;amp; Easy Batch App per Mail, damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
+Veröffentlichen der Connector 365 Base &amp;amp; Easy Batch App Das veröffentlichen der Connector 365 Base &amp;amp; Easy Batch App erfolgt via der Business Central Administration Shell. Transferieren Sie zunächst die von uns an Sie gesendete Dateien auf dem Server auf dem Ihre Business Central Instanz läuft.</description>
+      </item>
+      
+      <item>
+        <title>OnPrem</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/first-steps/test-purchase/onprem/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/first-steps/test-purchase/onprem/</guid>
+        <description>Test &amp;amp; Kauf OnPrem Sie haben die Möglichkeit unsere Connector 365 Easy Batch App unverbindlich vorab zu testen oder auch direkt zu erwerben. Hier für benötigen wir einige Informationen von Ihnen.
+Zum Formular
+Wünschen Sie eine Testphase, erhalten Sie von uns die gewünschten Objekte für einen User und einen Testzeitraum von 30 Tagen. Vor Ablauf des Testzeitraums setzen wir uns mit Ihnen in Verbindung zwecks Übernahme in Kauf oder Deaktivierung der Testphase.</description>
+      </item>
+      
+      <item>
+        <title>OnPrem</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/first-steps/installation/onprem/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -1090,24 +1124,16 @@ Wünschen Sie eine Testphase, erhalten Sie von uns die gewünschten Objekte für
       </item>
       
       <item>
-        <title>OnPrem</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/easybatch/first-steps/installation/onprem/</link>
+        <title>Stapelfunktion</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/working-with-easy-batch/batchfunction/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/easybatch/first-steps/installation/onprem/</guid>
-        <description>Installation OnPrem Sie erhalten von uns die Objekte für die Connector 365 Base &amp;amp; Mail Sender Plus App per Mail, damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
-Veröffentlichen der Connector 365 Base &amp;amp; Mail Sender Plus App Das veröffentlichen der Connector 365 Base &amp;amp; Mail Sender Plus App erfolgt via der Business Central Administration Shell. Transferieren Sie zunächst die von uns an Sie gesendete Dateien auf dem Server auf dem Ihre Business Central Instanz läuft.</description>
-      </item>
-      
-      <item>
-        <title>OnPrem</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/easybatch/first-steps/test-purchase/onprem/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/easybatch/first-steps/test-purchase/onprem/</guid>
-        <description>Test &amp;amp; Kauf OnPrem Sie haben die Möglichkeit unsere Connector 365 Mail Sender Plus App unverbindlich vorab zu testen oder auch direkt zu erwerben. Hier für benötigen wir einige Informationen von Ihnen.
-Zum Formular
-Wünschen Sie eine Testphase, erhalten Sie von uns die gewünschten Objekte für einen User und einen Testzeitraum von 30 Tagen. Vor Ablauf des Testzeitraums setzen wir uns mit Ihnen in Verbindung zwecks Übernahme in Kauf oder Deaktivierung der Testphase.</description>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/working-with-easy-batch/batchfunction/</guid>
+        <description>Arbeiten mit Easy Batch Stapelfunktion Nachdem alle Debitoren nach Ihren Wünschen eingerichtet wurde, können Sie mit dem Versand starten.
+Öffnen Sie dazu einen der gewünschten Berichte, z.B. Ihre geb. Verkaufsrechnungen.
+Wählen Sie nun die Belege aus welche Sie versenden möchten
+In der Auswahl sind Sie komplett frei - Sie haben, falls gewünscht, auch die Möglichkeit einzelne Belege als Stapel zu versenden.
+Sobald Sie die Beleg für den Versand ausgewählt haben, können Sie den Stapel starten.</description>
       </item>
       
       <item>
@@ -1231,6 +1257,16 @@ Klicken Sie einfach innerhalb der Kontaktkarte unter „Kontakt“ auf das Telef
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/working-with-msp/</guid>
         <description>Arbeiten mit Mail Sender Plus Der Dialog Nachdem die gewünschten Absenderadressen eingerichtet worden sind, können Sie nun starten. Öffnen Sie einen Beleg und versenden Sie diesen per Mail.
 Sobald sich der Dialog öffnet, wird Ihnen das neue &amp;ldquo;E-Mail Sender&amp;rdquo; Feld auffallen, von dort aus haben Sie nun Zugriff auf die Absenderliste und können die Absenderadressen manuell auswählen. Nachdem Sie die gewünschte Adresse ausgewählt haben, bestätigen Sie nun mit OK, um den Versand wie gewohnt zu starten.</description>
+      </item>
+      
+      <item>
+        <title>Archivierung</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/working-with-easy-batch/archive/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/working-with-easy-batch/archive/</guid>
+        <description>Arbeiten mit Easy Batch Archivierung Nachdem eine Stapelverarbeitung durchgeführt wurde, werden die verarbeiteten Belege in den Connector 365 Aktivitäten aufgeführt. Diese Übersicht können Sie erreichen in dem Sie Connector 365 Aktivitäten in die Suchfunktion eingeben.
+Hier werden sämtliche Jobs aufgeführt die über den Stapelmodus ausgelöst wurden. Hier könen verschiedene Parameter zur Verarbeitung eingesehen werden, wie z.B. wann der Job durchgeführt wurde, welcher Nutzer ihn ausgelöst hat und welchen Status die Verarbeitung hat.</description>
       </item>
       
       <item>
@@ -1454,16 +1490,6 @@ Nun öffnen Sie die Einrichtung der Benutzerberichte und öffnen Sie den Einstel
         <description>Connector NAV für den Segmenten-Versand einrichten Nachdem die Liste mit den Kontakten, die das Segment empfangen sollen vorbereitet wurde, geht es nun an die Einrichtung der Mail mit dem Connector NAV. Über „Benutzerbericht“ richten Sie nun folgende Parameter ein:
 Berichts-ID: Ist fix – diese ist nicht zu ändern
 Sprache: Sollten Sie mehrsprachige Kunden haben und Ihre Mails dementsprechend in verschiedenen Sprachen versenden wollen. Ist die Benutzerberichts-Einrichtung pro Sprachcode zu definieren.</description>
-      </item>
-      
-      <item>
-        <title>Settings per report</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/easybatch/first-steps/setup/report/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/easybatch/first-steps/setup/report/</guid>
-        <description>Setup Setting up addresses per report in the report selection To set up addresses in the report selection you first need to open the search function and search for &amp;ldquo;report selection&amp;rdquo;. You will now see a list of all possible report selections and their departments. Open the report selection for the desired department.
-Afterwards you can enter the desired address into the &amp;ldquo;Email Sender&amp;rdquo; field. You can either fill the field manually or select an address from the setup.</description>
       </item>
       
       <item>
@@ -1790,16 +1816,6 @@ SetJoblistSubject(„Jobno.“ : Integer;NewSubject : Text[250]) Mit dieser Funk
       </item>
       
       <item>
-        <title>Sender per Customer/Vendor</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/easybatch/first-steps/setup/customer-vendor/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/easybatch/first-steps/setup/customer-vendor/</guid>
-        <description>Setup Sender per Customer/Vendor It is also possible to set addresses per customer/vendor, this is controlled by the document layouts. This option has the highest priority. To make changes you need to open the page of customer/vendor that you want to set up. Now expand the options, click on navigate and then customer, finally select document layouts.
-The most important fields here are “Usage”, “Report ID” and our newly added field “EMail Sender”.</description>
-      </item>
-      
-      <item>
         <title>Wie kann ich anfangen?</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connector-on-appsource/xrechnung/faq/getting-started/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -1826,6 +1842,20 @@ Sie können in dem Feld „PDF Ebene“ zwischen „Leer“, „PDF/A- 1b“ und
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/help-support/</guid>
+        <description>Hilfe &amp;amp; Support Wir freuen uns darauf, uns um Ihre Anliegen kümmern zu dürfen. Egal, ob es allgemeine Fragen zu der BELWARE GmbH und unseren Produkten oder spezifische Fragen sind. Melden Sie sich einfach per Telefon oder Mail bei uns. Auf Ihre Anfragen reagieren wir innerhalb von 1 - 2 Werktagen.
+Für Allgemeines sind wir zu erreichen über:
+E-Mail: info@belware.de
+Alternativ
+Tel.: +49 2362 788 90 55
+Fax: +49 2362 788 90 56</description>
+      </item>
+      
+      <item>
+        <title>Hilfe &amp; Support</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/help-support/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/help-support/</guid>
         <description>Hilfe &amp;amp; Support Wir freuen uns darauf, uns um Ihre Anliegen kümmern zu dürfen. Egal, ob es allgemeine Fragen zu der BELWARE GmbH und unseren Produkten oder spezifische Fragen sind. Melden Sie sich einfach per Telefon oder Mail bei uns. Auf Ihre Anfragen reagieren wir innerhalb von 1 - 2 Werktagen.
 Für Allgemeines sind wir zu erreichen über:
 E-Mail: info@belware.de
@@ -1868,20 +1898,6 @@ Fax: +49 2362 788 90 56</description>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connector-on-appsource/xrechnung/help-support/</guid>
-        <description>Hilfe &amp;amp; Support Wir freuen uns darauf, uns um Ihre Anliegen kümmern zu dürfen. Egal, ob es allgemeine Fragen zu der BELWARE GmbH und unseren Produkten oder spezifische Fragen sind. Melden Sie sich einfach per Telefon oder Mail bei uns. Auf Ihre Anfragen reagieren wir innerhalb von 1 - 2 Werktagen.
-Für Allgemeines sind wir zu erreichen über:
-E-Mail: info@belware.de
-Alternativ
-Tel.: +49 2362 788 90 55
-Fax: +49 2362 788 90 56</description>
-      </item>
-      
-      <item>
-        <title>Hilfe &amp; Support</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/easybatch/help-support/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/easybatch/help-support/</guid>
         <description>Hilfe &amp;amp; Support Wir freuen uns darauf, uns um Ihre Anliegen kümmern zu dürfen. Egal, ob es allgemeine Fragen zu der BELWARE GmbH und unseren Produkten oder spezifische Fragen sind. Melden Sie sich einfach per Telefon oder Mail bei uns. Auf Ihre Anfragen reagieren wir innerhalb von 1 - 2 Werktagen.
 Für Allgemeines sind wir zu erreichen über:
 E-Mail: info@belware.de
@@ -2025,6 +2041,15 @@ kurze Übersicht der App - Deutsch *Die Connector 365 E-POST App, setzt auf die
       
       <item>
         <title>Videos</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/videos/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/videos/</guid>
+        <description>Videos Hier finden Sie einige informative Videos zur unserer Easy Batch App, jedes Video behandelt ein spezielles Thema</description>
+      </item>
+      
+      <item>
+        <title>Videos</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/videos/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -2051,16 +2076,6 @@ Nutzung der App </description>
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connector-on-appsource/xrechnung/videos/</guid>
         <description>Videos Hier finden Sie einige informative Videos zur unserer XRechnung, jedes Video behandelt ein spezielles Thema
 Einrichtung und Versand </description>
-      </item>
-      
-      <item>
-        <title>Videos</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/easybatch/videos/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/easybatch/videos/</guid>
-        <description>Videos Hier finden Sie einige informative Videos zur unserer Mail Attachments Plus App, jedes Video behandelt ein spezielles Thema
-Einrichtung der App </description>
       </item>
       
       <item>
