@@ -53,7 +53,7 @@ After submitting your contact information, you will be prompted to choose a lang
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/first-steps/installation/appsource/</guid>
         <description>Installation AppSource Using the search function, open the Extension Marketplace and open it.
-The Microsoft AppSource opens. There you can use the search function again to find the Connector 365 CTI for STARFACE. Click on Get it now to start the installation. Before the installation starts, you have to provide some contact information.
+The Microsoft AppSource opens. There you can use the search function again to find the Connector 365 Easy Batch. Click on Free Trial to start the installation. Before the installation starts, you have to provide some contact information.
 After submitting your contact information, you will be prompted to choose a language for the app. Our Connector 365 E-POST App* is available in English and German.</description>
       </item>
       
@@ -98,6 +98,18 @@ After submitting your contact information, you will be prompted to choose a lang
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/working-with-cti-for-starface/click-to-dial/</guid>
         <description>Working with CTI for STARFACE Click to dial With our app you have the possibility to start calls directly from your contacts. Open the contact you want to make a call with and open the area &amp;ldquo;Communication&amp;rdquo;. Next to the phone number there is now a button with 3 dots. Click on the button to initiate a phone call.
 If no call is triggered, you may have to switch off the popup blocker of your browser or set your STARFACE client to open phone numbers.</description>
+      </item>
+      
+      <item>
+        <title>Document Layouts</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/first-steps/setup/document-layouts/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/first-steps/setup/document-layouts/</guid>
+        <description>Setup Setting up the document layouts In order to be able to use the Connector 365 Easy Batch App correctly, you must first set up the customers who want to receive documents in batch mode.
+Open the desired customer and navigate to the document layouts
+Navigate -&amp;gt; Document layouts
+Once there, you will notice two new buttons, one is a check mark for batch mode and the other is a drop down menu for job mode.</description>
       </item>
       
       <item>
@@ -176,7 +188,8 @@ With our Connector 365 CTI for STARFACE it is possible to turn your Dynamics 365
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/first-steps/introduction/</guid>
-        <description>First steps Introduction The Connector 365 Mail Sender Plus App allows you to control and use multiple mail sender addresses via an extended mail setup. By default, it is only possible to use a single SMTP sender address per company. The Mail Sender Plus App offers a priority-controlled setup for various scenarios within the sender addresses. It is possible to simply change the address in the dialog or set an address as default per report or customer/vendor.</description>
+        <description>First steps Introduction When sending documents from your Microsoft Dynamics 365 Business Central environment, you often want to send multiple documents at the same time, but with the Dynamics 365 Business Central standard, this is not easily possible. This makes a process that should only take a few minutes take much longer.
+With the Connector 365 Easy Batch it is possible to intelligently send multiple documents at the same time, set up the desired sending method in the document layouts and simply select your receipts you want to send - One click and all receipts will be sent.</description>
       </item>
       
       <item>
@@ -277,6 +290,18 @@ The content of the mail can be customized and the current attachments are visibl
       </item>
       
       <item>
+        <title>Sending Scenarios</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/working-with-easy-batch/sendingscenarios/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/working-with-easy-batch/sendingscenarios/</guid>
+        <description>Working with Easy Batch Sending Scenarios Basically you have the possibility to use several job modes at the same time in use with the batch function. You only have to set this up accordingly in the document layouts.
+If the batch dispatch is triggered while several job modes are set up for a document, they will be triggered one after the other.
+Example 1
+One scenario where this functionality may be desired would be in the transition phase from postal delivery to purely digital delivery via email, this looks like the following in the document layouts:</description>
+      </item>
+      
+      <item>
         <title>Under Construction</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/under-construction/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -284,6 +309,15 @@ The content of the mail can be customized and the current attachments are visibl
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/under-construction/</guid>
         <description>This part of our docs page is under construction This part of the website is still being worked on and as such is not yet available to the public.
 Please return at a later date, when we will have added further informative content about the usage of our solutions to this website.</description>
+      </item>
+      
+      <item>
+        <title>V1.0.0.0 &amp; Roadmap</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/new-and-planned/v1.0.0.0/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/new-and-planned/v1.0.0.0/</guid>
+        <description>New and planned Version 1.0.0.0  Intelligent process control Batch processing of documents Control via document sending profiles  Planned functions for future versions  Integration of credit-side documents. Background generation and sending of the documents  </description>
       </item>
       
       <item>
@@ -306,15 +340,6 @@ Please return at a later date, when we will have added further informative conte
       
       <item>
         <title>V1.0.1.0 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.0/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.0/</guid>
-        <description>New and planned Version 1.0.1.0  Minor corrections Click to Dial for phone and mobile number Show unknown numbers on incoming calls The CTI client opens automatically when you log in to Business Central  Planned functions for future versions  Refining the dashboard Automatic creation of contacts for unknown numbers Customization of the job list to match the app Editable CTI notes  </description>
-      </item>
-      
-      <item>
-        <title>V1.0.1.0 &amp; Roadmap</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connector-on-appsource/xrechnung/new-and-planned/v1.0.1.0/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -324,35 +349,29 @@ Please return at a later date, when we will have added further informative conte
       
       <item>
         <title>V1.0.1.1 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/new-and-planned/v1.0.1.1/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.1/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/new-and-planned/v1.0.1.1/</guid>
-        <description>New and plannedd Version 1.0.1.1  Corrections in the translation  Planned functions for future versions -</description>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.1/</guid>
+        <description>New and planned Version 1.0.1.1  CTI status in dashboard Automatic conversion of phone numbers Freely definable CTI page Web service is generated automatically  Planned functions for future versions  Automatic creation of contacts for unknown numbers Customization of the job list to match the app Editable CTI notes  </description>
       </item>
       
       <item>
-        <title>V1.0.1.1 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.1.1/</link>
+        <title>V1.0.1.2 &amp; Roadmap</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/new-and-planned/v1.0.1.2/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.1.1/</guid>
-        <description>Neu und geplant Version 1.0.1.1  The Connector 365 XRechnung app now relies on our base app Adding events to control the XRechnung Bug fixes  Geplante Funktionen für zukünftige Versionen    </description>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/new-and-planned/v1.0.1.2/</guid>
+        <description>New and planned Version 1.0.1.2  Bug fixes Integration to Easy Batch  Planned functions for future versions  Reactivation of negative jobs Contacts editable in dialog Other report types (service invoices/credit memos)  Pos. service invoices Pos. service credit memos Purchase orders    </description>
       </item>
       
       <item>
-        <title>Web service</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/first-steps/setup/web-services/</link>
+        <title>V1.0.1.3 &amp; Roadmap</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.1.3/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/first-steps/setup/web-services/</guid>
-        <description>Setup Setting up the Web service After the extension has been successfully published to your solution, it must first be set up. The search will take you to the &amp;ldquo;Web Services&amp;rdquo; page. Here you need to create a new entry.
-For this you need the following data:
-Object type: Page
-Object ID: 70109820
-Object name: CTI-Client
-Service name: CTI
-After you have set up here, you can proceed with the rest of the setup.</description>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.1.3/</guid>
+        <description>New and planned Version 1.0.1.3  Bug fixes Integration to Easy Batch  Planned features for future versions  Service invoices and service credit notes Extension and improvement of the XRechnung setting on the customer side Ident ID 1:N Improvement Dimension Events Change from KoSit to 2.01  </description>
       </item>
       
       <item>
@@ -385,13 +404,11 @@ The following options are available to you as a registered E-POST customer:</des
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/first-steps/test-purchase/appsource/</guid>
-        <description>Test &amp;amp; purchase AppSource The app is available in the Microsoft AppSource.
-After downloading, a user can use the App completely free.
-In case that more Users want to use the function, you can simply order more licenses via our form.
-Your costs:
-   Subscription incl. maintenance*     0,90€/Sender    *billed either monthly, quarterly or annually
-To the form
-Connector 365 Mail Sender Plus is available for the following BC licensing:</description>
+        <description>Test &amp;amp; Purchase AppSource The app is available in the Microsoft AppSource.
+After downloading, the app can be tested free of charge for 30 days.
+In case you want more users to use the app&amp;rsquo;s features, you can purchase additional licenses for a fee using our form.
+   Monthly subscription incl. maintenance*     x,xx€    *Electively billed monthly, quarterly or annually.
+To the form</description>
       </item>
       
       <item>
@@ -448,6 +465,19 @@ The job list provides you with a detailed overview of all letters that have been
       </item>
       
       <item>
+        <title>Batch Function</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/working-with-easy-batch/batchfunction/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/working-with-easy-batch/batchfunction/</guid>
+        <description>Working with Easy Batch Batch Function After all the customers have been set up according to your wishes, you can start sending.
+To do this, open one of the desired reports, e.g. your pos. sales invoices.
+Now select the documents that you want to send
+You are completely free in the selection - if desired, you also have the option to send individual documents as a batch.
+As soon as you have selected the vouchers for sending, you can start the batch.</description>
+      </item>
+      
+      <item>
         <title>Country names</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/first-steps/setup/countrynames/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -490,6 +520,17 @@ In the &amp;ldquo;XRechnung&amp;rdquo; field, place a check mark to activate the
         <description>Working with Mail Attachment Plus After you have added the attachments you want in the report selection, you can start sending the mail. If you have not done so yet, you can find the setup of the Customer Default Attachments in the &amp;ldquo;Getting Started&amp;rdquo; section.
 For this example, we have set up the default attachments in invoice shipping as follows:
 Two PDFs are attached, each with the standards set up per document/report</description>
+      </item>
+      
+      <item>
+        <title>Document Sending Profile</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/first-steps/setup/document-sending-profile/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/first-steps/setup/document-sending-profile/</guid>
+        <description>Setup Document Sending Profile The document send profile is a standard functionality of Microsoft Dynamics 365 Business Central.
+It is used to control the preferred method of sending sales documents. By default, the functionality is intended for use with &amp;ldquo;Post and Send&amp;rdquo;. However, with Connector 365 Easy Batch, document send profiles can also be used to control the batch function.
+Set up document send profiles To set up a document sending profile</description>
       </item>
       
       <item>
@@ -583,8 +624,8 @@ If you wish a test phase, you will receive the desired objects for one user and 
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/first-steps/installation/onprem/</guid>
-        <description>Installation OnPrem You will receive the objects for the Connector 365 Base &amp;amp; Mail Sender Plus App from us by mail. In order to be able to use the App, they must first be published and then installed.
-Publishing of the Connector 365 Base &amp;amp; Mail Sender Plus App the publishing of the Connector Base &amp;amp; Mail Sender Plus App is done via the Business Central Administration Shell. First transfer the files we sent to you to the server where your Business Central instance is running.</description>
+        <description>Installation OnPrem You will receive the objects for the Connector 365 Base &amp;amp; Easy Batch App from us by mail. In order to be able to use the App, they must first be published and then installed.
+Publishing of the Connector 365 Base &amp;amp; Easy Batch App the publishing of the Connector Base &amp;amp; Easy Batch App is done via the Business Central Administration Shell. First transfer the files we sent to you to the server where your Business Central instance is running.</description>
       </item>
       
       <item>
@@ -593,9 +634,9 @@ Publishing of the Connector 365 Base &amp;amp; Mail Sender Plus App the publishi
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/first-steps/test-purchase/onprem/</guid>
-        <description>Test &amp;amp; Purchase OnPrem Test You have the possibility to test our Connector 365 Mail Sender Plus App without obligation or to purchase it directly. For this we need some information from you.
+        <description>Test &amp;amp; Purchase OnPrem You have the possibility to test our Connector 365 Easy Batch App without obligation or to purchase it directly. For this we need some information from you..
 To the form
-If you wish a test phase, you will receive the desired objects for one user and for a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.</description>
+If you wish a test phase, you will receive the desired objects for a user and a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.</description>
       </item>
       
       <item>
@@ -697,15 +738,6 @@ Connector 365 is available for the following BC licensing:</description>
       
       <item>
         <title>V1.0.0.1 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.0.1/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.0.1/</guid>
-        <description>New and planned Version 1.0.0.1  Displaying contact data during incoming calls No missed calls, thanks to automatic call tracking Note function to write down important call details Automatic logging of start times and the length of every call  Planned functions for future versions  Call list extension - Global job list Call list in dashboard Show unknown numbers on incoming calls  </description>
-      </item>
-      
-      <item>
-        <title>V1.0.0.1 &amp; Roadmap</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connector-on-appsource/xrechnung/new-and-planned/v1.0.0.1/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -724,25 +756,42 @@ Connector 365 is available for the following BC licensing:</description>
       
       <item>
         <title>V1.0.1.0 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/new-and-planned/v1.0.1.0/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.0/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/new-and-planned/v1.0.1.0/</guid>
-        <description>New and plannedd Version 1.0.1.0   Sending of other document types (credit notes, reminders, quotations, orders)
- Posted Sales Credit Memos Issued Reminders Quotes Sales orders    Sending duplex letters
-  Sending status (joblist) in the factbox per document in the overview
-  Two boxes for the joblist in the dashboard
-  The Connector 365 XRechnung app now relies on our base app
-  Planned functions for future versions  Reactivation of negative jobs Contacts editable in dialog Other report types (service invoices/credit memos)  Pos.</description>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.0/</guid>
+        <description>New and planned Version 1.0.1.0  Minor corrections Click to Dial for phone and mobile number Show unknown numbers on incoming calls The CTI client opens automatically when you log in to Business Central  Planned functions for future versions  Refining the dashboard Automatic creation of contacts for unknown numbers Customization of the job list to match the app Editable CTI notes  </description>
       </item>
       
       <item>
-        <title>V1.0.1.0 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.1.0/</link>
+        <title>V1.0.1.1 &amp; Roadmap</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/new-and-planned/v1.0.1.1/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.1.0/</guid>
-        <description>New and planned Version 1.0.1.0  Status tracking in dashboard Invoice accompanying attachments Revised XRechnung dialog Syntax check of Ident ID Extension of input for Ident IDs XRechnung version adapted  Planned features for future versions  Service invoices and service credit notes Extension and improvement of the XRechnung setting on the customer side Ident ID 1:N Improvement Dimension Events Change from KoSit to 2.01  </description>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/new-and-planned/v1.0.1.1/</guid>
+        <description>New and plannedd Version 1.0.1.1  Corrections in the translation  Planned functions for future versions  Reactivation of negative jobs Contacts editable in dialog Other report types (service invoices/credit memos)  Pos. service invoices Pos. service credit memos Purchase orders    </description>
+      </item>
+      
+      <item>
+        <title>V1.0.1.1 &amp; Roadmap</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.1.1/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.1.1/</guid>
+        <description>New and planned Version 1.0.1.1  The Connector 365 XRechnung app now relies on our base app Adding events to control the XRechnung Bug fixes  Planned features for future versions  Service invoices and service credit notes Extension and improvement of the XRechnung setting on the customer side Ident ID 1:N Improvement Dimension Events Change from KoSit to 2.01  </description>
+      </item>
+      
+      <item>
+        <title>Archive</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/working-with-easy-batch/archive/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/working-with-easy-batch/archive/</guid>
+        <description>Working with Easy Batch Archive After a batch processing has been performed, the processed documents are listed in the Connector 365 activities. You can find this overview in two places:
+Directly on the document.
+You can find it directly in the factbox to the right of your documents.
+In the global activities.
+The best way to access these is via search - open the search function and search for Connector 365 Activities.</description>
       </item>
       
       <item>
@@ -866,11 +915,11 @@ If you want to create a new group, click &amp;ldquo;New&amp;rdquo; to activate t
       
       <item>
         <title>V1.0.0.1 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.0.1/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.0.1/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.0.1/</guid>
-        <description>New and planned Version 1.0.0.1  Creating an XRechnung XML file Sending the XRechnung by mail using the standard BC Mail dialog. Sending of a validation report, which confirms the conformity of the invoice to the recipient. Displaying the validation report for the user in case of &amp;ldquo;non-conformity&amp;rdquo; Aborting the sending in case of &amp;ldquo;non-conformity&amp;rdquo; Improvement of the WebService query / DLL for the check report  Planned features for future versions  Status tracking in dashboard Invoice accompanying attachments Revised XRechnung dialog Syntax check of Ident ID Extension of input for Ident IDs XRechnung version adapted  </description>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.0.1/</guid>
+        <description>New and planned Version 1.0.0.1  Displaying contact data during incoming calls No missed calls, thanks to automatic call tracking Note function to write down important call details Automatic logging of start times and the length of every call  Planned functions for future versions  Call list extension - Global job list Call list in dashboard Show unknown numbers on incoming calls  </description>
       </item>
       
       <item>
@@ -883,12 +932,26 @@ If you want to create a new group, click &amp;ldquo;New&amp;rdquo; to activate t
       </item>
       
       <item>
-        <title>V1.0.0.5 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/new-and-planned/v1.0.0.5/</link>
+        <title>V1.0.1.0 &amp; Roadmap</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/new-and-planned/v1.0.1.0/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/new-and-planned/v1.0.0.5/</guid>
-        <description>New and planned Version 1.0.0.5  Sending E-POST letters from posted sales invoices Shipping in color or b/w Registered mail (posting/return receipt) Archiving sent letters Shipping abroad  Planned functions for future versions  Other document types  Delivery bills Sales orders Quotes   Small improvements  </description>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/new-and-planned/v1.0.1.0/</guid>
+        <description>New and plannedd Version 1.0.1.0   Sending of other document types (credit notes, reminders, quotations, orders)
+ Posted Sales Credit Memos Issued Reminders Quotes Sales orders    Sending duplex letters
+  Sending status (joblist) in the factbox per document in the overview
+  Two boxes for the joblist in the dashboard
+  The Connector 365 XRechnung app now relies on our base app
+  Planned functions for future versions  Reactivation of negative jobs Contacts editable in dialog Other report types (service invoices/credit memos)  Pos.</description>
+      </item>
+      
+      <item>
+        <title>V1.0.1.0 &amp; Roadmap</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.1.0/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.1.0/</guid>
+        <description>New and planned Version 1.0.1.0  Status tracking in dashboard Invoice accompanying attachments Revised XRechnung dialog Syntax check of Ident ID Extension of input for Ident IDs XRechnung version adapted  Planned features for future versions  Service invoices and service credit notes Extension and improvement of the XRechnung setting on the customer side Ident ID 1:N Improvement Dimension Events Change from KoSit to 2.01  </description>
       </item>
       
       <item>
@@ -1038,6 +1101,24 @@ Then you should adjust the field &amp;ldquo;International Standard Code” accor
       </item>
       
       <item>
+        <title>V1.0.0.1 &amp; Roadmap</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.0.1/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.0.1/</guid>
+        <description>New and planned Version 1.0.0.1  Creating an XRechnung XML file Sending the XRechnung by mail using the standard BC Mail dialog. Sending of a validation report, which confirms the conformity of the invoice to the recipient. Displaying the validation report for the user in case of &amp;ldquo;non-conformity&amp;rdquo; Aborting the sending in case of &amp;ldquo;non-conformity&amp;rdquo; Improvement of the WebService query / DLL for the check report  Planned features for future versions  Status tracking in dashboard Invoice accompanying attachments Revised XRechnung dialog Syntax check of Ident ID Extension of input for Ident IDs XRechnung version adapted  </description>
+      </item>
+      
+      <item>
+        <title>V1.0.0.5 &amp; Roadmap</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/new-and-planned/v1.0.0.5/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/new-and-planned/v1.0.0.5/</guid>
+        <description>New and planned Version 1.0.0.5  Sending E-POST letters from posted sales invoices Shipping in color or b/w Registered mail (posting/return receipt) Archiving sent letters Shipping abroad  Planned functions for future versions  Other document types  Delivery bills Sales orders Quotes   Small improvements  </description>
+      </item>
+      
+      <item>
         <title>Help &amp; Support</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/help-support/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -1163,8 +1244,8 @@ Connector 365 E-POST - Quick Overview - English *The Connector 365 E-POST App i
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/videos/</guid>
-        <description>Videos Here you can find some informative videos about our XRechnung, each video covers a special topic
-Setup of the App </description>
+        <description>Videos Here you can find some informative videos about our Connector 365 CTI for Easy Batch App, each video covers a special topic
+Connector 365 Easy Batch - Quick Overview Connector 365 Easy Batch - Kurzübersicht </description>
       </item>
       
       <item>

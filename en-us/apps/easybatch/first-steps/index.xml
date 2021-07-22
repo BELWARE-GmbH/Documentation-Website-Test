@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>First Steps on Connector 365 Online Help</title>
+    <title>First steps on Connector 365 Online Help</title>
     <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/first-steps/</link>
-    <description>Recent content in First Steps on Connector 365 Online Help</description>
+    <description>Recent content in First steps on Connector 365 Online Help</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
@@ -20,16 +20,17 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/first-steps/introduction/</guid>
-        <description>First steps Introduction The Connector 365 Mail Sender Plus App allows you to control and use multiple mail sender addresses via an extended mail setup. By default, it is only possible to use a single SMTP sender address per company. The Mail Sender Plus App offers a priority-controlled setup for various scenarios within the sender addresses. It is possible to simply change the address in the dialog or set an address as default per report or customer/vendor.</description>
+        <description>First steps Introduction When sending documents from your Microsoft Dynamics 365 Business Central environment, you often want to send multiple documents at the same time, but with the Dynamics 365 Business Central standard, this is not easily possible. This makes a process that should only take a few minutes take much longer.
+With the Connector 365 Easy Batch it is possible to intelligently send multiple documents at the same time, set up the desired sending method in the document layouts and simply select your receipts you want to send - One click and all receipts will be sent.</description>
       </item>
       
       <item>
-        <title>Test &amp; Purchase</title>
+        <title>Test &amp; Kauf</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/first-steps/test-purchase/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/first-steps/test-purchase/</guid>
-        <description>Testing and purchasing of the Connector 365 Mail Sender Plus App Here you will find all help and learning resources about testing and purchasing the Connector 365 Mail Sender Plus App.
+        <description>Testing and purchasing of the Connector 365 Easy Batch App Here you will find all help and learning resources about testing and purchasing the Connector 365 Easy Batch App.
 Simply use either the bottom or left navigation menu.
 In case a question could not be answered, we will be glad to help you personally. the necessary contact information can be found on the support page.</description>
       </item>
@@ -40,7 +41,7 @@ In case a question could not be answered, we will be glad to help you personally
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/first-steps/installation/</guid>
-        <description>Installation of the Connector 365 Mail Sender Plus App Here you will find all help and learning resources about installing the Connector 365 Mail Sender Plus App.
+        <description>Installation of the Connector 365 Easy Batch App Here you will find all help and learning resources about installing the Connector 365 Easy Batch App.
 Simply use either the bottom or left navigation menu.
 In case a question could not be answered, we will be glad to help you personally. the necessary contact information can be found on the support page.</description>
       </item>
@@ -51,7 +52,9 @@ In case a question could not be answered, we will be glad to help you personally
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/first-steps/setup/</guid>
-        <description></description>
+        <description>Setup of the Connector 365 Easy Batch App Here you will find all help and learning resources, to assist you in setting up the Connector 365 Easy Batch App.
+Simply use either the bottom or left navigation menu.
+In case a question could not be answered, we will be glad to help you personally. the necessary contact information can be found on the support page.</description>
       </item>
       
     

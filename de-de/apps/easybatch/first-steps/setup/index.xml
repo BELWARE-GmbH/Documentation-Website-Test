@@ -15,25 +15,28 @@
     
       
       <item>
-        <title>Dokumentenlayouts</title>
+        <title>Dokumentlayouts</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/first-steps/setup/document-layouts/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/first-steps/setup/document-layouts/</guid>
-        <description>Einrichtung Einrichten der Dokumentenlayouts Damit die Connector 365 Easy Batch App korrekt genutzt werden kann, müssen Sie zunächst bei den Debitoren welche Belege im Stapelversand erhalten wollen dies entsprechend einrichten.
-Öffnen Sie den gewünschten Debitor und navigieren Sie in die Dokumentenlayouts
-Navigieren -&amp;gt; Dokumentenlayouts
+        <description>Einrichtung Einrichten der Dokumentlayouts Damit die Connector 365 Easy Batch App korrekt genutzt werden kann, müssen Sie zunächst bei den Debitoren welche Belege im Stapelversand erhalten wollen dies entsprechend einrichten.
+Öffnen Sie den gewünschten Debitor und navigieren Sie in die Dokumentlayouts
+Navigieren -&amp;gt; Dokumentlayouts
 Dort angekommen, werden Sie zwei neue Schaltflächen entdecken, zum einen einen Haken für den Stapelmodus und zum anderen ein Dropdown-Menü für den Jobmodus.
 Der Haken im Feld Stapelmodus aktiviert für diesen Eintrag den Stapelmodus.</description>
       </item>
       
       <item>
-        <title>Belegsendeprofil?</title>
+        <title>Belegsendeprofil</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/first-steps/setup/document-sending-profile/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/first-steps/setup/document-sending-profile/</guid>
-        <description>Einrichtung Belegsendeprofil? (Macht das Sinn das mit zu dokumentieren? - Ist ja eine Standardfunktion)</description>
+        <description>Einrichtung Belegsendeprofil Bei dem Belegsendeprofil handelt es sich um eine Standardfunktionalität von Microsoft Dynamics 365 Business Central.
+Sie wird dazu genutzt, um die bevorzugte Methode der Übermittlung von Verkaufsbelegen zu steuern. Stanardmäßig ist die funktionalität für die Verwendung von &amp;ldquo;Buchen und Senden&amp;rdquo; gedacht. Mit dem Connector 365 Easy Batch, können Belegsendeprofile aber auch dafür genutzt verwenden die Stapelfunktion zu steuern.
+Einrichten von Belegsendeprofilen Einrichten von Belegsendeprofilen
+ Öffnen Sie die Suche, geben Sie Belegsendeprofil ein und wählen Sie dann den entsprechenden Link.</description>
       </item>
       
     

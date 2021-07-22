@@ -210,6 +210,16 @@
   <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/first-steps/setup/document-layouts/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/first-steps/setup/document-layouts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/first-steps/setup/document-layouts/"
+                />
   </url>
   
   <url>
@@ -763,6 +773,21 @@
   </url>
   
   <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/v1.0.0.0/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/new-and-planned/v1.0.0.0/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/v1.0.0.0/"
+                />
+  </url>
+  
+  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/new-and-planned/v1.0.0.2/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -793,21 +818,6 @@
   </url>
   
   <url>
-    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.0/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.0/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.0/"
-                />
-  </url>
-  
-  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connector-on-appsource/xrechnung/new-and-planned/v1.0.1.0/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -823,32 +833,47 @@
   </url>
   
   <url>
-    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/new-and-planned/v1.0.1.1/</loc>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.1/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/new-and-planned/v1.0.1.1/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/new-and-planned/v1.0.1.1/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.1/"
                 />
   </url>
   
   <url>
-    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.1/</loc>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/new-and-planned/v1.0.1.2/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.1.1/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/new-and-planned/v1.0.1.2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.1/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/new-and-planned/v1.0.1.2/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.3/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.1.3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.3/"
                 />
   </url>
   
@@ -900,6 +925,16 @@
   <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/working-with-easy-batch/sendingscenarios/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/working-with-easy-batch/sendingscenarios/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/working-with-easy-batch/sendingscenarios/"
+                />
   </url>
   
   <url>
@@ -915,26 +950,6 @@
   <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/preparation/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/vx.x.x.x/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/first-steps/setup/web-services/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/first-steps/setup/web-services/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/first-steps/setup/web-services/"
-                />
   </url>
   
   <url>
@@ -1120,6 +1135,16 @@
   <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/first-steps/setup/document-sending-profile/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/first-steps/setup/document-sending-profile/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/first-steps/setup/document-sending-profile/"
+                />
   </url>
   
   <url>
@@ -1595,6 +1620,16 @@
   <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/working-with-easy-batch/batchfunction/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/working-with-easy-batch/batchfunction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/working-with-easy-batch/batchfunction/"
+                />
   </url>
   
   <url>
@@ -1723,21 +1758,6 @@
   </url>
   
   <url>
-    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.0.1/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.0.1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.0.1/"
-                />
-  </url>
-  
-  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connector-on-appsource/xrechnung/new-and-planned/v1.0.0.1/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1768,32 +1788,47 @@
   </url>
   
   <url>
-    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/new-and-planned/v1.0.1.0/</loc>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.0/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/new-and-planned/v1.0.1.0/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.0/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/new-and-planned/v1.0.1.0/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.0/"
                 />
   </url>
   
   <url>
-    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.0/</loc>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/new-and-planned/v1.0.1.1/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.1.0/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/new-and-planned/v1.0.1.1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.0/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/new-and-planned/v1.0.1.1/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.1/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.1.1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.1/"
                 />
   </url>
   
@@ -1910,6 +1945,16 @@
   <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/working-with-easy-batch/archive/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/working-with-easy-batch/archive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/working-with-easy-batch/archive/"
+                />
   </url>
   
   <url>
@@ -2193,17 +2238,17 @@
   </url>
   
   <url>
-    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.0.1/</loc>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.0.1/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.0.1/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.0.1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.0.1/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.0.1/"
                 />
   </url>
   
@@ -2223,17 +2268,32 @@
   </url>
   
   <url>
-    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/new-and-planned/v1.0.0.5/</loc>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/new-and-planned/v1.0.1.0/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/new-and-planned/v1.0.0.5/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/new-and-planned/v1.0.1.0/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/new-and-planned/v1.0.0.5/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/new-and-planned/v1.0.1.0/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.0/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.1.0/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.0/"
                 />
   </url>
   
@@ -2610,6 +2670,36 @@
   <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/peppol/standard/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.0.1/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.0.1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.0.1/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/new-and-planned/v1.0.0.5/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/new-and-planned/v1.0.0.5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/new-and-planned/v1.0.0.5/"
+                />
   </url>
   
   <url>

@@ -6,6 +6,14 @@
     "feed_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/index.json",
     "items" : [
     {
+        "title" : "V1.0.1.1 \u0026 Roadmap",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.1/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.1/",
+        "content_html" : "\u003ch3 id=\"neu-und-geplant\"\u003eNeu und geplant\u003c/h3\u003e\n\u003ch3 id=\"version-1011\"\u003eVersion 1.0.1.1\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eCTI Status im Dashboard\u003c/li\u003e\n\u003cli\u003eAutomatisches konvertieren von Telefonnummern\u003c/li\u003e\n\u003cli\u003eFrei setzbare CTI-Seite\u003c/li\u003e\n\u003cli\u003eWebdienst wird automatisch generiert\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"geplante-funktionen-für-zukünftige-versionen\"\u003eGeplante Funktionen für zukünftige Versionen\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAutomatisches Anlegen von kontakten bei unbekannten Nummern\u003c/li\u003e\n\u003cli\u003eAnpassung der Jobliste passend zur App\u003c/li\u003e\n\u003cli\u003eEditierbare CTI Notizen\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
         "title" : "V1.0.1.0 \u0026 Roadmap",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",

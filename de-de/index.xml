@@ -66,7 +66,6 @@ Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert e
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/first-steps/installation/appsource/</guid>
         <description>Installation AppSource Öffnen Sie mithilfe der Suchfunktion den Marketplace für Erweiterungen und öffnen Sie ihn.
 Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den Connector 365 Easy Batch zu finden. Klicken Sie auf Free Trial um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
-![](images/apps/mailattachmentssuche.PNG - BILD ÄNDERN SOBALD MÖGLICH)
 Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert eine Sprache für die App zu wählen.</description>
       </item>
       
@@ -160,14 +159,14 @@ Folgende Optionen stehen zur Verfügung.
       </item>
       
       <item>
-        <title>Dokumentenlayouts</title>
+        <title>Dokumentlayouts</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/first-steps/setup/document-layouts/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/first-steps/setup/document-layouts/</guid>
-        <description>Einrichtung Einrichten der Dokumentenlayouts Damit die Connector 365 Easy Batch App korrekt genutzt werden kann, müssen Sie zunächst bei den Debitoren welche Belege im Stapelversand erhalten wollen dies entsprechend einrichten.
-Öffnen Sie den gewünschten Debitor und navigieren Sie in die Dokumentenlayouts
-Navigieren -&amp;gt; Dokumentenlayouts
+        <description>Einrichtung Einrichten der Dokumentlayouts Damit die Connector 365 Easy Batch App korrekt genutzt werden kann, müssen Sie zunächst bei den Debitoren welche Belege im Stapelversand erhalten wollen dies entsprechend einrichten.
+Öffnen Sie den gewünschten Debitor und navigieren Sie in die Dokumentlayouts
+Navigieren -&amp;gt; Dokumentlayouts
 Dort angekommen, werden Sie zwei neue Schaltflächen entdecken, zum einen einen Haken für den Stapelmodus und zum anderen ein Dropdown-Menü für den Jobmodus.
 Der Haken im Feld Stapelmodus aktiviert für diesen Eintrag den Stapelmodus.</description>
       </item>
@@ -220,7 +219,7 @@ Mit unserer Connector 365 CTI for STARFACE App ist es möglich ihre Dynamics 365
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/first-steps/introduction/</guid>
         <description>Erste Schritte Einleitung Beim versenden von Belegen aus Ihrer Microsoft Dynamics 365 Business Central Umgebung wollen Sie häufig mehrere Belege gleichzeitig verschicken, mit dem Dynamics 365 Business Central Standard ist dies jedoch nicht ohne weiteres möglich. Dies macht einen Prozess der nur ein paar Minuten dauern sollte, viel länger.
-Mit dem Connector 365 Easy Batch ist es möglich intelligent gesteuert mehrere Belege gleichzeitig zu versenden, richten Sie die gewünschte Versandmethode in den Dokumentenlayouts ein und wählen Sie einfach Ihre Belege aus die Sie versenden wollen - Ein Klick und alle Beleg werden versendet.</description>
+Mit dem Connector 365 Easy Batch ist es möglich intelligent gesteuert mehrere Belege gleichzeitig zu versenden, richten Sie die gewünschte Versandmethode in den Dokumentlayouts ein und wählen Sie einfach Ihre Belege aus die Sie versenden wollen - Ein Klick und alle Beleg werden versendet.</description>
       </item>
       
       <item>
@@ -434,6 +433,15 @@ Mail Experience Wenn Ihnen schon die Mail Experience zur Verfügung steht (ab Ve
       </item>
       
       <item>
+        <title>V1.0.0.0 &amp; Roadmap</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/v1.0.0.0/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/v1.0.0.0/</guid>
+        <description>Neu und geplant Version 1.0.0.0  Intelligente Prozesssteuerung Stapelverarbeitung von Belegen Steuerung via Belegsendeprofilen  Geplante Funktionen für zukünftige Versionen  Integration von kreditorischen Belegen. Hintergrunderzeugung und Versand der Belege  </description>
+      </item>
+      
+      <item>
         <title>V1.0.0.2 &amp; Roadmap</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/new-and-planned/v1.0.0.2/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -453,15 +461,6 @@ Mail Experience Wenn Ihnen schon die Mail Experience zur Verfügung steht (ab Ve
       
       <item>
         <title>V1.0.1.0 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.0/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.0/</guid>
-        <description>Neu und geplant Version 1.0.1.0  Kleinere Korrekturen Click to Dial für Telefon- und Handynummer Unbekannte Nummern bei eingehenden Anrufen anzeigen Der CTI-Client öffnet sich automatisch anch Anmeldung bei Business Central  Geplante Funktionen für zukünftige Versionen  Dashboard verfeinern Automatisches Anlegen von kontakten bei unbekannten Nummern Anpassung der Jobliste passend zur App Editierbare CTI Notizen  </description>
-      </item>
-      
-      <item>
-        <title>V1.0.1.0 &amp; Roadmap</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connector-on-appsource/xrechnung/new-and-planned/v1.0.1.0/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -471,20 +470,29 @@ Mail Experience Wenn Ihnen schon die Mail Experience zur Verfügung steht (ab Ve
       
       <item>
         <title>V1.0.1.1 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/new-and-planned/v1.0.1.1/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.1/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/new-and-planned/v1.0.1.1/</guid>
-        <description>Neu und geplant Version 1.0.1.0  Korrektur der Übersetzung  Geplante Funktionen für zukünftige Versionen  Erneutes versenden von fehlerhaften Briefen Kontakte im Dialog editierbar Weitere Belegarten  Geb. Service-Rechnungen Geb. Service-Gutschriften Bestellungen    </description>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.1/</guid>
+        <description>Neu und geplant Version 1.0.1.1  CTI Status im Dashboard Automatisches konvertieren von Telefonnummern Frei setzbare CTI-Seite Webdienst wird automatisch generiert  Geplante Funktionen für zukünftige Versionen  Automatisches Anlegen von kontakten bei unbekannten Nummern Anpassung der Jobliste passend zur App Editierbare CTI Notizen  </description>
       </item>
       
       <item>
-        <title>V1.0.1.1 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.1/</link>
+        <title>V1.0.1.2 &amp; Roadmap</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/new-and-planned/v1.0.1.2/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.1/</guid>
-        <description>Neu und geplant Version 1.0.1.1  Die Connector 365 XRechnung App stützt nun auf unsere Basis App Hinzufügen von Events zur Steuerung der XRechnung Fehlerkorrekturen  Geplante Funktionen für zukünftige Versionen  Service Rechnungen und Service Gutschriften Erweiterung und Verbesserung der XRechnungseinstellung am Debitor Leitweg ID 1:N Verbesserung Dimension Wechsel von Kosit auf 2.01  </description>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/new-and-planned/v1.0.1.2/</guid>
+        <description>Neu und geplant Version 1.0.1.2  Korrekturen Integration zu Connector 365 Easy Batch  Geplante Funktionen für zukünftige Versionen  Erneutes versenden von fehlerhaften Briefen Kontakte im Dialog editierbar Weitere Belegarten  Geb. Service-Rechnungen Geb. Service-Gutschriften Bestellungen    </description>
+      </item>
+      
+      <item>
+        <title>V1.0.1.3 &amp; Roadmap</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.3/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.3/</guid>
+        <description>Neu und geplant Version 1.0.1.3  Korrekturen Integration zu Connector 365 Easy Batch  Geplante Funktionen für zukünftige Versionen  Service Rechnungen und Service Gutschriften Erweiterung und Verbesserung der XRechnungseinstellung am Debitor Leitweg ID 1:N Verbesserung Dimension Wechsel von Kosit auf 2.01  </description>
       </item>
       
       <item>
@@ -528,10 +536,10 @@ Im Dialog lassen sich der Absender, der Empfänger, der Betreff und auch nochmal
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/working-with-easy-batch/sendingscenarios/</guid>
-        <description>Arbeiten mit Easy Batch Versandszenarios Grundsätzlich haben Sie die Möglichkeit mehrere Jobmodi gleichzeitig zu nutzen in Verwendung mit der Stapelfunktion. Sie müssen dies nur dem entsprechend in den Dokumentenlayouts einrichten.
+        <description>Arbeiten mit Easy Batch Versandszenarios Grundsätzlich haben Sie die Möglichkeit mehrere Jobmodi gleichzeitig zu nutzen in Verwendung mit der Stapelfunktion. Sie müssen dies nur dem entsprechend in den Dokumentlayouts einrichten.
 Wird der Stapelversand ausgelöst während für einen Beleg mehrere Jobmodi eingerichtet sind, werden diese nacheinander ausgelöst.
 Beispiel 1
-Ein Szenario bei der diese Funktionsweise gewünscht sein kann, wäre in der Übergangsphase von einem postalischen Versand zu einem rein digitalen Versand per E-Mail, dies sieht in den Dokumentenlayouts wie folgt aus:</description>
+Ein Szenario bei der diese Funktionsweise gewünscht sein kann, wäre in der Übergangsphase von einem postalischen Versand zu einem rein digitalen Versand per E-Mail, dies sieht in den Dokumentlayouts wie folgt aus:</description>
       </item>
       
       <item>
@@ -570,30 +578,6 @@ NAV 2018 ab CU28 (04/20)
 Business Central 13 ab CU18 (04/20)
 Business Central 14 ab CU11 (04/20)
 Das Modul XRechnung erzeugt Rechnungen und Gutschriften im XRechnung-Format und prüft, ob die erzeugten XRechnung-Dateien konform zu den formalen Vorgaben sind. Diese Überprüfung geschieht standardmäßig mittels eines Validierungstools welches sich auf einem externen Server befindet.</description>
-      </item>
-      
-      <item>
-        <title>VX.X.X.X &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/vx.x.x.x/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/vx.x.x.x/</guid>
-        <description>Neu und geplant Version X.X.X.X  Intelligente Prozesssteuerung Stapelverarbeitung von Belegen  Geplante Funktionen für zukünftige Versionen    </description>
-      </item>
-      
-      <item>
-        <title>Webdienste</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/first-steps/setup/web-services/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/first-steps/setup/web-services/</guid>
-        <description>Einrichtung Einrichtung des Webdienstes Nachdem die Extension erfolgreich in Ihrer Lösung veröffentlicht wurde, muss diese zunächst eingerichtet werden. Über die Suche gelangen Sie zur Seite &amp;ldquo;Webdienste&amp;rdquo;. Hier müssen Sie einen neuen Eintrag erstellen.
-Dazu benötigen Sie die folgenden Daten:
-Objektart: Seite
-Objekt-ID: 70109820
-Objektname: CTI-Client
-Servicename: CTI
-Nachdem Sie die Einrichtung hier vorgenommen haben, können Sie mit der weiteren Einrichtung fortfahren.</description>
       </item>
       
       <item>
@@ -691,12 +675,12 @@ Ihnen stehen als registrierter E-POST Kunde folgende Möglichkeiten zur Verfügu
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/first-steps/test-purchase/appsource/</guid>
-        <description>Test &amp;amp; Kauf AppSource Die App steht Ihnen im [Microsoft AppSource](LINK NOCH NICHT VORHANDEN) zur Verfügung.
-![](images/apps/senderappsource.PNG - RICHTIGES BILD SETZEN SOBALD MÖGLICH)
-Nach dem Download kann ein Nutzer die App komplett frei benutzen.
+        <description>Test &amp;amp; Kauf AppSource Die App steht Ihnen im Microsoft AppSource zur Verfügung.
+Nach dem Download kann die App 30 Tage kostenlos getestet werden.
 Für den Fall, dass weitere Nutzer die Funktionen der App nutzen sollen, können Sie über unser Formular kostenpflichtig weitere Lizenzen erwerben.
 Ihre Kosten:
-   Monatliche Subscription inkl. Wartung*     x,xx€    *Wahlweise monatlich, quartalsweise oder jährlich abgerechnet.</description>
+   Monatliche Subscription inkl. Wartung*     x,xx€    *Wahlweise monatlich, quartalsweise oder jährlich abgerechnet.
+Zum Formular</description>
       </item>
       
       <item>
@@ -774,12 +758,15 @@ Pdf Vorschau - Diese Vorschaufunktion funktioniert auch wenn Sie den iPaper nich
       </item>
       
       <item>
-        <title>Belegsendeprofil?</title>
+        <title>Belegsendeprofil</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/first-steps/setup/document-sending-profile/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/first-steps/setup/document-sending-profile/</guid>
-        <description>Einrichtung Belegsendeprofil? (Macht das Sinn das mit zu dokumentieren? - Ist ja eine Standardfunktion)</description>
+        <description>Einrichtung Belegsendeprofil Bei dem Belegsendeprofil handelt es sich um eine Standardfunktionalität von Microsoft Dynamics 365 Business Central.
+Sie wird dazu genutzt, um die bevorzugte Methode der Übermittlung von Verkaufsbelegen zu steuern. Stanardmäßig ist die funktionalität für die Verwendung von &amp;ldquo;Buchen und Senden&amp;rdquo; gedacht. Mit dem Connector 365 Easy Batch, können Belegsendeprofile aber auch dafür genutzt verwenden die Stapelfunktion zu steuern.
+Einrichten von Belegsendeprofilen Einrichten von Belegsendeprofilen
+ Öffnen Sie die Suche, geben Sie Belegsendeprofil ein und wählen Sie dann den entsprechenden Link.</description>
       </item>
       
       <item>
@@ -854,8 +841,8 @@ Die Bilder müssen zunächst an geeigneter Stelle beispielsweise über ein FTP-P
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/first-steps/setup/setup-customer/</guid>
-        <description>Einrichtung Debitor Die Einstellungen, um Rechnungen und Gutschriften im XRechnung-Format senden zu können, werden am jeweiligen Debitor vorgenommen. Unter „Navigieren“ - „Dokumentenlayouts“ des jeweiligen Debitors.
-Wenn Sie die Dokumentenlayouts öffnen stehen Ihnen nun neue Felder zur Verfügung.
+        <description>Einrichtung Debitor Die Einstellungen, um Rechnungen und Gutschriften im XRechnung-Format senden zu können, werden am jeweiligen Debitor vorgenommen. Unter „Navigieren“ - „Dokumentlayouts“ des jeweiligen Debitors.
+Wenn Sie die Dokumentlayouts öffnen stehen Ihnen nun neue Felder zur Verfügung.
 „XRechnung“, „Leitweg-ID“ und „Beleg als Anhang hinzufügen“
 In das Feld „XRechnung“ setzen Sie ein Häkchen, um die Funktion zu aktivieren, dass Rechnungen/Gutschriften für diesen Debitor als XRechnung versendet werden sollen.
 In das Feld „Leitweg-ID“ wird die Leitweg-ID des Debitors eingetragen.</description>
@@ -867,8 +854,8 @@ In das Feld „Leitweg-ID“ wird die Leitweg-ID des Debitors eingetragen.</desc
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-customer/</guid>
-        <description>Einrichtung Debitor Die Einstellungen, um Rechnungen und Gutschriften im XRechnung-Format senden zu können, werden am jeweiligen Debitor vorgenommen. Unter „Navigieren“ - „Dokumentenlayouts“ des jeweiligen Debitors.
-Wenn Sie die Dokumentenlayouts öffnen stehen Ihnen nun neue Felder zur Verfügung.
+        <description>Einrichtung Debitor Die Einstellungen, um Rechnungen und Gutschriften im XRechnung-Format senden zu können, werden am jeweiligen Debitor vorgenommen. Unter „Navigieren“ - „Dokumentlayouts“ des jeweiligen Debitors.
+Wenn Sie die Dokumentlayouts öffnen stehen Ihnen nun neue Felder zur Verfügung.
 „XRechnung“, „Leitweg-ID“ und „Beleg als Anhang hinzufügen“
 In das Feld „XRechnung“ setzen Sie ein Häkchen, um die Funktion zu aktivieren, dass Rechnungen/Gutschriften für diesen Debitor als XRechnung versendet werden sollen.
 In das Feld „Leitweg-ID“ wird die Leitweg-ID des Debitors eingetragen.</description>
@@ -1172,15 +1159,6 @@ Connector 365 steht Ihnen für die folgende BC Lizensierung zur Verfügung:</des
       
       <item>
         <title>V1.0.0.1 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.0.1/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.0.1/</guid>
-        <description>Neu und geplant Version 1.0.0.1  Anzeigen von Kontaktdaten bei eingehenden Anrufen Keine verpassten Anrufe durch eine automatische Anrufverwaltung Verlinkung zu Kontakt, Debitor oder Kreditor Automatische Zeiterfassung von Uhrzeit und Dauer jedes Anrufs  Geplante Funktionen für zukünftige Versionen  Erweiterung der Anrufliste - Globale Jobliste Anrufliste im Dashboard Unbekannte Nummern bei eingehenden Anrufen anzeigen  </description>
-      </item>
-      
-      <item>
-        <title>V1.0.0.1 &amp; Roadmap</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connector-on-appsource/xrechnung/new-and-planned/v1.0.0.1/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -1199,20 +1177,29 @@ Connector 365 steht Ihnen für die folgende BC Lizensierung zur Verfügung:</des
       
       <item>
         <title>V1.0.1.0 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/new-and-planned/v1.0.1.0/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.0/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/new-and-planned/v1.0.1.0/</guid>
-        <description>Neu und geplant Version 1.0.1.0  Versand weiterer Belegarten  Geb. Verkaufsgutschriften Registrierte Mahnungen Angebote Verkaufsaufträge   Versand von Duplexbriefen Versandstatus (Jobliste) in der Factbox am Vorgang in der Übersicht Zwei Boxen für die Jobliste im Dashboard Die Connector 365 XRechnung App stützt nun auf unsere Basis App  Geplante Funktionen für zukünftige Versionen  Erneutes versenden von fehlerhaften Briefen Kontakte im Dialog editierbar Weitere Belegarten  Geb. Service-Rechnungen Geb.</description>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.0/</guid>
+        <description>Neu und geplant Version 1.0.1.0  Kleinere Korrekturen Click to Dial für Telefon- und Handynummer Unbekannte Nummern bei eingehenden Anrufen anzeigen Der CTI-Client öffnet sich automatisch anch Anmeldung bei Business Central  Geplante Funktionen für zukünftige Versionen  Dashboard verfeinern Automatisches Anlegen von kontakten bei unbekannten Nummern Anpassung der Jobliste passend zur App Editierbare CTI Notizen  </description>
       </item>
       
       <item>
-        <title>V1.0.1.0 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.0/</link>
+        <title>V1.0.1.1 &amp; Roadmap</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/new-and-planned/v1.0.1.1/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.0/</guid>
-        <description>Neu und geplant Version 1.0.1.0  Statusverfolgung im Dashboard Rechnungsbegleitende Anhänge Überarbeiteter XRechnungs-Dialog Syntaxüberprüfung der Leitweg-ID Erweiterung der Eingabe für Leitweg ID&amp;rsquo;s XRechnungsversion angepasst  Geplante Funktionen für zukünftige Versionen  Service Rechnungen und Service Gutschriften Erweiterung und Verbesserung der XRechnungseinstellung am Debitor Leitweg ID 1:N Verbesserung Dimension Events Wechsel von Kosit auf 2.01  </description>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/new-and-planned/v1.0.1.1/</guid>
+        <description>Neu und geplant Version 1.0.1.0  Korrektur der Übersetzung  Geplante Funktionen für zukünftige Versionen  Erneutes versenden von fehlerhaften Briefen Kontakte im Dialog editierbar Weitere Belegarten  Geb. Service-Rechnungen Geb. Service-Gutschriften Bestellungen    </description>
+      </item>
+      
+      <item>
+        <title>V1.0.1.1 &amp; Roadmap</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.1/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.1/</guid>
+        <description>Neu und geplant Version 1.0.1.1  Die Connector 365 XRechnung App stützt nun auf unsere Basis App Hinzufügen von Events zur Steuerung der XRechnung Fehlerkorrekturen  Geplante Funktionen für zukünftige Versionen  Service Rechnungen und Service Gutschriften Erweiterung und Verbesserung der XRechnungseinstellung am Debitor Leitweg ID 1:N Verbesserung Dimension Wechsel von Kosit auf 2.01  </description>
       </item>
       
       <item>
@@ -1265,8 +1252,12 @@ Sobald sich der Dialog öffnet, wird Ihnen das neue &amp;ldquo;E-Mail Sender&amp
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/working-with-easy-batch/archive/</guid>
-        <description>Arbeiten mit Easy Batch Archivierung Nachdem eine Stapelverarbeitung durchgeführt wurde, werden die verarbeiteten Belege in den Connector 365 Aktivitäten aufgeführt. Diese Übersicht können Sie erreichen in dem Sie Connector 365 Aktivitäten in die Suchfunktion eingeben.
-Hier werden sämtliche Jobs aufgeführt die über den Stapelmodus ausgelöst wurden. Hier könen verschiedene Parameter zur Verarbeitung eingesehen werden, wie z.B. wann der Job durchgeführt wurde, welcher Nutzer ihn ausgelöst hat und welchen Status die Verarbeitung hat.</description>
+        <description>Arbeiten mit Easy Batch Archivierung Nachdem eine Stapelverarbeitung durchgeführt wurde, werden die verarbeiteten Belege in den Connector 365 Aktivitäten aufgeführt. Diese Übersicht können Sie an zwei Stellen finden:
+Direkt am Beleg
+Diese finden Sie direkt in der Factbox rechts neben Ihren Belegen.
+In den globalen Aktivitäten
+Diese erreichen Sie am besten über die Suche - öffnen Sie die Suchfunktion und suchen Sie nach Connector 365 Aktivitäten.
+In den Aktivitäten werden Jobs aufgeführt die über den Stapelmodus ausgelöst wurden.</description>
       </item>
       
       <item>
@@ -1539,11 +1530,11 @@ Wählen Sie zunächst den entsprechenden Eintrag in den &amp;ldquo;CTI-Einträge
       
       <item>
         <title>V1.0.0.1 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.0.1/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.0.1/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.0.1/</guid>
-        <description>Neu und geplant Version 1.0.0.1  Erstellen einer XRechnung XML-Datei Versand der XRechnung per Mail mit dem Standard BC Mail - Dialog Versand eines Prüfberichts, welcher dem Empfänger die Konformität der Rechnung bestätigt. Anzeigen des Prüfberichts für den Nutzer bei “Nicht-Konformität” Abbruch des Versands bei &amp;ldquo;Nicht-Konformität Verbesserung der WebService Abfrage / DLL für das Prüfprotokoll  Geplante Funktionen für zukünftige Versionen  Statusverfolgung im Rollencenter Rechnungsbegleitende Anhänge Überarbeiteter XRechnungs-Dialog Syntaxüberprüfung der Leitweg-ID Erweiterung der Eingabe für Leitweg ID&amp;rsquo;s  </description>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.0.1/</guid>
+        <description>Neu und geplant Version 1.0.0.1  Anzeigen von Kontaktdaten bei eingehenden Anrufen Keine verpassten Anrufe durch eine automatische Anrufverwaltung Verlinkung zu Kontakt, Debitor oder Kreditor Automatische Zeiterfassung von Uhrzeit und Dauer jedes Anrufs  Geplante Funktionen für zukünftige Versionen  Erweiterung der Anrufliste - Globale Jobliste Anrufliste im Dashboard Unbekannte Nummern bei eingehenden Anrufen anzeigen  </description>
       </item>
       
       <item>
@@ -1556,12 +1547,21 @@ Wählen Sie zunächst den entsprechenden Eintrag in den &amp;ldquo;CTI-Einträge
       </item>
       
       <item>
-        <title>V1.0.0.5 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/new-and-planned/v1.0.0.5/</link>
+        <title>V1.0.1.0 &amp; Roadmap</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/new-and-planned/v1.0.1.0/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/new-and-planned/v1.0.0.5/</guid>
-        <description>Neu und geplant Version 1.0.0.5  Versenden von E-POST Briefen aus geb. Verkaufsrechnungen Versand in Farbe bzw. S/W Einschreiben (Einwurf/Rückschein) Archivierung versendeter Briefe Auslandsversand  Geplante Funktionen für zukünftige Versionen  Weitere Belegarten  Lieferscheine Verkaufsaufträge Angebote   Kleine Verbesserungen  </description>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/new-and-planned/v1.0.1.0/</guid>
+        <description>Neu und geplant Version 1.0.1.0  Versand weiterer Belegarten  Geb. Verkaufsgutschriften Registrierte Mahnungen Angebote Verkaufsaufträge   Versand von Duplexbriefen Versandstatus (Jobliste) in der Factbox am Vorgang in der Übersicht Zwei Boxen für die Jobliste im Dashboard Die Connector 365 XRechnung App stützt nun auf unsere Basis App  Geplante Funktionen für zukünftige Versionen  Erneutes versenden von fehlerhaften Briefen Kontakte im Dialog editierbar Weitere Belegarten  Geb. Service-Rechnungen Geb.</description>
+      </item>
+      
+      <item>
+        <title>V1.0.1.0 &amp; Roadmap</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.0/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.0/</guid>
+        <description>Neu und geplant Version 1.0.1.0  Statusverfolgung im Dashboard Rechnungsbegleitende Anhänge Überarbeiteter XRechnungs-Dialog Syntaxüberprüfung der Leitweg-ID Erweiterung der Eingabe für Leitweg ID&amp;rsquo;s XRechnungsversion angepasst  Geplante Funktionen für zukünftige Versionen  Service Rechnungen und Service Gutschriften Erweiterung und Verbesserung der XRechnungseinstellung am Debitor Leitweg ID 1:N Verbesserung Dimension Events Wechsel von Kosit auf 2.01  </description>
       </item>
       
       <item>
@@ -1580,7 +1580,7 @@ Es öffnet sich wieder der SMS-Dialog wie auch schon bei dem Versand über Konta
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/first-steps/setup/customer-vendor/</guid>
-        <description>Einrichtung Absender je Kreditor/Debitor Es ist auch möglich Adressen pro Debitor/Kreditor festzulegen, dies wird über die Dokumentenlayouts gesteuert. Diese Einstellung hat dann die höchste Priorität. Um die Einrichtung vorzunehmen, müssen Sie zunächst die Seite des jeweiligen Debitors/Kreditors öffnen, bei dem Sie eine Adresse einrichten möchten. In den Einstellungen am Debitor finden Sie die Dokumentenlayouts.
+        <description>Einrichtung Absender je Kreditor/Debitor Es ist auch möglich Adressen pro Debitor/Kreditor festzulegen, dies wird über die Dokumentlayouts gesteuert. Diese Einstellung hat dann die höchste Priorität. Um die Einrichtung vorzunehmen, müssen Sie zunächst die Seite des jeweiligen Debitors/Kreditors öffnen, bei dem Sie eine Adresse einrichten möchten. In den Einstellungen am Debitor finden Sie die Dokumentlayouts.
 Die Wichtigsten Felder hier sind „Verwendung“, „Berichts-ID“ und unser neu hinzugefügtes Feld „E-Mail Sender“. Wählen Sie nun die gewünschte Verwendung und den Bericht.</description>
       </item>
       
@@ -1590,7 +1590,7 @@ Die Wichtigsten Felder hier sind „Verwendung“, „Berichts-ID“ und unser n
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/working-with-cti-for-starface/call-list/</guid>
-        <description>Arbeiten mit CTI for STARFACE Die Anrufliste Ein- und ausgehende Anrufe werden an zwei Stellen erfasst. Entweder direkt in den Kontakten oder auf globaler Ebene in der Jobliste.
+        <description>Arbeiten mit CTI for STARFACE Die Anrufliste Ein- und ausgehende Anrufe werden an drei Stellen erfasst. Entweder direkt in den Kontakten oder auf globaler Ebene in der Jobliste.
 CTI-Einträge In Ihren Kontakten können Sie die &amp;ldquo;CTI-Einträge&amp;rdquo; finden, diese befinden sich am Ende der Kontaktkarte. Dort finden Sie die Details zu allen Telefonaten die mit diesem Kontakt gefürht wurden, wie z.B. ob es ein- oder ausgehende war, Wer das Telefonat geführt hat, wann das Telefonat angenommen wurde und wie lange es gedauert hat.</description>
       </item>
       
@@ -1816,12 +1816,30 @@ SetJoblistSubject(„Jobno.“ : Integer;NewSubject : Text[250]) Mit dieser Funk
       </item>
       
       <item>
+        <title>V1.0.0.1 &amp; Roadmap</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.0.1/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.0.1/</guid>
+        <description>Neu und geplant Version 1.0.0.1  Erstellen einer XRechnung XML-Datei Versand der XRechnung per Mail mit dem Standard BC Mail - Dialog Versand eines Prüfberichts, welcher dem Empfänger die Konformität der Rechnung bestätigt. Anzeigen des Prüfberichts für den Nutzer bei “Nicht-Konformität” Abbruch des Versands bei &amp;ldquo;Nicht-Konformität Verbesserung der WebService Abfrage / DLL für das Prüfprotokoll  Geplante Funktionen für zukünftige Versionen  Statusverfolgung im Rollencenter Rechnungsbegleitende Anhänge Überarbeiteter XRechnungs-Dialog Syntaxüberprüfung der Leitweg-ID Erweiterung der Eingabe für Leitweg ID&amp;rsquo;s  </description>
+      </item>
+      
+      <item>
+        <title>V1.0.0.5 &amp; Roadmap</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/new-and-planned/v1.0.0.5/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/new-and-planned/v1.0.0.5/</guid>
+        <description>Neu und geplant Version 1.0.0.5  Versenden von E-POST Briefen aus geb. Verkaufsrechnungen Versand in Farbe bzw. S/W Einschreiben (Einwurf/Rückschein) Archivierung versendeter Briefe Auslandsversand  Geplante Funktionen für zukünftige Versionen  Weitere Belegarten  Lieferscheine Verkaufsaufträge Angebote   Kleine Verbesserungen  </description>
+      </item>
+      
+      <item>
         <title>Wie kann ich anfangen?</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connector-on-appsource/xrechnung/faq/getting-started/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connector-on-appsource/xrechnung/faq/getting-started/</guid>
-        <description>FAQ Wie kann ich anfangen? Sobald die App installiert ist, gehen Sie zu dem Debitor, der die XRechnung erhalten soll, kreuzen Sie das Kästchen in Dokumentenlayouts an und fügen Sie die Leitweg ID hinzu. Dann können Sie mit dem Senden beginnen. Einen ausführlicheren Leitfaden finden Sie unter Arbeiten mit XRechnung bzw.Einrichtung</description>
+        <description>FAQ Wie kann ich anfangen? Sobald die App installiert ist, gehen Sie zu dem Debitor, der die XRechnung erhalten soll, kreuzen Sie das Kästchen in Dokumentlayouts an und fügen Sie die Leitweg ID hinzu. Dann können Sie mit dem Senden beginnen. Einen ausführlicheren Leitfaden finden Sie unter Arbeiten mit XRechnung bzw.Einrichtung</description>
       </item>
       
       <item>

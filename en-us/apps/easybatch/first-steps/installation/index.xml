@@ -21,7 +21,7 @@
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/first-steps/installation/appsource/</guid>
         <description>Installation AppSource Using the search function, open the Extension Marketplace and open it.
-The Microsoft AppSource opens. There you can use the search function again to find the Connector 365 CTI for STARFACE. Click on Get it now to start the installation. Before the installation starts, you have to provide some contact information.
+The Microsoft AppSource opens. There you can use the search function again to find the Connector 365 Easy Batch. Click on Free Trial to start the installation. Before the installation starts, you have to provide some contact information.
 After submitting your contact information, you will be prompted to choose a language for the app. Our Connector 365 E-POST App* is available in English and German.</description>
       </item>
       
@@ -31,8 +31,8 @@ After submitting your contact information, you will be prompted to choose a lang
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/first-steps/installation/onprem/</guid>
-        <description>Installation OnPrem You will receive the objects for the Connector 365 Base &amp;amp; Mail Sender Plus App from us by mail. In order to be able to use the App, they must first be published and then installed.
-Publishing of the Connector 365 Base &amp;amp; Mail Sender Plus App the publishing of the Connector Base &amp;amp; Mail Sender Plus App is done via the Business Central Administration Shell. First transfer the files we sent to you to the server where your Business Central instance is running.</description>
+        <description>Installation OnPrem You will receive the objects for the Connector 365 Base &amp;amp; Easy Batch App from us by mail. In order to be able to use the App, they must first be published and then installed.
+Publishing of the Connector 365 Base &amp;amp; Easy Batch App the publishing of the Connector Base &amp;amp; Easy Batch App is done via the Business Central Administration Shell. First transfer the files we sent to you to the server where your Business Central instance is running.</description>
       </item>
       
     

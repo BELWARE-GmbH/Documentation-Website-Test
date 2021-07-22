@@ -1,33 +1,33 @@
 {
     "version" : "https://jsonfeed.org/version/1",
-    "title" : "Mail Sender Plus on Connector 365 Online Help",
-    "description": "Recent content in Mail Sender Plus on Connector 365 Online Help",
+    "title" : "Easy Batch on Connector 365 Online Help",
+    "description": "Recent content in Easy Batch on Connector 365 Online Help",
     "home_page_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/",
     "feed_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/index.json",
     "items" : [
     {
-        "title" : "First Steps",
+        "title" : "First steps",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
         "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/first-steps/",
         "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/first-steps/",
-        "content_html" : ""
+        "content_html" : "\u003ch3 id=\"first-steps-with-the-connector-365-easy-batch-app\"\u003eFirst steps with the Connector 365 Easy Batch app.\u003c/h3\u003e\n\u003cp\u003eHere you will find all important information and notes about the trial version, installation and purchase of the Connector 365 Easy Batch App.\u003c/p\u003e\n\u003cp\u003eJust use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered, we will be happy to help you personally. The necessary contact information can be found on the \u003ca href=\"/Documentation-Website-Test/en-us/apps/easybatch/help-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
     },
     {
-        "title" : "New and planned",
+        "title" : "Neu und geplant",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
         "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/new-and-planned/",
         "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/new-and-planned/",
-        "content_html" : ""
+        "content_html" : "\u003ch3 id=\"neue-und-geplante-features-der-connector-365-easy-batch-app\"\u003eNeue und geplante Features der Connector 365 Easy Batch App\u003c/h3\u003e\n\u003cp\u003eHier finden Sie alle wichtigen Informationen und Hinweise zu neuen und geplanten Features der Connector 365 Easy Batch App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der \u003ca href=\"/Documentation-Website-Test/de-de/apps/easybatch/help-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
     },
     {
-        "title" : "Arbeiten mit Easy Batch",
+        "title" : "Working with Easy Batch",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
         "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/working-with-easy-batch/",
         "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/working-with-easy-batch/",
-        "content_html" : ""
+        "content_html" : "\u003ch3 id=\"working-with-the-connector-365-easy-batch-app\"\u003eWorking with the Connector 365 Easy Batch App\u003c/h3\u003e\n\u003cp\u003eHere you will find all help and learning resources for the correct usage of the Connector 365 Easy Batch App.\u003c/p\u003e\n\u003cp\u003eSimply use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered, we will be glad to help you personally. the necessary contact information can be found on the \u003ca href=\"/Documentation-Website-Test/en-us/apps/easybatch/help-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
     },
     {
         "title" : "Help \u0026 Support",
@@ -43,7 +43,7 @@
         "date_modified" : "2020-02-28T10:08:56+09:00",
         "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/videos/",
         "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/videos/",
-        "content_html" : "\u003ch3 id=\"videos\"\u003eVideos\u003c/h3\u003e\n\u003cp\u003eHere you can find some informative videos about our XRechnung, each video covers a special topic\u003c/p\u003e\n\u003ch4 id=\"setup-of-the-app\"\u003eSetup of the App\u003c/h4\u003e\n\u003cp style=\"text-align: center;\"\u003e\r\n\u003ciframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/EJ_6SmwDDtU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen\u003e\u003c/iframe\u003e\r\n\u003c/p\u003e"
+        "content_html" : "\u003ch3 id=\"videos\"\u003eVideos\u003c/h3\u003e\n\u003cp\u003eHere you can find some informative videos about our Connector 365 CTI for Easy Batch App, each video covers a special topic\u003c/p\u003e\n\u003ch4 id=\"connector-365-easy-batch---quick-overview\"\u003eConnector 365 Easy Batch - Quick Overview\u003c/h4\u003e\n\u003cp style=\"text-align: center;\"\u003e\r\n\u003ciframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/WWncyMF4Qb0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen\u003e\u003c/iframe\u003e\r\n\u003c/p\u003e\r\n\u003ch4 id=\"connector-365-easy-batch---kurzübersicht\"\u003eConnector 365 Easy Batch - Kurzübersicht\u003c/h4\u003e\n\u003cp style=\"text-align: center;\"\u003e\r\n\u003ciframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/hDCPSS9CzG4\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen\u003e\u003c/iframe\u003e\r\n\u003c/p\u003e"
     }
     ]
 }

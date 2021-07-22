@@ -15,21 +15,6 @@
     
       
       <item>
-        <title>Web service</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/first-steps/setup/web-services/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/first-steps/setup/web-services/</guid>
-        <description>Setup Setting up the Web service After the extension has been successfully published to your solution, it must first be set up. The search will take you to the &amp;ldquo;Web Services&amp;rdquo; page. Here you need to create a new entry.
-For this you need the following data:
-Object type: Page
-Object ID: 70109820
-Object name: CTI-Client
-Service name: CTI
-After you have set up here, you can proceed with the rest of the setup.</description>
-      </item>
-      
-      <item>
         <title>STARFACE Module</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/first-steps/setup/starface-modul/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Test &amp; Purchase on Connector 365 Online Help</title>
+    <title>Test &amp; Kauf on Connector 365 Online Help</title>
     <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/first-steps/test-purchase/</link>
-    <description>Recent content in Test &amp; Purchase on Connector 365 Online Help</description>
+    <description>Recent content in Test &amp; Kauf on Connector 365 Online Help</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
@@ -20,13 +20,11 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/first-steps/test-purchase/appsource/</guid>
-        <description>Test &amp;amp; purchase AppSource The app is available in the Microsoft AppSource.
-After downloading, a user can use the App completely free.
-In case that more Users want to use the function, you can simply order more licenses via our form.
-Your costs:
-   Subscription incl. maintenance*     0,90€/Sender    *billed either monthly, quarterly or annually
-To the form
-Connector 365 Mail Sender Plus is available for the following BC licensing:</description>
+        <description>Test &amp;amp; Purchase AppSource The app is available in the Microsoft AppSource.
+After downloading, the app can be tested free of charge for 30 days.
+In case you want more users to use the app&amp;rsquo;s features, you can purchase additional licenses for a fee using our form.
+   Monthly subscription incl. maintenance*     x,xx€    *Electively billed monthly, quarterly or annually.
+To the form</description>
       </item>
       
       <item>
@@ -35,9 +33,9 @@ Connector 365 Mail Sender Plus is available for the following BC licensing:</des
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/first-steps/test-purchase/onprem/</guid>
-        <description>Test &amp;amp; Purchase OnPrem Test You have the possibility to test our Connector 365 Mail Sender Plus App without obligation or to purchase it directly. For this we need some information from you.
+        <description>Test &amp;amp; Purchase OnPrem You have the possibility to test our Connector 365 Easy Batch App without obligation or to purchase it directly. For this we need some information from you..
 To the form
-If you wish a test phase, you will receive the desired objects for one user and for a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.</description>
+If you wish a test phase, you will receive the desired objects for a user and a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.</description>
       </item>
       
     

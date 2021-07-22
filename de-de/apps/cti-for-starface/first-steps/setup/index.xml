@@ -15,21 +15,6 @@
     
       
       <item>
-        <title>Webdienste</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/first-steps/setup/web-services/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/first-steps/setup/web-services/</guid>
-        <description>Einrichtung Einrichtung des Webdienstes Nachdem die Extension erfolgreich in Ihrer Lösung veröffentlicht wurde, muss diese zunächst eingerichtet werden. Über die Suche gelangen Sie zur Seite &amp;ldquo;Webdienste&amp;rdquo;. Hier müssen Sie einen neuen Eintrag erstellen.
-Dazu benötigen Sie die folgenden Daten:
-Objektart: Seite
-Objekt-ID: 70109820
-Objektname: CTI-Client
-Servicename: CTI
-Nachdem Sie die Einrichtung hier vorgenommen haben, können Sie mit der weiteren Einrichtung fortfahren.</description>
-      </item>
-      
-      <item>
         <title>STARFACE Modul</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/first-steps/setup/starface-modul/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
