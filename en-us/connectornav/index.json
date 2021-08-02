@@ -1,0 +1,153 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Connector NAV 365/BC on Connector 365 Online Help",
+    "description": "Recent content in Connector NAV 365/BC on Connector 365 Online Help",
+    "home_page_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/",
+    "feed_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/index.json",
+    "items" : [
+    {
+        "title" : "Communication matrix",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/matrix/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/matrix/",
+        "content_html" : "\u003ch3 id=\"the-documentation-for-the-traget-adress-martix-and-the-communication-adress-matrix\"\u003eThe documentation for the traget adress martix and the communication adress matrix\u003c/h3\u003e\n\u003cp\u003eThe target adress and communication matrix are tool with which target addresses and other parameters can be flexibly controlled without time-consuming reprogramming of the reports.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Configuration \u0026 Setup",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/configuration-and-setup/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/configuration-and-setup/",
+        "content_html" : "\u003ch3 id=\"the-documentation-for-configuration-and-setup\"\u003eThe documentation for configuration and setup\u003c/h3\u003e\n"
+    },
+    {
+        "title" : "Drag and Drop funktion",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/drag-and-drop/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/drag-and-drop/",
+        "content_html" : "\u003ch3 id=\"the-documentation-for-the-drag-and-drop-funktion\"\u003eThe documentation for the Drag and Drop funktion\u003c/h3\u003e\n"
+    },
+    {
+        "title" : "E-Post module",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/epost/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/epost/",
+        "content_html" : "\u003ch3 id=\"the-documentation-for-the-e-post-module\"\u003eThe documentation for the E-POST module\u003c/h3\u003e\n"
+    },
+    {
+        "title" : "Einrichtungsempfehlung Statusübersicht",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/status-view/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/status-view/",
+        "content_html" : "\u003ch4 id=\"einrichtungsempfehlung-der-statusübersicht\"\u003eEinrichtungsempfehlung der Statusübersicht\u003c/h4\u003e\n\u003cp\u003eDie Jobliste kann unsortiert einschüchternd wirken, deshalb zeigen wir Ihnen in diesem Dokument ein Beispiel wie Sie Ihre Jobliste einrichten können.\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/Documentation-Website-Test/images/connectornav/statusuebersicht.png\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003ccenter\u003eÜbersicht „Spalten auswählen…“\u003c/center\u003e\u003c/p\u003e\n\u003ctable\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003cth\u003e\u003c/th\u003e\n\u003cth\u003e\u003c/th\u003e\n\u003cth\u003e\u003c/th\u003e\n\u003cth\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd\u003eLfd. Nr.\u003c/td\u003e\n\u003ctd\u003eDie laufende Nr. des Jobs.\u003c/td\u003e\n\u003ctd\u003eName\u003c/td\u003e\n\u003ctd\u003eName des Empfängers.\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eJobrichtung\u003c/td\u003e\n\u003ctd\u003eIst der Job eingehend oder ausgehend.\u003c/td\u003e\n\u003ctd\u003eEmail Absender\u003c/td\u003e\n\u003ctd\u003eWer die E-Mail abgeschickt hat.\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eJobmodus\u003c/td\u003e\n\u003ctd\u003eWie der Job verarbeitet wurde.\u003c/td\u003e\n\u003ctd\u003eEmailCC\u003c/td\u003e\n\u003ctd\u003eGgf. der CC Empfänger.\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eVersand über\u003c/td\u003e\n\u003ctd\u003eWie wurde der Job versendet.\u003c/td\u003e\n\u003ctd\u003eDateien\u003c/td\u003e\n\u003ctd\u003eAnzahl der verschickten Dateien.\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eBenutzer ID\u003c/td\u003e\n\u003ctd\u003eDie ID des Benutzers der den Job ausgeführt hat.\u003c/td\u003e\n\u003ctd\u003eSerververarbeitung\u003c/td\u003e\n\u003ctd\u003eRückmeldung ob der Job über die Serververarbeitung läuft.\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eAnnahmezeit\u003c/td\u003e\n\u003ctd\u003eUhrzeit des durchgeführten Jobs\u003c/td\u003e\n\u003ctd\u003eVerarbeitet\u003c/td\u003e\n\u003ctd\u003eRückmeldung ob der Job erfolgreich verarbeitet wurde.\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eAnnahmedatum\u003c/td\u003e\n\u003ctd\u003eDatum des durchgeführten Jobs.\u003c/td\u003e\n\u003ctd\u003eFreigabe\u003c/td\u003e\n\u003ctd\u003eRückmeldung ob die Freigabe für diesen Job erteilt wurde.\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eAktivitätenprotokollposten Nr.\u003c/td\u003e\n\u003ctd\u003eFalls vorhanden, wird hier die Nummer des Aktivitätenpp. angezeigt.\u003c/td\u003e\n\u003ctd\u003eDialog OK\u003c/td\u003e\n\u003ctd\u003eRückmeldung über den erfolgreichen Abschluss eines Dialogs.\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eBetreff\u003c/td\u003e\n\u003ctd\u003eAbhängig vom Jobmodus. Z.B. Betreff einer E-Mail.\u003c/td\u003e\n\u003ctd\u003eJobannahme\u003c/td\u003e\n\u003ctd\u003eAbhängig von Jobmodus. z.B. die erfolgreiche Erstellung einer PDF.\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eZieladresse\u003c/td\u003e\n\u003ctd\u003eE-Mail Adresse des Empfängers.\u003c/td\u003e\n\u003ctd\u003e\u003c/td\u003e\n\u003ctd\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cdiv class=\"notices info\" data-title=\"Info\"\u003e\r\n  Dies ist nur ein Vorschlag. Sie können die Einrichtung natürlich jederzeit an Ihre Bedürfnisse anpassen.\r\n\u003c/div\u003e\n"
+    },
+    {
+        "title" : "Fax modul",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/fax/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/fax/",
+        "content_html" : "\u003ch3 id=\"the-documentation-for-the-fax-module\"\u003eThe documentation for the fax module\u003c/h3\u003e\n"
+    },
+    {
+        "title" : "HTML in Word",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/html-word/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/html-word/",
+        "content_html" : "\u003ch3 id=\"the-documentation-for-the-creation-of-html-documents-with-word\"\u003eThe documentation for the creation of HTML-documents with Word\u003c/h3\u003e\n"
+    },
+    {
+        "title" : "Mail module",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/mail/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/mail/",
+        "content_html" : "\u003ch3 id=\"the-documentation-for-the-e-mail-module\"\u003eThe documentation for the e-mail module\u003c/h3\u003e\n"
+    },
+    {
+        "title" : "Mail Sender Plus",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/msp/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/msp/",
+        "content_html" : "\u003ch3 id=\"the-documentation-for-the-mail-sender-plus-function\"\u003eThe documentation for the Mail Sender Plus function\u003c/h3\u003e\n\u003cp\u003eBy default, you are only able to use a single SMTP adress per client. The Connector NAV/365 BC Mail Sender Plus feature allows you to use multiple mail senders through an advanced mail setup. The adresses entred in the advanced setup can then be used in the usual Connector NAV/365 BC environment, such as the user reports, to specify the one particular sender.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Modul CTI",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/cti/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/cti/",
+        "content_html" : "\u003ch3 id=\"the-documentation-for-the-cti-module\"\u003eThe documentation for the CTI module\u003c/h3\u003e\n"
+    },
+    {
+        "title" : "Overview templates",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/templates.md/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/templates.md/",
+        "content_html" : "\u003ch3 id=\"overview-of-the-template-functons\"\u003eOverview of the Template functons\u003c/h3\u003e\n"
+    },
+    {
+        "title" : "pdfPaper module",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/pdfpaper/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/pdfpaper/",
+        "content_html" : "\u003ch3 id=\"the-documentation-for-the-pdfpaper-server-module\"\u003eThe documentation for the pdfPaper Server module\u003c/h3\u003e\n"
+    },
+    {
+        "title" : "Rapidstart",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/rapidstart/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/rapidstart/",
+        "content_html" : "\u003ch3 id=\"the-documetation-for-the-rapidstart-use\"\u003eThe documetation for the Rapidstart use\u003c/h3\u003e\n\u003cp\u003eMicrosoft Dynamics Business Central\u0026rsquo;s RapidStart system can be used to speed up the setup of some key elements of Connector NAV. This allows you to get started with our solution even faster.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Segment dispatch",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/segment/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/segment/",
+        "content_html" : "\u003ch3 id=\"the-documentation-for-the-mailing-via-segment\"\u003eThe documentation for the mailing via segment\u003c/h3\u003e\n\u003cp\u003eWith the help of Dynamics 365 and Connector 365BC large quantities of e-mails can be sent automatically to your contacts without any problems.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Setup \u0026 Use of PEPPOL \u0026 XInvioce",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/",
+        "content_html" : "\u003ch3 id=\"the-documenmtation-for-setup-and-use-of-peppol-and-xinvioce\"\u003eThe documenmtation for setup and use of PEPPOL and XInvioce\u003c/h3\u003e\n"
+    },
+    {
+        "title" : "SMS module",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/sms/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/sms/",
+        "content_html" : "\u003ch3 id=\"the-documetation-for-the-sms-module\"\u003eThe documetation for the SMS module\u003c/h3\u003e\n\u003cp\u003eThe SMS module allows you to send SMS to your contacts, easily from Navision using the Connector NAV. This way you can easily reach your contacts on the go.\u003c/p\u003e\n\u003cdiv class=\"notices info\" data-title=\"Info\"\u003e\r\n  Sending SMS incurs additional costs depending on the provider and interface.\r\n\u003c/div\u003e\n"
+    },
+    {
+        "title" : "Status reports",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/status-report/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/status-report/",
+        "content_html" : "\u003ch3 id=\"additional-documentation-for-the-fax--mail-module\"\u003eAdditional documentation for the Fax / Mail module\u003c/h3\u003e\n"
+    },
+    {
+        "title" : "The base",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/base/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/base/",
+        "content_html" : "\u003ch3 id=\"the-documentation-for-the-base\"\u003eThe documentation for the base\u003c/h3\u003e\n"
+    }
+    ]
+}

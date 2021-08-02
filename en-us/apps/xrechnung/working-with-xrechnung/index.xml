@@ -44,10 +44,10 @@ There are many places that cause an XRechnung to not conform to the schema. For 
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/working-with-xrechnung/state/</guid>
-        <description>Working with XRechnung State Two XRechnung dispatch logs are available in the dashboard.
+        <description>Working with XRechnung State Two XRechnung dispatch logs are available in the Role center.
 Sent XRechnung&amp;quot; &amp;amp; &amp;ldquo;Incorrect XRechnung&amp;rdquo;.
 Protocol Sent XRechnung In the detailed dispatch log &amp;ldquo;Who&amp;rdquo; - &amp;ldquo;What&amp;rdquo; - &amp;ldquo;When &amp;ldquo; all successfully sent XRechnung are archived. The original XML file as well as the validation report are included in the log.
-Protocol incorrect XRechnung Here XRechnung are displayed, which failed the check and are not accepted as XRechnung. This can have different reasons - you can find out exactly which ones by opening the validation report.</description>
+Protocol incorrect XRechnung Here XRechnung are displayed, which failed the check and are not accepted as XRechnung.</description>
       </item>
       
       <item>
