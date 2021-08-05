@@ -51,17 +51,6 @@
       </item>
       
       <item>
-        <title>Einrichtungsempfehlung Statusübersicht</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/status-view/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/status-view/</guid>
-        <description>Einrichtungsempfehlung der Statusübersicht Die Jobliste kann unsortiert einschüchternd wirken, deshalb zeigen wir Ihnen in diesem Dokument ein Beispiel wie Sie Ihre Jobliste einrichten können.
-Übersicht „Spalten auswählen…“
-           Lfd. Nr. Die laufende Nr. des Jobs. Name Name des Empfängers.   Jobrichtung Ist der Job eingehend oder ausgehend. Email Absender Wer die E-Mail abgeschickt hat.   Jobmodus Wie der Job verarbeitet wurde.</description>
-      </item>
-      
-      <item>
         <title>Fax modul</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/fax/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -143,12 +132,23 @@
       </item>
       
       <item>
-        <title>Setup &amp; Use of PEPPOL &amp; XInvioce</title>
+        <title>Setup &amp; Use of PEPPOL &amp; XRechnung</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/</guid>
-        <description>The documenmtation for setup and use of PEPPOL and XInvioce </description>
+        <description>The documenmtation for setup and use of PEPPOL and XRechnung </description>
+      </item>
+      
+      <item>
+        <title>Setup recommendation Status overview</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/status-view/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/status-view/</guid>
+        <description>Status overview setup recommendation The job list can be intimidating if unsorted, so in this document we will show you an example of how to set up your job list.
+Overview &amp;ldquo;Select columns&amp;hellip;&amp;quot;
+           Lot. no. The sequence no. of the job. Name Name of the recipient.   Job direction Is the job incoming or outgoing. Email sender Who sent the email.</description>
       </item>
       
       <item>
@@ -177,6 +177,15 @@ Sending SMS incurs additional costs depending on the provider and interface. </
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/base/</guid>
         <description>The documentation for the base </description>
+      </item>
+      
+      <item>
+        <title>Updates</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/</guid>
+        <description></description>
       </item>
       
     

@@ -30,7 +30,7 @@ In the overview for the RapidStart Services you now have the possibility to impo
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/rapidstart/adjust/</guid>
-        <description>Adjusting the spreadsheets After importing the package, the communication martix must now be filled in, for this it has to be exported first. This is done via the &amp;ldquo;Import to Excel&amp;rdquo; button
+        <description>Adjusting the spreadsheets After importing the package, the communication martix must now be filled in, for this it has to be exported first. This is done via the &amp;ldquo;Import to Excel&amp;rdquo; button.
 In Excel you now have a table with several sheets, relevant here are CON Field Selection Target Address, CON Communication Matrix &amp;amp; Matrix Target.
 In all tables you will find examples created by us, which should make the setup easier for you.</description>
       </item>

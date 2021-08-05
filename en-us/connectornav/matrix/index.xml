@@ -71,12 +71,12 @@ Now, however, there is a deviating company logic. The service recipient is not t
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/matrix/stack_mode/</guid>
-        <description>The Batch - Using the matrix to control the shipping method IN some of our templates you will notice the button &amp;ldquo;Batch&amp;rdquo;, with this function selected documents can be processed according to a previously defined scheme. This scheme can be set up via the communication matrix.
+        <description>The Batch - Using the matrix to control the shipping method In some of our templates you will notice the button &amp;ldquo;Batch&amp;rdquo;, with this function selected documents can be processed according to a previously defined scheme. This scheme can be set up via the communication matrix.
 In oder for an entry in the communication matrix to be used for the stacking run the &amp;ldquo;Stacking mode&amp;rdquo; check mark must be set in front of the respective entrys.</description>
       </item>
       
       <item>
-        <title>^Book and process</title>
+        <title>Book and process</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/matrix/book_and_process/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         

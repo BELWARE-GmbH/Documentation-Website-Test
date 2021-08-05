@@ -36,12 +36,11 @@ Anhänge, die bei Versand einer XRechnung mitgegeben werden, werden nun in die X
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2021/march/</guid>
         <description>Neue Features: Neue Templates Service Rechnung/Gutschrift
 In den Templates sind nun volleingerichtete Templates für die beiden Berichte Service Rechnung und Service Gutschrift zu finden.
-Neue Events -DOKU
+Neue Events - [DOKU](Doku fehlt)
 Entwicklern stehen nun verschiedene Events für XML-Ports zu verfügung.
 Erweiterungen von Standardfeatures: Art des XRechnungs-Anhangs in Matrix - DOKU
 In der Kommunikationsmatrix kann nun via &amp;ldquo;XRechnung PDF als Anhang&amp;rdquo; definiert werden wie Anhänge bei XRechnungen gehandhabt werden
-XRechnungs/Peppol-Felder im Dialog - DOKU
-Der Dialog hat nun Felder die es erlauben Aspekte des XRechnungs-Versand, wie z.</description>
+XRechnungs/Peppol-Felder im Dialog - DOKU</description>
       </item>
       
     

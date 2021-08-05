@@ -185,17 +185,6 @@ While the test mode is activated, no invoices are sent. Instead, the previously 
       </item>
       
       <item>
-        <title>Einrichtungsempfehlung Statusübersicht</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/status-view/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/status-view/</guid>
-        <description>Einrichtungsempfehlung der Statusübersicht Die Jobliste kann unsortiert einschüchternd wirken, deshalb zeigen wir Ihnen in diesem Dokument ein Beispiel wie Sie Ihre Jobliste einrichten können.
-Übersicht „Spalten auswählen…“
-           Lfd. Nr. Die laufende Nr. des Jobs. Name Name des Empfängers.   Jobrichtung Ist der Job eingehend oder ausgehend. Email Absender Wer die E-Mail abgeschickt hat.   Jobmodus Wie der Job verarbeitet wurde.</description>
-      </item>
-      
-      <item>
         <title>Ident ID</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/first-steps/setup/setup-ident-id/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -314,6 +303,31 @@ According to the Decision of the IT Planning Council of 22.06.2017 (Link only av
       </item>
       
       <item>
+        <title>January</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2021/january/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2021/january/</guid>
+        <description>New in the documentations: Our documentations have been adapted according to the new features. In which documentation individual points can be found is listed.
+To the documentation
+Enhancements to standard features: Consideration of delivery bills in the mode &amp;ldquo;Post &amp;amp; Process &amp;ldquo;.
+The &amp;ldquo;Post &amp;amp; Process&amp;rdquo; function now also generates delivery bills, if applicable, and also processes them as previously set up in the communication matrix. For more information, see the documentation for the communication matrix.</description>
+      </item>
+      
+      <item>
+        <title>March</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/march/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/march/</guid>
+        <description>Enhancements to standard features: Vendor selection and contact selection enhanced with communication matrix.
+The Vendor Selection &amp;amp; Contact Selection pages built into the templates, now both have their own button from which the communication matrix can be accessed.
+New field Use PEPPOL in communication matrix.
+The new field allows you to specify which type of document PEPPOL is used for. Non/invoice/credit memo
+More information can be found in the corresponding documentation.</description>
+      </item>
+      
+      <item>
         <title>Preparation</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/configuration-and-setup/preparations/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -348,7 +362,7 @@ NAV 2017 as of CU41 (04/20)
 NAV 2018 as of CU28 (04/20)
 Business Central 13 as of CU18 (04/20)
 Business Central 14 as of CU11 (04/20)
-The XInvoice module generates invoices and credit notes in XInvoice format and checks whether the generated XInvoice files are compliant with the formal specifications.</description>
+The XRechnung module generates invoices and credit notes in XRechnung format and checks whether the generated XRechnung files are compliant with the formal specifications.</description>
       </item>
       
       <item>
@@ -493,6 +507,17 @@ Now on the page open a new line enter the following parameters exactly:</descrip
       </item>
       
       <item>
+        <title>Setup recommendation Status overview</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/status-view/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/status-view/</guid>
+        <description>Status overview setup recommendation The job list can be intimidating if unsorted, so in this document we will show you an example of how to set up your job list.
+Overview &amp;ldquo;Select columns&amp;hellip;&amp;quot;
+           Lot. no. The sequence no. of the job. Name Name of the recipient.   Job direction Is the job incoming or outgoing. Email sender Who sent the email.</description>
+      </item>
+      
+      <item>
         <title>The Baseoverview</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/base/base_overview/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -615,7 +640,7 @@ If you click on &amp;ldquo;Add contacts&amp;hellip;&amp;rdquo;, a new window wil
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/rapidstart/adjust/</guid>
-        <description>Adjusting the spreadsheets After importing the package, the communication martix must now be filled in, for this it has to be exported first. This is done via the &amp;ldquo;Import to Excel&amp;rdquo; button
+        <description>Adjusting the spreadsheets After importing the package, the communication martix must now be filled in, for this it has to be exported first. This is done via the &amp;ldquo;Import to Excel&amp;rdquo; button.
 In Excel you now have a table with several sheets, relevant here are CON Field Selection Target Address, CON Communication Matrix &amp;amp; Matrix Target.
 In all tables you will find examples created by us, which should make the setup easier for you.</description>
       </item>
@@ -720,6 +745,19 @@ After downloading, the app is available to you free of charge for 5 processes.
 Once these are reached, you have the option to order the app directly.
 Your costs:
    Monthly subscription incl. maintenance per environment with annual payment and term*     19,90€       Monthly subscription incl. maintenance per environment with monthly payment and term*     25,90€    *The subscription is for one environment within a tenant.</description>
+      </item>
+      
+      <item>
+        <title>April</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/april/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/april/</guid>
+        <description>Enhancements to standard features: Assist button for communication matrix entries in dialog.
+If a recipient&amp;rsquo;s address is overridden via communication matrix, the view pre-filtered via the Assist button is still pre-filtered to the original contact.
+New event for development
+Via the new event OnAfterSetReportIDPostedSalesInv it is now possible for developers to insert a different report ID.
+More information about available events can be found in a separate documentation in the future.</description>
       </item>
       
       <item>
@@ -855,6 +893,20 @@ You can search for a user or select them directly. It is also possible to enter 
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/html-word/link_pics/</guid>
         <description>Linking images If you want to create your HTML templates with Word, used images must be linked by URL in the document. Otherwise, they will not be displayed after being sent by e-mail.
 The images must first be made available at a suitable location, for example via an FTP program on a web server, preferably in .jpg or .png format. Once your image files are uploaded to the web server, you can copy the exact address (for example, &amp;ldquo;http://www.</description>
+      </item>
+      
+      <item>
+        <title>March</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2021/march/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2021/march/</guid>
+        <description>New features: New Templates Service Invoice/Credit Memo.
+In the templates you can now find fully configured templates for the two reports Service Invoice and Service Credit Note.
+New Events - [DOKU](doc missing)
+Developers can now use various events for XML ports.
+Enhancements to standard features: Type of XRechnung attachment in matrix - DOKU
+In the communication matrix you can now define via &amp;ldquo;XRechnung PDF as attachment&amp;rdquo; how attachments are handled for XRechnungs</description>
       </item>
       
       <item>
@@ -1020,12 +1072,12 @@ If you wish a test phase, you will receive the desired objects for one user and 
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/xrechnung/receipts/</guid>
-        <description>Possible document types Currently it is possible to convert the following document types into an XInvoice:
+        <description>Possible document types Currently it is possible to convert the following document types into an XRechnung:
   Sales invoices
   Sales credit memos
   Service invoices
   Service credit memos
-  The following sections demonstrate an example of XInvoice generation for sales invoices. The procedures shown here for sales invoices are almost identical to those for the other possible document types. That is, you can perform the methods shown here analogously for the other types, such as service credit memos.</description>
+  The following sections demonstrate an example of XRechnung generation for sales invoices. The procedures shown here for sales invoices are almost identical to those for the other possible document types. That is, you can perform the methods shown here analogously for the other types, such as service credit memos.</description>
       </item>
       
       <item>
@@ -1125,7 +1177,7 @@ Extract sample offer Connector NAV Integration
       </item>
       
       <item>
-        <title>Unser example</title>
+        <title>User example</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/drag-and-drop/example/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -1347,6 +1399,19 @@ After submitting your contact information, you will be prompted to choose a lang
       </item>
       
       <item>
+        <title>May</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/may/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/may/</guid>
+        <description>Enhancements to standard features: **Post &amp;amp; Process function
+In selected templates you will now find the function Post &amp;amp; Process, it allows matrix-controlled posting of documents and subsequent processing via a previously set up dispatch type.
+**Stacking function
+Using the batch run, documents can be processed at the push of a button, the respective dispatch type can be defined in advance per customer in the communication matrix.
+More information on both points can be found in the documentation for the communication matrix</description>
+      </item>
+      
+      <item>
         <title>Pricing?</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connector-on-appsource/xrechnung/faq/pricing/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -1393,8 +1458,8 @@ Afterwards you can enter the desired address into the &amp;ldquo;Email Sender&am
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/xrechnung/setup/</guid>
-        <description>Setup The setup for XInvoice is done in the Connector-Setup and in the Communication Matrix. To get into Setup, go to Connector 365 -&amp;gt; Setup as shown in the following image.
-You may want to review some master data prior to deployment so that you don&amp;rsquo;t run into errors in later shipping that can be avoided. See the end of the documentation for more information. The settings that affect XInvoice can be found in the Per Client section under the PEPPOL/XInvoice Setup tab.</description>
+        <description>Setup The setup for XRechnung is done in the Connector-Setup and in the Communication Matrix. To get into Setup, go to Connector 365 -&amp;gt; Setup as shown in the following image.
+You may want to review some master data prior to deployment so that you don&amp;rsquo;t run into errors in later shipping that can be avoided. See the end of the documentation for more information. The settings that affect XRechnung can be found in the Per Client section under the PEPPOL/XRechnung Setup tab.</description>
       </item>
       
       <item>
@@ -1404,7 +1469,7 @@ You may want to review some master data prior to deployment so that you don&amp;
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/segment/setup/</guid>
         <description>Setup Connector NAV for the segments dispatch Now that the list of contacts that will receive the segment has been prepared, it&amp;rsquo;s time to set up the mail with Connector NAV. Via &amp;ldquo;User report&amp;rdquo; you now set up the following parameters:
-ReportID: Is fixed – this one can not be changed
+ReportID: Is fixed – this one can not be changed.
 Language: Should you have multilingual customers and want to send your mails in different languages accordingly. Is to define the user report setup per language code.</description>
       </item>
       
@@ -1481,6 +1546,16 @@ Protocol incorrect XRechnung Here XRechnung are displayed, which failed the chec
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/base/docimport_module/</guid>
         <description>The module DocImport Using With the DocImport module you can centrally manage external documents in Microsoft Dynamics NAV. You minimize your paperwork by storing important documents of any type in the job list. Not only will you find your documents faster, you&amp;rsquo;ll also save time and reduce the likelihood of something getting lost.
 Moving the documents Navigate to the path you entered in the Connector NAV Configuration and Setup documentation under the Connector NAV Setup, E-Mail tab menu item in the Document Inbox Directory field.</description>
+      </item>
+      
+      <item>
+        <title>To 31.12.2019</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/</guid>
+        <description>New update points between 01.01.2019 - 31.12.2019. The following features &amp;amp; hotfixes have been enhanced and corrected for you this year.
+ New Features Version 160CU May 2019 Innovations version 160CU July 2019 Innovations version 160CU August 2019 Changes version 160CU September 2019 New features version 160CU December 2019  This is only information about enhancements &amp;amp; optimizations from 2019. You can find our current enhancements on the current year&amp;rsquo;s page.</description>
       </item>
       
       <item>
@@ -1712,6 +1787,19 @@ After the dialog has been confirmed with OK, the Connector NAV stores a text fil
       </item>
       
       <item>
+        <title>June</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/june/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/june/</guid>
+        <description>New in the documentations: As always, we have adapted our documentation according to the new features. In which documentation individual points can be found is listed.
+To the documentations
+Enhancements of standard features: Append attachments before/behind documents.
+With this feature, which is available in user reports &amp;amp; in the mail dialog, you can connect attachments directly to your document to be sent and send them as one file.
+For more information on exactly how to use this feature, please see the setup doc or the doc for the mail module.</description>
+      </item>
+      
+      <item>
         <title>Message Mobile contact details</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/sms/message_mobile/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -1785,6 +1873,17 @@ Simply change the address in the &amp;ldquo;Email sender&amp;rdquo; field to the
       </item>
       
       <item>
+        <title>To 31.12.2018</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2018/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2018/</guid>
+        <description>Older updates until 31.12.2018 The following Connector NAV versions are no longer supported and have been discontinued:
+ Version &amp;lt; 00.125CU as of 12/31/2019 Version &amp;lt;00.125 as of 12/31/2018 Version &amp;lt;00.30 as of 12/31/2017 Version &amp;lt;00.05 as of 12/31/2016 Version &amp;lt;5.90 as of 12/31/2014 Version &amp;lt;5.55 as of 12/31/2013  In the following section you will find an overview of the respective innovations in a version:
+ Innovations Version x.xx.160 Changes version 7.</description>
+      </item>
+      
+      <item>
         <title>Unit codes</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/first-steps/setup/setup-unit-codes/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -1852,14 +1951,14 @@ In the lower part of the map there is an overview of the existing global setting
       </item>
       
       <item>
-        <title>Create XInvoice</title>
+        <title>Create XRechnung</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/xrechnung/create/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/xrechnung/create/</guid>
-        <description>Create XInvoice Now that we have created the XInvoice entry for Gilde Jupiter Versicherungs AG for the PDF job mode, we can create an XInvoice from the selected 103003 invoice using the PDF button.
+        <description>Create XRechnung Now that we have created the XRechnung entry for Gilde Jupiter Versicherungs AG for the PDF job mode, we can create an XRechnung from the selected 103003 invoice using the PDF button.
 Alternatively, this can also be done using the Batch Run button, provided that the relevant entry in the communication matrix has been marked for batch mode:
-As soon as one of the above buttons has been activated, an XInvoice will be generated from the selected invoice.</description>
+As soon as one of the above buttons has been activated, an XRechnung will be generated from the selected invoice.</description>
       </item>
       
       <item>
@@ -1945,6 +2044,18 @@ Fax: +49 2362 788 90 56</description>
       </item>
       
       <item>
+        <title>July</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/july/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/july/</guid>
+        <description>Optimizations: Outlook N-recipient addresses
+When storing additional destination addresses, which were neither created as CC nor BCC, the address was previously taken as CC instead of the desired equivalent in the &amp;ldquo;To&amp;rdquo; field. This is now corrected.
+Consideration of matrix printers
+During batch processing, the additional printers from the communication matrix were not taken into account in the Print job mode. Now it is possible to use these printers as well.</description>
+      </item>
+      
+      <item>
         <title>Tax Category</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/first-steps/setup/setup-tax-category/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -1990,7 +2101,7 @@ Setup &amp;amp; Sending </description>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/xrechnung/added_documents/</guid>
-        <description>Accompanying documents The XInvoice standard allows attachments to accompany invoices.
+        <description>Accompanying documents The XRechnung standard allows attachments to accompany invoices.
 This standard allows attachments of the following MIME (Multipurpose Internet Mail Extensions) types:
   Application/pdf (.pdf)
   Image/png (.png)
@@ -2001,6 +2112,18 @@ This standard allows attachments of the following MIME (Multipurpose Internet Ma
   Application/vnd.oasis.opendocument.spreadsheet (.ods)
   OpenDocument tables
   PDF attachments may be considered insecure by some clients and are accordingly marked as such by XRechnung Portal Deutschland.</description>
+      </item>
+      
+      <item>
+        <title>August</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/august/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/august/</guid>
+        <description>New in the documentations: As always, we have adapted our documentation according to the new features. In which documentation individual points can be found is listed.
+To the documentations
+Enhancements of standard features: Automatic filling of the destination address in the communication matrix.
+In the communication matrix, the destination address field is now automatically filled based on the settings in the destination addresses. In addition, there is now an Assist button that is pre-filtered to the respective contact.</description>
       </item>
       
       <item>
@@ -2100,8 +2223,21 @@ Setup &amp;amp; Sending </description>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/xrechnung/send_via_mail/</guid>
-        <description>Send XInvoice directly by e-mail (Connector e-mail module) If you have also installed the Connector365 module Email, you can send an XInvoice directly by e-mail through the Connector after it has been generated. For this you have to make an adjustment in the communication matrix.
-Simply change the value of the Job Mode field from PDF to Email. In addition, you can optionally enter a default destination address. Now the marked invoice can be converted to XInvoice format via the Email button, or via the Batch button, if the batch mode entry has been marked, and sent on directly via e-mail.</description>
+        <description>Send XRechnung directly by e-mail (Connector e-mail module) If you have also installed the Connector365 module Email, you can send an XRechnung directly by e-mail through the Connector after it has been generated. For this you have to make an adjustment in the communication matrix.
+Simply change the value of the Job Mode field from PDF to Email. In addition, you can optionally enter a default destination address. Now the marked invoice can be converted to XRechnung format via the Email button, or via the Batch button, if the batch mode entry has been marked, and sent on directly via e-mail.</description>
+      </item>
+      
+      <item>
+        <title>September</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/september/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/september/</guid>
+        <description>New in the documentations: As always, we have adapted our documentation according to the new features. In which documentation individual points can be found is listed.
+To the documentation
+New features: Module XRechnung
+We have released a new module that allows you to send XInvoices directly from Dynamics. You can find more information about the exact features of the module on our main page.
+To illustrate it, we have also prepared a video for you from our latest webcast along with a presentation.</description>
       </item>
       
       <item>
@@ -2110,18 +2246,8 @@ Simply change the value of the Job Mode field from PDF to Email. In addition, yo
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/matrix/stack_mode/</guid>
-        <description>The Batch - Using the matrix to control the shipping method IN some of our templates you will notice the button &amp;ldquo;Batch&amp;rdquo;, with this function selected documents can be processed according to a previously defined scheme. This scheme can be set up via the communication matrix.
+        <description>The Batch - Using the matrix to control the shipping method In some of our templates you will notice the button &amp;ldquo;Batch&amp;rdquo;, with this function selected documents can be processed according to a previously defined scheme. This scheme can be set up via the communication matrix.
 In oder for an entry in the communication matrix to be used for the stacking run the &amp;ldquo;Stacking mode&amp;rdquo; check mark must be set in front of the respective entrys.</description>
-      </item>
-      
-      <item>
-        <title>^Book and process</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/matrix/book_and_process/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/matrix/book_and_process/</guid>
-        <description>Book and process functions Similar to the standard functions post &amp;amp; send and post &amp;amp; print, the post &amp;amp; process function allows you to process a document after posting. In contrast to the standard, the function allows you to process the document through all Connector NAV interfaces. In addition, you have the possibility to send a document multiple times via different channels, e.g. letter &amp;amp; e-mail.
-How exactly the respective document should be processed, you can set up in our communication matrix.</description>
       </item>
       
       <item>
@@ -2130,8 +2256,18 @@ How exactly the respective document should be processed, you can set up in our c
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/xrechnung/error_analysis/</guid>
-        <description>Analyze validation results in case of error During the validation of the XInvoice file, it can of course also happen that an XInvoice is classified as non-compliant. This happens when important information is missing from the invoice. For example, validation will fail even if the customer&amp;rsquo;s city is not specified.
+        <description>Analyze validation results in case of error During the validation of the XRechnung file, it can of course also happen that an XRechnung is classified as non-compliant. This happens when important information is missing from the invoice. For example, validation will fail even if the customer&amp;rsquo;s city is not specified.
 To simulate a case where validation fails, we modify the above procedure to &amp;ldquo;forget&amp;rdquo; to specify a routing ID. To do this, we again open the Communication Matrix for our example calculation 103003, and remove the value for the route ID.</description>
+      </item>
+      
+      <item>
+        <title>Book and process</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/matrix/book_and_process/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/matrix/book_and_process/</guid>
+        <description>Book and process functions Similar to the standard functions post &amp;amp; send and post &amp;amp; print, the post &amp;amp; process function allows you to process a document after posting. In contrast to the standard, the function allows you to process the document through all Connector NAV interfaces. In addition, you have the possibility to send a document multiple times via different channels, e.g. letter &amp;amp; e-mail.
+How exactly the respective document should be processed, you can set up in our communication matrix.</description>
       </item>
       
       <item>

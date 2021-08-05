@@ -43,7 +43,7 @@ If you click on &amp;ldquo;Add contacts&amp;hellip;&amp;rdquo;, a new window wil
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/segment/setup/</guid>
         <description>Setup Connector NAV for the segments dispatch Now that the list of contacts that will receive the segment has been prepared, it&amp;rsquo;s time to set up the mail with Connector NAV. Via &amp;ldquo;User report&amp;rdquo; you now set up the following parameters:
-ReportID: Is fixed – this one can not be changed
+ReportID: Is fixed – this one can not be changed.
 Language: Should you have multilingual customers and want to send your mails in different languages accordingly. Is to define the user report setup per language code.</description>
       </item>
       
