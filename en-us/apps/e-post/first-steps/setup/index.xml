@@ -25,13 +25,13 @@ While the test mode is activated, no invoices are sent. Instead, the previously 
       </item>
       
       <item>
-        <title>Country names</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/first-steps/setup/countrynames/</link>
+        <title>Report selection</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/first-steps/setup/reportselection/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/first-steps/setup/countrynames/</guid>
-        <description>First Steps Country names Deutsche Post uses country names according to ISO 3166-1 in shipping, so if you want to use the Connector 365 E-POST App, you have to adjust the country names in the appropriate setup in your Business Central environment beforehand.
-You can find the setup for this in the search under &amp;ldquo;Countries/Regions&amp;rdquo;. You only need to change country names in this setup which also receive letters from you, domestic shipping is not affected.</description>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/first-steps/setup/reportselection/</guid>
+        <description>First steps Report selection Before sending the first letter, the reports for sending with E-POST must be defined in the report selection. Currently, this option is available in &amp;ldquo;Report selection sales&amp;rdquo; and &amp;ldquo;Report selection reminder&amp;rdquo;.
+Only reports with a check mark in the &amp;ldquo;Use for E-POST&amp;rdquo; option are taken into account.</description>
       </item>
       
     

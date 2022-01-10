@@ -15,6 +15,17 @@
     
       
       <item>
+        <title>Document types for XRechnung</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/working-with-xrechnung/document-types/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/working-with-xrechnung/document-types/</guid>
+        <description>Working with XRechnung Processable document types for XRechnung Currently, the Connector 365 XRechung-App is able to process the following document formats as XRechnung:
+ Sales invoices Sales credit memos Service invoices 1 Service credit memos 1   Note: To create XRechnung files for service reports, a premium license is required. You can order it here. The function is included OnPrem. &amp;#x21a9;&amp;#xfe0e;
+   </description>
+      </item>
+      
+      <item>
         <title>Sending</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/working-with-xrechnung/sending/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>

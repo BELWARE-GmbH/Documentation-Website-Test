@@ -6,6 +6,22 @@
     "feed_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/new-and-planned/index.json",
     "items" : [
     {
+        "title" : "V1.0.1.10 \u0026 Roadmap",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/new-and-planned/v1.0.1.10/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/new-and-planned/v1.0.1.10/",
+        "content_html" : "\u003ch3 id=\"neu-und-geplant\"\u003eNeu und geplant\u003c/h3\u003e\n\u003ch3 id=\"version-10110\"\u003eVersion 1.0.1.10\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eLändercodes werden bei Installation automatisch eingelesen und in die Tabelle \u0026ldquo;Länder/Region\u0026rdquo; geschrieben\u003c/li\u003e\n\u003cli\u003eGlobale Voreinstellung für Dialog und Briefparameter in der Page \u0026ldquo;Connector 365 Einrichtung\u0026rdquo; möglich\u003c/li\u003e\n\u003cli\u003e\u0026ldquo;Berichtsauswahl Verkauf\u0026rdquo; und \u0026ldquo;Berichtsauswahl Mahnung\u0026rdquo; um neues Feld \u0026ldquo;Für E-POST nutzen\u0026rdquo; ergänzt. Nur Berichte, bei welchen der Haken gesetzt ist werden berücksichtigt.\u003c/li\u003e\n\u003cli\u003eTestzeitraum auf 30 Tage geändert. Zuvor waren hier 5 Gratisbriefe möglich.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"geplante-funktionen-für-zukünftige-versionen\"\u003eGeplante Funktionen für zukünftige Versionen\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eErneutes versenden von fehlerhaften Briefen\u003c/li\u003e\n\u003cli\u003eKontakte im Dialog editierbar\u003c/li\u003e\n\u003cli\u003eWeitere Belegarten\n\u003cul\u003e\n\u003cli\u003eGeb. Service-Rechnungen\u003c/li\u003e\n\u003cli\u003eGeb. Service-Gutschriften\u003c/li\u003e\n\u003cli\u003eBestellungen\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
+        "title" : "V1.0.1.3 \u0026 Roadmap",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/new-and-planned/v1.0.1.3/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/new-and-planned/v1.0.1.3/",
+        "content_html" : "\u003ch3 id=\"neu-und-geplant\"\u003eNeu und geplant\u003c/h3\u003e\n\u003ch3 id=\"version-1013\"\u003eVersion 1.0.1.3\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFehlerkorrektur in der Einrichtung\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"geplante-funktionen-für-zukünftige-versionen\"\u003eGeplante Funktionen für zukünftige Versionen\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eErneutes versenden von fehlerhaften Briefen\u003c/li\u003e\n\u003cli\u003eKontakte im Dialog editierbar\u003c/li\u003e\n\u003cli\u003eWeitere Belegarten\n\u003cul\u003e\n\u003cli\u003eGeb. Service-Rechnungen\u003c/li\u003e\n\u003cli\u003eGeb. Service-Gutschriften\u003c/li\u003e\n\u003cli\u003eBestellungen\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
         "title" : "V1.0.1.2 \u0026 Roadmap",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",

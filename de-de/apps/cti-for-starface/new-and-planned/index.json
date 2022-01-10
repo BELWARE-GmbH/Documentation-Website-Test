@@ -6,6 +6,22 @@
     "feed_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/index.json",
     "items" : [
     {
+        "title" : "V1.0.1.8 \u0026 Roadmap",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.8/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.8/",
+        "content_html" : "\u003ch3 id=\"neu-und-geplant\"\u003eNeu und geplant\u003c/h3\u003e\n\u003ch3 id=\"version-1018\"\u003eVersion 1.0.1.8\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eDie Telefonnotizen lassen sich nun im Nachhinein bearbeiten.\u003c/li\u003e\n\u003cli\u003eEs lässt sich einstellen wann sich die CTI-Karte öffnet.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"geplante-funktionen-für-zukünftige-versionen\"\u003eGeplante Funktionen für zukünftige Versionen\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAutomatisches Anlegen von kontakten bei unbekannten Nummern\u003c/li\u003e\n\u003cli\u003eAnpassung der Jobliste passend zur App\u003c/li\u003e\n\u003cli\u003eAusblenden der CTI Funktionen im Rollencenter für Nicht-CTI-Nutzer\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
+        "title" : "V1.0.1.3 \u0026 Roadmap",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.3/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.3/",
+        "content_html" : "\u003ch3 id=\"neu-und-geplant\"\u003eNeu und geplant\u003c/h3\u003e\n\u003ch3 id=\"version-1013\"\u003eVersion 1.0.1.3\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eWarnung beim schließen des CTI-Clients\u003c/li\u003e\n\u003cli\u003eÄnderung der Einrichtung des Moduls\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"geplante-funktionen-für-zukünftige-versionen\"\u003eGeplante Funktionen für zukünftige Versionen\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAutomatisches Anlegen von kontakten bei unbekannten Nummern\u003c/li\u003e\n\u003cli\u003eAnpassung der Jobliste passend zur App\u003c/li\u003e\n\u003cli\u003eEditierbare CTI Notizen\u003c/li\u003e\n\u003cli\u003eAusblenden der CTI Funktionen im Rollencenter für Nicht-CTI-Nutzer\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
         "title" : "V1.0.1.1 \u0026 Roadmap",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",

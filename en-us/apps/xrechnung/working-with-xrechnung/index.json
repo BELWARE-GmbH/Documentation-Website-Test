@@ -6,6 +6,14 @@
     "feed_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/working-with-xrechnung/index.json",
     "items" : [
     {
+        "title" : "Document types for XRechnung",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/working-with-xrechnung/document-types/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/working-with-xrechnung/document-types/",
+        "content_html" : "\u003ch3 id=\"working-with-xrechnung\"\u003eWorking with XRechnung\u003c/h3\u003e\n\u003ch3 id=\"processable-document-types-for-xrechnung\"\u003eProcessable document types for XRechnung\u003c/h3\u003e\n\u003cp\u003eCurrently, the \u003cstrong\u003eConnector 365 XRechung\u003c/strong\u003e-App is able to process the following document formats as XRechnung:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eSales invoices\u003c/li\u003e\n\u003cli\u003eSales credit memos\u003c/li\u003e\n\u003cli\u003eService invoices \u003csup id=\"fnref:1\"\u003e\u003ca href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\"\u003e1\u003c/a\u003e\u003c/sup\u003e\u003c/li\u003e\n\u003cli\u003eService credit memos \u003csup id=\"fnref:1\"\u003e\u003ca href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\"\u003e1\u003c/a\u003e\u003c/sup\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cdiv class=\"footnotes\" role=\"doc-endnotes\"\u003e\n\u003chr /\u003e\n\u003col\u003e\n\u003cli id=\"fn:1\" role=\"doc-endnote\"\u003e\n\u003cp\u003e\u003cstrong\u003eNote:\u003c/strong\u003e To create XRechnung files for service reports, a premium license is required. \u003cbr /\u003e\nYou can order it \u003ca href=\"https://forms.office.com/r/6sXf5yVgai\" target=\"_blank\"\u003ehere\u003c/a\u003e. The function is included OnPrem. \u003ca href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\"\u003e\u0026#x21a9;\u0026#xfe0e;\u003c/a\u003e\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ol\u003e\n\u003c/div\u003e\n"
+    },
+    {
         "title" : "Sending",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
