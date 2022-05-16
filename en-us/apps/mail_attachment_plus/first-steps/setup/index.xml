@@ -41,7 +41,7 @@ Start by opening the report selection of the report you want, in this example we
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/first-steps/setup/defaults-customer/</guid>
         <description>Setup Standard attachments per customer and report. Another way to add attachments is to add them as defaults for customers, for example, if there are conditions that only apply to a specific customer. Open the customer you want to add defaults to and expand the options in the menu via &amp;ldquo;More options&amp;rdquo;, click &amp;ldquo;Navigate&amp;rdquo; and select &amp;ldquo;Document layouts&amp;rdquo;.
-Select the report for which you want to add default attachments, we will use invoices again in this example.</description>
+If you have a previously have set up defaults in the report selection, it is possible to automatically also attach these when setting up attachments per customer - simply click the &amp;ldquo;Copy from Report Selection&amp;rdquo; button.</description>
       </item>
       
       <item>

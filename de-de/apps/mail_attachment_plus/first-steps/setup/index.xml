@@ -41,7 +41,7 @@ Beginnen Sie mit dem Öffnen der Berichtsauswahl des gewünschten Berichts, in d
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/first-steps/setup/defaults-customer/</guid>
         <description>Einrichtung Standardanhänge pro Debitor und Bericht Eine weitere Möglichkeit, Anhänge hinzuzufügen, besteht darin, sie als Standard für Kunden hinzuzufügen, z. B. wenn es Bedingungen gibt, die nur für einen bestimmten Kunden gelten. Öffnen Sie den Kunden, dem Sie Standardwerte hinzufügen möchten, und erweitern Sie die Optionen im Menü über &amp;ldquo;Weitere Optionen&amp;rdquo;, klicken Sie auf &amp;ldquo;Navigieren&amp;rdquo; und wählen Sie &amp;ldquo;Dokumentlayouts&amp;rdquo;.
-Wählen Sie den Bericht aus, für den Sie Standardanhänge hinzufügen möchten, wir werden in diesem Beispiel wieder Rechnungen verwenden.</description>
+Wenn Sie in der Berichtsauswahl bereits Voreinstellungen vorgenommen haben, ist es möglich, diese beim Einrichten von Anhängen pro Kunde automatisch mit anzuhängen - klicken Sie einfach auf die Schaltfläche &amp;ldquo;Aus Berichtsauswahl kopieren&amp;rdquo;.</description>
       </item>
       
       <item>

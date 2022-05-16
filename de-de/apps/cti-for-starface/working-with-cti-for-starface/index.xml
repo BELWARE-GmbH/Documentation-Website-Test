@@ -32,8 +32,7 @@ Sollte kein Anruf ausgelöst werden, müssen Sie ggf. den Popup-Blocker Ihres Br
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/working-with-cti-for-starface/incoming-calls/</guid>
         <description>Arbeiten mit CTI for STARFACE Eingehende Anrufe und der CTI-Client Die Connector 365 CTI for STARFACE App öffnet Ihnen bei eigehenden Telefonaten automatisch die Kontaktkarte der anrufenden Person. Damit dieser Prozess reibungslos funktioniert, muss auf zwei Sachen geachtet werden.
-  Die Telefonnr. der anrufenden Person ist in einem Kontakt hinterlegt. Sollte dies nicht der Fall sein wird Ihnen nur die unbekannte Nummer angezeigt.
-  Der &amp;ldquo;CTI-Client&amp;rdquo; muss geöffnet sein, der Client ist der Kern der Connector 365 CTI for STARFACE App und wird zwingend benötigt.</description>
+  Die Telefonnr. der anrufenden Person ist in einem Kontakt hinterlegt. Sollte dies nicht der Fall sein wird Ihnen nur die unbekannte Nummer angezeigt bzw. je nach Einstellungen ein neuer Arbeitsschritt ausgelöst.</description>
       </item>
       
       <item>

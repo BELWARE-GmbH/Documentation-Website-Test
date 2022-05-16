@@ -20,7 +20,7 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailsubject/first-steps/setup/reportselection/</guid>
-        <description>Setup Report selection Using the search function, open the desired report selection - e.g. the one for sales. Now select the desired report, for our example we use invoices, but in principle the function is supported by all reports.
+        <description>Setup Report selection Using the search function, open the desired report selection - e.g. the one for sales. Now select the desired report, for our example we use invoices, however, reports from the areas of sales, purchasing &amp;amp; reminder are supported.
 in the report selection you will find the new field &amp;ldquo;Email subject&amp;rdquo;, you can use this to define your subject. This is freely definable, but static.
 In order to set a dynamic subject, you must first define placeholders.</description>
       </item>

@@ -36,7 +36,7 @@ Der Haken im Feld Stapelmodus aktiviert für diesen Eintrag den Stapelmodus.</de
         <description>Einrichtung Belegsendeprofil Bei dem Belegsendeprofil handelt es sich um eine Standardfunktionalität von Microsoft Dynamics 365 Business Central.
 Sie wird dazu genutzt, um die bevorzugte Methode der Übermittlung von Verkaufsbelegen zu steuern. Stanardmäßig ist die funktionalität für die Verwendung von &amp;ldquo;Buchen und Senden&amp;rdquo; gedacht. Mit dem Connector 365 Easy Batch, können Belegsendeprofile aber auch dafür genutzt verwenden die Stapelfunktion zu steuern.
 Einrichten von Belegsendeprofilen Einrichten von Belegsendeprofilen
- Öffnen Sie die Suche, geben Sie Belegsendeprofil ein und wählen Sie dann den entsprechenden Link.</description>
+ Öffnen Sie die Suche, geben Sie Dokumentsendeprofile ein und wählen Sie dann den entsprechenden Link.</description>
       </item>
       
     

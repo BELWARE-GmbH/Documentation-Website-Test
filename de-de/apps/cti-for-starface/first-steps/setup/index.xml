@@ -20,10 +20,8 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/first-steps/setup/starface-modul/</guid>
-        <description>Einrichtung Einrichten des STARFACE Moduls Damit die Kommunikation zwischen Microsoft Dynamics 365 Business Central und der STARFACE Telefonanlage funktioniert, muss auch hier eine Einrichtung stattfinden. Dazu benötigen Sie ein Modul welches Sie auf dieser Seite downloaden können.
-Hier Downloaden
-Nachdem Sie das Modul über das Adminportal hinzugefügt haben, muss dieses noch konfiguriert werden. Über das Stift-Symbol gelangen Sie in die Konfiguration.
-Unter dem Reiter Einrichtung müssen Sie nun zunächst das Modul über einen Nutzer authentifizieren.</description>
+        <description>Einrichtung Damit die Kommunikation zwischen Microsoft Dynamics 365 Business Central und der STARFACE Telefonanlage funktioniert, muss auch hier eine Einrichtung stattfinden. Dazu benötigen Sie ein Modul welches Sie auf dieser Seite downloaden können.
+Informationsquellen Den Namen der Microsoft Dynamics 365 Business Central Benutzer sowie den jeweiligen Webschlüssel finden Sie, in Microsoft Dynamics 365 Business Central unter &amp;ldquo;Benutzer&amp;rdquo; in der jeweiligen &amp;ldquo;Benutzerkarte&amp;rdquo;. Die Webdienst-URL finden Sie in Business Central unter &amp;ldquo;Webdienste&amp;rdquo;, OData V4-URL.</description>
       </item>
       
       <item>

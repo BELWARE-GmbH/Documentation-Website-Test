@@ -18,21 +18,6 @@
   </url>
   
   <url>
-    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/epost/example/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/epost/example/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/epost/example/"
-                />
-  </url>
-  
-  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/first-steps/installation/appsource/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -78,6 +63,21 @@
   </url>
   
   <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/first-steps/installation/appsource/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easydocumentpin/first-steps/installation/appsource/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/first-steps/installation/appsource/"
+                />
+  </url>
+  
+  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/first-steps/installation/appsource/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -104,6 +104,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/first-steps/installation/appsource/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/first-steps/installation/appsource/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailexperienceplus/first-steps/installation/appsource/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/first-steps/installation/appsource/"
                 />
   </url>
   
@@ -183,17 +198,17 @@
   </url>
   
   <url>
-    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2021/</loc>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2022/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2021/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2022/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2021/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2022/"
                 />
   </url>
   
@@ -210,6 +225,11 @@
                 hreflang="de-de"
                 href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/working-with-cti-for-starface/click-to-dial/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/addressecontrol/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
@@ -348,6 +368,11 @@
   </url>
   
   <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/epost/setup/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/status-report/configuration/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -423,6 +448,21 @@
   </url>
   
   <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easydocumentpin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/"
+                />
+  </url>
+  
+  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/working-with-cti-for-starface/incoming-calls/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -483,6 +523,21 @@
   </url>
   
   <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/first-steps/introduction/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easydocumentpin/first-steps/introduction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/first-steps/introduction/"
+                />
+  </url>
+  
+  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/first-steps/introduction/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -509,6 +564,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/first-steps/introduction/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/first-steps/introduction/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailexperienceplus/first-steps/introduction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/first-steps/introduction/"
                 />
   </url>
   
@@ -569,6 +639,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connector-on-appsource/xrechnung/first-steps/introduction/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/first-steps/setup/modules/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailexperienceplus/first-steps/setup/modules/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/first-steps/setup/modules/"
                 />
   </url>
   
@@ -693,6 +778,21 @@
   </url>
   
   <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/first-steps/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easydocumentpin/first-steps/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/first-steps/"
+                />
+  </url>
+  
+  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/first-steps/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -704,6 +804,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/first-steps/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/first-steps/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailexperienceplus/first-steps/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/first-steps/"
                 />
   </url>
   
@@ -843,6 +958,36 @@
   </url>
   
   <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/january/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/january/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/january/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2020/january/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/january/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2020/january/"
+                />
+  </url>
+  
+  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2021/january/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -854,6 +999,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2021/january/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2022/january/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2022/january/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2022/january/"
                 />
   </url>
   
@@ -959,6 +1119,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailexperienceplus/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/"
                 />
   </url>
   
@@ -1094,21 +1269,6 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/sms/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2020/march/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/march/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2020/march/"
                 />
   </url>
   
@@ -1308,6 +1468,21 @@
   </url>
   
   <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/templates.md/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/templates.md/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/templates.md/"
+                />
+  </url>
+  
+  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/under-construction/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1343,6 +1518,51 @@
   </url>
   
   <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/new-and-planned/v1.0.0.0/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easydocumentpin/new-and-planned/v1.0.0.0/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/new-and-planned/v1.0.0.0/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/new-and-planned/v1.0.0.0/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailexperienceplus/new-and-planned/v1.0.0.0/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/new-and-planned/v1.0.0.0/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.12/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.12/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.12/"
+                />
+  </url>
+  
+  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/new-and-planned/v1.0.0.2/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1369,21 +1589,6 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/v1.0.0.6/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.8/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.8/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.8/"
                 />
   </url>
   
@@ -1418,32 +1623,32 @@
   </url>
   
   <url>
-    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.11/</loc>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.18/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.1.11/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.1.18/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.11/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.18/"
                 />
   </url>
   
   <url>
-    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.8/</loc>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.1.0.0/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.8/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.1.0.0/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.8/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.1.0.0/"
                 />
   </url>
   
@@ -1613,21 +1818,6 @@
   </url>
   
   <url>
-    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/templates.md/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/templates.md/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/templates.md/"
-                />
-  </url>
-  
-  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/rapidstart/adjust/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1654,6 +1844,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/drag-and-drop/example/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/epost/example/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/epost/example/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/epost/example/"
                 />
   </url>
   
@@ -1733,6 +1938,21 @@
   </url>
   
   <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/first-steps/test-purchase/appsource/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easydocumentpin/first-steps/test-purchase/appsource/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/first-steps/test-purchase/appsource/"
+                />
+  </url>
+  
+  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/first-steps/test-purchase/appsource/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1763,6 +1983,21 @@
   </url>
   
   <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/first-steps/test-purchase/appsource/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailexperienceplus/first-steps/test-purchase/appsource/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/first-steps/test-purchase/appsource/"
+                />
+  </url>
+  
+  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailsubject/first-steps/test-purchase/appsource/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1789,21 +2024,6 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/first-steps/test-purchase/appsource/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2020/april/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/april/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2020/april/"
                 />
   </url>
   
@@ -1973,17 +2193,17 @@
   </url>
   
   <url>
-    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2020/</loc>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2021/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2021/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2020/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2021/"
                 />
   </url>
   
@@ -2029,21 +2249,6 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-customer/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/epost/dialog/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/epost/dialog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/epost/dialog/"
                 />
   </url>
   
@@ -2168,6 +2373,36 @@
   </url>
   
   <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/february/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/february/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/february/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2020/february/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/february/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2020/february/"
+                />
+  </url>
+  
+  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/configuration-and-setup/configuration/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -2273,6 +2508,21 @@
   </url>
   
   <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/new-and-planned/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easydocumentpin/new-and-planned/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/new-and-planned/"
+                />
+  </url>
+  
+  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/new-and-planned/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -2284,6 +2534,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/new-and-planned/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/new-and-planned/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailexperienceplus/new-and-planned/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/new-and-planned/"
                 />
   </url>
   
@@ -2438,6 +2703,36 @@
   </url>
   
   <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/first-steps/installation/onprem/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easydocumentpin/first-steps/installation/onprem/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/first-steps/installation/onprem/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/first-steps/test-purchase/onprem/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easydocumentpin/first-steps/test-purchase/onprem/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/first-steps/test-purchase/onprem/"
+                />
+  </url>
+  
+  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/first-steps/installation/onprem/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -2494,6 +2789,36 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/first-steps/test-purchase/onprem/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/first-steps/installation/onprem/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailexperienceplus/first-steps/installation/onprem/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/first-steps/installation/onprem/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/first-steps/test-purchase/onprem/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailexperienceplus/first-steps/test-purchase/onprem/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/first-steps/test-purchase/onprem/"
                 />
   </url>
   
@@ -2678,6 +3003,21 @@
   </url>
   
   <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/first-steps/test-purchase/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easydocumentpin/first-steps/test-purchase/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/first-steps/test-purchase/"
+                />
+  </url>
+  
+  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/first-steps/test-purchase/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -2704,6 +3044,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/first-steps/test-purchase/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/first-steps/test-purchase/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailexperienceplus/first-steps/test-purchase/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/first-steps/test-purchase/"
                 />
   </url>
   
@@ -2828,6 +3183,21 @@
   </url>
   
   <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailsubject/new-and-planned/v1.0.0.1/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailsubject/new-and-planned/v1.0.0.1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailsubject/new-and-planned/v1.0.0.1/"
+                />
+  </url>
+  
+  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connector-on-appsource/xrechnung/new-and-planned/v1.0.0.1/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -2843,32 +3213,32 @@
   </url>
   
   <url>
-    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.7/</loc>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.10/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.7/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.7/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.10/"
                 />
   </url>
   
   <url>
-    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.3/</loc>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.11/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.3/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.1.11/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.3/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.11/"
                 />
   </url>
   
@@ -2888,17 +3258,17 @@
   </url>
   
   <url>
-    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.5/</loc>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.8/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.1.5/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.8/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.5/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.8/"
                 />
   </url>
   
@@ -2993,6 +3363,21 @@
   </url>
   
   <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/working-with-edp/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easydocumentpin/working-with-edp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/working-with-edp/"
+                />
+  </url>
+  
+  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/working-with-map/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -3004,6 +3389,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/working-with-map/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/working-with-mep/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailexperienceplus/working-with-mep/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/working-with-mep/"
                 />
   </url>
   
@@ -3128,17 +3528,17 @@
   </url>
   
   <url>
-    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/</loc>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2020/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2020/"
                 />
   </url>
   
@@ -3233,6 +3633,21 @@
   </url>
   
   <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/epost/dialog/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/epost/dialog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/epost/dialog/"
+                />
+  </url>
+  
+  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/fax/dialog/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -3259,21 +3674,6 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/mail/dialog/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/epost/summary/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/epost/summary/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/epost/summary/"
                 />
   </url>
   
@@ -3383,17 +3783,32 @@
   </url>
   
   <url>
-    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2020/may/</loc>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/march/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/may/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/march/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2020/may/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/march/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2020/march/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/march/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2020/march/"
                 />
   </url>
   
@@ -3563,32 +3978,17 @@
   </url>
   
   <url>
-    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.5/</loc>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.9/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.5/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.9/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.5/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.1/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.1/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.9/"
                 />
   </url>
   
@@ -3608,17 +4008,32 @@
   </url>
   
   <url>
-    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.3/</loc>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.3/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.1.3/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.3/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.3/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.5/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.1.5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.5/"
                 />
   </url>
   
@@ -3664,6 +4079,36 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/working-with-cti-for-starface/call-list/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/april/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/april/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/april/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2020/april/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/april/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2020/april/"
                 />
   </url>
   
@@ -3758,6 +4203,21 @@
   </url>
   
   <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/"
+                />
+  </url>
+  
+  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/pdfpaper/first-steps/setup/documentlayouts/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -3788,17 +4248,17 @@
   </url>
   
   <url>
-    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/epost/status/</loc>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/epost/summary/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/epost/status/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/epost/summary/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/epost/status/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/epost/summary/"
                 />
   </url>
   
@@ -3863,6 +4323,21 @@
   </url>
   
   <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/first-steps/setup/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easydocumentpin/first-steps/setup/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/first-steps/setup/"
+                />
+  </url>
+  
+  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/first-steps/setup/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -3889,6 +4364,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/first-steps/setup/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/first-steps/setup/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailexperienceplus/first-steps/setup/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/first-steps/setup/"
                 />
   </url>
   
@@ -4073,6 +4563,21 @@
   </url>
   
   <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/first-steps/installation/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easydocumentpin/first-steps/installation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/first-steps/installation/"
+                />
+  </url>
+  
+  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/first-steps/installation/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -4099,6 +4604,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/first-steps/installation/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/first-steps/installation/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailexperienceplus/first-steps/installation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/first-steps/installation/"
                 />
   </url>
   
@@ -4144,21 +4664,6 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/fax/jobs/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2020/june/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/june/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2020/june/"
                 />
   </url>
   
@@ -4223,32 +4728,32 @@
   </url>
   
   <url>
-    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.4/</loc>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.8/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.4/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.8/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.4/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.8/"
                 />
   </url>
   
   <url>
-    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.0/</loc>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.1/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.0/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.0/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.1/"
                 />
   </url>
   
@@ -4268,17 +4773,17 @@
   </url>
   
   <url>
-    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.1/</loc>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.3/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.1.1/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.1.3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.1/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.3/"
                 />
   </url>
   
@@ -4294,6 +4799,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connector-on-appsource/xrechnung/faq/getting-started/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/epost/status/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/epost/status/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/epost/status/"
                 />
   </url>
   
@@ -4358,6 +4878,21 @@
   </url>
   
   <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/help-support/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easydocumentpin/help-support/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/help-support/"
+                />
+  </url>
+  
+  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/help-support/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -4384,6 +4919,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/help-support/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/help-support/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailexperienceplus/help-support/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/help-support/"
                 />
   </url>
   
@@ -4448,21 +4998,6 @@
   </url>
   
   <url>
-    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2020/july/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/july/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2020/july/"
-                />
-  </url>
-  
-  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/configuration-and-setup/setup/communication_matrix/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -4474,6 +5009,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/configuration-and-setup/setup/communication_matrix/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2020/may/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/may/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2020/may/"
                 />
   </url>
   
@@ -4508,32 +5058,32 @@
   </url>
   
   <url>
-    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.0.1/</loc>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.7/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.0.1/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.7/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.0.1/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.7/"
                 />
   </url>
   
   <url>
-    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.3/</loc>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.0/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.3/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.0/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.3/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.0/"
                 />
   </url>
   
@@ -4553,17 +5103,17 @@
   </url>
   
   <url>
-    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.0/</loc>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.1/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.1.0/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.1.1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.0/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.1/"
                 />
   </url>
   
@@ -4643,21 +5193,6 @@
   </url>
   
   <url>
-    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2020/august/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/august/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2020/august/"
-                />
-  </url>
-  
-  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/added_documents/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -4703,6 +5238,36 @@
   </url>
   
   <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2020/june/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/june/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2020/june/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.0.1/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.0.1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.0.1/"
+                />
+  </url>
+  
+  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/new-and-planned/v1.0.0.5/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -4714,6 +5279,36 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/new-and-planned/v1.0.0.5/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.5/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.5/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.0/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.1.0/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.0/"
                 />
   </url>
   
@@ -4748,6 +5343,21 @@
   </url>
   
   <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/videos/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easydocumentpin/videos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/videos/"
+                />
+  </url>
+  
+  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/videos/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -4774,6 +5384,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/videos/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/videos/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailexperienceplus/videos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/videos/"
                 />
   </url>
   
@@ -4853,17 +5478,32 @@
   </url>
   
   <url>
-    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2020/september/</loc>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/july/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/september/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/july/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2020/september/"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/july/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2020/july/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/july/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2020/july/"
                 />
   </url>
   
@@ -4898,6 +5538,66 @@
   </url>
   
   <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.4/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.4/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/august/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/august/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/august/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2020/august/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/august/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2020/august/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2021/august/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2021/august/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2021/august/"
+                />
+  </url>
+  
+  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/matrix/book_and_process/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -4928,6 +5628,21 @@
   </url>
   
   <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.3/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.3/"
+                />
+  </url>
+  
+  <url>
     <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/more_error_analysis/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -4954,6 +5669,111 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/matrix/options/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/september/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/september/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/september/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2020/september/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/september/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2020/september/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2021/september/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2021/september/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2021/september/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/october/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/october/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/october/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/november/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/november/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/november/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2021/november/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2021/november/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2021/november/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/december/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/december/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/december/"
                 />
   </url>
   

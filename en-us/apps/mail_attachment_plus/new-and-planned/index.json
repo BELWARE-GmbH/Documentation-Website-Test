@@ -6,6 +6,30 @@
     "feed_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/new-and-planned/index.json",
     "items" : [
     {
+        "title" : "V1.0.0.12 \u0026 Roadmap",
+        "date_published" : "2020-05-16T11:39:56+09:00",
+        "date_modified" : "2020-05-16T11:39:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.12/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.12/",
+        "content_html" : "\u003ch3 id=\"new-and-planned\"\u003eNew and planned\u003c/h3\u003e\n\u003ch3 id=\"version-10012\"\u003eVersion 1.0.0.12\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eNew permission sets\n\u003cul\u003e\n\u003cli\u003eC365 View\u003c/li\u003e\n\u003cli\u003eC365 Edit\u003c/li\u003e\n\u003cli\u003eC365 Setup\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003eDependency on \u003cstrong\u003eConnector 365 Base\u003c/strong\u003e app version 1.0.1.23\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"planned-functions-for-future-versions\"\u003ePlanned functions for future versions\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAttachment functionality on furhter levels\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
+        "title" : "V1.0.0.10 \u0026 Roadmap",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.10/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.10/",
+        "content_html" : "\u003ch3 id=\"new-and-planned\"\u003eNew and planned\u003c/h3\u003e\n\u003ch3 id=\"version-10010\"\u003eVersion 1.0.0.10\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eError correction during transfer of attachments\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"planned-features-for-future-versions\"\u003ePlanned features for future versions\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAttachment functionalities on further levels\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
+        "title" : "V1.0.0.9 \u0026 Roadmap",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.9/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.9/",
+        "content_html" : "\u003ch3 id=\"new-and-planned\"\u003eNew and planned\u003c/h3\u003e\n\u003ch3 id=\"version-1009\"\u003eVersion 1.0.0.9\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eNew function \u0026ldquo;Copy from Report Selection\u0026rdquo;\u003c/li\u003e\n\u003cli\u003eError correction\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"planned-features-for-future-versions\"\u003ePlanned features for future versions\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAttachment functionalities on further levels\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
         "title" : "V1.0.0.8 \u0026 Roadmap",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",

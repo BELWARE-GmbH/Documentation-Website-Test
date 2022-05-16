@@ -31,7 +31,7 @@ If no call is triggered, you may have to switch off the popup blocker of your br
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/working-with-cti-for-starface/incoming-calls/</guid>
         <description>Working with CTI for STARFACE Incoming calls and the CTI client The Connector 365 CTI for STARFACE app automatically opens the contact card of the calling person for incoming calls. For this process to work smoothly, two things need to be taken care of.
-  The phone number of the person calling is stored in a contact. If this is not the case, only the unknown number is displayed.</description>
+  The phone number of the person calling is stored in a contact. If this is not the case, only the unknown number is displayed and a follow up action happens depending on your user setup.</description>
       </item>
       
       <item>

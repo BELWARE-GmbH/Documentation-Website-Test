@@ -30,12 +30,28 @@
         "content_html" : "\u003ch3 id=\"connector-365-easy-batch-online-help\"\u003eConnector 365 Easy Batch Online Help\u003c/h3\u003e\n\u003cp\u003eHere you will find all the help and learning resources, for our Microsoft AppSource Easy Batch App.\u003c/p\u003e\n\u003cp\u003eSimply use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered, we are happy to help you personally. the necessary conctat information can be found on the \u003ca href=\"/Documentation-Website-Test/en-us/apps/easybatch/help-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
     },
     {
+        "title" : "Easy Document Pin",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easydocumentpin/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easydocumentpin/",
+        "content_html" : "\u003ch3 id=\"connector-365-easy-document-pin-online-help\"\u003eConnector 365 Easy Document Pin Online Help\u003c/h3\u003e\n\u003cp\u003eHere you will find all the help and learning resources, for our Microsoft AppSource Easy Document Pin App.\u003c/p\u003e\n\u003cp\u003eJust use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered, we are happy to help you personally. the necessary contact information can be found on the \u003ca href=\"/Documentation-Website-Test/en-us/apps/easydocumentpin/help-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
+    },
+    {
         "title" : "Mail Attachments Plus",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
         "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/",
         "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/",
         "content_html" : "\u003ch3 id=\"connector-365-mail-attachments-plus-online-help\"\u003eConnector 365 Mail Attachments Plus Online Help\u003c/h3\u003e\n\u003cp\u003eHere you will find all the help and learning resources, for our Microsoft AppSource Mail Attachment Plus App.\u003c/p\u003e\n\u003cp\u003eJust use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered, we are happy to help you personally. the necessary contact information can be found on the \u003ca href=\"/Documentation-Website-Test/en-us/apps/mail_attachment_plus/help-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Mail Experience Plus",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailexperienceplus/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailexperienceplus/",
+        "content_html" : "\u003ch3 id=\"connector-365-mail-experience-plus-online-help\"\u003eConnector 365 Mail Experience Plus Online Help\u003c/h3\u003e\n\u003cp\u003eHere you will find all the help and learning resources, for our Microsoft AppSource Mail Experience Plus App.\u003c/p\u003e\n\u003cp\u003eJust use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered, we are happy to help you personally. the necessary contact information can be found on the \u003ca href=\"/Documentation-Website-Test/en-us/apps/mailexperienceplus/help-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
     },
     {
         "title" : "Mail Sender Plus",
@@ -75,7 +91,7 @@
         "date_modified" : "2020-02-28T10:08:56+09:00",
         "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/countries/",
         "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/countries/",
-        "content_html" : "\u003ch3 id=\"our-solutions-currently-support-the-following-markets\"\u003eOur Solutions currently support the following markets:\u003c/h3\u003e\n\u003cp\u003eAlgeria, Argentina, Australia, Austria, Bangladesh, Belgium, Brazil, Bulgaria, Canada, Chile, Colombia, Croatia, Denmark, Egypt, Estonia, Faroe Islands, Finland, France, Germany, Greece, Greenland, Hong Kong (SAR), Iceland, India, Indonesia, Ireland, Italy, Japan, Kenya, Korea (Republic), Latvia, Lebanon, Lithuania, Luxembourg, Malaysia, Malta, Morocco, Mexico, Myanmar, Netherlands, New Zealand, Nigeria, Norway, Austria, Peru, Philippines, Poland, Portugal, Puerto Rico, Romania, Saudi Arabia, Serbia, Singapore, Slovakia, Slovenia, South Africa, Spain, Sri Lanka, Sweden, Switzerland, Taiwan, Thailand, Czech Republic, Tunisia, Turkey, Ukraine, Hungary,United Arab Emirates, United States, United Kingdom, Vietnam\u003c/p\u003e\n"
+        "content_html" : "\u003ch3 id=\"our-solutions-currently-support-the-following-markets\"\u003eOur Solutions currently support the following markets:\u003c/h3\u003e\n\u003cp\u003eAlgeria\u003cbr /\u003e\nArgentina\u003cbr /\u003e\nAustralia\u003cbr /\u003e\nAustria\u003cbr /\u003e\nBangladesh\u003cbr /\u003e\nBelgium\u003cbr /\u003e\nBrazil\u003cbr /\u003e\nBulgaria\u003cbr /\u003e\nCanada\u003cbr /\u003e\nChile\u003cbr /\u003e\nColombia\u003cbr /\u003e\nCroatia\u003cbr /\u003e\nCzechia\u003cbr /\u003e\nDenmark\u003cbr /\u003e\nEgypt\u003cbr /\u003e\nEstonia\u003cbr /\u003e\nFaroe Islands\u003cbr /\u003e\nFinland\u003cbr /\u003e\nFrance\u003cbr /\u003e\nGermany\u003cbr /\u003e\nGreece\u003cbr /\u003e\nGreenland\u003cbr /\u003e\nHong Kong SAR\u003cbr /\u003e\nHungary\u003cbr /\u003e\nIceland\u003cbr /\u003e\nIndia\u003cbr /\u003e\nIndonesia\u003cbr /\u003e\nIreland\u003cbr /\u003e\nItaly\u003cbr /\u003e\nJapan\u003cbr /\u003e\nKenya\u003cbr /\u003e\nKorea\u003cbr /\u003e\nLatvia\u003cbr /\u003e\nLebanon\u003cbr /\u003e\nLithuania\u003cbr /\u003e\nLuxembourg\u003cbr /\u003e\nMalaysia\u003cbr /\u003e\nMalta\u003cbr /\u003e\nMexico\u003cbr /\u003e\nMorocco\u003cbr /\u003e\nMyanmar\u003cbr /\u003e\nNetherlands\u003cbr /\u003e\nNew Zealand\u003cbr /\u003e\nNigeria\u003cbr /\u003e\nNorway\u003cbr /\u003e\nPeru\u003cbr /\u003e\nPhilippines\u003cbr /\u003e\nPoland\u003cbr /\u003e\nPortugal\u003cbr /\u003e\nPuerto Rico\u003cbr /\u003e\nQatar\u003cbr /\u003e\nRomania\u003cbr /\u003e\nSaudi Arabia\u003cbr /\u003e\nSerbia\u003cbr /\u003e\nSingapore\u003cbr /\u003e\nSlovakia\u003cbr /\u003e\nSlovenia\u003cbr /\u003e\nSouth Africa\u003cbr /\u003e\nSpain\u003cbr /\u003e\nSri Lanka\u003cbr /\u003e\nSweden\u003cbr /\u003e\nSwitzerland\u003cbr /\u003e\nTaiwan\u003cbr /\u003e\nThailand\u003cbr /\u003e\nTunisia\u003cbr /\u003e\nTurkey\u003cbr /\u003e\nUkraine\u003cbr /\u003e\nUnited Arab Emirates\u003cbr /\u003e\nUnited Kingdom\u003cbr /\u003e\nUnited States\u003cbr /\u003e\nVietnam\u003c/p\u003e\n"
     }
     ]
 }

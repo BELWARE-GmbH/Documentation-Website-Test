@@ -20,7 +20,7 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/pdfpaper/pdfpaper_server/</guid>
-        <description>The pdfPaper Server module The installation of the iPaper.NET server iPaper.NET server info Connector NAV is tested with the latest iPaper FM version. We recommend regularly following the blog at http://www.pdfblog.at/category/ipaper/.
+        <description>The pdfPaper Server module The installation of the iPaper.NET server iPaper.NET server infoConnector NAV is tested with the latest iPaper FM version. We recommend regularly following the blog at http://www.pdfblog.at/category/ipaper/.
 The configuration In order for the Connector NAV and iPaper FM to communicate properly with each other, certain settings must match in the Connector NAV pdfPaper setup as well as in the iPaper FM configuration.
 The Connector NAV pdfPaper setup Actions Connector 365 BC pdfPaper setup, actions</description>
       </item>

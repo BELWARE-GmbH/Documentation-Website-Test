@@ -15,6 +15,17 @@
     
       
       <item>
+        <title>Die Einrichtung</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/epost/setup/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/epost/setup/</guid>
+        <description>Die Einrichtung Vor nutzen der E-Post-Funktionen muss zunächst eine Einrichtung stattfinden. Diese ist unter Einrichtung -&amp;gt; Pro Mandant zu finden.
+Einrichtung E-Post, Übersicht
+   Felder      Anbieter-ID Dieses Feld ist automatisch gesetzt und beinhaltet unsere Anbieter-ID   EKP Hier wird Ihre EKP oder Kundennummer eingetragen. Diese können Sie in den Vertragsunterlagen der Deutschen Post finden   Geheimnis Dieses Feld wird automatisch gesetzt sobald ein Passwort gesetzt wurde.</description>
+      </item>
+      
+      <item>
         <title>Anwendungsbeispiel</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/epost/example/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>

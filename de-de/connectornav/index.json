@@ -142,20 +142,20 @@
         "content_html" : "\u003ch3 id=\"zusatzdokumentation-für-das-modul-fax--mail\"\u003eZusatzdokumentation für das Modul Fax / Mail\u003c/h3\u003e\n"
     },
     {
-        "title" : "Updates",
-        "date_published" : "2020-02-28T10:08:56+09:00",
-        "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/",
-        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/",
-        "content_html" : ""
-    },
-    {
         "title" : "Übersicht templates",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
         "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/templates.md/",
         "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/templates.md/",
         "content_html" : "\u003ch3 id=\"übersicht-der-template-funktionen\"\u003eÜbersicht der Template Funktionen\u003c/h3\u003e\n"
+    },
+    {
+        "title" : "Updates",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/",
+        "content_html" : ""
     }
     ]
 }
