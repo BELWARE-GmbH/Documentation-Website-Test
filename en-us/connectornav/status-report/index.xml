@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Status reports on Connector 365 Online Help</title>
-    <link>https://docs.belware.de/en-us/connectornav/status-report/</link>
+    <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/status-report/</link>
     <description>Recent content in Status reports on Connector 365 Online Help</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
     <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
     
-        <atom:link href="https://docs.belware.de/en-us/connectornav/status-report/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/status-report/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>The configuration</title>
-        <link>https://docs.belware.de/en-us/connectornav/status-report/configuration/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/status-report/configuration/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/status-report/configuration/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/status-report/configuration/</guid>
         <description>The configuration Connector NAV setup, control tab
 In the Connector NAV setup, under the Control tab, it is possible to set when a response should be sent for fax or mail dispatch.
 The sending requires a setup of the internal SMTP of Microsoft Dynamics NAV.
@@ -29,10 +29,10 @@ Following options are avaiable:
       
       <item>
         <title>User report setup</title>
-        <link>https://docs.belware.de/en-us/connectornav/status-report/user_report_setup/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/status-report/user_report_setup/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/status-report/user_report_setup/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/status-report/user_report_setup/</guid>
         <description>The Connector NAV user report setup Sending faxes from Dynamics NAV is possible from any page, in the following an offer is used as an example.
 Connector NAV user report setup, register general
 For sending status messages, a record is created in the user report setup with the following parameters:

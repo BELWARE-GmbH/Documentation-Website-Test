@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Einrichtung on Connector 365 Online Hilfe</title>
-    <link>https://docs.belware.de/de-de/apps/e-post/first-steps/setup/</link>
+    <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/first-steps/setup/</link>
     <description>Recent content in Einrichtung on Connector 365 Online Hilfe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
     <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
     
-        <atom:link href="https://docs.belware.de/de-de/apps/e-post/first-steps/setup/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/first-steps/setup/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>E-POSTBUSINESS API</title>
-        <link>https://docs.belware.de/de-de/apps/e-post/first-steps/setup/epostbusiness-api/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/first-steps/setup/epostbusiness-api/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/apps/e-post/first-steps/setup/epostbusiness-api/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/first-steps/setup/epostbusiness-api/</guid>
         <description>Erste Schritte E-POSTBUSINESS API Über die Suche unter &amp;ldquo;Connector 365 Einrichtung&amp;rdquo; können Sie die Einrichtung für die Connector 365 E-POST App* finden, hier setzen Sie alle nötigen Informationen um sicherzustellen, dass die App ohne Probleme funktioniert.
 Während der Testmodus aktiviert ist, werden keine Rechnungen versendet. Stattdessen erhält die zuvor angegebene Testmail eine Benachrichtigung  Passwort setzen Um ein Passwort für die App zu setzen, sollten Sie zuerst sicherstellen, dass die Einrichtung vollständig (bis auf das Geheimnis/Passwort) ausgefüllt ist.</description>
       </item>
       
       <item>
         <title>Berichtsauswahl</title>
-        <link>https://docs.belware.de/de-de/apps/e-post/first-steps/setup/reportselection/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/first-steps/setup/reportselection/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/apps/e-post/first-steps/setup/reportselection/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/first-steps/setup/reportselection/</guid>
         <description>Erste Schritte Berichtsauswahl Vor dem ersten Versand, muss in der Berichtsauswahl die Berichte für den E-POST Versand festgelegt werden. Aktuell gibt es diese Möglichkeit in &amp;ldquo;Berichtsauswahl Verkauf&amp;rdquo; und &amp;ldquo;Berichtsauswahl Mahnung&amp;rdquo;
 Nur Berichte bei denen der Haken in der Option &amp;ldquo;Für E-POST nutzen&amp;rdquo; gesetzt ist, werden berücksichtigt.</description>
       </item>
