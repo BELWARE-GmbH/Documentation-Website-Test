@@ -814,12 +814,12 @@ Please return at a later date, when we will have added further informative conte
       </item>
       
       <item>
-        <title>V1.1.0.0 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.1.0.0/</link>
+        <title>V1.2.0.0 &amp; Roadmap</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.2.0.0/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.1.0.0/</guid>
-        <description>New and planned Version 1.1.0.0  New options in the user setup  Call direction for opening the CTI page Time of opening the card Behavior if contact is not available   New module setup for STARFACE version 7.x and higher.  Planned functions for future versions  Customization of the job list to match the app Hiding the CTI functions in the Role center for non-CTI users  </description>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.2.0.0/</guid>
+        <description>Neu und geplant Version 1.2.0.0  Recording of caller number in job list Support of caller groups  Planned functions for future versions  Hiding the CTI functions in the role center for non CTI users  </description>
       </item>
       
       <item>
@@ -1666,12 +1666,12 @@ We support the following reports
       </item>
       
       <item>
-        <title>V1.0.1.8 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.8/</link>
+        <title>V1.1.1.0 &amp; Roadmap</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.1.1.0/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.8/</guid>
-        <description>New and planned Version 1.0.1.8  The phone notes can now be edited afterwards. It is possible to set when the CTI card opens.  Planned functions for future versions  Automatic creation of contacts for unknown numbers Customization of the job list to match the app Hiding the CTI functions in the Role center for non-CTI users  </description>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.1.1.0/</guid>
+        <description>New and planned Version 1.1.1.0  Minor fixes regarding the installation routine Improved set up of azure ad account  Planned functions for future versions  Customization of the job list to match the app Hiding the CTI functions in the role center for non CTI users Recording of caller number in job list Support of caller groups  </description>
       </item>
       
       <item>
@@ -2028,21 +2028,21 @@ Attached file 1 - 4 These actions can be used to display the intended document.<
       </item>
       
       <item>
-        <title>V1.0.1.3 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.3/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.3/</guid>
-        <description>New and planned Version 1.0.1.3  Warning when closing the CTI Client Changes to the module setup  Planned functions for future versions  Automatic creation of contacts for unknown numbers Customization of the job list to match the app Editable CTI notes Hiding the CTI functions in the Role center for non-CTI users  </description>
-      </item>
-      
-      <item>
         <title>V1.0.1.5 &amp; Roadmap</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.1.5/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.1.5/</guid>
         <description>New and planned Version 1.0.1.3  Bug fixes Support for service invoices and service credit notes  Planned features for future versions  Extension and improvement of the XRechnung setting on the customer side Ident ID 1:N Improvement Dimension Events Change from KoSit to 2.01  </description>
+      </item>
+      
+      <item>
+        <title>V1.1.0.0 &amp; Roadmap</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.1.0.0/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.1.0.0/</guid>
+        <description>New and planned Version 1.1.0.0  New options in the user setup  Call direction for opening the CTI page Time of opening the card Behavior if contact is not available   New module setup for STARFACE version 7.x and higher.  Planned functions for future versions  Customization of the job list to match the app Hiding the CTI functions in the Role center for non-CTI users  </description>
       </item>
       
       <item>
@@ -2418,15 +2418,6 @@ SetJoblistSubject(„Jobno.“ : Integer;NewSubject : Text[250]) This function c
       
       <item>
         <title>V1.0.1.1 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.1/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.1/</guid>
-        <description>New and planned Version 1.0.1.1  CTI status in Role center Button to open the CTI Client in the Role center Automatic conversion of phone numbers Freely definable CTI page Web service is generated automatically  Planned functions for future versions  Automatic creation of contacts for unknown numbers Customization of the job list to match the app Editable CTI notes Hiding the CTI functions in the Role center for non-CTI users  </description>
-      </item>
-      
-      <item>
-        <title>V1.0.1.1 &amp; Roadmap</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/new-and-planned/v1.0.1.1/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -2441,6 +2432,15 @@ SetJoblistSubject(„Jobno.“ : Integer;NewSubject : Text[250]) This function c
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.1.3/</guid>
         <description>New and planned Version 1.0.1.3  Bug fixes Integration to Easy Batch  Planned features for future versions  Service invoices and service credit notes Extension and improvement of the XRechnung setting on the customer side Ident ID 1:N Improvement Dimension Events Change from KoSit to 2.01  </description>
+      </item>
+      
+      <item>
+        <title>V1.0.1.8 &amp; Roadmap</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.8/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.8/</guid>
+        <description>New and planned Version 1.0.1.8  The phone notes can now be edited afterwards. It is possible to set when the CTI card opens.  Planned functions for future versions  Automatic creation of contacts for unknown numbers Customization of the job list to match the app Hiding the CTI functions in the Role center for non-CTI users  </description>
       </item>
       
       <item>
@@ -2648,15 +2648,6 @@ Here you should now fill the field “Tax category” with the respective design
       
       <item>
         <title>V1.0.1.0 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.0/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.0/</guid>
-        <description>New and planned Version 1.0.1.0  Minor corrections Click to Dial for phone and mobile number Show unknown numbers on incoming calls The CTI client opens automatically when you log in to Business Central  Planned functions for future versions  Refining the Role center Automatic creation of contacts for unknown numbers Customization of the job list to match the app Editable CTI notes  </description>
-      </item>
-      
-      <item>
-        <title>V1.0.1.0 &amp; Roadmap</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/e-post/new-and-planned/v1.0.1.0/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -2675,6 +2666,15 @@ Here you should now fill the field “Tax category” with the respective design
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.1.1/</guid>
         <description>New and planned Version 1.0.1.1  The Connector 365 XRechnung app now relies on our base app Adding events to control the XRechnung Bug fixes  Planned features for future versions  Service invoices and service credit notes Extension and improvement of the XRechnung setting on the customer side Ident ID 1:N Improvement Dimension Events Change from KoSit to 2.01  </description>
+      </item>
+      
+      <item>
+        <title>V1.0.1.3 &amp; Roadmap</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.3/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.3/</guid>
+        <description>New and planned Version 1.0.1.3  Warning when closing the CTI Client Changes to the module setup  Planned functions for future versions  Automatic creation of contacts for unknown numbers Customization of the job list to match the app Editable CTI notes Hiding the CTI functions in the Role center for non-CTI users  </description>
       </item>
       
       <item>
@@ -2771,15 +2771,6 @@ To execute Connector NAV server jobs, a task queue item is created with the corr
       </item>
       
       <item>
-        <title>V1.0.0.1 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.0.1/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.0.1/</guid>
-        <description>New and planned Version 1.0.0.1  Displaying contact data during incoming calls No missed calls, thanks to automatic call tracking Note function to write down important call details Automatic logging of start times and the length of every call  Planned functions for future versions  Call list extension - Global job list Call list in Role center Show unknown numbers on incoming calls  </description>
-      </item>
-      
-      <item>
         <title>V1.0.0.4 &amp; Roadmap</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.4/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -2804,6 +2795,15 @@ To execute Connector NAV server jobs, a task queue item is created with the corr
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.1.0/</guid>
         <description>New and planned Version 1.0.1.0  Status tracking in Role center Invoice accompanying attachments Revised XRechnung dialog Syntax check of Ident ID Extension of input for Ident IDs XRechnung version adapted  Planned features for future versions  Service invoices and service credit notes Extension and improvement of the XRechnung setting on the customer side Ident ID 1:N Improvement Dimension Events Change from KoSit to 2.01  </description>
+      </item>
+      
+      <item>
+        <title>V1.0.1.1 &amp; Roadmap</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.1/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.1/</guid>
+        <description>New and planned Version 1.0.1.1  CTI status in Role center Button to open the CTI Client in the Role center Automatic conversion of phone numbers Freely definable CTI page Web service is generated automatically  Planned functions for future versions  Automatic creation of contacts for unknown numbers Customization of the job list to match the app Editable CTI notes Hiding the CTI functions in the Role center for non-CTI users  </description>
       </item>
       
       <item>
@@ -2953,6 +2953,15 @@ In oder for an entry in the communication matrix to be used for the stacking run
       </item>
       
       <item>
+        <title>V1.0.1.0 &amp; Roadmap</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.0/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.0/</guid>
+        <description>New and planned Version 1.0.1.0  Minor corrections Click to Dial for phone and mobile number Show unknown numbers on incoming calls The CTI client opens automatically when you log in to Business Central  Planned functions for future versions  Refining the Role center Automatic creation of contacts for unknown numbers Customization of the job list to match the app Editable CTI notes  </description>
+      </item>
+      
+      <item>
         <title>Analyze errors</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/xrechnung/error_analysis/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -3001,6 +3010,15 @@ In the communication matrix, the destination address field is now automatically 
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/matrix/book_and_process/</guid>
         <description>Book and process functions Similar to the standard functions post &amp;amp; send and post &amp;amp; print, the post &amp;amp; process function allows you to process a document after posting. In contrast to the standard, the function allows you to process the document through all Connector NAV interfaces. In addition, you have the possibility to send a document multiple times via different channels, e.g. letter &amp;amp; e-mail.
 How exactly the respective document should be processed, you can set up in our communication matrix.</description>
+      </item>
+      
+      <item>
+        <title>V1.0.0.1 &amp; Roadmap</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.0.1/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.0.1/</guid>
+        <description>New and planned Version 1.0.0.1  Displaying contact data during incoming calls No missed calls, thanks to automatic call tracking Note function to write down important call details Automatic logging of start times and the length of every call  Planned functions for future versions  Call list extension - Global job list Call list in Role center Show unknown numbers on incoming calls  </description>
       </item>
       
       <item>
