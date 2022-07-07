@@ -34,7 +34,7 @@ Hier setzen Sie den Haken bei Aktiviert. Als Pfad geben Sie den Pfad ein, den Si
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/fax/example/</guid>
         <description>Anwendungsbeispiel Das Senden von Faxen aus Dynamics NAV ist aus jeder beliebigen Page möglich. Im Folgenden wird als Beispiel ein Angebot verwendet.
 Ausschnitt Beispielangebot Connector NAV Integration
-   Aktionen      Faxen Mit dieser Aktion versenden Sie das Fax.   PDF Mit dieser Aktion erstellen Sie das PDF.   Status Mit dieser Aktion gelangen Sie in die Jobliste und dem entsprechenden Eintrag.   Historie Zusätzlich zur Aktion Status werden hier auch Jobeinträge angezeigt, die dem Beleg zugeordnet wurden.</description>
+Aktionen Faxen Mit dieser Aktion versenden Sie das Fax. PDF Mit dieser Aktion erstellen Sie das PDF. Status Mit dieser Aktion gelangen Sie in die Jobliste und dem entsprechenden Eintrag. Historie Zusätzlich zur Aktion Status werden hier auch Jobeinträge angezeigt, die dem Beleg zugeordnet wurden.</description>
       </item>
       
       <item>
@@ -43,8 +43,7 @@ Ausschnitt Beispielangebot Connector NAV Integration
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/fax/dialog/</guid>
-        <description>Der Dialog Aktionen Dialog Modus E-Mail, Aktionen
-   Aktionen      Dateien hinzufügen Über diese Aktion können Sie zusätzliche Dateien auswählen, die als Anhang mitversendet werden sollen.   Dokumente anzeigen Die hinzugefügten Dokumente lassen sich über diese Aktion als Liste anzeigen.   Anhänge 1-4 anzeigen Über diese Aktion können Sie sich die ausgewählten Anhänge ansehen.    Register Allgemein Dialog Modus Fax, Register Allgemein</description>
+        <description>Der Dialog Aktionen Dialog Modus E-Mail, AktionenAktionen Dateien hinzufügen Über diese Aktion können Sie zusätzliche Dateien auswählen, die als Anhang mitversendet werden sollen. Dokumente anzeigen Die hinzugefügten Dokumente lassen sich über diese Aktion als Liste anzeigen. Anhänge 1-4 anzeigen Über diese Aktion können Sie sich die ausgewählten Anhänge ansehen. Register Allgemein Dialog Modus Fax, Register AllgemeinFeldbeschreibung Lfd.Nr. Eindeutige Jobnummer, wird vom Connector NAV vergeben BenutzerID Aktueller Login Berichtsname der jeweils dem Bericht zugeordnete Berichtsname (aus der Schnittstellenübergabe) Belegnummer Belegnummer des Dokumentes (aus der Schnittstellenübergabe) Name Name des Kontakts (aus der Schnittstellenübergabe) Dateityp Dateityp des Belegs (aus der Schnittstellenübergabe) Jobmodus Jobmodus des Vorgangs (aus der Schnittstellenübergabe) Protokolldruck Gemäß Einrichtung bzw.</description>
       </item>
       
       <item>

@@ -21,8 +21,8 @@
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/pdfpaper/new-and-planned/v1.0.0.3/</guid>
         <description>New and planned Version 1.0.0.3 New features:
- Merge multiple PDF files into one Automatic rotation of PDF files if they are in landscape format Action buttons to remove stationery at the touch of a button Stationery can be set up globally under company data  Corrections:
- Correction for file name when previewing pdf stationery  Planned functions for future versions  Integration of PDF/A functionality  </description>
+Merge multiple PDF files into one Automatic rotation of PDF files if they are in landscape format Action buttons to remove stationery at the touch of a button Stationery can be set up globally under company data Corrections:
+Correction for file name when previewing pdf stationery Planned functions for future versions Integration of PDF/A functionality </description>
       </item>
       
       <item>
@@ -31,7 +31,7 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/pdfpaper/new-and-planned/v1.0.0.0/</guid>
-        <description>New and planned Version 1.0.0.0  Setting of stationery per report &amp;amp; customer Create multiple stationery Preview function  Planned functions for future versions  Additional functions from PdfPaper module Global stationery in company data Stationery per company  </description>
+        <description>New and planned Version 1.0.0.0 Setting of stationery per report &amp;amp; customer Create multiple stationery Preview function Planned functions for future versions Additional functions from PdfPaper module Global stationery in company data Stationery per company </description>
       </item>
       
     

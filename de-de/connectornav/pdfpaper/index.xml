@@ -45,7 +45,8 @@ Pdf Vorschau - Diese Vorschaufunktion funktioniert auch wenn Sie den iPaper nich
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/pdfpaper/example_print/</guid>
         <description>Beispielvorgang Ausdruck Mit der Aktion Ausdruck können Sie Ihre Dokumente mit Ihrem Briefpapier mischen und auf einem Drucker Ihrer Wahl ausdrucken. Dabei stehen Ihnen verschiedene Funktionen zur Verfügung.
 Dialog Vorgang Ausdruck Aktionen Connector NAV Dialog Modus Ausdruck, Aktionen
-   Aktionen      Briefpapier für den Vorgang Ausdruck anzeigen Über diese Aktion kann das Briefpapier aus der Schnittstellenübergabe angezeigt werden.    Register pdfPaper Connector NAV Dialog Modus Ausdruck, Register pdfPaper</description>
+Aktionen Briefpapier für den Vorgang Ausdruck anzeigen Über diese Aktion kann das Briefpapier aus der Schnittstellenübergabe angezeigt werden. Register pdfPaper Connector NAV Dialog Modus Ausdruck, Register pdfPaper
+Feldbeschreibung PDF Passwort Hier kann man für das PDF Dokument ein Passwort vergeben.</description>
       </item>
       
       <item>

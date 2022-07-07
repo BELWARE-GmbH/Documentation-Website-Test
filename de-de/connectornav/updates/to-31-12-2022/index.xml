@@ -20,7 +20,7 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2022/january/</guid>
-        <description>Erweiterungen von Standardfeatures &amp;amp; neue Features:  Der Schematron für die XRechnung wurde auf die Version 2.1 geupdatet. Provisionsabrechnungen sind jetzt an den Connector NAV angebunden. Dateilinks in der DoJob-Funktion können nun vorbelegt werden.  Optimierungen:  Die Funktion die den CTI-Client automatisch startet wird übersprunen bei einer fehlenden CTI-Lizenz. Optimierung der Key-Reihe im Zusammenhang mit der Kommentarfunktion in der Jobliste.  </description>
+        <description>Erweiterungen von Standardfeatures &amp;amp; neue Features: Der Schematron für die XRechnung wurde auf die Version 2.1 geupdatet. Provisionsabrechnungen sind jetzt an den Connector NAV angebunden. Dateilinks in der DoJob-Funktion können nun vorbelegt werden. Optimierungen: Die Funktion die den CTI-Client automatisch startet wird übersprunen bei einer fehlenden CTI-Lizenz. Optimierung der Key-Reihe im Zusammenhang mit der Kommentarfunktion in der Jobliste. </description>
       </item>
       
     

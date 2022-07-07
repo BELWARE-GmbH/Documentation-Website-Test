@@ -148,7 +148,7 @@
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/status-view/</guid>
         <description>Status overview setup recommendation The job list can be intimidating if unsorted, so in this document we will show you an example of how to set up your job list.
 Overview &amp;ldquo;Select columns&amp;hellip;&amp;quot;
-           Lot. no. The sequence no. of the job. Name Name of the recipient.   Job direction Is the job incoming or outgoing. Email sender Who sent the email.</description>
+Lot. no. The sequence no. of the job. Name Name of the recipient. Job direction Is the job incoming or outgoing. Email sender Who sent the email. Job Mode How the job was processed. EmailCC If applicable, the CC recipient.</description>
       </item>
       
       <item>
@@ -158,7 +158,7 @@ Overview &amp;ldquo;Select columns&amp;hellip;&amp;quot;
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/sms/</guid>
         <description>The documetation for the SMS module The SMS module allows you to send SMS to your contacts, easily from Navision using the Connector NAV. This way you can easily reach your contacts on the go.
-Sending SMS incurs additional costs depending on the provider and interface. </description>
+Sending SMS incurs additional costs depending on the provider and interface.</description>
       </item>
       
       <item>

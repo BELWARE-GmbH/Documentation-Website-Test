@@ -34,7 +34,7 @@ Here you set the check mark at Activated. As path you enter the path that you ha
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/fax/example/</guid>
         <description>Application example Sending faxes from Dynamics NAV is possible from any page. In the following an offer is used as an example.
 Example Quote Connector NAV Integration
-   Actions      Fax Use this action to send the fax.   PDF With this action you create the PDF.   Status This action takes you to the job list and the corresponding entry.   History In addition to the Status action, job entries that have been assigned to the document are also displayed here.</description>
+Actions Fax Use this action to send the fax. PDF With this action you create the PDF. Status This action takes you to the job list and the corresponding entry. History In addition to the Status action, job entries that have been assigned to the document are also displayed here.</description>
       </item>
       
       <item>
@@ -43,8 +43,7 @@ Example Quote Connector NAV Integration
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/fax/dialog/</guid>
-        <description>The dialogue Actions Dialog Mode Email, Actions
-   Actions      Add files This action allows you to select additional files to be sent as attachments.   Show Documents This action displays the added documents as a list.   Show Attachments 1-4 Via this action you can view the selected attachments.    General tab Dialog Mode Fax, General tab</description>
+        <description>The dialogue Actions Dialog Mode Email, ActionsActions Add files This action allows you to select additional files to be sent as attachments. Show Documents This action displays the added documents as a list. Show Attachments 1-4 Via this action you can view the selected attachments. General tab Dialog Mode Fax, General tabfield description Job No. Unique job number, assigned by Connector NAV UserID Current login Report Name the report name assigned to the report (from the interface transfer) Document number document number of the document (from the interface transfer) Name Name of the contact (from the interface transfer) File type File type of the document (from the interface transfer) Job mode Job mode of the operation (from the interface transfer) Log Print Preset according to setup or user setup, mark the job for log printing Send via This field shows the fax interface.</description>
       </item>
       
       <item>

@@ -31,7 +31,7 @@
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/mail/example/</guid>
         <description>Application example Sending e-mails from Dynamics NAV is possible from any page, in the following an offer is used as an example.
 Extract sample offer Connector NAV Integration
-   Actions      Mailen This action sends the e-mail.   PDF This action creates the PDF.   Status This action takes you to the job list and the corresponding entry.   History In addition to the Status action, job entries that have been assigned to the document are also displayed here.</description>
+Actions Mailen This action sends the e-mail. PDF This action creates the PDF. Status This action takes you to the job list and the corresponding entry. History In addition to the Status action, job entries that have been assigned to the document are also displayed here.</description>
       </item>
       
       <item>
@@ -41,7 +41,7 @@ Extract sample offer Connector NAV Integration
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/mail/dialog/</guid>
         <description>The dialog Actions Dialog modus E-mail, actions
-   Actions      Edit body text This action can be used to edit the body text from the interface transfer.   Change body text Via this action you can select another body text.   Add Files Use this action to select additional files to be sent as attachments.   Show Documents Use this action to display the added documents as a list.</description>
+Actions Edit body text This action can be used to edit the body text from the interface transfer. Change body text Via this action you can select another body text. Add Files Use this action to select additional files to be sent as attachments. Show Documents Use this action to display the added documents as a list. Show Attachments 1-4 Via this action you can view the selected attachments.</description>
       </item>
       
     

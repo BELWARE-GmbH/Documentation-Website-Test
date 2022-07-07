@@ -46,7 +46,7 @@ In the communication matrix you can now define via &amp;ldquo;XRechnung PDF as a
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2021/august/</guid>
-        <description>Enhancements to Standard Features &amp;amp; New Features:  Preliminary billings are now connected to the Connector NAV Bonituren are now connected to the Connector NAV Job list entries can now be imported into a blob field  Optimizations  Improve the function to retrieve the phone number. Improve email feedback. One function has been replaced by an equivalent one. An unused variable has been removed from the XInvoice setup.  </description>
+        <description>Enhancements to Standard Features &amp;amp; New Features: Preliminary billings are now connected to the Connector NAV Bonituren are now connected to the Connector NAV Job list entries can now be imported into a blob field Optimizations Improve the function to retrieve the phone number. Improve email feedback. One function has been replaced by an equivalent one. An unused variable has been removed from the XInvoice setup. </description>
       </item>
       
       <item>
@@ -55,7 +55,7 @@ In the communication matrix you can now define via &amp;ldquo;XRechnung PDF as a
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2021/september/</guid>
-        <description>Enhancements to Standard Features &amp;amp; New Features:  Implement a new feature that allows importing &amp;amp; exporting the job list in blobs. In the dialog the email CC can now be set by an assist button.  Optimizations:  Before executing CTI events, the CTI configuration is now checked.  </description>
+        <description>Enhancements to Standard Features &amp;amp; New Features: Implement a new feature that allows importing &amp;amp; exporting the job list in blobs. In the dialog the email CC can now be set by an assist button. Optimizations: Before executing CTI events, the CTI configuration is now checked. </description>
       </item>
       
       <item>
@@ -64,7 +64,7 @@ In the communication matrix you can now define via &amp;ldquo;XRechnung PDF as a
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2021/november/</guid>
-        <description>Enhancements to Standard Features &amp;amp; New Features:  Offers can now be sent without a debtor The comment function of the job list now includes a &amp;ldquo;company&amp;rdquo; field  Optimizations:  Corrections for the printer job mode Number of prints is not increased when using the printer mode or the preview function  </description>
+        <description>Enhancements to Standard Features &amp;amp; New Features: Offers can now be sent without a debtor The comment function of the job list now includes a &amp;ldquo;company&amp;rdquo; field Optimizations: Corrections for the printer job mode Number of prints is not increased when using the printer mode or the preview function </description>
       </item>
       
     
