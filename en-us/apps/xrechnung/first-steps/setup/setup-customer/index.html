@@ -19,7 +19,7 @@
 
 <script defer src="/Documentation-Website-Test/js/helper/getParents.min.086022fb02d7a1517e33c2670bffb976b3e80bcacd9caeee0c6a586064f20e42.js"></script>
 
-<script defer src="/Documentation-Website-Test/js/helper/fadeinout.min.9fe4b81a87e722d20c220a2b6ca145a3d8a2cb3ea1e89de55329ff417bdd9570.js"></script>
+<script defer src="/Documentation-Website-Test/js/helper/fadeinout.min.58d290b487a552ce9c144bf938c2758c4a3afbc4f17d70d11771c9e3c61fe3d0.js"></script>
 
 <script>
   "use strict";
@@ -1083,7 +1083,7 @@
 <meta property="og:url" content="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/first-steps/setup/setup-customer/">
 <meta property="og:type" content="article">
 
-<meta name="generator" content="Hugo 0.101.0" />
+<meta name="generator" content="Hugo 0.98.0" />
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="theme-color" content="#ffffff">
 <link rel="canonical" href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/first-steps/setup/setup-customer/">
@@ -4409,12 +4409,12 @@ if (!doNotTrack) {
       <div class="navbar lmr">
         <div id="siteLogo" class="navbar__logo--wrapper">
   
-    <a href="/en-us/" title="" rel="home" class="navbar__logo--link">
-      <img src="/logo.png" alt="Home" class="navbar__logo">
+    <a href="/Documentation-Website-Test/en-us/" title="" rel="home" class="navbar__logo--link">
+      <img src="/Documentation-Website-Test/logo.png" alt="Home" class="navbar__logo">
     </a>
   
   
-    <a href="/en-us/" title="" rel="home" class="navbar__logo--text-link">
+    <a href="/Documentation-Website-Test/en-us/" title="" rel="home" class="navbar__logo--text-link">
       <h6 class="navbar__logo--text" data-bgimg="false">Connector 365 Online Help</h6>
     </a>
   
@@ -4423,8 +4423,8 @@ if (!doNotTrack) {
         <div class="navbar__menu--wrapper">
           <div id="tabletLogo" class="hide">
   
-  <a href="/en-us/" rel="home" class="navbar__logo--link">
-    <img src="/logo.png" alt="Home" class="navbar__logo">
+  <a href="/Documentation-Website-Test/en-us/" rel="home" class="navbar__logo--link">
+    <img src="/Documentation-Website-Test/logo.png" alt="Home" class="navbar__logo">
   </a>
   
 </div>
@@ -7898,20 +7898,25 @@ if (!doNotTrack) {
   <img src="/Documentation-Website-Test/images/XRechnung/XRechnungScreenshot1.png" alt=""  />
 </p></p>
 <p>The settings to be able to send invoices and credit notes in XRechnung format are made on the respective customer. Under <strong>&ldquo;Navigate&rdquo; - &ldquo;Document layouts&rdquo;</strong> of the respective customer.</p>
-<p>When you open the document layouts, new fields are now available.<br />
-<strong>&ldquo;Ident ID&rdquo; and &ldquo;Add document as attachment&rdquo;</strong>.</p>
+<p>When you open the document layouts, following new fields are now available:</p>
+<ul>
+<li><strong>Ident ID</strong></li>
+<li><strong>Add document as attachment</strong></li>
+</ul>
 <p><p class="md__image">
-  <img src="/Documentation-Website-Test/images/XRechnung/XRechnungScreenshot2.PNG" alt=""  />
+  <img src="/Documentation-Website-Test/images/XRechnung/xr_doc_layout_en.png" alt=""  />
 </p></p>
-<p>In the field <strong>&ldquo;Ident ID&rdquo;</strong> the Ident ID of the customer is entered. This is necessary to uniquely identify an invoice recipient. This field is subject to a syntax check and only allows valid Ident IDs.</p>
-<p>In the field <strong>&ldquo;Add document as attachment&rdquo;</strong> you have 3 selection options which determine how the original document and any attachments are handled.</p>
+<p>In the field <strong>Ident ID</strong> the Ident ID of the customer is entered. This is necessary to uniquely identify an invoice recipient. This field is subject to a syntax check and only allows valid Ident IDs.</p>
+<p><em><strong>Note: The route ID can also be set in the e-mail dialog, i.e. it does not necessarily have to be set in the document layouts.</strong></em></p>
+<p>In the field <strong>Add document as attachment</strong> you have 3 selection options which determine how the original document and any attachments are handled.</p>
 <p><p class="md__image">
   <img src="/Documentation-Website-Test/images/XRechnung/xrechnungbeleganhang.PNG" alt=""  />
 </p></p>
 <p><strong>No</strong> - The original document will not be sent additionally, only the XML of the XRechnung will be sent.</p>
 <p><strong>Embedded</strong> - The original document will be sent, but will be embedded in the XML of the XRechnung. Further attachments are also embedded in the XML. These can be read later by machine.</p>
 <p><strong>PDF</strong> - The original document is attached as a PDF in addition to the XML of the XRechnung. Other attachments are also attached as usual.</p>
-<p>If the checkmark for XRechnungis set, a correct Ident ID is stored, the desired attachment option is selected and all necessary master data is entered, invoices/credit notes can be sent in XRechnung format.</p>
+<p><em><strong>Note: This setting cannot be customized in the mail dialog. If a special setting is desired, it must be<br />
+this must be set in the document layouts.</strong></em></p>
 
   </article>
 </div>

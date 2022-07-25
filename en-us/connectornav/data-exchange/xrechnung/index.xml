@@ -36,11 +36,11 @@ The XRechnung module generates invoices and credit notes in XRechnung format and
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/xrechnung/receipts/</guid>
         <description>Possible document types Currently it is possible to convert the following document types into an XRechnung:
-Sales invoices
-Sales credit memos
-Service invoices
-Service credit memos
-The following sections demonstrate an example of XRechnung generation for sales invoices. The procedures shown here for sales invoices are almost identical to those for the other possible document types. That is, you can perform the methods shown here analogously for the other types, such as service credit memos.</description>
+  Sales invoices
+  Sales credit memos
+  Service invoices
+  Service credit memos
+  The following sections demonstrate an example of XRechnung generation for sales invoices. The procedures shown here for sales invoices are almost identical to those for the other possible document types. That is, you can perform the methods shown here analogously for the other types, such as service credit memos.</description>
       </item>
       
       <item>
@@ -50,7 +50,7 @@ The following sections demonstrate an example of XRechnung generation for sales 
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/xrechnung/setup/</guid>
         <description>Setup The setup for XRechnung is done in the Connector-Setup and in the Communication Matrix. To get into Setup, go to Connector 365 -&amp;gt; Setup as shown in the following image.
-You may want to review some master data prior to deployment so that you don&amp;rsquo;t run into errors in later shipping that can be avoided. See the end of the documentation for more information.The settings that affect XRechnung can be found in the Per Client section under the PEPPOL/XRechnung Setup tab.</description>
+You may want to review some master data prior to deployment so that you don&amp;rsquo;t run into errors in later shipping that can be avoided. See the end of the documentation for more information. The settings that affect XRechnung can be found in the Per Client section under the PEPPOL/XRechnung Setup tab.</description>
       </item>
       
       <item>
@@ -60,10 +60,10 @@ You may want to review some master data prior to deployment so that you don&amp;
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/xrechnung/gateway_id/</guid>
         <description>Routing ID As mentioned earlier, the routing ID is used to uniquely identify invoice recipients to enable addressing and, if necessary, routing of electronic invoices to the correct administrative units. Basically, a routing ID consists of the following components:
-Coarse addressing
-Fine addressing (optional)
-Check digit
-Further information on the structure of a routing ID can be found here.
+  Coarse addressing
+  Fine addressing (optional)
+  Check digit
+  Further information on the structure of a routing ID can be found here.
 The Connector is able to check the syntax of a route ID for correctness.</description>
       </item>
       
@@ -86,15 +86,15 @@ As soon as one of the above buttons has been activated, an XRechnung will be gen
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/xrechnung/added_documents/</guid>
         <description>Accompanying documents The XRechnung standard allows attachments to accompany invoices.
 This standard allows attachments of the following MIME (Multipurpose Internet Mail Extensions) types:
-Application/pdf (.pdf)
-Image/png (.png)
-Image/jpeg (.jpg)
-Text/CSV (.csv)
-Application/vnd.openxmlformats-officedocument.spreadsheethtml.sheet (.xslx)
-Excel tables
-Application/vnd.oasis.opendocument.spreadsheet (.ods)
-OpenDocument tables
-PDF attachments may be considered insecure by some clients and are accordingly marked as such by XRechnung Portal Deutschland. To avoid this, it is recommended to use PDF/A files instead. These have a higher security level and are therefore also classified as secure attachments by the portal.</description>
+  Application/pdf (.pdf)
+  Image/png (.png)
+  Image/jpeg (.jpg)
+  Text/CSV (.csv)
+  Application/vnd.openxmlformats-officedocument.spreadsheethtml.sheet (.xslx)
+  Excel tables
+  Application/vnd.oasis.opendocument.spreadsheet (.ods)
+  OpenDocument tables
+  PDF attachments may be considered insecure by some clients and are accordingly marked as such by XRechnung Portal Deutschland.</description>
       </item>
       
       <item>

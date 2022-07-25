@@ -20,7 +20,7 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/january/</guid>
-        <description>Erweiterungen von Standardfeatures &amp;amp; Neue Features: Die Drag &amp;amp; Drop Funktion ist nun auch via Outlook verwendbar Neues Feld/Tabelle für das verwalten von Standard BCC/CC-Adressen Optimierungen: Die Drag &amp;amp; Drop-Funktion kann nun in Verbindung mit Mails aus Outlook verwendet werden Anpassen der Logik für die Erkennung eines abgebrochenen Dialogs </description>
+        <description>Erweiterungen von Standardfeatures &amp;amp; Neue Features:  Die Drag &amp;amp; Drop Funktion ist nun auch via Outlook verwendbar Neues Feld/Tabelle für das verwalten von Standard BCC/CC-Adressen  Optimierungen:  Die Drag &amp;amp; Drop-Funktion kann nun in Verbindung mit Mails aus Outlook verwendet werden Anpassen der Logik für die Erkennung eines abgebrochenen Dialogs  </description>
       </item>
       
       <item>
@@ -29,7 +29,7 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/february/</guid>
-        <description>Optimierungen: Anhangsdateien aus E-Mails werden nun in com_pdf statt in com_tmp abgelegt. </description>
+        <description>Optimierungen:  Anhangsdateien aus E-Mails werden nun in com_pdf statt in com_tmp abgelegt.  </description>
       </item>
       
       <item>
@@ -38,7 +38,7 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/march/</guid>
-        <description>Erweiterungen von Standardfeatures &amp;amp; Neue Features: Neues Feld in der Einrichtung um den Ablagepfad von Daten zur Verarbeitung der CTI-Daten Neue Tabelle für den CTI-Status der Nutzer </description>
+        <description>Erweiterungen von Standardfeatures &amp;amp; Neue Features:  Neues Feld in der Einrichtung um den Ablagepfad von Daten zur Verarbeitung der CTI-Daten Neue Tabelle für den CTI-Status der Nutzer  </description>
       </item>
       
       <item>
@@ -47,7 +47,7 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/april/</guid>
-        <description>Erweiterungen von Standardfeatures &amp;amp; Neue Features: Passwort-Feld in der Kommunikationsmatrix um verarbeitete Daten via iPaper zu verschlüsseln Neues Modul: CTI Optimierungen: Anpassen der Feldnamen in der Kommunikationsmatrix um die Verwendung zu verallgemeinern Kundenname -&amp;gt; Name Kundennr. -&amp;gt; Nr. </description>
+        <description>Erweiterungen von Standardfeatures &amp;amp; Neue Features:  Passwort-Feld in der Kommunikationsmatrix um verarbeitete Daten via iPaper zu verschlüsseln Neues Modul: CTI  Optimierungen:  Anpassen der Feldnamen in der Kommunikationsmatrix um die Verwendung zu verallgemeinern  Kundenname -&amp;gt; Name Kundennr. -&amp;gt; Nr.    </description>
       </item>
       
       <item>
@@ -56,7 +56,7 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/july/</guid>
-        <description>Erweiterungen von Standardfeatures &amp;amp; Neue Features: Neue E-POST API für den hybriden Versand von Briefen aus Dynamics NAV Versand von Briefe via POST AT aus Dynamics NAV Anpassen der Funktionen zum Versand von hybriden Briefen via E-POST BOX </description>
+        <description>Erweiterungen von Standardfeatures &amp;amp; Neue Features:  Neue E-POST API für den hybriden Versand von Briefen aus Dynamics NAV Versand von Briefe via POST AT aus Dynamics NAV Anpassen der Funktionen zum Versand von hybriden Briefen via E-POST BOX  </description>
       </item>
       
       <item>
@@ -65,8 +65,8 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/august/</guid>
-        <description>Erweiterungen von Standardfeatures &amp;amp; Neue Features: Veröffentlichung der Connector NAV Templates
-Bietet jeweils unsere Funktionsknöpfe schon integriert in verschiedene Belege. Neues Modul - Connector NAV/365 HR für die Verwendung der Connector NAV Funktionen in Verbindung mit HR-Funktionalitäten Neues Feld für Bodytexte Neues Feld zum ein/ausschalten des Tesversands von E-POST-Briefen </description>
+        <description>Erweiterungen von Standardfeatures &amp;amp; Neue Features:  Veröffentlichung der Connector NAV Templates
+Bietet jeweils unsere Funktionsknöpfe schon integriert in verschiedene Belege. Neues Modul - Connector NAV/365 HR für die Verwendung der Connector NAV Funktionen in Verbindung mit HR-Funktionalitäten  Neues Feld für Bodytexte   Neues Feld zum ein/ausschalten des Tesversands von E-POST-Briefen  </description>
       </item>
       
       <item>
@@ -75,7 +75,7 @@ Bietet jeweils unsere Funktionsknöpfe schon integriert in verschiedene Belege. 
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/september/</guid>
-        <description>Erweiterungen von Standardfeatures &amp;amp; Neue Features: Neue Felder in der Kommunikationsmatrix PDF/A-Level PDF/A-ZUGFeRD Anhang Optimierungen: Die oben genannten Felder auf 200 Zeichen erweitert </description>
+        <description>Erweiterungen von Standardfeatures &amp;amp; Neue Features:  Neue Felder in der Kommunikationsmatrix  PDF/A-Level PDF/A-ZUGFeRD Anhang    Optimierungen:  Die oben genannten Felder auf 200 Zeichen erweitert  </description>
       </item>
       
       <item>
@@ -84,7 +84,7 @@ Bietet jeweils unsere Funktionsknöpfe schon integriert in verschiedene Belege. 
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/october/</guid>
-        <description>Erweiterungen von Standardfeatures &amp;amp; Neue Features: Der CTI-Client öffnet sich nun automatisch bei Start von Dynamics NAV Globale Einstellung des PDF-Levels ist nun möglich Passwortverschlüsselung via Kommunikationsmatrix Neue PEPPOL-Funktionalitäten in der Kommunikationsmatrix Einstellung des PDF-Levels in der Kommunikationxmatrix Neues Dateigröße-Feld bei dem anhängen von Dateien Optimierungen: Anpassungen in der Drag &amp;amp; Drop Funktion bestimmte Funktionen wurden in die CTI-Codeunit übertragen Abweichende Absender via Office 365 SMTP im HR-Modul </description>
+        <description>Erweiterungen von Standardfeatures &amp;amp; Neue Features:  Der CTI-Client öffnet sich nun automatisch bei Start von Dynamics NAV Globale Einstellung des PDF-Levels ist nun möglich Passwortverschlüsselung via Kommunikationsmatrix Neue PEPPOL-Funktionalitäten in der Kommunikationsmatrix Einstellung des PDF-Levels in der Kommunikationxmatrix Neues Dateigröße-Feld bei dem anhängen von Dateien   Optimierungen:  Anpassungen in der Drag &amp;amp; Drop Funktion bestimmte Funktionen wurden in die CTI-Codeunit übertragen Abweichende Absender via Office 365 SMTP im HR-Modul  </description>
       </item>
       
       <item>
@@ -93,7 +93,7 @@ Bietet jeweils unsere Funktionsknöpfe schon integriert in verschiedene Belege. 
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/november/</guid>
-        <description>Erweiterungen von Standardfeatures &amp;amp; Neue Features: Automatisches drehen von Dokumenten in Hochkant via iPaper Optimierungen: Optimierungen für den Web-Client Änderungen bei der Seite für die Drag &amp;amp; Drop Funktion Anpassung des Uploadordners von Briefpapier </description>
+        <description>Erweiterungen von Standardfeatures &amp;amp; Neue Features:  Automatisches drehen von Dokumenten in Hochkant via iPaper  Optimierungen:  Optimierungen für den Web-Client Änderungen bei der Seite für die Drag &amp;amp; Drop Funktion Anpassung des Uploadordners von Briefpapier  </description>
       </item>
       
       <item>
@@ -102,7 +102,7 @@ Bietet jeweils unsere Funktionsknöpfe schon integriert in verschiedene Belege. 
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/december/</guid>
-        <description>Optimierungen: Das Zeichenlimit eines Texfelds in der Einrichtung wurde entfernt. </description>
+        <description>Optimierungen:  Das Zeichenlimit eines Texfelds in der Einrichtung wurde entfernt.  </description>
       </item>
       
     

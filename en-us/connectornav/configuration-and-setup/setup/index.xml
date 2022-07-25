@@ -34,8 +34,7 @@ All imporant settings are deposited in the Connector NAV setup once.</descriptio
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/configuration-and-setup/setup/user_setup_connectornav/</guid>
         <description>The Connector NAV User setup For the use of the Connector NAV, an entry is created here for each user.
 Register general Connector NAV user setup, register general
-Field describtion UserID Here, the NAV standard table User Setup is referenced. Extern UserID An external user ID can be entered here. E-mail This e-mail address is used when sending e-mails using the Connector NAV.
-For IncaMail, the e-mail of the IncaMail account is entered.</description>
+   Field describtion      UserID Here, the NAV standard table User Setup is referenced.   Extern UserID An external user ID can be entered here.   E-mail This e-mail address is used when sending e-mails using the Connector NAV.</description>
       </item>
       
       <item>
@@ -46,9 +45,8 @@ For IncaMail, the e-mail of the IncaMail account is entered.</description>
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/configuration-and-setup/setup/user_report_setup_connectornav/</guid>
         <description>The Connector NAV User report setup Using the User Report Setup you can set more individual preferences per user, report and language. A setting in the user report setup has higher priority than the Connector NAV user setup (e.g. email sender).
 Actions Connector NAV user report setup, actions
-Actions describtion Bodytext/SMS Bodytext
-Attached file 1 - 4 These actions can be used to display the intended document. Client/Server stationery
-Printing process stationery</description>
+   Actions describtion      Bodytext/SMS Bodytext
+Attached file 1 - 4 These actions can be used to display the intended document.</description>
       </item>
       
       <item>
@@ -71,7 +69,7 @@ The illustration above shows an example of the setup of the target addresses for
         <description>Communication matrix The communication matrix is the special setup of destination addresses. With the overview described above, global destination addresses are determined (e.g. sale to contact, e-mail field). Exceptions can be determined with the communication matrix.
 Connector NAV Communication matrix overview
 In the lower part of the map there is an overview of the existing global settings. The exceptions only take effect if there is also a global setting.
-Field describtion Job mode Selection of the job mode.</description>
+   Field describtion      Job mode Selection of the job mode.</description>
       </item>
       
       <item>

@@ -52,8 +52,7 @@ Nachdem Sie den Pfad angelegt haben, gehen wir wieder wie schon im letzten Beisp
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/peppol/standard/</guid>
         <description>Peppol im Standard Auch im Standard von Microsoft Dynamics NAV/365 BC lassen sich PEPPOL Belege erzeugen. Jedoch erst ab Version 2016 aufwärts. Die Versionsmöglichkeiten sehen wie folgt aus:
-Ab Dynamics NAV 2016 PEPPOL 2.0 Ab Dynamics NAV 2016 PEPPOL 2.1 Ab Business Central 14 PEPPOL 3.0 Für mehr Informationen, wie Sie PEPPOL im Standard nutzen können, greifen Sie bitte auf offizielle Dokumentationen von Microsoft zurück wie z.B.
-„Gewusst wie: Einrichten des Senden und Empfangen von elektronischen</description>
+         Ab Dynamics NAV 2016 PEPPOL 2.0   Ab Dynamics NAV 2016 PEPPOL 2.1   Ab Business Central 14 PEPPOL 3.0    Für mehr Informationen, wie Sie PEPPOL im Standard nutzen können, greifen Sie bitte auf offizielle Dokumentationen von Microsoft zurück wie z.</description>
       </item>
       
     

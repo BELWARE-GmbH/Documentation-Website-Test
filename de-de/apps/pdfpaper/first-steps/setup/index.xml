@@ -35,9 +35,9 @@ Rufen Sie die Nutzeroberfläche der Serverversion auf, dies erfolgt über die Wi
         <description>Einrichtung Connector 365 PdfPaper Damit Sie die Connector 365 pdfPaper App nutzen können, müssen Sie zunächst die hinterlegten Pfade des IPapers in Business Central hinterlegen.
 Dies erfolgt über die &amp;ldquo;Connector 365 Einrichtung&amp;rdquo;. Diese können Sie über die Suchfunktion finden.
 Screenshot aus der Connector 365 Einrichtung:
-PDFPaper-Eingabeordner:
-Hier wird der Eingangsorder aus der IPaper-Einrichtung angegeben. PDFPaper-Ausgabeordner:
-Hier wird der Ausgangsordner aus der IPaper-Einrichtung angegeben. Hinweis
+ PDFPaper-Eingabeordner:
+ Hier wird der Eingangsorder aus der IPaper-Einrichtung angegeben.  PDFPaper-Ausgabeordner:
+ Hier wird der Ausgangsordner aus der IPaper-Einrichtung angegeben.  Hinweis
 Die zuvor eingerichteten Eingabe-und Ausgabepfade aus dem IPaper, müssen mit den in Business Central einzurichtenden Pfaden identisch sein.</description>
       </item>
       

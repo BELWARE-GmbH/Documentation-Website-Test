@@ -41,7 +41,7 @@ The images must first be made available at a suitable location, for example via 
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/html-word/bodytexts/</guid>
         <description>Tabular body text A good way to design a body text clearly is to insert a table into the file and then take this as a basis for further editing. This also allows further design options such as highlighting different cells or variable placement of text/images.
-If wished, you must hide the border lines when you are done with your table.Place holder in body texts For an email body text template, you can use place holders for components that are individual to each employee, for example, name or email address.</description>
+If wished, you must hide the border lines when you are done with your table. Place holder in body texts For an email body text template, you can use place holders for components that are individual to each employee, for example, name or email address.</description>
       </item>
       
     

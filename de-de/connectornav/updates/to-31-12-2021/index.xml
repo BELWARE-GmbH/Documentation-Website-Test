@@ -49,7 +49,7 @@ XRechnungs/Peppol-Felder im Dialog - DOKU</description>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2021/august/</guid>
-        <description>Erweiterungen von Standardfeatures &amp;amp; Neue Features: Vorläufige Abrechnungen sind jetzt an den Connector NAV angebunden Bonituren sind jetzt an den Connector NAV angebunden Joblisten-Einträge können nun in ein Blobfeld importiert werden Optimierungen Verbessern der Funktion zum abrufen der Telefonnummer. Verbessern des E-Mail Feedbacks. Eine Funktion wurde durch eine gleichwertige ersetzt. Eine ungenutzt Variable wurde aus der XRechnungseinrichtung entfernt. </description>
+        <description>Erweiterungen von Standardfeatures &amp;amp; Neue Features:  Vorläufige Abrechnungen sind jetzt an den Connector NAV angebunden Bonituren sind jetzt an den Connector NAV angebunden Joblisten-Einträge können nun in ein Blobfeld importiert werden  Optimierungen  Verbessern der Funktion zum abrufen der Telefonnummer. Verbessern des E-Mail Feedbacks. Eine Funktion wurde durch eine gleichwertige ersetzt. Eine ungenutzt Variable wurde aus der XRechnungseinrichtung entfernt.  </description>
       </item>
       
       <item>
@@ -58,7 +58,7 @@ XRechnungs/Peppol-Felder im Dialog - DOKU</description>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2021/september/</guid>
-        <description>Erweiterungen von Standardfeatures &amp;amp; Neue Features: Implementieren einer neuen Funktion die das importieren &amp;amp; exportieren der Jobliste in Blobs erlaubt. Im Dialog kann der E-Mail CC nun durch einen Assist-Knopf gesetzt werden. Optimierungen: Vor dem ausführen von CTI-Events wird nun die CTI-Konfiguration geprüft. </description>
+        <description>Erweiterungen von Standardfeatures &amp;amp; Neue Features:  Implementieren einer neuen Funktion die das importieren &amp;amp; exportieren der Jobliste in Blobs erlaubt. Im Dialog kann der E-Mail CC nun durch einen Assist-Knopf gesetzt werden.  Optimierungen:  Vor dem ausführen von CTI-Events wird nun die CTI-Konfiguration geprüft.  </description>
       </item>
       
       <item>
@@ -67,7 +67,7 @@ XRechnungs/Peppol-Felder im Dialog - DOKU</description>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2021/november/</guid>
-        <description>Erweiterungen von Standardfeatures &amp;amp; Neue Features: Angebote können nun auch ohne Debitor versendet werden Die Kommentarfunktion der Jobliste beinhaltet nun ein &amp;ldquo;Firma&amp;rdquo;-Feld Optimierungen: Korrekturen für den Printer Jobmodus Anzahl gedruckt wird nicht erhöht wenn der Printermodus oder die Vorschaufunktion genutzt wird </description>
+        <description>Erweiterungen von Standardfeatures &amp;amp; Neue Features:  Angebote können nun auch ohne Debitor versendet werden Die Kommentarfunktion der Jobliste beinhaltet nun ein &amp;ldquo;Firma&amp;rdquo;-Feld  Optimierungen:  Korrekturen für den Printer Jobmodus Anzahl gedruckt wird nicht erhöht wenn der Printermodus oder die Vorschaufunktion genutzt wird  </description>
       </item>
       
     

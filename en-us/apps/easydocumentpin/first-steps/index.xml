@@ -52,12 +52,10 @@ In case a question could not be answered, we will be glad to help you personally
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easydocumentpin/first-steps/setup/</guid>
         <description>First steps Setup Permission sets Before you start the setup, you need to assign new permission sets to the users of the app. In doing so, we provide the following:
-CON365, VIEW
+  CON365, VIEW
 This basically allows users to interact with the app and send receipts with automatic attachments.
-CON365, EDIT
-In the case of the Easy Document Pin app, this set provides the same permissions as VIEW.
-CON365, SETUP
-This permission set is necessary to make changes to the app setup and should be assigned to the administrator.</description>
+  CON365, EDIT
+In the case of the Easy Document Pin app, this set provides the same permissions as VIEW.</description>
       </item>
       
     

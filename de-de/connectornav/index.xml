@@ -40,7 +40,7 @@
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/status-view/</guid>
         <description>Einrichtungsempfehlung der Statusübersicht Die Jobliste kann unsortiert einschüchternd wirken, deshalb zeigen wir Ihnen in diesem Dokument ein Beispiel wie Sie Ihre Jobliste einrichten können.
 Übersicht „Spalten auswählen…“
-Lfd. Nr. Die laufende Nr. des Jobs. Name Name des Empfängers. Jobrichtung Ist der Job eingehend oder ausgehend. Email Absender Wer die E-Mail abgeschickt hat. Jobmodus Wie der Job verarbeitet wurde. EmailCC Ggf. der CC Empfänger. Versand über Wie wurde der Job versendet. Dateien Anzahl der verschickten Dateien.</description>
+           Lfd. Nr. Die laufende Nr. des Jobs. Name Name des Empfängers.   Jobrichtung Ist der Job eingehend oder ausgehend. Email Absender Wer die E-Mail abgeschickt hat.   Jobmodus Wie der Job verarbeitet wurde.</description>
       </item>
       
       <item>
@@ -140,7 +140,7 @@ Lfd. Nr. Die laufende Nr. des Jobs. Name Name des Empfängers. Jobrichtung Ist d
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/sms/</guid>
         <description>Die Dokumentation für das Modul SMS Das Modul SMS erlaubt Ihnen den Versand von SMS an Ihre Kontakte, ganz einfach aus Navision mithilfe des Connector NAV. So können Sie Ihre Kontakte auch ganz einfach Mobil erreichen.
-Durch den Versand von SMS entstehen je nach Anbieter und Schnittstelle zusätzliche kosten.</description>
+Durch den Versand von SMS entstehen je nach Anbieter und Schnittstelle zusätzliche kosten. </description>
       </item>
       
       <item>

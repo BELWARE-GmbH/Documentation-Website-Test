@@ -30,10 +30,9 @@ Die Leitweg-ID soll die Adressierung und ggf. Weiterleitung der eingegangenen el
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/first-steps/setup/setup-customer/</guid>
-        <description>Einrichtung Debitor Die Einstellungen, um Rechnungen und Gutschriften im XRechnung-Format senden zu können, werden am jeweiligen Debitor vorgenommen. Unter „Navigieren“ - „Dokumentlayouts“ des jeweiligen Debitors.
-Wenn Sie die Dokumentlayouts öffnen stehen Ihnen nun neue Felder zur Verfügung.
-„Leitweg-ID“ und „Beleg als Anhang hinzufügen“
-In das Feld „Leitweg-ID“ wird die Leitweg-ID des Debitors eingetragen. Diese ist notwendig, um einen Rechnungsempfänger eindeutig identifizieren zu können. Dieses Feld unterliegt einer Syntax-Prüfung und erlaubt nur gültige Leitweg-IDs</description>
+        <description>Einrichtung Debitor Die Einstellungen, um Belege im XRechnung-Format senden zu können, werden am jeweiligen Debitor vorgenommen. Unter „Navigieren“ - „Dokumentlayouts“ des jeweiligen Debitors.
+Wenn Sie die Dokumentlayouts öffnen stehen Ihnen nun folgende neue Felder zur Verfügung:
+ Leitweg-ID Beleg als Anhang hinzufügen  In das Feld Leitweg-ID wird die Leitweg-ID des Debitors eingetragen. Diese ist notwendig, um einen Rechnungsempfänger eindeutig identifizieren zu können. Dieses Feld unterliegt einer Syntax-Prüfung und erlaubt nur gültige Leitweg-IDs</description>
       </item>
       
       <item>

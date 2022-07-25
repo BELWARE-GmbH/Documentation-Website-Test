@@ -24,7 +24,7 @@
 In the Connector NAV setup, under the Control tab, it is possible to set when a response should be sent for fax or mail dispatch.
 The sending requires a setup of the internal SMTP of Microsoft Dynamics NAV.
 Following options are avaiable:
-Field describtion &amp;lt;&amp;gt; No feedback dispatch Always Feedback independend of status. + Feedback for positive operations. - Feedback for negative operations. </description>
+   Field describtion      &amp;lt;&amp;gt; No feedback dispatch   Always Feedback independend of status.   + Feedback for positive operations.</description>
       </item>
       
       <item>
@@ -36,7 +36,7 @@ Field describtion &amp;lt;&amp;gt; No feedback dispatch Always Feedback independ
         <description>The Connector NAV user report setup Sending faxes from Dynamics NAV is possible from any page, in the following an offer is used as an example.
 Connector NAV user report setup, register general
 For sending status messages, a record is created in the user report setup with the following parameters:
-Field describtion User Empty Language Empty ReportID 0 Bodytext file Bodytext file for the Status feedback. HTML bodytext Yes if the bodytext is a HTML file.</description>
+   Field describtion      User Empty   Language Empty   ReportID 0   Bodytext file Bodytext file for the Status feedback.</description>
       </item>
       
     

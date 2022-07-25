@@ -24,7 +24,7 @@
 Mit der Default-Funktion werden die Felder com_job bis com_form mittels des Servernamens automatisch eingetragen. Die Funktion DocImport erzeugt für alle Dokumente, die im Dokumenteneingangsverzeichnis hinterlegt sind, einen Eintrag in der Jobliste. Somit können externe Dokumente in Microsoft Dynamics NAV zugänglich gemacht werden.
 Register Allgemein Connector NAV Einrichtung, Register Allgemein
 In der Connector NAV-Einrichtung werden alle wichtigen Einstellungen einmalig hinterlegt.
-Feldbeschreibung Servername Um die Funktion Default Einstellungen zu nutzen, wird hier der Rechnername eintragen, auf dem die Netzwerkfreigabe erstellt wurde.</description>
+   Feldbeschreibung      Servername Um die Funktion Default Einstellungen zu nutzen, wird hier der Rechnername eintragen, auf dem die Netzwerkfreigabe erstellt wurde.</description>
       </item>
       
       <item>
@@ -35,8 +35,7 @@ Feldbeschreibung Servername Um die Funktion Default Einstellungen zu nutzen, wir
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/configuration-and-setup/setup/user_setup_connectornav/</guid>
         <description>Die Connector NAV Benutzer Einrichtung Für die Nutzung des Connector NAV wird hier für jeden Benutzer ein Eintrag erstellt.
 Register Allgemein Connector NAV Benutzer Einrichtung, Register Allgemein
-Feldbeschreibung Benutzer-ID Hier wird auf die NAV-Standardtabelle Benutzer Einrichtung referenziert. Externe Benutzer-ID Hier kann eine externe Benutzer-ID eingetragen werden. E-Mail Diese E-Mail-Adresse wird beim Versand von E-Mails mittels des Connector NAV benutzt.
-Für IncaMail wird die E-Mail des IncaMail Kontos eingetragen. Arbeitsgruppe Wenn der Dokumenteneingang genutzt wird, kann hier eine Arbeitsgruppe angelegt werden.</description>
+   Feldbeschreibung      Benutzer-ID Hier wird auf die NAV-Standardtabelle Benutzer Einrichtung referenziert.   Externe Benutzer-ID Hier kann eine externe Benutzer-ID eingetragen werden.   E-Mail Diese E-Mail-Adresse wird beim Versand von E-Mails mittels des Connector NAV benutzt.</description>
       </item>
       
       <item>
@@ -47,10 +46,8 @@ Für IncaMail wird die E-Mail des IncaMail Kontos eingetragen. Arbeitsgruppe Wen
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/configuration-and-setup/setup/user_report_setup_connectornav/</guid>
         <description>Die Connector NAV Benutzerbericht Einrichtung Mittels der Benutzerbericht Einrichtung lassen sich individuellere Voreinstellungen pro Benutzer, Bericht und Sprache einstellen. Eine Einstellung in der Benutzerbericht Einrichtung hat höhere Priorität als die der Connector NAV Benutzer Einrichtung (z.B. E-Mail Absender).
 Aktionen Connector NAV Benutzerbericht Einrichtung, Aktionen
-Aktionenbeschreibung Bodytext/SMS Bodytext
-Anhangsdatei 1 - 4 Über diese Aktionen kann das gewünschte Dokument angezeigt werden. Briefpapier Client/Server
-Briefpapier für den Vorgang Ausdruck
-Client/Server Über diese Aktionen kann das Briefpapier angezeigt werden.</description>
+   Aktionenbeschreibung      Bodytext/SMS Bodytext
+Anhangsdatei 1 - 4 Über diese Aktionen kann das gewünschte Dokument angezeigt werden.   Briefpapier Client/Server</description>
       </item>
       
       <item>
@@ -73,7 +70,7 @@ Die Abbildung oben zeigt ein Beispiel für die Einrichtung der Zieladressen für
         <description>Kommunikationsmatrix Die Kommunikationsmatrix ist die spezielle Einrichtung von Zieladressen. Mit der oben beschriebenen Übersicht werden globale Zieladressen bestimmt (z.B. Verkauf an Kontakt, Feld E-Mail). Mit der Kommunikationsmatrix können Ausnahmen bestimmt werden.
 Connector NAV Kommunikationsmatrix Übersicht
 Im unteren Bereich der Karte gibt es eine Übersicht der vorhandenen Globalen Einstellungen. Die Ausnahmen wirken sich nur aus, wenn es auch eine globale Einstellung gibt.
-Feldbeschreibung Jobmodus Auswahl des Jobmodus. BerichtsID Auswahl des Berichtes, in der Abbildung oben handelt es sich um die Standardberichte.</description>
+   Feldbeschreibung      Jobmodus Auswahl des Jobmodus.</description>
       </item>
       
       <item>

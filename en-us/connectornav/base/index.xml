@@ -20,9 +20,8 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/base/base_overview/</guid>
-        <description>The Baseoverview Please note that functions are also described for modules whose license you have not purchased. These should usually be recognizable by the context.The Connector NAV Job List Overview Important fields Connector NAV Job List Overview
-The Connector NAV job list overview displays the respective job orders with all required information in tabular form. The figure above shows a small part of the job list overview.
-field describtion Sequence no.</description>
+        <description>The Baseoverview Please note that functions are also described for modules whose license you have not purchased. These should usually be recognizable by the context.  The Connector NAV Job List Overview Important fields Connector NAV Job List Overview
+The Connector NAV job list overview displays the respective job orders with all required information in tabular form. The figure above shows a small part of the job list overview.</description>
       </item>
       
       <item>
@@ -34,7 +33,7 @@ field describtion Sequence no.</description>
         <description>The PDF creation With Connector NAV Basis you have the possibility to create and manage simple PDF documents directly in Dynamics NAV.
 The creation of PDF files from Dynamics NAV is possible from any page, in the following an offer is used as an example.
 Extract sample offer Connector NAV Integration
-Actions PDF This action creates the PDF. Status This action leads you to the job list and to the corresponding entry.</description>
+   Actions      PDF This action creates the PDF.   Status This action leads you to the job list and to the corresponding entry.</description>
       </item>
       
       <item>

@@ -32,7 +32,7 @@ Darstellung einer Kontaktübersicht, Firma und Mitarbeiter. Beispiel Möbel-Mell
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/matrix/definitions/</guid>
         <description>Grundlegende Begriffserklärungen Im Laufe der Dokumentation werden bestimmte Begriffe verwendet. Diese und deren Bedeutung wollen wir zuvor noch abklären.
-Feld Nr. Feldname Englisch Feldname Deutsch 1 Sell-to Customer No. Verk. an Deb.-Nr. 2 Sell-to Customer Name Verk. an Name 3 Sell to Contact No. Verk. an Kontaktnr. Feld Nr. Feldname Englisch Feldname Deutsch 1 Bill-to Customer No. Rech. an Deb.-Nr. 2 Bill-to Customer Name Rech. an Name 3 Bill to Contact No.</description>
+   Feld Nr. Feldname Englisch Feldname Deutsch     1 Sell-to Customer No. Verk. an Deb.-Nr.   2 Sell-to Customer Name Verk. an Name   3 Sell to Contact No. Verk. an Kontaktnr.        Feld Nr. Feldname Englisch Feldname Deutsch     1 Bill-to Customer No.</description>
       </item>
       
       <item>
@@ -93,7 +93,7 @@ Wie genau der jeweilige Beleg verarbeitet werden soll, können Sie in unserer Ko
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/matrix/options/</guid>
         <description>Optionen &amp;amp; erweiterte Optionen der Kommunikationsmatrix Die folgenden Funktionen finden Sie in der Kommunikationsmatrix. Ab Punkt 11 sind diese nur in Verbindung mit dem pdfPaper-Modul verwendbar.
-Feld Name Funktion 1 Stapelmodus legt fest, ob der Eintrag ebenfalls für die Verarbeitung im Stapelmodus gilt 2 TabellenID legt fest, auf welche Tabelle sich der Eintrag bezieht (Deb./Kred./Kontakt) 3 Tabellenname wird automatisch mit dem Namen der Tabelle gefüllt 4 Nr. Lfd. Nummer des Deb.</description>
+   Feld Name Funktion     1 Stapelmodus legt fest, ob der Eintrag ebenfalls für die Verarbeitung im Stapelmodus gilt   2 TabellenID legt fest, auf welche Tabelle sich der Eintrag bezieht (Deb./Kred./Kontakt)   3 Tabellenname wird automatisch mit dem Namen der Tabelle gefüllt   4 Nr.</description>
       </item>
       
     

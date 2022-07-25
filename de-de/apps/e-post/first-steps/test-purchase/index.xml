@@ -22,8 +22,8 @@
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/first-steps/test-purchase/appsource/</guid>
         <description>Test &amp;amp; Kauf AppSource Die Connector 365 E-POST App* steht Ihnen im Microsoft AppSource zur Verfügung.
 Zur Nutzung der App wird eine kostenlose Registrierung zur E-POSTBUSINESS API vorausgesetzt.
-Information finden Sie hier: RegistrierungIhnen stehen als registrierter E-POST Kunde folgende Möglichkeiten zur Verfügung:
-Testmodus Versand - Sie erhalten den Brief per E-Mail an eine zuvor angegebene Adresse. Produktiver Versand - Ihr Brief wird an den Empfänger gesendet. Für beide Optionen benötigen Sie Ihre EKP-Nummer.</description>
+Information finden Sie hier: Registrierung Ihnen stehen als registrierter E-POST Kunde folgende Möglichkeiten zur Verfügung:
+ Testmodus Versand - Sie erhalten den Brief per E-Mail an eine zuvor angegebene Adresse. Produktiver Versand - Ihr Brief wird an den Empfänger gesendet.  Für beide Optionen benötigen Sie Ihre EKP-Nummer.</description>
       </item>
       
       <item>
@@ -33,7 +33,8 @@ Testmodus Versand - Sie erhalten den Brief per E-Mail an eine zuvor angegebene A
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/first-steps/test-purchase/onprem/</guid>
         <description>Test &amp;amp; Kauf OnPrem Sie haben die Möglichkeit unsere Connector 365 E-POST App* unverbindlich vorab zu testen oder auch direkt zu erwerben. Hier für benötigen wir einige Informationen von Ihnen.
-Zum FormularWünschen Sie eine Testphase, erhalten Sie von uns die gewünschten Objekte für einen User und einen Testzeitraum von 30 Tagen. Vor Ablauf des Testzeitraums setzen wir uns mit Ihnen in Verbindung zwecks Übernahme in Kauf oder Deaktivierung der Testphase.</description>
+Zum Formular
+Wünschen Sie eine Testphase, erhalten Sie von uns die gewünschten Objekte für einen User und einen Testzeitraum von 30 Tagen. Vor Ablauf des Testzeitraums setzen wir uns mit Ihnen in Verbindung zwecks Übernahme in Kauf oder Deaktivierung der Testphase.</description>
       </item>
       
     
