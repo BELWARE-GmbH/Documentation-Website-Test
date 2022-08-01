@@ -22,11 +22,11 @@
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/drag-and-drop/setup/</guid>
         <description>Einrichtung Um das Modul zu installieren muss zunächst die RTC-Instanz gestoppt werden, dieser Schritt ist auf sämtlichen RTC-Servern auszuführen. Platzieren Sie anschließend die .dll-Dateien „NetUiControll.dll“ und „OutlookHandlerLib.dll“ in den folgenden Ordner:
 Ordner zum ablegen
+Wichtig: Dieser Schritt muss für alle Client-Rechner durchgeführt werden. Andernfalls erscheint folgende Fehlermeldung.
 Starten Sie nun die RTC-Instanz neu.
 Das Add-In wurde nun durch den RTC registriert. Rufen Sie nun die Steuerelement-Add-Ins-Seite auf.
 (Verwaltung/IT-Verwaltung/Allgemein/Steuerelement-Add-Ins)
-Steuerelement-Add-Ins durch Suchfunktion erreichen
-Auf der Seite öffnen Sie nun eine neue Zeile geben Sie die folgenden Parameter exakt ein:</description>
+Steuerelement-Add-Ins durch Suchfunktion erreichen</description>
       </item>
       
       <item>

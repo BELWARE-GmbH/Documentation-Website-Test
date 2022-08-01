@@ -21,9 +21,9 @@
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/msp/priorities/</guid>
         <description>Priorities By default, in Connector NAV/365 BC there are two levels that are important:
-  User reports
-  User setup
-  Example: A filled in sender field in a user report overrides the per user setting.</description>
+User reports
+User setup
+Example: A filled in sender field in a user report overrides the per user setting.</description>
       </item>
       
       <item>

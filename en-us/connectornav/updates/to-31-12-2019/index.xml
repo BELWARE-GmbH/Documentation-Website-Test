@@ -20,7 +20,7 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/january/</guid>
-        <description>Enhancements of standard features &amp;amp; new features:  Drag &amp;amp; Drop function can now also be used via Outlook New field/table for managing standard BCC/CC addresses  Optimizations:  The drag &amp;amp; drop function can now be used in conjunction with mails from Outlook Adjustment of the logic for the detection of an aborted dialog  </description>
+        <description>Enhancements of standard features &amp;amp; new features: Drag &amp;amp; Drop function can now also be used via Outlook New field/table for managing standard BCC/CC addresses Optimizations: The drag &amp;amp; drop function can now be used in conjunction with mails from Outlook Adjustment of the logic for the detection of an aborted dialog </description>
       </item>
       
       <item>
@@ -29,7 +29,7 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/february/</guid>
-        <description>Optimizations:  Attachment files from emails are now stored in com_pdf instead of com_tmp.  </description>
+        <description>Optimizations: Attachment files from emails are now stored in com_pdf instead of com_tmp. </description>
       </item>
       
       <item>
@@ -38,7 +38,7 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/march/</guid>
-        <description>Enhancements of standard features &amp;amp; new features:  New field in the setup around the storage path of data for the processing of CTI data New table for CTI status of users  </description>
+        <description>Enhancements of standard features &amp;amp; new features: New field in the setup around the storage path of data for the processing of CTI data New table for CTI status of users </description>
       </item>
       
       <item>
@@ -47,7 +47,7 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/april/</guid>
-        <description>Enhancements to standard features &amp;amp; new features:  Password field in the communication matrix to encrypt processed data via iPaper. New module: CTI  Optimizations:  Adjust field names in communication matrix to generalize usage.  Customer name -&amp;gt; Name Customer no. -&amp;gt; No.    </description>
+        <description>Enhancements to standard features &amp;amp; new features: Password field in the communication matrix to encrypt processed data via iPaper. New module: CTI Optimizations: Adjust field names in communication matrix to generalize usage. Customer name -&amp;gt; Name Customer no. -&amp;gt; No. </description>
       </item>
       
       <item>
@@ -56,7 +56,7 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/july/</guid>
-        <description>Enhancements of standard features &amp;amp; new features:  New E-POST API for hybrid sending of letters from Dynamics NAV Sending letters via POST AT from Dynamics NAV Adjustment of the functions for sending hybrid letters via E-POST BOX  </description>
+        <description>Enhancements of standard features &amp;amp; new features: New E-POST API for hybrid sending of letters from Dynamics NAV Sending letters via POST AT from Dynamics NAV Adjustment of the functions for sending hybrid letters via E-POST BOX </description>
       </item>
       
       <item>
@@ -65,8 +65,8 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/august/</guid>
-        <description>Enhancements to standard features &amp;amp; new features:  Release of Connector NAV Templates.
-Provides each of our function buttons already integrated into various documents. New Module - Connector NAV/365 HR for using Connector NAV features in conjunction with HR functionalities.  New field for body texts   New field to switch on/off test sending of E-POST letters  </description>
+        <description>Enhancements to standard features &amp;amp; new features: Release of Connector NAV Templates.
+Provides each of our function buttons already integrated into various documents. New Module - Connector NAV/365 HR for using Connector NAV features in conjunction with HR functionalities. New field for body texts New field to switch on/off test sending of E-POST letters </description>
       </item>
       
       <item>
@@ -75,7 +75,7 @@ Provides each of our function buttons already integrated into various documents.
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/september/</guid>
-        <description>Enhancements of standard features &amp;amp; new features:  New fields in the communication matrix  PDF/A Level PDF/A-ZUGFeRD attachment    Optimizations:  The above fields extended to 200 characters  </description>
+        <description>Enhancements of standard features &amp;amp; new features: New fields in the communication matrix PDF/A Level PDF/A-ZUGFeRD attachment Optimizations: The above fields extended to 200 characters </description>
       </item>
       
       <item>
@@ -84,7 +84,7 @@ Provides each of our function buttons already integrated into various documents.
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/october/</guid>
-        <description>Enhancements of standard features &amp;amp; new features:  The CTI client now opens automatically when Dynamics NAV is started. Global setting of PDF level is now possible Password encryption via communication matrix New PEPPOL functionalities in the communication matrix Setting of the PDF level in the communication matrix New file size field when attaching files   Optimizations:  Adjustments in the drag &amp;amp; drop function certain functions have been transferred to the CTI code unit Different sender via Office 365 SMTP in HR module  </description>
+        <description>Enhancements of standard features &amp;amp; new features: The CTI client now opens automatically when Dynamics NAV is started. Global setting of PDF level is now possible Password encryption via communication matrix New PEPPOL functionalities in the communication matrix Setting of the PDF level in the communication matrix New file size field when attaching files Optimizations: Adjustments in the drag &amp;amp; drop function certain functions have been transferred to the CTI code unit Different sender via Office 365 SMTP in HR module </description>
       </item>
       
       <item>
@@ -93,7 +93,7 @@ Provides each of our function buttons already integrated into various documents.
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/november/</guid>
-        <description>Enhancements of standard features &amp;amp; new features:  Automatic rotation of documents in portrait mode via iPaper  Optimizations:  Optimizations for the web client Changes to the page for the drag &amp;amp; drop function Adjustment of the upload folder of stationery  </description>
+        <description>Enhancements of standard features &amp;amp; new features: Automatic rotation of documents in portrait mode via iPaper Optimizations: Optimizations for the web client Changes to the page for the drag &amp;amp; drop function Adjustment of the upload folder of stationery </description>
       </item>
       
       <item>
@@ -102,7 +102,7 @@ Provides each of our function buttons already integrated into various documents.
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/december/</guid>
-        <description>Optimizations:  The character limit of a text field in the setup has been removed.  </description>
+        <description>Optimizations: The character limit of a text field in the setup has been removed. </description>
       </item>
       
     

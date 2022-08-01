@@ -21,8 +21,8 @@
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/pdfpaper/new-and-planned/v1.0.0.3/</guid>
         <description>New and planned Version 1.0.0.3 New features:
- Merge multiple PDF files into one Automatic rotation of PDF files if they are in landscape format Action buttons to remove stationery at the touch of a button Stationery can be set up globally under company data  Corrections:
- Correction for file name when previewing pdf stationery  Planned functions for future versions  Integration of PDF/A functionality  </description>
+Merge multiple PDF files into one Automatic rotation of PDF files if they are in landscape format Action buttons to remove stationery at the touch of a button Stationery can be set up globally under company data Corrections:
+Correction for file name when previewing pdf stationery Planned functions for future versions Integration of PDF/A functionality </description>
       </item>
       
       <item>
@@ -31,7 +31,7 @@
         <pubDate>Sat, 16 May 2020 11:39:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.12/</guid>
-        <description>New and planned Version 1.0.0.12  New permission sets  C365 View C365 Edit C365 Setup   Dependency on Connector 365 Base app version 1.0.1.23  Planned functions for future versions  Attachment functionality on furhter levels  </description>
+        <description>New and planned Version 1.0.0.12 New permission sets C365 View C365 Edit C365 Setup Dependency on Connector 365 Base app version 1.0.1.23 Planned functions for future versions Attachment functionality on furhter levels </description>
       </item>
       
       <item>
@@ -73,7 +73,7 @@ Repeat this process until your license capacity is used up.</description>
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/epost/example/</guid>
         <description>Application example Sending E-Post letters from Dynamics NAV is possible from any page, the following is an example of a Geb. sales invoice.
 Example Invoice Connector NAV Integration
-   Actions      E-POST With this action you send the E-POST.   PDF With this action you create the PDF.   Status This action takes you to the job list and the corresponding entry.   History In addition to the Status action, job entries that have been assigned to the document are also displayed here.</description>
+Actions E-POST With this action you send the E-POST. PDF With this action you create the PDF. Status This action takes you to the job list and the corresponding entry. History In addition to the Status action, job entries that have been assigned to the document are also displayed here.</description>
       </item>
       
       <item>
@@ -223,8 +223,7 @@ Once there, you will notice two new buttons, one is a check mark for batch mode 
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/working-with-xrechnung/document-types/</guid>
         <description>Working with XRechnung Processable document types for XRechnung Currently, the Connector 365 XRechung-App is able to process the following document formats as XRechnung:
- Sales invoices Sales credit memos Service invoices 1 Service credit memos 1   Note: To create XRechnung files for service reports, a premium license is required. You can order it here. The function is included OnPrem.&amp;#160;&amp;#x21a9;&amp;#xfe0e;&amp;#160;&amp;#x21a9;&amp;#xfe0e;
-   </description>
+Sales invoices Sales credit memos Service invoices 1 Service credit memos 1 Note: To create XRechnung files for service reports, a premium license is required. You can order it here. The function is included OnPrem.&amp;#160;&amp;#x21a9;&amp;#xfe0e;&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
       </item>
       
       <item>
@@ -254,7 +253,7 @@ In the overview for the RapidStart Services you now have the possibility to impo
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/working-with-cti-for-starface/incoming-calls/</guid>
         <description>Working with CTI for STARFACE Incoming calls and the CTI client The Connector 365 CTI for STARFACE app automatically opens the contact card of the calling person for incoming calls. For this process to work smoothly, two things need to be taken care of.
-  The phone number of the person calling is stored in a contact. If this is not the case, only the unknown number is displayed and a follow up action happens depending on your user setup.</description>
+The phone number of the person calling is stored in a contact. If this is not the case, only the unknown number is displayed and a follow up action happens depending on your user setup.</description>
       </item>
       
       <item>
@@ -371,7 +370,7 @@ Open the user interface of the software, this is done via the Windows search or 
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/january/</guid>
-        <description>Enhancements of standard features &amp;amp; new features:  Drag &amp;amp; Drop function can now also be used via Outlook New field/table for managing standard BCC/CC addresses  Optimizations:  The drag &amp;amp; drop function can now be used in conjunction with mails from Outlook Adjustment of the logic for the detection of an aborted dialog  </description>
+        <description>Enhancements of standard features &amp;amp; new features: Drag &amp;amp; Drop function can now also be used via Outlook New field/table for managing standard BCC/CC addresses Optimizations: The drag &amp;amp; drop function can now be used in conjunction with mails from Outlook Adjustment of the logic for the detection of an aborted dialog </description>
       </item>
       
       <item>
@@ -380,7 +379,7 @@ Open the user interface of the software, this is done via the Windows search or 
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/january/</guid>
-        <description>Enhancements of standard features &amp;amp; new features:  Test dispatch in the segments Batch dispatch via communication matrix  New batch shipping button in the templates   Control of report options via user report setup  Optimizations:  Optimizations in the E-POST code unit Error correction for standard attachments  </description>
+        <description>Enhancements of standard features &amp;amp; new features: Test dispatch in the segments Batch dispatch via communication matrix New batch shipping button in the templates Control of report options via user report setup Optimizations: Optimizations in the E-POST code unit Error correction for standard attachments </description>
       </item>
       
       <item>
@@ -413,7 +412,7 @@ The &amp;ldquo;Post &amp;amp; Process&amp;rdquo; function now also generates del
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2022/january/</guid>
-        <description>Enhancements of standard features &amp;amp; new features:  Schematron for XInvoice has been updated to version 2.1. Commission settlements are now connected to the Connector NAV. File links in the DoJob function can now be pre-populated.  Optimizations:  The function that automatically starts the CTI client is skipped if there is no CTI license. Optimization of the key row in connection with the comment function in the job list.  </description>
+        <description>Enhancements of standard features &amp;amp; new features: Schematron for XInvoice has been updated to version 2.1. Commission settlements are now connected to the Connector NAV. File links in the DoJob function can now be pre-populated. Optimizations: The function that automatically starts the CTI client is skipped if there is no CTI license. Optimization of the key row in connection with the comment function in the job list. </description>
       </item>
       
       <item>
@@ -422,7 +421,7 @@ The &amp;ldquo;Post &amp;amp; Process&amp;rdquo; function now also generates del
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/configuration-and-setup/preparations/</guid>
-        <description>Preparation Please note that functions are also described for modules whose license you have not purchased. These should usually be recognizable by the context.  Please release a directory in the network and name it e.g. &amp;ldquo;T611&amp;rdquo;. Create the required subfolders. The names of the folders are optional, but serve for a better overview regarding the Connector NAV setup.
+        <description>Preparation Please note that functions are also described for modules whose license you have not purchased. These should usually be recognizable by the context.Please release a directory in the network and name it e.g. &amp;ldquo;T611&amp;rdquo;. Create the required subfolders. The names of the folders are optional, but serve for a better overview regarding the Connector NAV setup.
 It should be noted that the users are given full permission for this folder structure.</description>
       </item>
       
@@ -461,9 +460,9 @@ The XRechnung module generates invoices and credit notes in XRechnung format and
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/msp/priorities/</guid>
         <description>Priorities By default, in Connector NAV/365 BC there are two levels that are important:
-  User reports
-  User setup
-  Example: A filled in sender field in a user report overrides the per user setting.</description>
+User reports
+User setup
+Example: A filled in sender field in a user report overrides the per user setting.</description>
       </item>
       
       <item>
@@ -474,7 +473,7 @@ The XRechnung module generates invoices and credit notes in XRechnung format and
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail-sender-plus/first-steps/setup/priority-system/</guid>
         <description>Setup The Priority System As mentioned in the introduction, the addresses that will be used are controlled by a priority
 system. The priority system works as follows, from lowest zu highest:
- Default An address per user An address per report An address per customer  This documentation will go into detail how to set up each layer to your wishes.</description>
+Default An address per user An address per report An address per customer This documentation will go into detail how to set up each layer to your wishes.</description>
       </item>
       
       <item>
@@ -576,11 +575,9 @@ All imporant settings are deposited in the Connector NAV setup once.</descriptio
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/drag-and-drop/setup/</guid>
         <description>Setup To install the module you must first stop the RTC instance, this step must be executed on all RTC servers. Then place the .dll files &amp;ldquo;NetUiControll.dll&amp;rdquo; and &amp;ldquo;OutlookHandlerLib.dll&amp;rdquo; in the following folder:
 folder to drop.
+Important: This step must be performed for all client machines. Otherwise, the following error message appears.
 Now restart the RTC instance.
-The add-in has now been registered by the RTC. Now open the control add-ins page.
-(Administration/IT Administration/General/Control Add-Ins)
-Access control add-ins through search.
-Now on the page open a new line enter the following parameters exactly:</description>
+The add-in has now been registered by the RTC. Now open the control add-ins page.</description>
       </item>
       
       <item>
@@ -600,7 +597,7 @@ Now on the page open a new line enter the following parameters exactly:</descrip
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/status-view/</guid>
         <description>Status overview setup recommendation The job list can be intimidating if unsorted, so in this document we will show you an example of how to set up your job list.
 Overview &amp;ldquo;Select columns&amp;hellip;&amp;quot;
-           Lot. no. The sequence no. of the job. Name Name of the recipient.   Job direction Is the job incoming or outgoing. Email sender Who sent the email.</description>
+Lot. no. The sequence no. of the job. Name Name of the recipient. Job direction Is the job incoming or outgoing. Email sender Who sent the email. Job Mode How the job was processed. EmailCC If applicable, the CC recipient.</description>
       </item>
       
       <item>
@@ -619,8 +616,9 @@ First open one of the reports you have set up and then open the desired document
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/base/base_overview/</guid>
-        <description>The Baseoverview Please note that functions are also described for modules whose license you have not purchased. These should usually be recognizable by the context.  The Connector NAV Job List Overview Important fields Connector NAV Job List Overview
-The Connector NAV job list overview displays the respective job orders with all required information in tabular form. The figure above shows a small part of the job list overview.</description>
+        <description>The Baseoverview Please note that functions are also described for modules whose license you have not purchased. These should usually be recognizable by the context.The Connector NAV Job List Overview Important fields Connector NAV Job List Overview
+The Connector NAV job list overview displays the respective job orders with all required information in tabular form. The figure above shows a small part of the job list overview.
+field describtion Sequence no.</description>
       </item>
       
       <item>
@@ -633,7 +631,7 @@ The Connector NAV job list overview displays the respective job orders with all 
 In the Connector NAV setup, under the Control tab, it is possible to set when a response should be sent for fax or mail dispatch.
 The sending requires a setup of the internal SMTP of Microsoft Dynamics NAV.
 Following options are avaiable:
-   Field describtion      &amp;lt;&amp;gt; No feedback dispatch   Always Feedback independend of status.   + Feedback for positive operations.</description>
+Field describtion &amp;lt;&amp;gt; No feedback dispatch Always Feedback independend of status. + Feedback for positive operations. - Feedback for negative operations. </description>
       </item>
       
       <item>
@@ -663,7 +661,7 @@ Please return at a later date, when we will have added further informative conte
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easydocumentpin/new-and-planned/v1.0.0.0/</guid>
-        <description>New and planned Version 1.0.0.0  Automatic attachment of reminded invoices to reminder on sending of reminder Control of sending by reminder level Control of sending by reminder method  Planned functions for future versions  Automatic attachment of delivery bills  </description>
+        <description>New and planned Version 1.0.0.0 Automatic attachment of reminded invoices to reminder on sending of reminder Control of sending by reminder level Control of sending by reminder method Planned functions for future versions Automatic attachment of delivery bills </description>
       </item>
       
       <item>
@@ -672,7 +670,7 @@ Please return at a later date, when we will have added further informative conte
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailexperienceplus/new-and-planned/v1.0.0.0/</guid>
-        <description>New and planned Version 1.0.0.0  Intelligent control of sender address per report via Mail Sender Plus Intelligent control of attachments at different levels via Mail Attachments Plus Intelligent control of subject line with placeholders via Mail Subject Plus  </description>
+        <description>New and planned Version 1.0.0.0 Intelligent control of sender address per report via Mail Sender Plus Intelligent control of attachments at different levels via Mail Attachments Plus Intelligent control of subject line with placeholders via Mail Subject Plus </description>
       </item>
       
       <item>
@@ -681,7 +679,7 @@ Please return at a later date, when we will have added further informative conte
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.10/</guid>
-        <description>New and planned Version 1.0.0.10  Error correction during transfer of attachments  Planned features for future versions  Attachment functionalities on further levels  </description>
+        <description>New and planned Version 1.0.0.10 Error correction during transfer of attachments Planned features for future versions Attachment functionalities on further levels </description>
       </item>
       
       <item>
@@ -690,7 +688,7 @@ Please return at a later date, when we will have added further informative conte
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail-sender-plus/new-and-planned/v1.0.0.2/</guid>
-        <description>New and planned Version 1.0.0.2  Advanced mail setup with multiple senders Changeable sender address in dialog Set an address per user A default address per report A default address per vendor/customer  Planned functions for future versions  Customize to the Mail Experience  </description>
+        <description>New and planned Version 1.0.0.2 Advanced mail setup with multiple senders Changeable sender address in dialog Set an address per user A default address per report A default address per vendor/customer Planned functions for future versions Customize to the Mail Experience </description>
       </item>
       
       <item>
@@ -699,7 +697,7 @@ Please return at a later date, when we will have added further informative conte
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/new-and-planned/v1.0.0.8/</guid>
-        <description>New and planned Version 1.0.0.8  Fix: Negative status if E-Mail Codeunit fails Fix: Write E-Mail related information to joblist  Planned functions for future versions  Integration of credit-side documents. Background generation and sending of the documents  </description>
+        <description>New and planned Version 1.0.0.8 Fix: Negative status if E-Mail Codeunit fails Fix: Write E-Mail related information to joblist Planned functions for future versions Integration of credit-side documents. Background generation and sending of the documents </description>
       </item>
       
       <item>
@@ -708,7 +706,7 @@ Please return at a later date, when we will have added further informative conte
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.1.18/</guid>
-        <description>New and planned Version 1.0.1.18  Possibility to control and overwrite XML fields by event.  Planned features for future versions  Extension and improvement of the XRechnung setting on the customer side Ident ID 1:N Improvement Dimension Events Change from KoSit to 2.01  </description>
+        <description>New and planned Version 1.0.1.18 Possibility to control and overwrite XML fields by event. Planned features for future versions Extension and improvement of the XRechnung setting on the customer side Ident ID 1:N Improvement Dimension Events Change from KoSit to 2.01 </description>
       </item>
       
       <item>
@@ -717,7 +715,7 @@ Please return at a later date, when we will have added further informative conte
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.1.0.0/</guid>
-        <description>New and planned Version 1.1.0.0  New options in the user setup  Call direction for opening the CTI page Time of opening the card Behavior if contact is not available   New module setup for STARFACE version 7.x and higher.  Planned functions for future versions  Customization of the job list to match the app Hiding the CTI functions in the Role center for non-CTI users  </description>
+        <description>New and planned Version 1.1.0.0 New options in the user setup Call direction for opening the CTI page Time of opening the card Behavior if contact is not available New module setup for STARFACE version 7.x and higher. Planned functions for future versions Customization of the job list to match the app Hiding the CTI functions in the Role center for non-CTI users </description>
       </item>
       
       <item>
@@ -726,7 +724,7 @@ Please return at a later date, when we will have added further informative conte
         <pubDate>Mon, 16 May 2022 12:44:00 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/new-and-planned/v1.0.0.7/</guid>
-        <description>New and planned Version 1.0.0.7  Dialog Pages only if allowed (GuiAllowed)  Planned functions for future versions  Integration of credit-side documents. Background generation and sending of the documents  </description>
+        <description>New and planned Version 1.0.0.7 Dialog Pages only if allowed (GuiAllowed) Planned functions for future versions Integration of credit-side documents. Background generation and sending of the documents </description>
       </item>
       
       <item>
@@ -758,7 +756,7 @@ In all tables you will find examples created by us, which should make the setup 
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/fax/example/</guid>
         <description>Application example Sending faxes from Dynamics NAV is possible from any page. In the following an offer is used as an example.
 Example Quote Connector NAV Integration
-   Actions      Fax Use this action to send the fax.   PDF With this action you create the PDF.   Status This action takes you to the job list and the corresponding entry.   History In addition to the Status action, job entries that have been assigned to the document are also displayed here.</description>
+Actions Fax Use this action to send the fax. PDF With this action you create the PDF. Status This action takes you to the job list and the corresponding entry. History In addition to the Status action, job entries that have been assigned to the document are also displayed here.</description>
       </item>
       
       <item>
@@ -769,7 +767,7 @@ Example Quote Connector NAV Integration
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/mail/example/</guid>
         <description>Application example Sending e-mails from Dynamics NAV is possible from any page, in the following an offer is used as an example.
 Extract sample offer Connector NAV Integration
-   Actions      Mailen This action sends the e-mail.   PDF This action creates the PDF.   Status This action takes you to the job list and the corresponding entry.   History In addition to the Status action, job entries that have been assigned to the document are also displayed here.</description>
+Actions Mailen This action sends the e-mail. PDF This action creates the PDF. Status This action takes you to the job list and the corresponding entry. History In addition to the Status action, job entries that have been assigned to the document are also displayed here.</description>
       </item>
       
       <item>
@@ -792,7 +790,7 @@ After the Connector 365 CTI for STARFACE app is installed, you have the option t
 After downloading, the app can be tested free of charge for 30 days.
 In case you want more users to use the app&amp;rsquo;s features, you can purchase additional licenses for a fee using our form.
 Your costs:
-   Monthly subscription incl. maintenance per environment with annual payment and term*     5,90€       Monthly subscription incl.</description>
+Monthly subscription incl. maintenance per environment with annual payment and term* 5,90€ Monthly subscription incl. maintenance per environment with monthly payment and term* 7,70€ *The subscription is for one environment within a tenant.</description>
       </item>
       
       <item>
@@ -805,7 +803,8 @@ Your costs:
 After downloading, a user can use the App completely free.
 In case that more Users want to use the function, you can simply order more licenses via our form.
 Your costs:
-   Subscription incl. maintenance*     6,90€/User       Subscription incl. maintenance*     8,30€/User    We reserve the right to change prices in the event of functional enhancements.</description>
+Subscription incl. maintenance* 6,90€/User Subscription incl. maintenance* 8,30€/User We reserve the right to change prices in the event of functional enhancements.
+To the formConnector 365 Easy Document Pin is available for the following BC licensing:</description>
       </item>
       
       <item>
@@ -818,9 +817,9 @@ Your costs:
 After downloading, a user can use the App completely free.
 In case that more Users want to use the function, you can simply order more licenses via our form.
 Your costs:
-   Subscription incl. maintenance*     0,90€/Sender    *billed either monthly, quarterly or annually
-To the form
-Connector 365 Mail Sender Plus is available for the following BC licensing:</description>
+Subscription incl. maintenance* 0,90€/Sender *billed either monthly, quarterly or annually
+To the formConnector 365 Mail Sender Plus is available for the following BC licensing:
+SaaS Essential SaaS Premium </description>
       </item>
       
       <item>
@@ -833,9 +832,9 @@ Connector 365 Mail Sender Plus is available for the following BC licensing:</des
 After downloading, a user can use the App completely free.
 In case that more Users want to use the function, you can simply order more licenses via our form.
 Your costs:
-   Subscription incl. maintenance*     0,90€    *billed either monthly, quarterly or annually
-To the form
-Connector 365 Mail Sender Plus is available for the following BC licensing:</description>
+Subscription incl. maintenance* 0,90€ *billed either monthly, quarterly or annually
+To the formConnector 365 Mail Sender Plus is available for the following BC licensing:
+SaaS Essential SaaS Premium </description>
       </item>
       
       <item>
@@ -848,7 +847,8 @@ Connector 365 Mail Sender Plus is available for the following BC licensing:</des
 After downloading, a user can use the App completely free.
 In case that more Users want to use the function, you can simply order more licenses via our form.
 Your costs:
-   Subscription incl. maintenance*     2,50€/User       Subscription incl. maintenance*     3,25€/User    We reserve the right to change prices in the event of functional enhancements.</description>
+Subscription incl. maintenance* 2,50€/User Subscription incl. maintenance* 3,25€/User We reserve the right to change prices in the event of functional enhancements.
+To the formConnector 365 Mail Experience Plus is available for the following BC licensing:</description>
       </item>
       
       <item>
@@ -861,7 +861,7 @@ Your costs:
 After downloading, the app can be tested free of charge for 30 days.
 In case you want more users to use the app&amp;rsquo;s features, you can purchase additional licenses for a fee using our form.
 Your costs:
-   Monthly subscription incl. maintenance per environment with annual payment and term*     0,90€       Monthly Subscription incl.</description>
+Monthly subscription incl. maintenance per environment with annual payment and term* 0,90€ Monthly Subscription incl. maintenance per environment with monthly payment and term* 1,20€ *The subscription is for one environment within a tenant.</description>
       </item>
       
       <item>
@@ -874,7 +874,7 @@ Your costs:
 After downloading, the app is available to you free of charge for 5 processes.
 Once these are reached, you have the option to order the app directly.
 Your costs:
-   Monthly subscription incl. maintenance per environment with annual payment and term*     19,90€       Monthly subscription incl. maintenance per environment with monthly payment and term*     25,90€    *The subscription is for one environment within a tenant.</description>
+Monthly subscription incl. maintenance per environment with annual payment and term* 19,90€ Monthly subscription incl. maintenance per environment with monthly payment and term* 25,90€ *The subscription is for one environment within a tenant.</description>
       </item>
       
       <item>
@@ -899,7 +899,7 @@ As soon as you have selected the vouchers for sending, you can start the batch.<
         <description>Configuration The Connector NAV Configuration Configurationsetup Connector NAV configuration, actions
 Before you start setting up the Connector NAV, your individual configuration data is loaded. To do this, press the Configuration setting action at the beginning. The configuration provides information about your acquired modules.
 Register Codeunit Connector NAV configuration, Register Codeunit
-   Field describtion      Fax-, Mail-, SMS-, PDF-, CTI-, IncaMail-, Archiv Codeunit For each acquired module, the corresponding object number of the code unit was entered.</description>
+Field describtion Fax-, Mail-, SMS-, PDF-, CTI-, IncaMail-, Archiv Codeunit For each acquired module, the corresponding object number of the code unit was entered.</description>
       </item>
       
       <item>
@@ -910,7 +910,7 @@ Register Codeunit Connector NAV configuration, Register Codeunit
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/first-steps/setup/setup-customer/</guid>
         <description>Setup Customer The settings to be able to send invoices and credit notes in XRechnung format are made on the respective customer. Under &amp;ldquo;Navigate&amp;rdquo; - &amp;ldquo;Document layouts&amp;rdquo; of the respective customer.
 When you open the document layouts, following new fields are now available:
- Ident ID Add document as attachment  In the field Ident ID the Ident ID of the customer is entered. This is necessary to uniquely identify an invoice recipient.</description>
+Ident ID Add document as attachment In the field Ident ID the Ident ID of the customer is entered. This is necessary to uniquely identify an invoice recipient.</description>
       </item>
       
       <item>
@@ -931,7 +931,7 @@ Two PDFs are attached, each with the standards set up per document/report</descr
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/matrix/definitions/</guid>
         <description>Basic definitions In the course of the documentation, certain terms will be used. We would like to clarify these and their meaning beforehand.
-   Field no. Field name English Field name German     1 Sell-to Customer No. Sell to Debit No.   2 Sell-to Customer Name Sell to Name   3 Sell to Contact No. Sell to Contact No.        Field No.</description>
+Field no. Field name English Field name German 1 Sell-to Customer No. Sell to Debit No. 2 Sell-to Customer Name Sell to Name 3 Sell to Contact No. Sell to Contact No. Field No. Field Name English Field Name German 1 Bill-to Customer No. Bill to Debit No.</description>
       </item>
       
       <item>
@@ -985,7 +985,7 @@ You can search for a user or select them directly. It is also possible to enter 
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/february/</guid>
-        <description>Optimizations:  Attachment files from emails are now stored in com_pdf instead of com_tmp.  </description>
+        <description>Optimizations: Attachment files from emails are now stored in com_pdf instead of com_tmp. </description>
       </item>
       
       <item>
@@ -994,7 +994,7 @@ You can search for a user or select them directly. It is also possible to enter 
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/february/</guid>
-        <description>Enhancements of standard features &amp;amp; new features:  New field in the communication matrix to control the report for Peppol New Printer &amp;ldquo;Shipping&amp;rdquo; option in the communication matrix New template for blanket orders New template contact / vendor / debtor  Optimizations:  No. field &amp;amp; Name field in communication matrix have only a 100 character limit. PEPPOL version field in the communication matrix now has a 20 character limit  </description>
+        <description>Enhancements of standard features &amp;amp; new features: New field in the communication matrix to control the report for Peppol New Printer &amp;ldquo;Shipping&amp;rdquo; option in the communication matrix New template for blanket orders New template contact / vendor / debtor Optimizations: No. field &amp;amp; Name field in communication matrix have only a 100 character limit. PEPPOL version field in the communication matrix now has a 20 character limit </description>
       </item>
       
       <item>
@@ -1063,8 +1063,7 @@ Publishing of the Connector 365 Base &amp;amp; CTI for STARFACE App the publishi
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/first-steps/test-purchase/onprem/</guid>
         <description>Test &amp;amp; Purchase OnPrem Test You have the possibility to test our Connector 365 CTI for STARFACE App without obligation or to purchase it directly. For this we need some information from you.
-To the form
-If you wish a test phase, you will receive the desired objects for one user and for a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.</description>
+To the formIf you wish a test phase, you will receive the desired objects for one user and for a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.</description>
       </item>
       
       <item>
@@ -1084,8 +1083,7 @@ Publishing of the Connector 365 Base &amp;amp; Easy Batch App the publishing of 
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/first-steps/test-purchase/onprem/</guid>
         <description>Test &amp;amp; Purchase OnPrem You have the possibility to test our Connector 365 Easy Batch App without obligation or to purchase it directly. For this we need some information from you..
-To the form
-If you wish a test phase, you will receive the desired objects for a user and a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.</description>
+To the formIf you wish a test phase, you will receive the desired objects for a user and a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.</description>
       </item>
       
       <item>
@@ -1105,8 +1103,7 @@ Publishing of the Connector 365 Base &amp;amp; Easy Document Pin App the publish
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easydocumentpin/first-steps/test-purchase/onprem/</guid>
         <description>Test &amp;amp; Purchase OnPrem Test You have the possibility to test our Connector 365 Easy Document Pin App without obligation or to purchase it directly. For this we need some information from you.
-To the form
-If you wish a test phase, you will receive the desired objects for one user and for a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.</description>
+To the formIf you wish a test phase, you will receive the desired objects for one user and for a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.</description>
       </item>
       
       <item>
@@ -1126,8 +1123,7 @@ Publishing of the Connector 365 Base &amp;amp; Mail Sender Plus App the publishi
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail-sender-plus/first-steps/test-purchase/onprem/</guid>
         <description>Test &amp;amp; Purchase OnPrem Test You have the possibility to test our Connector 365 Mail Sender Plus App without obligation or to purchase it directly. For this we need some information from you.
-To the form
-If you wish a test phase, you will receive the desired objects for one user and for a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.</description>
+To the formIf you wish a test phase, you will receive the desired objects for one user and for a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.</description>
       </item>
       
       <item>
@@ -1147,8 +1143,7 @@ Publishing of the Connector 365 Base &amp;amp; Mail Attachment Plus App the publ
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/first-steps/test-purchase/onprem/</guid>
         <description>Test &amp;amp; Purchase OnPrem Test You have the possibility to test our Connector 365 Mail Attachment Plus App without obligation or to purchase it directly. For this we need some information from you.
-To the form
-If you wish a test phase, you will receive the desired objects for one user and for a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.</description>
+To the formIf you wish a test phase, you will receive the desired objects for one user and for a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.</description>
       </item>
       
       <item>
@@ -1168,8 +1163,7 @@ Publishing of the Connector 365 Base &amp;amp; Mail Experience Plus App the publ
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailexperienceplus/first-steps/test-purchase/onprem/</guid>
         <description>Test &amp;amp; Purchase OnPrem Test You have the possibility to test our Connector 365 Mail Experience Plus App without obligation or to purchase it directly. For this we need some information from you.
-To the form
-If you wish a test phase, you will receive the desired objects for one user and for a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.</description>
+To the formIf you wish a test phase, you will receive the desired objects for one user and for a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.</description>
       </item>
       
       <item>
@@ -1189,8 +1183,7 @@ Publishing of the Connector 365 Base &amp;amp; Mail Subject Plus App the publish
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailsubject/first-steps/test-purchase/onprem/</guid>
         <description>Test &amp;amp; purchase OnPrem You have the possibility to test our Connector 365 Mail Subject Plus App without obligation or to purchase it directly. For this we need some information from you.
-To the form
-If you wish a test phase, you will receive the desired objects for a user and a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.</description>
+To the formIf you wish a test phase, you will receive the desired objects for a user and a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.</description>
       </item>
       
       <item>
@@ -1210,8 +1203,7 @@ Publishing of the Connector 365 Base &amp;amp; PdfPaper App the publishing of th
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/pdfpaper/first-steps/test-purchase/onprem/</guid>
         <description>Test &amp;amp; Purchase OnPrem You have the possibility to test our Connector 365 PdfPaper App without obligation or to purchase it directly. For this we need some information from you.
-Zum Formular
-If you wish a test phase, you will receive the desired objects for one user and for a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.</description>
+Zum FormularIf you wish a test phase, you will receive the desired objects for one user and for a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.</description>
       </item>
       
       <item>
@@ -1231,8 +1223,7 @@ Publishing of the Connector 365 Base &amp;amp; XRechnung App the publishing of t
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/first-steps/test-purchase/onprem/</guid>
         <description>Test &amp;amp; Purchase OnPrem You have the possibility to test our Connector 365 Mail Attachment Plus App without obligation or to purchase it directly. For this we need some information from you.
-To the form
-If you wish a test phase, you will receive the desired objects for one user and for a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.</description>
+To the formIf you wish a test phase, you will receive the desired objects for one user and for a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.</description>
       </item>
       
       <item>
@@ -1254,11 +1245,11 @@ PdfPaperOut - Here you have to specify the output folder from the iPaper setup.<
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/xrechnung/receipts/</guid>
         <description>Possible document types Currently it is possible to convert the following document types into an XRechnung:
-  Sales invoices
-  Sales credit memos
-  Service invoices
-  Service credit memos
-  The following sections demonstrate an example of XRechnung generation for sales invoices. The procedures shown here for sales invoices are almost identical to those for the other possible document types. That is, you can perform the methods shown here analogously for the other types, such as service credit memos.</description>
+Sales invoices
+Sales credit memos
+Service invoices
+Service credit memos
+The following sections demonstrate an example of XRechnung generation for sales invoices. The procedures shown here for sales invoices are almost identical to those for the other possible document types. That is, you can perform the methods shown here analogously for the other types, such as service credit memos.</description>
       </item>
       
       <item>
@@ -1319,7 +1310,8 @@ The name of the Microsoft Dynamics 365 Business Central users as well as the res
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/epost/dialog/</guid>
         <description>The dialog Actions Dialog Mode Email, Actions
-   Actions      View attachments 1-4 This action allows you to view the selected attachments.   Add files Via this action you can select additional files to be sent as attachments.   Show Documents Via this action you can view the added documents as a list.    Register General Dialog Mode E-POST, Register General</description>
+Actions View attachments 1-4 This action allows you to view the selected attachments. Add files Via this action you can select additional files to be sent as attachments. Show Documents Via this action you can view the added documents as a list. Register General Dialog Mode E-POST, Register General
+field description Job No. Unique job number, assigned by the Connector NAV. UserID Current login Report Name The report name assigned to the report.</description>
       </item>
       
       <item>
@@ -1331,7 +1323,7 @@ The name of the Microsoft Dynamics 365 Business Central users as well as the res
         <description>The PDF creation With Connector NAV Basis you have the possibility to create and manage simple PDF documents directly in Dynamics NAV.
 The creation of PDF files from Dynamics NAV is possible from any page, in the following an offer is used as an example.
 Extract sample offer Connector NAV Integration
-   Actions      PDF This action creates the PDF.   Status This action leads you to the job list and to the corresponding entry.</description>
+Actions PDF This action creates the PDF. Status This action leads you to the job list and to the corresponding entry.</description>
       </item>
       
       <item>
@@ -1363,7 +1355,7 @@ On the pages on which the Drag &amp;amp; Drop function is integrated, you will n
         <description>The Connector NAV user report setup Sending faxes from Dynamics NAV is possible from any page, in the following an offer is used as an example.
 Connector NAV user report setup, register general
 For sending status messages, a record is created in the user report setup with the following parameters:
-   Field describtion      User Empty   Language Empty   ReportID 0   Bodytext file Bodytext file for the Status feedback.</description>
+Field describtion User Empty Language Empty ReportID 0 Bodytext file Bodytext file for the Status feedback. HTML bodytext Yes if the bodytext is a HTML file.</description>
       </item>
       
       <item>
@@ -1374,7 +1366,8 @@ For sending status messages, a record is created in the user report setup with t
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/configuration-and-setup/setup/user_setup_connectornav/</guid>
         <description>The Connector NAV User setup For the use of the Connector NAV, an entry is created here for each user.
 Register general Connector NAV user setup, register general
-   Field describtion      UserID Here, the NAV standard table User Setup is referenced.   Extern UserID An external user ID can be entered here.   E-mail This e-mail address is used when sending e-mails using the Connector NAV.</description>
+Field describtion UserID Here, the NAV standard table User Setup is referenced. Extern UserID An external user ID can be entered here. E-mail This e-mail address is used when sending e-mails using the Connector NAV.
+For IncaMail, the e-mail of the IncaMail account is entered.</description>
       </item>
       
       <item>
@@ -1396,7 +1389,7 @@ Check if the marked e-mail field is filled in (correctly). Make any necessary ch
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/pdfpaper/working-with-pdfpaper/stationery/</guid>
         <description>Working with the PdfPaper App Using the stationery Once stored, the stationery is automatically remembered when PDFs are created. In doing so, we support any operation where a PDF is provided.
 We support the following reports
-   Sales Purchase     Quote Inquiries   Sales Order Purchase Order   Blanket purchase order Blanket sales order   Post. sales invoice Sales purchase invoice   Post.</description>
+Sales Purchase Quote Inquiries Sales Order Purchase Order Blanket purchase order Blanket sales order Post. sales invoice Sales purchase invoice Post. sales credit memo Post. purchase credit memo Reg. Reminder Our other apps that involve PDF creation also support the Connector 365 PdfPaper app:</description>
       </item>
       
       <item>
@@ -1405,7 +1398,7 @@ We support the following reports
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailsubject/new-and-planned/v1.0.0.0/</guid>
-        <description>New and planned Version 1.0.0.0  Freely definable subjects per report Freely definable subjects per vendor/customer via document layouts Own placeholders for dynamic subjects  Planned functions for future versions  Increase length of desired placeholders Multilingual placeholders Preview function  </description>
+        <description>New and planned Version 1.0.0.0 Freely definable subjects per report Freely definable subjects per vendor/customer via document layouts Own placeholders for dynamic subjects Planned functions for future versions Increase length of desired placeholders Multilingual placeholders Preview function </description>
       </item>
       
       <item>
@@ -1414,7 +1407,7 @@ We support the following reports
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/pdfpaper/new-and-planned/v1.0.0.0/</guid>
-        <description>New and planned Version 1.0.0.0  Setting of stationery per report &amp;amp; customer Create multiple stationery Preview function  Planned functions for future versions  Additional functions from PdfPaper module Global stationery in company data Stationery per company  </description>
+        <description>New and planned Version 1.0.0.0 Setting of stationery per report &amp;amp; customer Create multiple stationery Preview function Planned functions for future versions Additional functions from PdfPaper module Global stationery in company data Stationery per company </description>
       </item>
       
       <item>
@@ -1423,7 +1416,7 @@ We support the following reports
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailsubject/new-and-planned/v1.0.0.1/</guid>
-        <description>New and planned Version 1.0.0.1  Copy from report selection&amp;quot; function in the document layouts  Planned functions for future versions  Increase length of desired placeholders Multilingual placeholders Preview function  </description>
+        <description>New and planned Version 1.0.0.1 Copy from report selection&amp;quot; function in the document layouts Planned functions for future versions Increase length of desired placeholders Multilingual placeholders Preview function </description>
       </item>
       
       <item>
@@ -1432,7 +1425,7 @@ We support the following reports
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.9/</guid>
-        <description>New and planned Version 1.0.0.9  New function &amp;ldquo;Copy from Report Selection&amp;rdquo; Error correction  Planned features for future versions  Attachment functionalities on further levels  </description>
+        <description>New and planned Version 1.0.0.9 New function &amp;ldquo;Copy from Report Selection&amp;rdquo; Error correction Planned features for future versions Attachment functionalities on further levels </description>
       </item>
       
       <item>
@@ -1441,7 +1434,7 @@ We support the following reports
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.1.11/</guid>
-        <description>New and planned Version 1.0.1.11  Document layout now overrides report selection per usage. Error correction dialog: Subpage &amp;ldquo;Attachments&amp;rdquo; was displayed twice. The correct e-mail layout is now always used. Service area is now available for XRechnung.  Planned features for future versions  Extension and improvement of the XRechnung setting on the customer side Ident ID 1:N Improvement Dimension Events Change from KoSit to 2.01  </description>
+        <description>New and planned Version 1.0.1.11 Document layout now overrides report selection per usage. Error correction dialog: Subpage &amp;ldquo;Attachments&amp;rdquo; was displayed twice. The correct e-mail layout is now always used. Service area is now available for XRechnung. Planned features for future versions Extension and improvement of the XRechnung setting on the customer side Ident ID 1:N Improvement Dimension Events Change from KoSit to 2.01 </description>
       </item>
       
       <item>
@@ -1450,7 +1443,7 @@ We support the following reports
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.8/</guid>
-        <description>New and planned Version 1.0.1.8  The phone notes can now be edited afterwards. It is possible to set when the CTI card opens.  Planned functions for future versions  Automatic creation of contacts for unknown numbers Customization of the job list to match the app Hiding the CTI functions in the Role center for non-CTI users  </description>
+        <description>New and planned Version 1.0.1.8 The phone notes can now be edited afterwards. It is possible to set when the CTI card opens. Planned functions for future versions Automatic creation of contacts for unknown numbers Customization of the job list to match the app Hiding the CTI functions in the Role center for non-CTI users </description>
       </item>
       
       <item>
@@ -1473,7 +1466,7 @@ The best way to access these is via search - open the search function and search
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/html-word/bodytexts/</guid>
         <description>Tabular body text A good way to design a body text clearly is to insert a table into the file and then take this as a basis for further editing. This also allows further design options such as highlighting different cells or variable placement of text/images.
-If wished, you must hide the border lines when you are done with your table. Place holder in body texts For an email body text template, you can use place holders for components that are individual to each employee, for example, name or email address.</description>
+If wished, you must hide the border lines when you are done with your table.Place holder in body texts For an email body text template, you can use place holders for components that are individual to each employee, for example, name or email address.</description>
       </item>
       
       <item>
@@ -1548,7 +1541,7 @@ Set up task queue In order for the function to work as intended, you must first 
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/pdfpaper/example_print/</guid>
         <description>Example progress printout With the action printout you can mix your documents with your stationary and print them on a printer of your chioce. Various functions are avaiable to you for this.
 Dialog process printout Actions Connector NAV Dialog printout mode, actions
-   Actions      Display stationery for the Printout operation This action can be used to display the stationery from the interface transfer.    Register pdfPaper Connector NAV Dialog printout mode, register pdfPaper</description>
+Actions Display stationery for the Printout operation This action can be used to display the stationery from the interface transfer. Register pdfPaper Connector NAV Dialog printout mode, register pdfPaper</description>
       </item>
       
       <item>
@@ -1580,7 +1573,7 @@ After submitting your contact information, you will be prompted to choose a lang
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/march/</guid>
-        <description>Enhancements of standard features &amp;amp; new features:  New field in the setup around the storage path of data for the processing of CTI data New table for CTI status of users  </description>
+        <description>Enhancements of standard features &amp;amp; new features: New field in the setup around the storage path of data for the processing of CTI data New table for CTI status of users </description>
       </item>
       
       <item>
@@ -1624,7 +1617,7 @@ Afterwards you can enter the desired address into the &amp;ldquo;Email Sender&am
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/xrechnung/setup/</guid>
         <description>Setup The setup for XRechnung is done in the Connector-Setup and in the Communication Matrix. To get into Setup, go to Connector 365 -&amp;gt; Setup as shown in the following image.
-You may want to review some master data prior to deployment so that you don&amp;rsquo;t run into errors in later shipping that can be avoided. See the end of the documentation for more information. The settings that affect XRechnung can be found in the Per Client section under the PEPPOL/XRechnung Setup tab.</description>
+You may want to review some master data prior to deployment so that you don&amp;rsquo;t run into errors in later shipping that can be avoided. See the end of the documentation for more information.The settings that affect XRechnung can be found in the Per Client section under the PEPPOL/XRechnung Setup tab.</description>
       </item>
       
       <item>
@@ -1689,8 +1682,7 @@ If this is the first time you open this window, the selection will be empty.</de
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/fax/dialog/</guid>
-        <description>The dialogue Actions Dialog Mode Email, Actions
-   Actions      Add files This action allows you to select additional files to be sent as attachments.   Show Documents This action displays the added documents as a list.   Show Attachments 1-4 Via this action you can view the selected attachments.    General tab Dialog Mode Fax, General tab</description>
+        <description>The dialogue Actions Dialog Mode Email, ActionsActions Add files This action allows you to select additional files to be sent as attachments. Show Documents This action displays the added documents as a list. Show Attachments 1-4 Via this action you can view the selected attachments. General tab Dialog Mode Fax, General tabfield description Job No. Unique job number, assigned by Connector NAV UserID Current login Report Name the report name assigned to the report (from the interface transfer) Document number document number of the document (from the interface transfer) Name Name of the contact (from the interface transfer) File type File type of the document (from the interface transfer) Job mode Job mode of the operation (from the interface transfer) Log Print Preset according to setup or user setup, mark the job for log printing Send via This field shows the fax interface.</description>
       </item>
       
       <item>
@@ -1700,7 +1692,7 @@ If this is the first time you open this window, the selection will be empty.</de
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/mail/dialog/</guid>
         <description>The dialog Actions Dialog modus E-mail, actions
-   Actions      Edit body text This action can be used to edit the body text from the interface transfer.   Change body text Via this action you can select another body text.   Add Files Use this action to select additional files to be sent as attachments.   Show Documents Use this action to display the added documents as a list.</description>
+Actions Edit body text This action can be used to edit the body text from the interface transfer. Change body text Via this action you can select another body text. Add Files Use this action to select additional files to be sent as attachments. Show Documents Use this action to display the added documents as a list. Show Attachments 1-4 Via this action you can view the selected attachments.</description>
       </item>
       
       <item>
@@ -1732,8 +1724,9 @@ If you want to create a new group, click &amp;ldquo;New&amp;rdquo; to activate t
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/configuration-and-setup/setup/user_report_setup_connectornav/</guid>
         <description>The Connector NAV User report setup Using the User Report Setup you can set more individual preferences per user, report and language. A setting in the user report setup has higher priority than the Connector NAV user setup (e.g. email sender).
 Actions Connector NAV user report setup, actions
-   Actions describtion      Bodytext/SMS Bodytext
-Attached file 1 - 4 These actions can be used to display the intended document.</description>
+Actions describtion Bodytext/SMS Bodytext
+Attached file 1 - 4 These actions can be used to display the intended document. Client/Server stationery
+Printing process stationery</description>
       </item>
       
       <item>
@@ -1742,7 +1735,7 @@ Attached file 1 - 4 These actions can be used to display the intended document.<
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/new-and-planned/v1.0.0.6/</guid>
-        <description>New and planned Version 1.0.0.6  Logic when selecting the report layout aligned with the standard  Planned functions for future versions  Integration of credit-side documents. Background generation and sending of the documents  </description>
+        <description>New and planned Version 1.0.0.6 Logic when selecting the report layout aligned with the standard Planned functions for future versions Integration of credit-side documents. Background generation and sending of the documents </description>
       </item>
       
       <item>
@@ -1751,7 +1744,7 @@ Attached file 1 - 4 These actions can be used to display the intended document.<
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.8/</guid>
-        <description>New and planned Version 1.0.0.8  Error correction during transfer of attachments  Planned features for future versions  Attachment functionalities on further levels  </description>
+        <description>New and planned Version 1.0.0.8 Error correction during transfer of attachments Planned features for future versions Attachment functionalities on further levels </description>
       </item>
       
       <item>
@@ -1760,7 +1753,7 @@ Attached file 1 - 4 These actions can be used to display the intended document.<
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.3/</guid>
-        <description>New and planned Version 1.0.1.3  Warning when closing the CTI Client Changes to the module setup  Planned functions for future versions  Automatic creation of contacts for unknown numbers Customization of the job list to match the app Editable CTI notes Hiding the CTI functions in the Role center for non-CTI users  </description>
+        <description>New and planned Version 1.0.1.3 Warning when closing the CTI Client Changes to the module setup Planned functions for future versions Automatic creation of contacts for unknown numbers Customization of the job list to match the app Editable CTI notes Hiding the CTI functions in the Role center for non-CTI users </description>
       </item>
       
       <item>
@@ -1769,7 +1762,7 @@ Attached file 1 - 4 These actions can be used to display the intended document.<
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.1.5/</guid>
-        <description>New and planned Version 1.0.1.3  Bug fixes Support for service invoices and service credit notes  Planned features for future versions  Extension and improvement of the XRechnung setting on the customer side Ident ID 1:N Improvement Dimension Events Change from KoSit to 2.01  </description>
+        <description>New and planned Version 1.0.1.3 Bug fixes Support for service invoices and service credit notes Planned features for future versions Extension and improvement of the XRechnung setting on the customer side Ident ID 1:N Improvement Dimension Events Change from KoSit to 2.01 </description>
       </item>
       
       <item>
@@ -1821,7 +1814,7 @@ You will notice a new &amp;ldquo;Email Sender&amp;rdquo; field once the dialog o
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/april/</guid>
-        <description>Enhancements to standard features &amp;amp; new features:  Password field in the communication matrix to encrypt processed data via iPaper. New module: CTI  Optimizations:  Adjust field names in communication matrix to generalize usage.  Customer name -&amp;gt; Name Customer no. -&amp;gt; No.    </description>
+        <description>Enhancements to standard features &amp;amp; new features: Password field in the communication matrix to encrypt processed data via iPaper. New module: CTI Optimizations: Adjust field names in communication matrix to generalize usage. Customer name -&amp;gt; Name Customer no. -&amp;gt; No. </description>
       </item>
       
       <item>
@@ -1975,7 +1968,7 @@ Web: www.message-mobile.de</description>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/peppol/standard/</guid>
         <description>Peppol in the standard PEPPOL documents can also be created in the standard Microsoft Dynamics NAV/365 BC. However, only from version 2016 upwards. The version options are as follows:
-         As of Dynamics NAV 2016 PEPPOL 2.0   As of Dynamics NAV 2016 PEPPOL 2.1   As of Business Central 14 PEPPOL 3.0    For more information on how to use PEPPOL in the standard, please refer to official documentation from Microsoft, such as</description>
+As of Dynamics NAV 2016 PEPPOL 2.0 As of Dynamics NAV 2016 PEPPOL 2.1 As of Business Central 14 PEPPOL 3.0 For more information on how to use PEPPOL in the standard, please refer to official documentation from Microsoft, such as</description>
       </item>
       
       <item>
@@ -1994,10 +1987,10 @@ Web: www.message-mobile.de</description>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/xrechnung/gateway_id/</guid>
         <description>Routing ID As mentioned earlier, the routing ID is used to uniquely identify invoice recipients to enable addressing and, if necessary, routing of electronic invoices to the correct administrative units. Basically, a routing ID consists of the following components:
-  Coarse addressing
-  Fine addressing (optional)
-  Check digit
-  Further information on the structure of a routing ID can be found here.
+Coarse addressing
+Fine addressing (optional)
+Check digit
+Further information on the structure of a routing ID can be found here.
 The Connector is able to check the syntax of a route ID for correctness.</description>
       </item>
       
@@ -2018,10 +2011,12 @@ The most important fields here are “Usage”, “Report ID” and our newly ad
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easydocumentpin/first-steps/setup/</guid>
         <description>First steps Setup Permission sets Before you start the setup, you need to assign new permission sets to the users of the app. In doing so, we provide the following:
-  CON365, VIEW
+CON365, VIEW
 This basically allows users to interact with the app and send receipts with automatic attachments.
-  CON365, EDIT
-In the case of the Easy Document Pin app, this set provides the same permissions as VIEW.</description>
+CON365, EDIT
+In the case of the Easy Document Pin app, this set provides the same permissions as VIEW.
+CON365, SETUP
+This permission set is necessary to make changes to the app setup and should be assigned to the administrator.</description>
       </item>
       
       <item>
@@ -2053,8 +2048,8 @@ Simply change the address in the &amp;ldquo;Email sender&amp;rdquo; field to the
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2018/</guid>
         <description>Older updates until 31.12.2018 The following Connector NAV versions are no longer supported and have been discontinued:
- Version &amp;lt; 00.125CU as of 12/31/2019 Version &amp;lt;00.125 as of 12/31/2018 Version &amp;lt;00.30 as of 12/31/2017 Version &amp;lt;00.05 as of 12/31/2016 Version &amp;lt;5.90 as of 12/31/2014 Version &amp;lt;5.55 as of 12/31/2013  In the following section you will find an overview of the respective innovations in a version:
- Innovations Version x.xx.160 Changes version 7.</description>
+Version &amp;lt; 00.125CU as of 12/31/2019 Version &amp;lt;00.125 as of 12/31/2018 Version &amp;lt;00.30 as of 12/31/2017 Version &amp;lt;00.05 as of 12/31/2016 Version &amp;lt;5.90 as of 12/31/2014 Version &amp;lt;5.55 as of 12/31/2013 In the following section you will find an overview of the respective innovations in a version:
+Innovations Version x.xx.160 Changes version 7.01.125 CU Innovations version 6.</description>
       </item>
       
       <item>
@@ -2089,7 +2084,7 @@ SetJoblistSubject(„Jobno.“ : Integer;NewSubject : Text[250]) This function c
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/new-and-planned/v1.0.0.0/</guid>
-        <description>New and planned Version 1.0.0.0  Intelligent process control Batch processing of documents Control via document sending profiles  Planned functions for future versions  Integration of credit-side documents. Background generation and sending of the documents  </description>
+        <description>New and planned Version 1.0.0.0 Intelligent process control Batch processing of documents Control via document sending profiles Planned functions for future versions Integration of credit-side documents. Background generation and sending of the documents </description>
       </item>
       
       <item>
@@ -2098,7 +2093,7 @@ SetJoblistSubject(„Jobno.“ : Integer;NewSubject : Text[250]) This function c
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.7/</guid>
-        <description>New and planned Version 1.0.0.7  Bug fixes Improving the translation Document attachments as email attachments  Planned features for future versions  Attachment functionalities on further levels  </description>
+        <description>New and planned Version 1.0.0.7 Bug fixes Improving the translation Document attachments as email attachments Planned features for future versions Attachment functionalities on further levels </description>
       </item>
       
       <item>
@@ -2107,7 +2102,7 @@ SetJoblistSubject(„Jobno.“ : Integer;NewSubject : Text[250]) This function c
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.1/</guid>
-        <description>New and planned Version 1.0.1.1  CTI status in Role center Button to open the CTI Client in the Role center Automatic conversion of phone numbers Freely definable CTI page Web service is generated automatically  Planned functions for future versions  Automatic creation of contacts for unknown numbers Customization of the job list to match the app Editable CTI notes Hiding the CTI functions in the Role center for non-CTI users  </description>
+        <description>New and planned Version 1.0.1.1 CTI status in Role center Button to open the CTI Client in the Role center Automatic conversion of phone numbers Freely definable CTI page Web service is generated automatically Planned functions for future versions Automatic creation of contacts for unknown numbers Customization of the job list to match the app Editable CTI notes Hiding the CTI functions in the Role center for non-CTI users </description>
       </item>
       
       <item>
@@ -2116,7 +2111,7 @@ SetJoblistSubject(„Jobno.“ : Integer;NewSubject : Text[250]) This function c
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.1.3/</guid>
-        <description>New and planned Version 1.0.1.3  Bug fixes Integration to Easy Batch  Planned features for future versions  Service invoices and service credit notes Extension and improvement of the XRechnung setting on the customer side Ident ID 1:N Improvement Dimension Events Change from KoSit to 2.01  </description>
+        <description>New and planned Version 1.0.1.3 Bug fixes Integration to Easy Batch Planned features for future versions Service invoices and service credit notes Extension and improvement of the XRechnung setting on the customer side Ident ID 1:N Improvement Dimension Events Change from KoSit to 2.01 </description>
       </item>
       
       <item>
@@ -2128,7 +2123,7 @@ SetJoblistSubject(„Jobno.“ : Integer;NewSubject : Text[250]) This function c
         <description>Communication matrix The communication matrix is the special setup of destination addresses. With the overview described above, global destination addresses are determined (e.g. sale to contact, e-mail field). Exceptions can be determined with the communication matrix.
 Connector NAV Communication matrix overview
 In the lower part of the map there is an overview of the existing global settings. The exceptions only take effect if there is also a global setting.
-   Field describtion      Job mode Selection of the job mode.</description>
+Field describtion Job mode Selection of the job mode.</description>
       </item>
       
       <item>
@@ -2281,7 +2276,7 @@ Here you should now fill the field “Tax category” with the respective design
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.5/</guid>
-        <description>New and planned Version 1.0.0.5  Bug fixes  Planned features for future versions  Attachment functionalities on further levels  </description>
+        <description>New and planned Version 1.0.0.5 Bug fixes Planned features for future versions Attachment functionalities on further levels </description>
       </item>
       
       <item>
@@ -2290,7 +2285,7 @@ Here you should now fill the field “Tax category” with the respective design
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.0/</guid>
-        <description>New and planned Version 1.0.1.0  Minor corrections Click to Dial for phone and mobile number Show unknown numbers on incoming calls The CTI client opens automatically when you log in to Business Central  Planned functions for future versions  Refining the Role center Automatic creation of contacts for unknown numbers Customization of the job list to match the app Editable CTI notes  </description>
+        <description>New and planned Version 1.0.1.0 Minor corrections Click to Dial for phone and mobile number Show unknown numbers on incoming calls The CTI client opens automatically when you log in to Business Central Planned functions for future versions Refining the Role center Automatic creation of contacts for unknown numbers Customization of the job list to match the app Editable CTI notes </description>
       </item>
       
       <item>
@@ -2299,7 +2294,7 @@ Here you should now fill the field “Tax category” with the respective design
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.1.1/</guid>
-        <description>New and planned Version 1.0.1.1  The Connector 365 XRechnung app now relies on our base app Adding events to control the XRechnung Bug fixes  Planned features for future versions  Service invoices and service credit notes Extension and improvement of the XRechnung setting on the customer side Ident ID 1:N Improvement Dimension Events Change from KoSit to 2.01  </description>
+        <description>New and planned Version 1.0.1.1 The Connector 365 XRechnung app now relies on our base app Adding events to control the XRechnung Bug fixes Planned features for future versions Service invoices and service credit notes Extension and improvement of the XRechnung setting on the customer side Ident ID 1:N Improvement Dimension Events Change from KoSit to 2.01 </description>
       </item>
       
       <item>
@@ -2309,7 +2304,7 @@ Here you should now fill the field “Tax category” with the respective design
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/videos/</guid>
         <description>Videos Here you can find some informative videos about our Connector 365 CTI for STARFACE App, each video covers a special topic
-Connector 365 CTI for STARFACE - Quick Overview </description>
+Connector 365 CTI for STARFACE - Quick Overview </description>
       </item>
       
       <item>
@@ -2319,7 +2314,7 @@ Connector 365 CTI for STARFACE - Quick Overview </description>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/videos/</guid>
         <description>Videos Here you can find some informative videos about our XRechnung, each video covers a special topic
-Setup &amp;amp; Sending </description>
+Setup &amp;amp; Sending </description>
       </item>
       
       <item>
@@ -2330,15 +2325,15 @@ Setup &amp;amp; Sending </description>
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/xrechnung/added_documents/</guid>
         <description>Accompanying documents The XRechnung standard allows attachments to accompany invoices.
 This standard allows attachments of the following MIME (Multipurpose Internet Mail Extensions) types:
-  Application/pdf (.pdf)
-  Image/png (.png)
-  Image/jpeg (.jpg)
-  Text/CSV (.csv)
-  Application/vnd.openxmlformats-officedocument.spreadsheethtml.sheet (.xslx)
-  Excel tables
-  Application/vnd.oasis.opendocument.spreadsheet (.ods)
-  OpenDocument tables
-  PDF attachments may be considered insecure by some clients and are accordingly marked as such by XRechnung Portal Deutschland.</description>
+Application/pdf (.pdf)
+Image/png (.png)
+Image/jpeg (.jpg)
+Text/CSV (.csv)
+Application/vnd.openxmlformats-officedocument.spreadsheethtml.sheet (.xslx)
+Excel tables
+Application/vnd.oasis.opendocument.spreadsheet (.ods)
+OpenDocument tables
+PDF attachments may be considered insecure by some clients and are accordingly marked as such by XRechnung Portal Deutschland. To avoid this, it is recommended to use PDF/A files instead. These have a higher security level and are therefore also classified as secure attachments by the portal.</description>
       </item>
       
       <item>
@@ -2401,7 +2396,7 @@ To execute Connector NAV server jobs, a task queue item is created with the corr
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/new-and-planned/v1.0.0.1/</guid>
-        <description>New and planned Version 1.0.0.1  Displaying contact data during incoming calls No missed calls, thanks to automatic call tracking Note function to write down important call details Automatic logging of start times and the length of every call  Planned functions for future versions  Call list extension - Global job list Call list in Role center Show unknown numbers on incoming calls  </description>
+        <description>New and planned Version 1.0.0.1 Displaying contact data during incoming calls No missed calls, thanks to automatic call tracking Note function to write down important call details Automatic logging of start times and the length of every call Planned functions for future versions Call list extension - Global job list Call list in Role center Show unknown numbers on incoming calls </description>
       </item>
       
       <item>
@@ -2410,7 +2405,7 @@ To execute Connector NAV server jobs, a task queue item is created with the corr
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.4/</guid>
-        <description>New and planned Version 1.0.0.4  Unlimited amount of standard attachments per document Adaptation to the Mail Experience  Planned features for future versions  Attachment functionalities on further levels  </description>
+        <description>New and planned Version 1.0.0.4 Unlimited amount of standard attachments per document Adaptation to the Mail Experience Planned features for future versions Attachment functionalities on further levels </description>
       </item>
       
       <item>
@@ -2419,7 +2414,7 @@ To execute Connector NAV server jobs, a task queue item is created with the corr
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.1.0/</guid>
-        <description>New and planned Version 1.0.1.0  Status tracking in Role center Invoice accompanying attachments Revised XRechnung dialog Syntax check of Ident ID Extension of input for Ident IDs XRechnung version adapted  Planned features for future versions  Service invoices and service credit notes Extension and improvement of the XRechnung setting on the customer side Ident ID 1:N Improvement Dimension Events Change from KoSit to 2.01  </description>
+        <description>New and planned Version 1.0.1.0 Status tracking in Role center Invoice accompanying attachments Revised XRechnung dialog Syntax check of Ident ID Extension of input for Ident IDs XRechnung version adapted Planned features for future versions Service invoices and service credit notes Extension and improvement of the XRechnung setting on the customer side Ident ID 1:N Improvement Dimension Events Change from KoSit to 2.01 </description>
       </item>
       
       <item>
@@ -2429,7 +2424,7 @@ To execute Connector NAV server jobs, a task queue item is created with the corr
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/videos/</guid>
         <description>Videos Here you can find some informative videos about our Connector 365 CTI for Easy Batch App, each video covers a special topic
-Connector 365 Easy Batch - Quick Overview Connector 365 Easy Batch - Kurzübersicht </description>
+Connector 365 Easy Batch - Quick Overview Connector 365 Easy Batch - Kurzübersicht </description>
       </item>
       
       <item>
@@ -2439,7 +2434,7 @@ Connector 365 Easy Batch - Quick Overview Connector 365 Easy Batch - Kurzübers
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easydocumentpin/videos/</guid>
         <description>Videos Here you can find some informative videos about Easy Document Pin, each video covers a special topic
-Setup and usage of Connector 365 Easy Document Pin </description>
+Setup and usage of Connector 365 Easy Document Pin </description>
       </item>
       
       <item>
@@ -2449,7 +2444,7 @@ Setup and usage of Connector 365 Easy Document Pin </description>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail-sender-plus/videos/</guid>
         <description>Videos Here you can find some informative videos about our XRechnung, each video covers a special topic
-Setup of the App </description>
+Setup of the App </description>
       </item>
       
       <item>
@@ -2459,7 +2454,7 @@ Setup of the App </description>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/videos/</guid>
         <description>Videos Here you can find some informative videos about our Mail Attachments Plus App, each video covers a special topic
-Using the App </description>
+Using the App </description>
       </item>
       
       <item>
@@ -2505,7 +2500,7 @@ Simply change the value of the Job Mode field from PDF to Email. In addition, yo
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/july/</guid>
-        <description>Enhancements of standard features &amp;amp; new features:  New E-POST API for hybrid sending of letters from Dynamics NAV Sending letters via POST AT from Dynamics NAV Adjustment of the functions for sending hybrid letters via E-POST BOX  </description>
+        <description>Enhancements of standard features &amp;amp; new features: New E-POST API for hybrid sending of letters from Dynamics NAV Sending letters via POST AT from Dynamics NAV Adjustment of the functions for sending hybrid letters via E-POST BOX </description>
       </item>
       
       <item>
@@ -2536,7 +2531,7 @@ In oder for an entry in the communication matrix to be used for the stacking run
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.0.1/</guid>
-        <description>New and planned Version 1.0.0.1  Creating an XRechnung XML file Sending the XRechnung by mail using the standard BC Mail dialog. Sending of a validation report, which confirms the conformity of the invoice to the recipient. Displaying the validation report for the user in case of &amp;ldquo;non-conformity&amp;rdquo; Aborting the sending in case of &amp;ldquo;non-conformity&amp;rdquo; Improvement of the WebService query / DLL for the check report  Planned features for future versions  Status tracking in Role center Invoice accompanying attachments Revised XRechnung dialog Syntax check of Ident ID Extension of input for Ident IDs XRechnung version adapted  </description>
+        <description>New and planned Version 1.0.0.1 Creating an XRechnung XML file Sending the XRechnung by mail using the standard BC Mail dialog. Sending of a validation report, which confirms the conformity of the invoice to the recipient. Displaying the validation report for the user in case of &amp;ldquo;non-conformity&amp;rdquo; Aborting the sending in case of &amp;ldquo;non-conformity&amp;rdquo; Improvement of the WebService query / DLL for the check report Planned features for future versions Status tracking in Role center Invoice accompanying attachments Revised XRechnung dialog Syntax check of Ident ID Extension of input for Ident IDs XRechnung version adapted </description>
       </item>
       
       <item>
@@ -2545,7 +2540,7 @@ In oder for an entry in the communication matrix to be used for the stacking run
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.3/</guid>
-        <description>New and planned Version 1.0.0.3  Unlimited number of attachments in dialog Set unlimited amount of default attachments per report Unlimited amount of standard attachments per customer/report Standard attachments limited to a specific time period Compatible with all common file types  Planned features for future versions  Unlimited amount of standard attachments per document  </description>
+        <description>New and planned Version 1.0.0.3 Unlimited number of attachments in dialog Set unlimited amount of default attachments per report Unlimited amount of standard attachments per customer/report Standard attachments limited to a specific time period Compatible with all common file types Planned features for future versions Unlimited amount of standard attachments per document </description>
       </item>
       
       <item>
@@ -2564,8 +2559,8 @@ To simulate a case where validation fails, we modify the above procedure to &amp
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/august/</guid>
-        <description>Enhancements to standard features &amp;amp; new features:  Release of Connector NAV Templates.
-Provides each of our function buttons already integrated into various documents. New Module - Connector NAV/365 HR for using Connector NAV features in conjunction with HR functionalities.  New field for body texts   New field to switch on/off test sending of E-POST letters  </description>
+        <description>Enhancements to standard features &amp;amp; new features: Release of Connector NAV Templates.
+Provides each of our function buttons already integrated into various documents. New Module - Connector NAV/365 HR for using Connector NAV features in conjunction with HR functionalities. New field for body texts New field to switch on/off test sending of E-POST letters </description>
       </item>
       
       <item>
@@ -2586,7 +2581,7 @@ In the communication matrix, the destination address field is now automatically 
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2021/august/</guid>
-        <description>Enhancements to Standard Features &amp;amp; New Features:  Preliminary billings are now connected to the Connector NAV Bonituren are now connected to the Connector NAV Job list entries can now be imported into a blob field  Optimizations  Improve the function to retrieve the phone number. Improve email feedback. One function has been replaced by an equivalent one. An unused variable has been removed from the XInvoice setup.  </description>
+        <description>Enhancements to Standard Features &amp;amp; New Features: Preliminary billings are now connected to the Connector NAV Bonituren are now connected to the Connector NAV Job list entries can now be imported into a blob field Optimizations Improve the function to retrieve the phone number. Improve email feedback. One function has been replaced by an equivalent one. An unused variable has been removed from the XInvoice setup. </description>
       </item>
       
       <item>
@@ -2606,7 +2601,7 @@ How exactly the respective document should be processed, you can set up in our c
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/matrix/options/</guid>
         <description>Options &amp;amp; advanced options of the communication matrix The following functions can be found in the communication matrix. From point 11 onwards, these can only be used in conjunction with the pdfPaper module.
-   Field Name Function     1 Stack mode specifies whether the entry also applies to batch mode processing   2 SpreadsheetID specifies to which spreadsheet the entry refers (deb./credit/contact)   3 Spreadsheet name automatically filled with the spreasheet name   4 No.</description>
+Field Name Function 1 Stack mode specifies whether the entry also applies to batch mode processing 2 SpreadsheetID specifies to which spreadsheet the entry refers (deb./credit/contact) 3 Spreadsheet name automatically filled with the spreasheet name 4 No. Lot.</description>
       </item>
       
       <item>
@@ -2615,7 +2610,7 @@ How exactly the respective document should be processed, you can set up in our c
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/september/</guid>
-        <description>Enhancements of standard features &amp;amp; new features:  New fields in the communication matrix  PDF/A Level PDF/A-ZUGFeRD attachment    Optimizations:  The above fields extended to 200 characters  </description>
+        <description>Enhancements of standard features &amp;amp; new features: New fields in the communication matrix PDF/A Level PDF/A-ZUGFeRD attachment Optimizations: The above fields extended to 200 characters </description>
       </item>
       
       <item>
@@ -2637,7 +2632,7 @@ To illustrate it, we have also prepared a video for you from our latest webcast 
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2021/september/</guid>
-        <description>Enhancements to Standard Features &amp;amp; New Features:  Implement a new feature that allows importing &amp;amp; exporting the job list in blobs. In the dialog the email CC can now be set by an assist button.  Optimizations:  Before executing CTI events, the CTI configuration is now checked.  </description>
+        <description>Enhancements to Standard Features &amp;amp; New Features: Implement a new feature that allows importing &amp;amp; exporting the job list in blobs. In the dialog the email CC can now be set by an assist button. Optimizations: Before executing CTI events, the CTI configuration is now checked. </description>
       </item>
       
       <item>
@@ -2655,7 +2650,7 @@ To illustrate it, we have also prepared a video for you from our latest webcast 
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/october/</guid>
-        <description>Enhancements of standard features &amp;amp; new features:  The CTI client now opens automatically when Dynamics NAV is started. Global setting of PDF level is now possible Password encryption via communication matrix New PEPPOL functionalities in the communication matrix Setting of the PDF level in the communication matrix New file size field when attaching files   Optimizations:  Adjustments in the drag &amp;amp; drop function certain functions have been transferred to the CTI code unit Different sender via Office 365 SMTP in HR module  </description>
+        <description>Enhancements of standard features &amp;amp; new features: The CTI client now opens automatically when Dynamics NAV is started. Global setting of PDF level is now possible Password encryption via communication matrix New PEPPOL functionalities in the communication matrix Setting of the PDF level in the communication matrix New file size field when attaching files Optimizations: Adjustments in the drag &amp;amp; drop function certain functions have been transferred to the CTI code unit Different sender via Office 365 SMTP in HR module </description>
       </item>
       
       <item>
@@ -2664,7 +2659,7 @@ To illustrate it, we have also prepared a video for you from our latest webcast 
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/november/</guid>
-        <description>Enhancements of standard features &amp;amp; new features:  Automatic rotation of documents in portrait mode via iPaper  Optimizations:  Optimizations for the web client Changes to the page for the drag &amp;amp; drop function Adjustment of the upload folder of stationery  </description>
+        <description>Enhancements of standard features &amp;amp; new features: Automatic rotation of documents in portrait mode via iPaper Optimizations: Optimizations for the web client Changes to the page for the drag &amp;amp; drop function Adjustment of the upload folder of stationery </description>
       </item>
       
       <item>
@@ -2673,7 +2668,7 @@ To illustrate it, we have also prepared a video for you from our latest webcast 
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2021/november/</guid>
-        <description>Enhancements to Standard Features &amp;amp; New Features:  Offers can now be sent without a debtor The comment function of the job list now includes a &amp;ldquo;company&amp;rdquo; field  Optimizations:  Corrections for the printer job mode Number of prints is not increased when using the printer mode or the preview function  </description>
+        <description>Enhancements to Standard Features &amp;amp; New Features: Offers can now be sent without a debtor The comment function of the job list now includes a &amp;ldquo;company&amp;rdquo; field Optimizations: Corrections for the printer job mode Number of prints is not increased when using the printer mode or the preview function </description>
       </item>
       
       <item>
@@ -2682,7 +2677,7 @@ To illustrate it, we have also prepared a video for you from our latest webcast 
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/december/</guid>
-        <description>Optimizations:  The character limit of a text field in the setup has been removed.  </description>
+        <description>Optimizations: The character limit of a text field in the setup has been removed. </description>
       </item>
       
     

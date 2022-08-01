@@ -22,7 +22,7 @@
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/epost/example/</guid>
         <description>Application example Sending E-Post letters from Dynamics NAV is possible from any page, the following is an example of a Geb. sales invoice.
 Example Invoice Connector NAV Integration
-   Actions      E-POST With this action you send the E-POST.   PDF With this action you create the PDF.   Status This action takes you to the job list and the corresponding entry.   History In addition to the Status action, job entries that have been assigned to the document are also displayed here.</description>
+Actions E-POST With this action you send the E-POST. PDF With this action you create the PDF. Status This action takes you to the job list and the corresponding entry. History In addition to the Status action, job entries that have been assigned to the document are also displayed here.</description>
       </item>
       
       <item>
@@ -32,7 +32,8 @@ Example Invoice Connector NAV Integration
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/epost/dialog/</guid>
         <description>The dialog Actions Dialog Mode Email, Actions
-   Actions      View attachments 1-4 This action allows you to view the selected attachments.   Add files Via this action you can select additional files to be sent as attachments.   Show Documents Via this action you can view the added documents as a list.    Register General Dialog Mode E-POST, Register General</description>
+Actions View attachments 1-4 This action allows you to view the selected attachments. Add files Via this action you can select additional files to be sent as attachments. Show Documents Via this action you can view the added documents as a list. Register General Dialog Mode E-POST, Register General
+field description Job No. Unique job number, assigned by the Connector NAV. UserID Current login Report Name The report name assigned to the report.</description>
       </item>
       
       <item>

@@ -21,8 +21,8 @@
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/pdfpaper/new-and-planned/v1.0.0.3/</guid>
         <description>Neu und geplant Version 1.0.0.3 Neue Funktionen:
- Mergen von mehreren PDF-Dateien zu einer einzigen Automatisches Drehen von PDF-Dateien, wenn diese im Querformat vorhanden sind Aktionsknöpfe, um Briefpapier per Knopfdruck wieder zu entfernen Briefpapier global unter Firmendaten einrichtbar  Korrekturen:
- Korrekter Dateiname bei der Vorschau von Briefpapieren  Geplante Funktionen für zukünftige Versionen  Integration von PDF/A-Funktion  </description>
+Mergen von mehreren PDF-Dateien zu einer einzigen Automatisches Drehen von PDF-Dateien, wenn diese im Querformat vorhanden sind Aktionsknöpfe, um Briefpapier per Knopfdruck wieder zu entfernen Briefpapier global unter Firmendaten einrichtbar Korrekturen:
+Korrekter Dateiname bei der Vorschau von Briefpapieren Geplante Funktionen für zukünftige Versionen Integration von PDF/A-Funktion </description>
       </item>
       
       <item>
@@ -31,7 +31,7 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/pdfpaper/new-and-planned/v1.0.0.0/</guid>
-        <description>Neu und geplant Version 1.0.0.0  Hinterlegen von Briefpapier pro Bericht &amp;amp; Debitor Anlegen von mehreren Briefpapieren Vorschaufunktion  Geplante Funktionen für zukünftige Versionen  Weitere Funktionen aus Modul PdfPaper Globales Briefpapier in Firmendaten Briefpapier je Mandant  </description>
+        <description>Neu und geplant Version 1.0.0.0 Hinterlegen von Briefpapier pro Bericht &amp;amp; Debitor Anlegen von mehreren Briefpapieren Vorschaufunktion Geplante Funktionen für zukünftige Versionen Weitere Funktionen aus Modul PdfPaper Globales Briefpapier in Firmendaten Briefpapier je Mandant </description>
       </item>
       
     

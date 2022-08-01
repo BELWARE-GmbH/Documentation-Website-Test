@@ -19,7 +19,7 @@
 
 <script defer src="/Documentation-Website-Test/js/helper/getParents.min.086022fb02d7a1517e33c2670bffb976b3e80bcacd9caeee0c6a586064f20e42.js"></script>
 
-<script defer src="/Documentation-Website-Test/js/helper/fadeinout.min.58d290b487a552ce9c144bf938c2758c4a3afbc4f17d70d11771c9e3c61fe3d0.js"></script>
+<script defer src="/Documentation-Website-Test/js/helper/fadeinout.min.9fe4b81a87e722d20c220a2b6ca145a3d8a2cb3ea1e89de55329ff417bdd9570.js"></script>
 
 <script>
   "use strict";
@@ -1083,7 +1083,7 @@
 <meta property="og:url" content="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/drag-and-drop/setup/">
 <meta property="og:type" content="article">
 
-<meta name="generator" content="Hugo 0.98.0" />
+<meta name="generator" content="Hugo 0.101.0" />
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="theme-color" content="#ffffff">
 <link rel="canonical" href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/drag-and-drop/setup/">
@@ -2929,12 +2929,12 @@ if (!doNotTrack) {
       <div class="navbar lmr">
         <div id="siteLogo" class="navbar__logo--wrapper">
   
-    <a href="/Documentation-Website-Test/de-de/" title="" rel="home" class="navbar__logo--link">
-      <img src="/Documentation-Website-Test/logo.png" alt="Home" class="navbar__logo">
+    <a href="/de-de/" title="" rel="home" class="navbar__logo--link">
+      <img src="/logo.png" alt="Home" class="navbar__logo">
     </a>
   
   
-    <a href="/Documentation-Website-Test/de-de/" title="" rel="home" class="navbar__logo--text-link">
+    <a href="/de-de/" title="" rel="home" class="navbar__logo--text-link">
       <h6 class="navbar__logo--text" data-bgimg="false">Connector 365 Online Hilfe</h6>
     </a>
   
@@ -2943,8 +2943,8 @@ if (!doNotTrack) {
         <div class="navbar__menu--wrapper">
           <div id="tabletLogo" class="hide">
   
-  <a href="/Documentation-Website-Test/de-de/" rel="home" class="navbar__logo--link">
-    <img src="/Documentation-Website-Test/logo.png" alt="Home" class="navbar__logo">
+  <a href="/de-de/" rel="home" class="navbar__logo--link">
+    <img src="/logo.png" alt="Home" class="navbar__logo">
   </a>
   
 </div>
@@ -4917,30 +4917,34 @@ if (!doNotTrack) {
     <h4 id="einrichtung">Einrichtung</h4>
 <p>Um das Modul zu installieren muss zunächst die RTC-Instanz gestoppt werden, dieser Schritt ist auf <strong>sämtlichen RTC-Servern</strong> auszuführen. Platzieren Sie anschließend die .dll-Dateien „<strong>NetUiControll.dll</strong>“ und „<strong>OutlookHandlerLib.dll</strong>“ in den folgenden Ordner:</p>
 <p><p class="md__image">
-  <img src="/Documentation-Website-Test/images/connectornav/dragdrop/einr1.png" alt=""  />
+  <img src="/images/connectornav/dragdrop/einr1.png" alt=""  />
 </p><center>Ordner zum ablegen</center></p>
+<p><em><strong>Wichtig</strong></em>: Dieser Schritt muss für alle Client-Rechner durchgeführt werden. Andernfalls erscheint folgende Fehlermeldung.</p>
+<p><p class="md__image">
+  <img src="/images/connectornav/dragdrop/error_message.png" alt=""  />
+</p></p>
 <p>Starten Sie nun die RTC-Instanz neu.<br />
 Das Add-In wurde nun durch den RTC registriert. Rufen Sie nun die Steuerelement-Add-Ins-Seite auf.</p>
 <p><em>(Verwaltung/IT-Verwaltung/Allgemein/Steuerelement-Add-Ins)</em></p>
 <p><p class="md__image">
-  <img src="/Documentation-Website-Test/images/connectornav/dragdrop/einr2.png" alt=""  />
+  <img src="/images/connectornav/dragdrop/einr2.png" alt=""  />
 </p><center>Steuerelement-Add-Ins durch Suchfunktion erreichen</center></p>
 <p>Auf der Seite öffnen Sie nun eine neue Zeile geben Sie die folgenden Parameter exakt ein:</p>
 <p><strong>Add-In-Name:     Belware.DragDropNet</strong></p>
 <p><strong>Token für öffentlichen Schlüssel: d678d7304c35f0b</strong></p>
 <p><strong>Kategorie:    Add-In für DotNet-Steuerelemente</strong></p>
 <p><p class="md__image">
-  <img src="/Documentation-Website-Test/images/connectornav/dragdrop/einr3.png" alt=""  />
+  <img src="/images/connectornav/dragdrop/einr3.png" alt=""  />
 </p><center>Übersicht Steuerelement-Add-Ins</center></p>
 <p>Starten Sie nun die erneut die RTC-Instanz neu.<br />
 Importieren Sie zunächst die Objekte der korrekten Version aus der „DragAndDropObjectsEvn“ .txt- oder .fob-Datei.<br />
 Anschließend können Sie auf einer beliebigen Card Page im Bereich FactBoxArea einen neuen Part erstellen den Sie „DragAndDrop“ nennen.</p>
 <p><p class="md__image">
-  <img src="/Documentation-Website-Test/images/connectornav/dragdrop/einr4.png" alt=""  />
+  <img src="/images/connectornav/dragdrop/einr4.png" alt=""  />
 </p></p>
 <p>In der Spalte „properties“ wählen Sie die Option „PartType“ = Page und „PagePartID“ = Drag and Drop FactBox</p>
 <p><p class="md__image">
-  <img src="/Documentation-Website-Test/images/connectornav/dragdrop/einr5.png" alt=""  />
+  <img src="/images/connectornav/dragdrop/einr5.png" alt=""  />
 </p></p>
 <p>Schreiben Sie auf der gleichen Page im trigger „OnAfterGetCurrRecord“ am Ende des trigger den folgenden Code:</p>
 <pre tabindex="0"><code>

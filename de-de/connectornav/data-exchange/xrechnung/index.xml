@@ -36,11 +36,11 @@ Das Modul XRechnung erzeugt Rechnungen und Gutschriften im XRechnung-Format und 
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/receipts/</guid>
         <description>Mögliche Belegarten Aktuell ist es möglich, folgende Belegarten in eine XRechnung umzuwandeln:
-  Verkaufsrechnungen
-  Verkaufsgutschriften
-  Servicerechnungen
-  Servicegutschriften
-  Die folgenden Abschnitte demonstrieren beispielhaft die XRechnung-Erzeugung von Verkaufsrechnungen. Die hier gezeigten Vorgehensweisen für Verkaufsrechnungen sind nahezu identisch mit denen für die jeweiligen anderen möglichen Belegarten. Das heißt, Sie können die hier gezeigten Methoden analog für die anderen Typen, beispielsweise für Servicegutschriften, durchführen. Es sind einzig minimale Anpassungen in der Einrichtung der Kommunikationsmatrix notwendig (BerichtsID, PEPPOL Verwendung).</description>
+Verkaufsrechnungen
+Verkaufsgutschriften
+Servicerechnungen
+Servicegutschriften
+Die folgenden Abschnitte demonstrieren beispielhaft die XRechnung-Erzeugung von Verkaufsrechnungen. Die hier gezeigten Vorgehensweisen für Verkaufsrechnungen sind nahezu identisch mit denen für die jeweiligen anderen möglichen Belegarten. Das heißt, Sie können die hier gezeigten Methoden analog für die anderen Typen, beispielsweise für Servicegutschriften, durchführen. Es sind einzig minimale Anpassungen in der Einrichtung der Kommunikationsmatrix notwendig (BerichtsID, PEPPOL Verwendung).</description>
       </item>
       
       <item>
@@ -50,7 +50,7 @@ Das Modul XRechnung erzeugt Rechnungen und Gutschriften im XRechnung-Format und 
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/setup/</guid>
         <description>Einrichtung Die Einrichtung für XRechnung wird in der Connector-Einrichtung und in der Kommunikationsmatrix vorgenommen. Um in die Einrichtung zu gelangen, gehen Sie auf Connector 365 -&amp;gt; Einrichtung wie im folgenden Bild gezeigt.
-Sie sollten vor dem Einsatz ggf. einige Stammdaten überprüfen, damit Sie im späteren Versand nicht auf Fehler stoßen, die sich vermeiden lassen. Weitere Informationen dazu finden Sie am Ende der Dokumentation. Die Einstellungen, die XRechnung betreffen, finden Sie im Abschnitt Pro Mandant unter dem Reiter PEPPOL/XRechnung Einrichtung</description>
+Sie sollten vor dem Einsatz ggf. einige Stammdaten überprüfen, damit Sie im späteren Versand nicht auf Fehler stoßen, die sich vermeiden lassen. Weitere Informationen dazu finden Sie am Ende der Dokumentation.Die Einstellungen, die XRechnung betreffen, finden Sie im Abschnitt Pro Mandant unter dem Reiter PEPPOL/XRechnung Einrichtung</description>
       </item>
       
       <item>
@@ -60,10 +60,10 @@ Sie sollten vor dem Einsatz ggf. einige Stammdaten überprüfen, damit Sie im sp
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/gateway_id/</guid>
         <description>Leitweg-ID Wie bereits erwähnt, dient die Leitweg-ID der eindeutigen Identifikation von Rechnungsempfängern, um die Adressierung und ggf. Weiterleitung von elektronischen Rechnungen zu den richtigen Verwaltungseinheiten zu ermöglichen. Grundsätzlich besteht eine Leitweg-ID aus folgenden Bestandteilen:
-  Grobadressierung
-  Feinadressierung (optional)
-  Prüfziffer
-  Weitere Informationen zum Aufbau einer Leitweg-ID finden Sie hier.
+Grobadressierung
+Feinadressierung (optional)
+Prüfziffer
+Weitere Informationen zum Aufbau einer Leitweg-ID finden Sie hier.
 Der Connector ist in der Lage, die Syntax einer Leitweg-ID auf Richtigkeit zu überprüfen.
 Das heißt, es wird geprüft, ob die einzelnen Bestandteile die erlaubte Anzahl an Zeichen enthalten, und ob die Prüfziffer korrekt ist.</description>
       </item>
@@ -87,15 +87,15 @@ Sobald eine der oben genannten Schaltflächen aktiviert worden ist, wird aus der
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/added_documents/</guid>
         <description>Begleitende Dokumente Der XRechnung-Standard lässt es zu, rechnungsbegleitende Anlagen anzuhängen.
 Dieser Standard erlaubt Anhänge von folgenden MIME-Typen (Multipurpose Internet Mail Extensions):
-  Application/pdf (.pdf)
-  Image/png (.png)
-  Image/jpeg (.jpg)
-  Text/CSV (.csv)
-  Application/vnd.openxmlformats-officedocument.spreadsheethtml.sheet (.xslx)
-  Excel-Tabellen
-  Application/vnd.oasis.opendocument.spreadsheet (.ods)
-  OpenDocument-Tabellen
-  PDF-Anhänge können von manchen Auftraggebern als unsicher eingestuft werden und werden dementsprechend auch vom XRechnung Portal Deutschland als solche gekennzeichnet.</description>
+Application/pdf (.pdf)
+Image/png (.png)
+Image/jpeg (.jpg)
+Text/CSV (.csv)
+Application/vnd.openxmlformats-officedocument.spreadsheethtml.sheet (.xslx)
+Excel-Tabellen
+Application/vnd.oasis.opendocument.spreadsheet (.ods)
+OpenDocument-Tabellen
+PDF-Anhänge können von manchen Auftraggebern als unsicher eingestuft werden und werden dementsprechend auch vom XRechnung Portal Deutschland als solche gekennzeichnet. Um dies zu vermeiden wird empfohlen stattdessen PDF/A-Dateien zu verwenden. Diese haben eine höhere Sicherheitsstufe und werden daher auch vom Portal als sichere Anghänge eingestuft.</description>
       </item>
       
       <item>

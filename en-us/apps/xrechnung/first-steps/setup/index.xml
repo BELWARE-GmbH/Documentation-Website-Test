@@ -32,7 +32,7 @@ The Ident ID is intended to enable addressing and, if necessary, forwarding of t
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/first-steps/setup/setup-customer/</guid>
         <description>Setup Customer The settings to be able to send invoices and credit notes in XRechnung format are made on the respective customer. Under &amp;ldquo;Navigate&amp;rdquo; - &amp;ldquo;Document layouts&amp;rdquo; of the respective customer.
 When you open the document layouts, following new fields are now available:
- Ident ID Add document as attachment  In the field Ident ID the Ident ID of the customer is entered. This is necessary to uniquely identify an invoice recipient.</description>
+Ident ID Add document as attachment In the field Ident ID the Ident ID of the customer is entered. This is necessary to uniquely identify an invoice recipient.</description>
       </item>
       
       <item>
