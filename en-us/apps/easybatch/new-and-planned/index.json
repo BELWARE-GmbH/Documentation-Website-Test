@@ -6,6 +6,38 @@
     "feed_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/new-and-planned/index.json",
     "items" : [
     {
+        "title" : "V1.0.0.17 \u0026 Roadmap",
+        "date_published" : "2022-08-01T00:00:00-05:00",
+        "date_modified" : "2022-08-01T00:00:00-05:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/new-and-planned/v1.0.0.17/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/new-and-planned/v1.0.0.17/",
+        "content_html" : "\u003ch3 id=\"new-and-planned\"\u003enew and planned\u003c/h3\u003e\n\u003ch3 id=\"version-10017\"\u003eVersion 1.0.0.17\u003c/h3\u003e\n\u003cp\u003eCorrections:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eCorrection when passing records to \u003cem\u003e\u003cstrong\u003eEasy Batch\u003c/strong\u003e\u003c/em\u003e function\u003cbr /\u003e\n\u0026ndash; Fixes possible multiple selection error\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"planned-functions-for-future-versions\"\u003ePlanned functions for future versions\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eExtension of functions to the purchasing area\u003c/li\u003e\n\u003cli\u003eBackground generation and document dispatch\u003c/li\u003e\n\u003cli\u003eBooking and processing\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
+        "title" : "V1.0.0.13 \u0026 Roadmap",
+        "date_published" : "2022-08-01T00:00:00-05:00",
+        "date_modified" : "2022-08-01T00:00:00-05:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/new-and-planned/v1.0.0.13/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/new-and-planned/v1.0.0.13/",
+        "content_html" : "\u003ch3 id=\"new-and-planned\"\u003enew and planned\u003c/h3\u003e\n\u003ch3 id=\"version-10013\"\u003eVersion 1.0.0.13\u003c/h3\u003e\n\u003cp\u003eImprovements:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eThe system now checks whether report parameters are stored and uses them to generate the report.\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eCorrections:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eCorrection when reading the document layouts:\u003cbr /\u003e\n\u0026ndash; For multiple entries with the same report ID for a debtor\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"planned-functions-for-future-versions\"\u003ePlanned functions for future versions\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eExtension of functions to the purchasing area\u003c/li\u003e\n\u003cli\u003eBackground generation and document dispatch\u003c/li\u003e\n\u003cli\u003eBooking and processing\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
+        "title" : "V1.0.0.11 \u0026 Roadmap",
+        "date_published" : "2022-08-01T00:00:00-05:00",
+        "date_modified" : "2022-08-01T00:00:00-05:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/new-and-planned/v1.0.0.11/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/new-and-planned/v1.0.0.11/",
+        "content_html" : "\u003ch3 id=\"new-and-planned\"\u003enew and planned\u003c/h3\u003e\n\u003ch3 id=\"version-10011\"\u003eVersion 1.0.0.11\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eCorrection: Progress bar of the currently processed documents corrected\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"planned-functions-for-future-versions\"\u003ePlanned functions for future versions\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eExtension of functions to the purchasing area\u003c/li\u003e\n\u003cli\u003eBackground generation and document dispatch\u003c/li\u003e\n\u003cli\u003eBooking and processing\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
+        "title" : "V1.0.0.10 \u0026 Roadmap",
+        "date_published" : "2022-08-01T00:00:00-05:00",
+        "date_modified" : "2022-08-01T00:00:00-05:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/new-and-planned/v1.0.0.10/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/new-and-planned/v1.0.0.10/",
+        "content_html" : "\u003ch3 id=\"new-and-planned\"\u003enew and planned\u003c/h3\u003e\n\u003ch3 id=\"version-1008\"\u003eVersion 1.0.0.8\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eIntegration of the \u003cem\u003e\u003cstrong\u003eConnector 365 pdfPaper\u003c/strong\u003e\u003c/em\u003e app.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"planned-functions-for-future-versions\"\u003ePlanned functions for future versions\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eExtension of functions to the purchasing area\u003c/li\u003e\n\u003cli\u003eBackground generation and document dispatch\u003c/li\u003e\n\u003cli\u003eBooking and processing\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
         "title" : "V1.0.0.8 \u0026 Roadmap",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",

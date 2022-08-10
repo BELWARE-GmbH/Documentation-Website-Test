@@ -6,6 +6,22 @@
     "feed_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/index.json",
     "items" : [
     {
+        "title" : "V1.0.1.23 \u0026 Roadmap",
+        "date_published" : "2022-08-01T00:00:00Z",
+        "date_modified" : "2022-08-01T00:00:00Z",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.23/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.23/",
+        "content_html" : "\u003ch3 id=\"neu-und-geplant\"\u003eNeu und geplant\u003c/h3\u003e\n\u003ch3 id=\"version-10123\"\u003eVersion 1.0.1.23\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eKompatibilität zu XRechnung 2.2\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
+        "title" : "V1.0.1.22 \u0026 Roadmap",
+        "date_published" : "2022-08-01T00:00:00Z",
+        "date_modified" : "2022-08-01T00:00:00Z",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.22/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.22/",
+        "content_html" : "\u003ch3 id=\"neu-und-geplant\"\u003eNeu und geplant\u003c/h3\u003e\n\u003ch3 id=\"version-10122\"\u003eVersion 1.0.1.22\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eVerbesserungen bei der Integration mit der \u003cem\u003e\u003cstrong\u003eConnector 365 Easy Batch\u003c/strong\u003e\u003c/em\u003e App\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
         "title" : "V1.0.1.18 \u0026 Roadmap",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
@@ -22,6 +38,14 @@
         "content_html" : "\u003ch3 id=\"neu-und-geplant\"\u003eNeu und geplant\u003c/h3\u003e\n\u003ch3 id=\"version-10111\"\u003eVersion 1.0.1.11\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eDokumentlayout übersteuert nun die Berichtsauswahl je Verwendung.\u003c/li\u003e\n\u003cli\u003eFehlerkorrektur Dialog: Unterpage \u0026ldquo;Anhänge\u0026rdquo; wurde doppelt angezeigt.\u003c/li\u003e\n\u003cli\u003eEs wird nun immer das richtige E-Mail Layout genommen.\u003c/li\u003e\n\u003cli\u003eServicebereich ist nun für die XRechnung verfügbar\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"geplante-funktionen-für-zukünftige-versionen\"\u003eGeplante Funktionen für zukünftige Versionen\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eErweiterung und Verbesserung der XRechnungseinstellung am Debitor\u003c/li\u003e\n\u003cli\u003eLeitweg ID 1:N Verbesserung Dimension\u003c/li\u003e\n\u003cli\u003eWechsel von Kosit auf 2.01\u003c/li\u003e\n\u003c/ul\u003e\n"
     },
     {
+        "title" : "V1.0.1.1 \u0026 Roadmap",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.1/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.1/",
+        "content_html" : "\u003ch3 id=\"neu-und-geplant\"\u003eNeu und geplant\u003c/h3\u003e\n\u003ch3 id=\"version-1011\"\u003eVersion 1.0.1.1\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eDie Connector 365 XRechnung App stützt nun auf unsere Basis App\u003c/li\u003e\n\u003cli\u003eHinzufügen von Events zur Steuerung der XRechnung\u003c/li\u003e\n\u003cli\u003eFehlerkorrekturen\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"geplante-funktionen-für-zukünftige-versionen\"\u003eGeplante Funktionen für zukünftige Versionen\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eService Rechnungen und Service Gutschriften\u003c/li\u003e\n\u003cli\u003eErweiterung und Verbesserung der XRechnungseinstellung am Debitor\u003c/li\u003e\n\u003cli\u003eLeitweg ID 1:N Verbesserung Dimension\u003c/li\u003e\n\u003cli\u003eWechsel von Kosit auf 2.01\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
         "title" : "V1.0.1.5 \u0026 Roadmap",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
@@ -36,14 +60,6 @@
         "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.3/",
         "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.3/",
         "content_html" : "\u003ch3 id=\"neu-und-geplant\"\u003eNeu und geplant\u003c/h3\u003e\n\u003ch3 id=\"version-1013\"\u003eVersion 1.0.1.3\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eKorrekturen\u003c/li\u003e\n\u003cli\u003eIntegration zu Connector 365 Easy Batch\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"geplante-funktionen-für-zukünftige-versionen\"\u003eGeplante Funktionen für zukünftige Versionen\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eService Rechnungen und Service Gutschriften\u003c/li\u003e\n\u003cli\u003eErweiterung und Verbesserung der XRechnungseinstellung am Debitor\u003c/li\u003e\n\u003cli\u003eLeitweg ID 1:N Verbesserung Dimension\u003c/li\u003e\n\u003cli\u003eWechsel von Kosit auf 2.01\u003c/li\u003e\n\u003c/ul\u003e\n"
-    },
-    {
-        "title" : "V1.0.1.1 \u0026 Roadmap",
-        "date_published" : "2020-02-28T10:08:56+09:00",
-        "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.1/",
-        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.1/",
-        "content_html" : "\u003ch3 id=\"neu-und-geplant\"\u003eNeu und geplant\u003c/h3\u003e\n\u003ch3 id=\"version-1011\"\u003eVersion 1.0.1.1\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eDie Connector 365 XRechnung App stützt nun auf unsere Basis App\u003c/li\u003e\n\u003cli\u003eHinzufügen von Events zur Steuerung der XRechnung\u003c/li\u003e\n\u003cli\u003eFehlerkorrekturen\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"geplante-funktionen-für-zukünftige-versionen\"\u003eGeplante Funktionen für zukünftige Versionen\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eService Rechnungen und Service Gutschriften\u003c/li\u003e\n\u003cli\u003eErweiterung und Verbesserung der XRechnungseinstellung am Debitor\u003c/li\u003e\n\u003cli\u003eLeitweg ID 1:N Verbesserung Dimension\u003c/li\u003e\n\u003cli\u003eWechsel von Kosit auf 2.01\u003c/li\u003e\n\u003c/ul\u003e\n"
     },
     {
         "title" : "V1.0.1.0 \u0026 Roadmap",

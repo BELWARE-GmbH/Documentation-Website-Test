@@ -6,6 +6,14 @@
     "feed_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/index.json",
     "items" : [
     {
+        "title" : "Connector 365 Addresse Control",
+        "date_published" : "2022-07-04T00:00:00-05:00",
+        "date_modified" : "2022-07-04T00:00:00-05:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/addresse-control/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/addresse-control/",
+        "content_html" : "\u003ch3 id=\"connector-365-addresse-control-online-hilfe\"\u003eConnector 365 Addresse Control Online Hilfe\u003c/h3\u003e\n\u003cp\u003eHier finden Sie sämtliche Hilfe- und Lernressourcen, zu unserer Connecto 365 Addresse Control App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. die nötigen Konktatinformationen finden Sie auf der \u003ca href=\"/de-de/apps/cti-for-starface/help-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
+    },
+    {
         "title" : "CTI for STARFACE",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",

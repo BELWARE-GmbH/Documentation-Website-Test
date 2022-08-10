@@ -6,6 +6,22 @@
     "feed_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/index.json",
     "items" : [
     {
+        "title" : "V1.0.1.23 \u0026 Roadmap",
+        "date_published" : "2022-08-01T00:00:00Z",
+        "date_modified" : "2022-08-01T00:00:00Z",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.1.23/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.1.23/",
+        "content_html" : "\u003ch3 id=\"new-and-planned\"\u003eNew and Planned\u003c/h3\u003e\n\u003ch3 id=\"version-10123\"\u003eVersion 1.0.1.23\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eCompatibility with XRechnung 2.2\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
+        "title" : "V1.0.1.22 \u0026 Roadmap",
+        "date_published" : "2022-08-01T00:00:00Z",
+        "date_modified" : "2022-08-01T00:00:00Z",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.1.22/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/xrechnung/new-and-planned/v1.0.1.22/",
+        "content_html" : "\u003ch3 id=\"new-and-planned\"\u003eNew and Planned\u003c/h3\u003e\n\u003ch3 id=\"version-10122\"\u003eVersion 1.0.1.22\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eImprovements in the integration of \u003cem\u003e\u003cstrong\u003eConnector 365 Easy Batch\u003c/strong\u003e\u003c/em\u003e app\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
         "title" : "V1.0.1.18 \u0026 Roadmap",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",

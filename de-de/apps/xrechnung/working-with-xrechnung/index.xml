@@ -68,9 +68,7 @@ Protokoll Fehlerhafte XRechnungen Hier werden XRechnungen abgebildet, welche dur
         <description>Arbeiten mit XRechnung Events Wir bieten Ihnen die Möglichkeit sich mit Events in unsere Programmierlogik einzuklinken, hier beschreiben wir Ihnen wie dies geht.
 Um ein Event für Verkaufsrechnungen bzw. Servicerechnungen zu subscriben, muss der XML-Port BEL365 S. Inv. XRechnung 2.0 in einem EventSubscriber angegeben werden.
 Beispiel:
-Für Verkaufsgutschriften bzw. Servicegutschriften ist als folgender XML-Port einzutragen: BEL365 S. Cr. M. XRechnung 2.0.
-Beispiel:
-Die XRechnung-Events bieten die Möglichkeit, Business Terms zu „füllen“ nachdem Sie standardmäßig gesetzt werden und noch bevor Sie weiterverarbeitet, also in die resultierende XML-Datei eingefügt werden.</description>
+1 [EventSubscriber(ObjectType::XmlPort, XmlPort::&amp;#34;BEL365 S. Inv. XRechnung 2.0&amp;#34;, &amp;#39;OnAfterGetLineInvoicePeriodInfo&amp;#39;, &amp;#34;&amp;#34;, true, true)] Für Verkaufsgutschriften bzw. Servicegutschriften ist als folgender XML-Port einzutragen: BEL365 S. Cr. M. XRechnung 2.</description>
       </item>
       
     

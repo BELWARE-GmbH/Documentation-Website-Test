@@ -15,6 +15,47 @@
     
       
       <item>
+        <title>V1.0.0.17 &amp; Roadmap</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/new-and-planned/v1.0.0.17/</link>
+        <pubDate>Mon, 01 Aug 2022 00:00:00 -0500</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/new-and-planned/v1.0.0.17/</guid>
+        <description>new and planned Version 1.0.0.17 Corrections:
+Correction when passing records to Easy Batch function
+&amp;ndash; Fixes possible multiple selection error Planned functions for future versions Extension of functions to the purchasing area Background generation and document dispatch Booking and processing </description>
+      </item>
+      
+      <item>
+        <title>V1.0.0.13 &amp; Roadmap</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/new-and-planned/v1.0.0.13/</link>
+        <pubDate>Mon, 01 Aug 2022 00:00:00 -0500</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/new-and-planned/v1.0.0.13/</guid>
+        <description>new and planned Version 1.0.0.13 Improvements:
+The system now checks whether report parameters are stored and uses them to generate the report. Corrections:
+Correction when reading the document layouts:
+&amp;ndash; For multiple entries with the same report ID for a debtor Planned functions for future versions Extension of functions to the purchasing area Background generation and document dispatch Booking and processing </description>
+      </item>
+      
+      <item>
+        <title>V1.0.0.11 &amp; Roadmap</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/new-and-planned/v1.0.0.11/</link>
+        <pubDate>Mon, 01 Aug 2022 00:00:00 -0500</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/new-and-planned/v1.0.0.11/</guid>
+        <description>new and planned Version 1.0.0.11 Correction: Progress bar of the currently processed documents corrected Planned functions for future versions Extension of functions to the purchasing area Background generation and document dispatch Booking and processing </description>
+      </item>
+      
+      <item>
+        <title>V1.0.0.10 &amp; Roadmap</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/new-and-planned/v1.0.0.10/</link>
+        <pubDate>Mon, 01 Aug 2022 00:00:00 -0500</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/new-and-planned/v1.0.0.10/</guid>
+        <description>new and planned Version 1.0.0.8 Integration of the Connector 365 pdfPaper app. Planned functions for future versions Extension of functions to the purchasing area Background generation and document dispatch Booking and processing </description>
+      </item>
+      
+      <item>
         <title>V1.0.0.8 &amp; Roadmap</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/new-and-planned/v1.0.0.8/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>

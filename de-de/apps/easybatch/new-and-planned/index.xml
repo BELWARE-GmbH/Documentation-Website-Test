@@ -15,6 +15,47 @@
     
       
       <item>
+        <title>V1.0.0.17 &amp; Roadmap</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/v1.0.0.17/</link>
+        <pubDate>Mon, 01 Aug 2022 00:00:00 -0500</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/v1.0.0.17/</guid>
+        <description>Neu und geplant Version 1.0.0.17 Korrekturen:
+Korrektur bei Übergabe von Datensätzen an Easy Batch Funktion
+&amp;ndash; Behebt möglichen Fehler bei Mehrfachselektion Geplante Funktionen für zukünftige Versionen Ausweitung der Funktionen auf den Einkaufsbereich Hintergrunderzeugung und Versand der Belege Buchen und Verarbeiten </description>
+      </item>
+      
+      <item>
+        <title>V1.0.0.13 &amp; Roadmap</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/v1.0.0.13/</link>
+        <pubDate>Mon, 01 Aug 2022 00:00:00 -0500</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/v1.0.0.13/</guid>
+        <description>Neu und geplant Version 1.0.0.13 Verbesserungen:
+Es wird nun geprüft, ob Berichtsparameter hinterlegt sind, und zur Berichtserzeugung herangezogen. Korrekturen:
+Korrektur beim Auslesen der Dokumentenlayouts:
+&amp;ndash; Bei mehreren Einträgen mit der gleichen Berichts-Id für einen Debitor Geplante Funktionen für zukünftige Versionen Ausweitung der Funktionen auf den Einkaufsbereich Hintergrunderzeugung und Versand der Belege Buchen und Verarbeiten </description>
+      </item>
+      
+      <item>
+        <title>V1.0.0.11 &amp; Roadmap</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/v1.0.0.11/</link>
+        <pubDate>Mon, 01 Aug 2022 00:00:00 -0500</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/v1.0.0.11/</guid>
+        <description>Neu und geplant Version 1.0.0.11 Korrektur: Fortschrittsanzeige der aktuell bearbeiteten Dokumenten korrigiert Geplante Funktionen für zukünftige Versionen Ausweitung der Funktionen auf den Einkaufsbereich Hintergrunderzeugung und Versand der Belege Buchen und Verarbeiten </description>
+      </item>
+      
+      <item>
+        <title>V1.0.0.10 &amp; Roadmap</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/v1.0.0.10/</link>
+        <pubDate>Mon, 01 Aug 2022 00:00:00 -0500</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/v1.0.0.10/</guid>
+        <description>Neu und geplant Version 1.0.0.8 Integration der Connector 365 pdfPaper App. Geplante Funktionen für zukünftige Versionen Ausweitung der Funktionen auf den Einkaufsbereich Hintergrunderzeugung und Versand der Belege Buchen und Verarbeiten </description>
+      </item>
+      
+      <item>
         <title>V1.0.0.8 &amp; Roadmap</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/v1.0.0.8/</link>
         <pubDate>Mon, 16 May 2022 10:08:56 +0900</pubDate>
@@ -24,21 +65,21 @@
       </item>
       
       <item>
-        <title>V1.0.0.6 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/v1.0.0.6/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/v1.0.0.6/</guid>
-        <description>Neu und geplant Version 1.0.0.6 Logik bei der Auswahl des Berichtslayouts an den Standard angeglichen Geplante Funktionen für zukünftige Versionen Integration von kreditorischen Belegen. Hintergrunderzeugung und Versand der Belege </description>
-      </item>
-      
-      <item>
         <title>V1.0.0.7 &amp; Roadmap</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/v1.0.0.7/</link>
         <pubDate>Mon, 16 May 2022 12:44:00 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/v1.0.0.7/</guid>
         <description>Neu und geplant Version 1.0.0.7 Dialog-Seiten nur wenn erlaubt (GuiAllowed) Geplante Funktionen für zukünftige Versionen Ausweitung der Funktionen auf den Einkaufsbereich Hintergrunderzeugung und Versand der Belege </description>
+      </item>
+      
+      <item>
+        <title>V1.0.0.6 &amp; Roadmap</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/v1.0.0.6/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/v1.0.0.6/</guid>
+        <description>Neu und geplant Version 1.0.0.6 Logik bei der Auswahl des Berichtslayouts an den Standard angeglichen Geplante Funktionen für zukünftige Versionen Integration von kreditorischen Belegen. Hintergrunderzeugung und Versand der Belege </description>
       </item>
       
       <item>
