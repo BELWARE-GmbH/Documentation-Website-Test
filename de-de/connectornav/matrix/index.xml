@@ -82,8 +82,8 @@ Damit ein Eintrag in der Kommunikationsmatrix für den Stapellauf verwendet werd
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/matrix/book_and_process/</guid>
-        <description>Funktion buchen &amp;amp; verarbeiten Ähnlich wie die Standardfunktionen buchen &amp;amp; senden bzw. buchen &amp;amp; drucken, erlaubt die Funktion buchen &amp;amp; verarbeiten ihnen einen Beleg nach dem buchen noch weiter zu verarbeiten. Im Gegensatz zum Standard erlaubt Ihnen die Funktion ein verarbeiten des Belegs durch alle Connector NAV Schnittstellen. Außerdem haben Sie die Möglichkeit einen Beleg gleich mehrfach über verschiedene Kanäle z.B. Brief &amp;amp; E-Mail zu versenden.
-Wie genau der jeweilige Beleg verarbeitet werden soll, können Sie in unserer Kommunikationsmatrix einrichten.</description>
+        <description>Funktion Buchen &amp;amp; Verarbeiten Ähnlich wie die Standardfunktionen buchen &amp;amp; senden bzw. buchen &amp;amp; drucken, erlaubt die Funktion Buchen &amp;amp; Verarbeiten ihnen einen Beleg nach dem buchen noch weiter zu verarbeiten. Im Gegensatz zum Standard erlaubt Ihnen die Funktion ein Verarbeiten des Belegs durch alle Connector NAV Schnittstellen. Außerdem haben Sie die Möglichkeit einen Beleg gleich mehrfach über verschiedene Kanäle z.B. Brief &amp;amp; E-Mail zu versenden.
+Wie genau der jeweilige Beleg verarbeitet werden soll, können Sie in in der Connector NAV Kommunikationsmatrix festlegen.</description>
       </item>
       
       <item>
@@ -92,8 +92,21 @@ Wie genau der jeweilige Beleg verarbeitet werden soll, können Sie in unserer Ko
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/matrix/options/</guid>
-        <description>Optionen &amp;amp; erweiterte Optionen der Kommunikationsmatrix Die folgenden Funktionen finden Sie in der Kommunikationsmatrix. Ab Punkt 11 sind diese nur in Verbindung mit dem pdfPaper-Modul verwendbar.
-Feld Name Funktion 1 Stapelmodus legt fest, ob der Eintrag ebenfalls für die Verarbeitung im Stapelmodus gilt 2 TabellenID legt fest, auf welche Tabelle sich der Eintrag bezieht (Deb./Kred./Kontakt) 3 Tabellenname wird automatisch mit dem Namen der Tabelle gefüllt 4 Nr. Lfd. Nummer des Deb.</description>
+        <description>Optionen &amp;amp; erweiterte Optionen der Kommunikationsmatrix Im folgenden sind Screenshots der Kommunikationsmatrix mit allen enthaltenden Feldern zu sehen.
+Die Felder sind durchnummeriert, und werden in der darunterstehenden Tabelle jeweils näher erläutert:
+Feld Name Funktion 1 Stapelmodus legt fest, ob der Eintrag ebenfalls für die Verarbeitung im Stapelmodus gilt 2 Jobmodus hier wird der Jobmodus, für den der Eintrag gelten soll, ausgewählt 3 TabellenID legt fest, auf welche Tabelle sich der Eintrag bezieht (Deb.</description>
+      </item>
+      
+      <item>
+        <title>Betreff</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/matrix/subject/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/matrix/subject/</guid>
+        <description>Anwendungsbereich Aus den verschiedenen Einstellungen für den Jobmodus, den Berichtsnamen und anderes können sich sehr viele Kombinationen ergeben.
+Sind für einzelne dieser Kombinationen spezifisch aufgebaute Betreffzeilen in den erzeugten Dokumenten gewünscht, lassen sich diese über dieses Feld realisieren.
+Dazu werden selbst zu definierende Platzhalter verwendet, die mit zugeordneten Werten aus der Datenbank ersetzt werden. Eingerichtet werden sie wie folgt:
+In der Kommunikationsmatrix gibt es eine Spalte &amp;ldquo;Betreff&amp;rdquo;. In den zugehörigen Feldern kann durch das [&amp;hellip;]-Symbol am rechten Rand</description>
       </item>
       
     

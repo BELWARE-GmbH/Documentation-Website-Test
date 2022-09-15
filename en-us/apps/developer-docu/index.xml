@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Developer Documentation on Connector 365 Online Help</title>
+    <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/developer-docu/</link>
+    <description>Recent content in Developer Documentation on Connector 365 Online Help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/developer-docu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Connector 365 Role Center</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/developer-docu/connector-365-role-center/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/developer-docu/connector-365-role-center/</guid>
+        <description>Inserting the Connector 365 Role Centre into existing Role Centers If you would like to integrate the Connector 365 role centre into existing role centres, use the following template for a corresponding page extension:
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 pageextension [ID] &amp;#34;[Name of the page extension]&amp;#34; extends &amp;#34;[Page to be extended to include role center]&amp;#34; { layout { addafter(&amp;#34;User Tasks Activities&amp;#34;) { part(&amp;#34;BEL365 Connector 365&amp;#34;; &amp;#34;BEL365 Connector 365 Cue Page&amp;#34;) { Caption = &amp;#39;Connector 365&amp;#39;; ApplicationArea = All; } } } } This inserts the Connector 365 role center into the layout of the existing page with role center after &amp;ldquo;User Tasks Activities&amp;rdquo;.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

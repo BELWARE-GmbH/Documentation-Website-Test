@@ -20,7 +20,7 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/</guid>
-        <description></description>
+        <description>Neu und geplant Geplante Funktionen für zukünftige Versionen Version 2.0.0.0 Abhängigkeit zur neuen Version der App Connector 365 Base (2.0.0.0) Überführung der Tabelle &amp;ldquo;Joblist Entry&amp;rdquo; in &amp;ldquo;Activity Entry&amp;rdquo; Version 1.0.1.23 Kompatibilität zu XRechnung 2.2 Version 1.0.1.22 Verbesserungen bei der Integration mit der Connector 365 Easy Batch App Version 1.0.1.18 Möglichkeit per XML-Felder per Event anzusteuern und zu überschreiben. Version 1.0.1.11 Dokumentlayout übersteuert nun die Berichtsauswahl je Verwendung. Fehlerkorrektur Dialog: Unterpage &amp;ldquo;Anhänge&amp;rdquo; wurde doppelt angezeigt.</description>
       </item>
       
       <item>

@@ -15,32 +15,16 @@
     
       
       <item>
-        <title>V1.0.0.17 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/v1.0.0.17/</link>
-        <pubDate>Mon, 01 Aug 2022 00:00:00 -0500</pubDate>
+        <title>Easy Batch Einrichtung</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-batch/first-steps/setup/easy-batch-setup/</link>
+        <pubDate>Wed, 17 Aug 2022 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/v1.0.0.17/</guid>
-        <description>Neu und geplant Version 1.0.0.17 Korrekturen:
-Korrektur bei Übergabe von Datensätzen an Easy Batch Funktion
-&amp;ndash; Behebt möglichen Fehler bei Mehrfachselektion Geplante Funktionen für zukünftige Versionen Ausweitung der Funktionen auf den Einkaufsbereich Hintergrunderzeugung und Versand der Belege Buchen und Verarbeiten </description>
-      </item>
-      
-      <item>
-        <title>V1.0.1.23 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.23/</link>
-        <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.23/</guid>
-        <description>Neu und geplant Version 1.0.1.23 Kompatibilität zu XRechnung 2.2 </description>
-      </item>
-      
-      <item>
-        <title>V1.0.0.0 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/addresse-control/new-and-planned/v1.0.0.0/</link>
-        <pubDate>Mon, 04 Jul 2022 11:02:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/addresse-control/new-and-planned/v1.0.0.0/</guid>
-        <description>Neu und geplant Version 1.0.0.0 Erste Veröffentlichung Geplante Funktionen für zukünftige Versionen </description>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-batch/first-steps/setup/easy-batch-setup/</guid>
+        <description>Einrichtung Easy Batch Einrichtung Um zur Easy Batch Einrichtung zu gelangen, öffnen Sie einfach die Suche und geben dort Connector 365 EInrichtung ein.
+Dort finden Sie den Reiter Easy Batch Einrichtung.
+Grundsätzlich werden alle Belege über Easy Batch im Hintergrund verarbeitet.
+Über die Easy Batch Einrichtung können Sie allerdings steuern, welche Belege zu welchem Zeitpunkt verarbeitet werden sollen.
+In der Easy Batch Einrichtung sind alle gebuchten Belegarten hinterlegt, welche mit der App verarbeitet werden können.</description>
       </item>
       
       <item>
@@ -67,17 +51,6 @@ Darstellung einer Kontaktübersicht, Firma und Mitarbeiter. Beispiel Möbel-Mell
       
       <item>
         <title>AppSource</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/addresse-control/first-steps/installation/appsource/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/addresse-control/first-steps/installation/appsource/</guid>
-        <description>Installation AppSource Öffnen Sie mithilfe der Suchfunktion den Marketplace für Erweiterungen und öffnen Sie ihn.
-Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den Connector 365 Addresse Control zu finden. Klicken Sie auf Get it now um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
-Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert eine Sprache für die App zu wählen.</description>
-      </item>
-      
-      <item>
-        <title>AppSource</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/first-steps/installation/appsource/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -100,10 +73,10 @@ Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert e
       
       <item>
         <title>AppSource</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/first-steps/installation/appsource/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-batch/first-steps/installation/appsource/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/first-steps/installation/appsource/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-batch/first-steps/installation/appsource/</guid>
         <description>Installation AppSource Öffnen Sie mithilfe der Suchfunktion den Marketplace für Erweiterungen und öffnen Sie ihn.
 Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den Connector 365 Easy Batch zu finden. Klicken Sie auf Free Trial um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
 Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert eine Sprache für die App zu wählen.</description>
@@ -111,12 +84,34 @@ Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert e
       
       <item>
         <title>AppSource</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/first-steps/installation/appsource/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-document-pin/first-steps/installation/appsource/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/first-steps/installation/appsource/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-document-pin/first-steps/installation/appsource/</guid>
         <description>Installation AppSource Öffnen Sie mithilfe der Suchfunktion den Marketplace für Erweiterungen und öffnen Sie ihn.
 Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den Connector 365 Easy Document Pin zu finden. Klicken Sie auf Free Trial um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
+Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert eine Sprache für die App zu wählen.</description>
+      </item>
+      
+      <item>
+        <title>AppSource</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-attachments-plus/first-steps/installation/appsource/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-attachments-plus/first-steps/installation/appsource/</guid>
+        <description>Installation AppSource Öffnen Sie mithilfe der Suchfunktion den Marketplace für Erweiterungen und öffnen Sie ihn.
+Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den Connector 365 Mail Sender Plus zu finden. Klicken Sie auf Free Trial um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
+Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert eine Sprache für die App zu wählen.</description>
+      </item>
+      
+      <item>
+        <title>AppSource</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-experience-plus/first-steps/installation/appsource/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-experience-plus/first-steps/installation/appsource/</guid>
+        <description>Installation AppSource Öffnen Sie mithilfe der Suchfunktion den Marketplace für Erweiterungen und öffnen Sie ihn.
+Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den Connector 365 Mail Experience Plus zu finden. Klicken Sie auf Free Trial um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
 Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert eine Sprache für die App zu wählen.</description>
       </item>
       
@@ -133,32 +128,10 @@ Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert e
       
       <item>
         <title>AppSource</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/first-steps/installation/appsource/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-subject-plus/first-steps/installation/appsource/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/first-steps/installation/appsource/</guid>
-        <description>Installation AppSource Öffnen Sie mithilfe der Suchfunktion den Marketplace für Erweiterungen und öffnen Sie ihn.
-Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den Connector 365 Mail Sender Plus zu finden. Klicken Sie auf Free Trial um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
-Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert eine Sprache für die App zu wählen.</description>
-      </item>
-      
-      <item>
-        <title>AppSource</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/first-steps/installation/appsource/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/first-steps/installation/appsource/</guid>
-        <description>Installation AppSource Öffnen Sie mithilfe der Suchfunktion den Marketplace für Erweiterungen und öffnen Sie ihn.
-Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den Connector 365 Mail Experience Plus zu finden. Klicken Sie auf Free Trial um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
-Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert eine Sprache für die App zu wählen.</description>
-      </item>
-      
-      <item>
-        <title>AppSource</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailsubject/first-steps/installation/appsource/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailsubject/first-steps/installation/appsource/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-subject-plus/first-steps/installation/appsource/</guid>
         <description>Installation AppSource Öffnen Sie mithilfe der Suchfunktion den Marketplace für Erweiterungen und öffnen Sie ihn.
 Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den Connector 365 Mail Subject Plus zu finden. Klicken Sie auf Free Trial um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
 Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert eine Sprache für die App zu wählen.</description>
@@ -187,10 +160,10 @@ Verkaufsrechnungen Verkaufsgutschriften Servicerechnungen 1 Servicegutschriften 
       
       <item>
         <title>Berichtsauswahl</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailsubject/first-steps/setup/reportselection/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-subject-plus/first-steps/setup/reportselection/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailsubject/first-steps/setup/reportselection/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-subject-plus/first-steps/setup/reportselection/</guid>
         <description>Einrichtung Berichtsauswahl Öffnen Sie mit Hilfe der Suchfunktion die gewünschte Berichtsauswahl - z.B. die für den Verkauf. Wählen Sie nun den gewünschten Bericht aus, für unser Beispiel verwenden wir Rechnungen, grundsätzlich werden aber Berichte aus dem Bereichen Verkauf, Einkauf &amp;amp; Mahnung unterstützt.
 in der Berichtsauswahl finden Sie das neue Feld &amp;ldquo;E-Mail Betreff&amp;rdquo;, dieses können Sie nutzen um Ihren Betreff zu definieren. Dieser ist frei definierbar, jedoch statisch.
 Damit Sie einen dynamischen Betreff setzen können, müssen Sie zuvor Platzhalter festlegen.</description>
@@ -198,10 +171,10 @@ Damit Sie einen dynamischen Betreff setzen können, müssen Sie zuvor Platzhalte
       
       <item>
         <title>Betreff im Mail-Dialog</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailsubject/working-with-mail-subject-plus/maildialogue/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-subject-plus/working-with-mail-subject-plus/maildialogue/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailsubject/working-with-mail-subject-plus/maildialogue/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-subject-plus/working-with-mail-subject-plus/maildialogue/</guid>
         <description>Arbeiten mit Mail Subject Plus Betreff im Mail-Dialog Nachdem Sie die Einrichtung vorgenommen haben - Egal ob in Dokumentenlayouts oder der Berichtsauswahl. Sind Sie jetzt bereit Ihre(n) zuvor definierten Betreff(s) aktiv zu nutzen.
 Öffnen Sie zunächst einen der Belege die Sie eingerichtet haben und anschließend den gewünschten Beleg (ggf. den eines eingerichteten Debitor/Kreditor). Klicken Sie nun auf &amp;ldquo;Drucken/Senden&amp;rdquo; -&amp;gt; &amp;ldquo;Per E-Mail senden&amp;rdquo;. Es öffnet sich der Dialog für den Mailversand und an Stelle des Standardbetreffs finden Sie nun den neuen von Ihnen definierte Betreff stehen.</description>
       </item>
@@ -274,19 +247,6 @@ Feldbeschreibung &amp;lt;&amp;gt; Kein Rückmeldungsversand Immer Rückmeldung u
       </item>
       
       <item>
-        <title>Dokumentlayouts</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/first-steps/setup/document-layouts/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/first-steps/setup/document-layouts/</guid>
-        <description>Einrichtung Einrichten der Dokumentlayouts Damit die Connector 365 Easy Batch App korrekt genutzt werden kann, müssen Sie zunächst bei den Debitoren welche Belege im Stapelversand erhalten wollen dies entsprechend einrichten.
-Öffnen Sie den gewünschten Debitor und navigieren Sie in die Dokumentlayouts
-Navigieren -&amp;gt; Dokumentlayouts
-Dort angekommen, werden Sie zwei neue Schaltflächen entdecken, zum einen einen Haken für den Stapelmodus und zum anderen ein Dropdown-Menü für den Jobmodus.
-Der Haken im Feld Stapelmodus aktiviert für diesen Eintrag den Stapelmodus.</description>
-      </item>
-      
-      <item>
         <title>E-POSTBUSINESS API</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/first-steps/setup/epostbusiness-api/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -328,23 +288,41 @@ Mit unserer Connector 365 CTI for STARFACE App ist es möglich ihre Dynamics 365
       
       <item>
         <title>Einleitung</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/first-steps/introduction/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-batch/first-steps/introduction/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/first-steps/introduction/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-batch/first-steps/introduction/</guid>
         <description>Erste Schritte Einleitung Beim versenden von Belegen aus Ihrer Microsoft Dynamics 365 Business Central Umgebung wollen Sie häufig mehrere Belege gleichzeitig verschicken. Mit dem Dynamics 365 Business Central Standard ist dies jedoch nicht ohne weiteres möglich. Dies macht einen Prozess der nur ein paar Minuten dauern sollte, viel länger als notwendig.
 Mit dem Connector 365 Easy Batch ist es möglich, mehrere Belege intelligent gesteuert und gleichzeitig zu versenden. Richten Sie die gewünschte Versandmethode in den Dokumentenlayouts ein und wählen Sie einfach Ihre Belege aus, die Sie versenden wollen: Ein Klick und alle Belege werden versendet.</description>
       </item>
       
       <item>
         <title>Einleitung</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/first-steps/introduction/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-document-pin/first-steps/introduction/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/first-steps/introduction/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-document-pin/first-steps/introduction/</guid>
         <description>Erste Schritte Einleitung Wenn Sie Mahnungen an Ihre Kunden verschicken, stellen Sie oft fest, dass diese nach Erhalt der Mahnung eine Kopie der betreffenden Rechnung(en) anfordern. Dies führt zu einer Folge-E-Mail, in der jede Rechnung einzeln in ein PDF-Dokument umgewandelt und dann angehängt werden muss. Dieses Verfahren ist nicht nur fehleranfällig, sondern auch ineffizient.
 Keine Folge-E-Mails zur Anforderung von Dateien mehr
 Mit Connector 365 Easy Document Pin gehören Nachfass-E-Mails der Vergangenheit an.</description>
+      </item>
+      
+      <item>
+        <title>Einleitung</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-attachments-plus/first-steps/introduction/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-attachments-plus/first-steps/introduction/</guid>
+        <description>Erste Schritte Einleitung Connector 365 Mail Attachment Plus - Ihre Lösung für Anhänge in Microsoft Dynamics 365 Business Central Finden Sie sich auch in Situationen wieder, in denen Sie mehr als nur den Bericht an eine E-Mail anhängen möchten? Wie z. B. Ihre AGB, Entwürfe oder zusätzliche Informationen für Kunden, aber die Standardeinstellungen von Microsoft Dynamics 365 Business Central hindert Sie daran? Das zwingt Sie dazu, den Workflow zu unterbrechen und diese Dateien zu versenden, nachdem der Empfänger den Bericht bereits erhalten hat&amp;hellip; Im schlimmsten Fall werden Sie durch andere Arbeiten abgelenkt und vergessen, die E-Mail zu versenden.</description>
+      </item>
+      
+      <item>
+        <title>Einleitung</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-experience-plus/first-steps/introduction/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-experience-plus/first-steps/introduction/</guid>
+        <description>Erste Schritte Einleitung Dank der erweiterten Mail-Funktionen hat Microsoft Dynamics 365 Business Central viele neue E-Mail-Funktionen erhalten, die den Versand direkt aus Dynamics 365 Business Central verbessern. Unsere Mail Plus-Apps zielen darauf ab, diese Erfahrung mit Quality-of-Life-Funktionen weiter zu verbessern, die Benutzer möglicherweise vermissen. Um einen einfachen Zugang zu diesen Funktionen zu ermöglichen, haben wir uns entschlossen, sie in einer zentralen App zusammenzufassen - Mail Experience Plus - für Benutzer, die das gesamte Paket an Verbesserungen wünschen.</description>
       </item>
       
       <item>
@@ -358,28 +336,10 @@ Mit Connector 365 Easy Document Pin gehören Nachfass-E-Mails der Vergangenheit 
       
       <item>
         <title>Einleitung</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/first-steps/introduction/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-subject-plus/first-steps/introduction/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/first-steps/introduction/</guid>
-        <description>Erste Schritte Einleitung Connector 365 Mail Attachment Plus - Ihre Lösung für Anhänge in Microsoft Dynamics 365 Business Central Finden Sie sich auch in Situationen wieder, in denen Sie mehr als nur den Bericht an eine E-Mail anhängen möchten? Wie z. B. Ihre AGB, Entwürfe oder zusätzliche Informationen für Kunden, aber die Standardeinstellungen von Microsoft Dynamics 365 Business Central hindert Sie daran? Das zwingt Sie dazu, den Workflow zu unterbrechen und diese Dateien zu versenden, nachdem der Empfänger den Bericht bereits erhalten hat&amp;hellip; Im schlimmsten Fall werden Sie durch andere Arbeiten abgelenkt und vergessen, die E-Mail zu versenden.</description>
-      </item>
-      
-      <item>
-        <title>Einleitung</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/first-steps/introduction/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/first-steps/introduction/</guid>
-        <description>Erste Schritte Einleitung Dank der erweiterten Mail-Funktionen hat Microsoft Dynamics 365 Business Central viele neue E-Mail-Funktionen erhalten, die den Versand direkt aus Dynamics 365 Business Central verbessern. Unsere Mail Plus-Apps zielen darauf ab, diese Erfahrung mit Quality-of-Life-Funktionen weiter zu verbessern, die Benutzer möglicherweise vermissen. Um einen einfachen Zugang zu diesen Funktionen zu ermöglichen, haben wir uns entschlossen, sie in einer zentralen App zusammenzufassen - Mail Experience Plus - für Benutzer, die das gesamte Paket an Verbesserungen wünschen.</description>
-      </item>
-      
-      <item>
-        <title>Einleitung</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailsubject/first-steps/introduction/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailsubject/first-steps/introduction/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-subject-plus/first-steps/introduction/</guid>
         <description>Erste Schritte Einleitung Wenn Sie E-Mails über Microsoft Dynamics 365 Business Central versenden, generiert das System automatisch eine Betreffzeile für Sie. Dieser automatisch generierte Betreff enthält jedoch nur Ihren Firmennamen, die Art des Dokuments und die Nummer. Das reicht oft nicht aus, und Sie müssen dann manuell etwas zum generierten Betreff hinzufügen oder ihn ganz ändern, weil Ihr Unternehmen bestimmte Anforderungen an Ihre Betreffzeilen hat.
 Mit der Connector 365 Mail Subject Plus App ist es möglich, Ihre eigenen Standard-Betreffzeilen zu definieren, entweder pro Bericht oder pro Debitor/Kreditor.</description>
       </item>
@@ -406,10 +366,10 @@ Gemäß des Beschlusses des IT-Planungsrats vom 22.06.2017 ist XRechnung maßg
       
       <item>
         <title>Einrichten der einzelnen Module</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/first-steps/setup/modules/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-experience-plus/first-steps/setup/modules/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/first-steps/setup/modules/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-experience-plus/first-steps/setup/modules/</guid>
         <description>Einrichtung Einrichten der einzelnen Module Die Connector 365 Mail Experience Plus App verbindet die 3 Apps aus unserer Mail Plus-Reihe zu einer Power App. Im Folgenden informieren wir Sie darüber wie Sie die einzelnen Bereiche einrichten.
 Bereich Mail Subject Plus Der Bereich Mail Subject Plus ist dazu da um Ihren E-Mails eigene dynamische Betreffzeilen je Bericht oder Debitor hinzuzufügen. Dabei unterstützen Sie Platzhalter um eigene Inhalte zu definieren.
 Einrichtung Subject</description>
@@ -567,10 +527,10 @@ Die Leitweg-ID soll die Adressierung und ggf. Weiterleitung der eingegangenen el
       
       <item>
         <title>Lizenz zuweisen</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/first-steps/setup/allocating-license/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-attachments-plus/first-steps/setup/allocating-license/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/first-steps/setup/allocating-license/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-attachments-plus/first-steps/setup/allocating-license/</guid>
         <description>Einrichtung Einem Nutzer die Lizenz zuweisen Damit ein Nutzer die Funktionen der Mail Attachments Plus App nutzen kann, muss diesem zunächst eine Lizenz zugewiesen werden. Diese können Sie in der Benutzer Einrichtung einstellen. Gehen Sie in die Suche und suchen Sie nach &amp;ldquo;Benutzer Einrichtung&amp;rdquo;, falls der Nutzer noch nicht vorhanden ist, fügen Sie ihn der Einrichtung hinzu. Setzen Sie anschließend noch einen Haken im Feld &amp;ldquo;Attachment Plus&amp;rdquo;.
 Wiederholen Sie diesen Prozess solange bis Ihre Lizenzkapazität aufgebraucht ist.</description>
       </item>
@@ -622,39 +582,21 @@ Bitte kehren Sie zu einem späteren Zeitpunkt zurück, wenn wir weitere informat
       
       <item>
         <title>Unterschiede im Dialog</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/working-with-map/differences-dialog/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-attachments-plus/working-with-map/differences-dialog/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/working-with-map/differences-dialog/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-attachments-plus/working-with-map/differences-dialog/</guid>
         <description>Arbeiten mit Mail Attachment Plus Unterschiede im Dialog Wenn Sie Mail Attachments Plus in einer OnPremise Umgebung einsetzen, haben Sie je nach eingesetzter Version einen anderen Dialog zu versenden von Mails, dementsprechend ändert sich auch die Handhabung unserer App während des Versand von Mails. Der Prozess zum setzen von Standards ändern sich nicht, lediglich das handhaben der Anhänge im Dialog.
 Mail Experience Wenn Ihnen schon die Mail Experience zur Verfügung steht (ab Version X.</description>
       </item>
       
       <item>
         <title>V1.0.0.0 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/new-and-planned/v1.0.0.0/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-experience-plus/new-and-planned/v1.0.0.0/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/new-and-planned/v1.0.0.0/</guid>
-        <description>Neu und geplant Version 1.0.0.0 Automatisches Anhängen von angemahnten Rechnungen an Mahnungen bei Versand Steuerung des Versands nach Mahnstufe Steuerung des Versands nach Mahnmethode Geplante Funktionen für zukünftige Versionen Automatisches Anhängen von Lieferscheinen </description>
-      </item>
-      
-      <item>
-        <title>V1.0.0.0 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/new-and-planned/v1.0.0.0/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/new-and-planned/v1.0.0.0/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-experience-plus/new-and-planned/v1.0.0.0/</guid>
         <description>Neu und geplant Version 1.0.0.0 Intelligente Steuerung der Absender-Adresse je Bericht via Mail Sender Plus Intelligente Steuerung der Anhänge auf verschiednenen Ebenen via Mail Attachments Plus Intelligente Steuerung der Betreffzeile mit Platzhaltern via Mail Subject Plus </description>
-      </item>
-      
-      <item>
-        <title>V1.0.0.12 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.12/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.12/</guid>
-        <description>Neu und geplant Version 1.0.0.12 Neu implementierte Berechtigungssätze C365 View C365 Edit C365 Setup Nun Abhängig von Base App Version 1.0.1.23 Geplante Funktionen für zukünftige Versionen Anhangsfunktionalitäten auf weiteren Ebenen </description>
       </item>
       
       <item>
@@ -664,15 +606,6 @@ Mail Experience Wenn Ihnen schon die Mail Experience zur Verfügung steht (ab Ve
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/new-and-planned/v1.0.0.2/</guid>
         <description>Neu und geplant Version 1.0.0.2 Erweiterte Maileinrichtung mit mehreren Absendern Änderbare Absenderadresse im Dialog Eine Adresse pro Benutzer festlegen Eine Standardadresse pro Bericht Eine Standardadresse pro Kreditor/Debitor Geplante Funktionen für zukünftige Versionen Anpassen an die Mail Experience </description>
-      </item>
-      
-      <item>
-        <title>V1.1.0.0 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.1.0.0/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.1.0.0/</guid>
-        <description>Neu und geplant Version 1.1.0.0 Neue Optionen in der Nutzereinrichtung Anrufrichtung für das öffnen der CTI-Seite Zeitpunkt des öffnens der Karte Verhalten bei nicht vorhandenem Kontakt Neue Einrichtung des Moduls für STARFACE ab Version 7.x. Geplante Funktionen für zukünftige Versionen Anpassung der Jobliste passend zur App Ausblenden der CTI Funktionen im Rollencenter für Nicht-CTI-Nutzer </description>
       </item>
       
       <item>
@@ -700,10 +633,10 @@ Im Dialog lassen sich der Absender, der Empfänger, der Betreff und auch nochmal
       
       <item>
         <title>Versandszenarios</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/working-with-easy-batch/sendingscenarios/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-batch/working-with-easy-batch/sendingscenarios/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/working-with-easy-batch/sendingscenarios/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-batch/working-with-easy-batch/sendingscenarios/</guid>
         <description>Arbeiten mit Easy Batch Versandszenarios Grundsätzlich haben Sie die Möglichkeit mehrere Jobmodi gleichzeitig zu nutzen in Verwendung mit der Stapelfunktion. Sie müssen dies nur dem entsprechend in den Dokumentlayouts einrichten.
 Wird der Stapelversand ausgelöst, während für einen Beleg mehrere Jobmodi eingerichtet sind, werden diese nacheinander ausgelöst.
 Beispiel 1
@@ -770,37 +703,6 @@ Hier setzen Sie den Haken bei Aktiviert. Als Pfad geben Sie den Pfad ein, den Si
       </item>
       
       <item>
-        <title>Einleitung</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/addresse-control/first-steps/introduction/</link>
-        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/addresse-control/first-steps/introduction/</guid>
-        <description>Erste Schritte Einleitung Mit der Connector 365 Address Control App können Sie flexibel bestimmen, welche Zieladressen für den Belegversand herangezogen werden sollen.
-Möglicherweise möchte man einen Beleg standardmäßig an den Kunden schicken und nicht wie im Standard üblich, an den Rechnungsempfänger.</description>
-      </item>
-      
-      <item>
-        <title>V1.0.0.13 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/v1.0.0.13/</link>
-        <pubDate>Mon, 01 Aug 2022 00:00:00 -0500</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/v1.0.0.13/</guid>
-        <description>Neu und geplant Version 1.0.0.13 Verbesserungen:
-Es wird nun geprüft, ob Berichtsparameter hinterlegt sind, und zur Berichtserzeugung herangezogen. Korrekturen:
-Korrektur beim Auslesen der Dokumentenlayouts:
-&amp;ndash; Bei mehreren Einträgen mit der gleichen Berichts-Id für einen Debitor Geplante Funktionen für zukünftige Versionen Ausweitung der Funktionen auf den Einkaufsbereich Hintergrunderzeugung und Versand der Belege Buchen und Verarbeiten </description>
-      </item>
-      
-      <item>
-        <title>V1.0.1.22 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.22/</link>
-        <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.22/</guid>
-        <description>Neu und geplant Version 1.0.1.22 Verbesserungen bei der Integration mit der Connector 365 Easy Batch App </description>
-      </item>
-      
-      <item>
         <title>Anpassen der Tabellen</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/rapidstart/adjust/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -857,16 +759,6 @@ Aktionen Mailen Mit dieser Aktion versenden Sie die E-Mail. PDF Mit dieser Aktio
       
       <item>
         <title>AppSource</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/addresse-control/first-steps/test-purchase/appsource/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/addresse-control/first-steps/test-purchase/appsource/</guid>
-        <description>Test &amp;amp; Kauf AppSource Die Connector 365 CTI for STARFACE App steht Ihnen im Microsoft AppSource zur Verfügung.
-Nachdem die Connector 365 CTI for STARFACE App installiert wurde, haben Sie die Möglichkeit sofort loszulegen und die App kostenlos zu nutzen. In der kostenlosen Version sind Sie jedoch auf eine einzigen Benutzer in der Einrichtung limitiert. Außerhalb dieser Limitation können Sie die Optionen der Connector 365 CTI for STARFACE App jedoch voll nutzen.</description>
-      </item>
-      
-      <item>
-        <title>AppSource</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/first-steps/test-purchase/appsource/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -889,10 +781,10 @@ Testmodus Versand - Sie erhalten den Brief per E-Mail an eine zuvor angegebene A
       
       <item>
         <title>AppSource</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/first-steps/test-purchase/appsource/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-batch/first-steps/test-purchase/appsource/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/first-steps/test-purchase/appsource/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-batch/first-steps/test-purchase/appsource/</guid>
         <description>Test &amp;amp; Kauf AppSource Die App steht Ihnen im Microsoft AppSource zur Verfügung.
 Nach dem Download kann die App 30 Tage kostenlos getestet werden.
 Für den Fall, dass weitere Nutzer die Funktionen der App nutzen sollen, können Sie über unser Formular kostenpflichtig weitere Lizenzen erwerben.
@@ -902,15 +794,42 @@ Monatliche Subscription inkl. Wartung pro Umgebung bei jährlicher Zahlung und L
       
       <item>
         <title>AppSource</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/first-steps/test-purchase/appsource/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-document-pin/first-steps/test-purchase/appsource/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/first-steps/test-purchase/appsource/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-document-pin/first-steps/test-purchase/appsource/</guid>
         <description>Test &amp;amp; Kauf AppSource Die App steht Ihnen im Microsoft AppSource zur Verfügung.
 Nach dem Download kann ein Nutzer die App komplett frei benutzen.
 Für den Fall, dass weitere Nutzer die Funktionen der App nutzen sollen, können Sie über unser Formular kostenpflichtig weitere Lizenzen erwerben.
 Ihre Kosten:
 Monatliche Subscription mit jährlicher Abrechnung inkl. Wartung* 6,90€/Nutzer Monatliche Subscription mit monatlicher Abrechnung inkl. Wartung* 8,30€/Nutzer Preisänderungen bei Funktionserweiterungen beahlten wir uns vor.</description>
+      </item>
+      
+      <item>
+        <title>AppSource</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-attachments-plus/first-steps/test-purchase/appsource/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-attachments-plus/first-steps/test-purchase/appsource/</guid>
+        <description>Test &amp;amp; Kauf AppSource Die App steht Ihnen im Microsoft AppSource zur Verfügung.
+Nach dem Download kann ein Nutzer die App komplett frei benutzen.
+Für den Fall, dass weitere Nutzer die Funktionen der App nutzen sollen, können Sie über unser Formular kostenpflichtig weitere Lizenzen erwerben.
+Ihre Kosten:
+Monatliche Subscription inkl. Wartung* 0,90€ *Wahlweise monatlich, quartalsweise oder jährlich abgerechnet.
+Zum FormularConnector 365 XRechnung steht Ihnen für die folgende BC Lizensierung zur Verfügung:</description>
+      </item>
+      
+      <item>
+        <title>AppSource</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-experience-plus/first-steps/test-purchase/appsource/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-experience-plus/first-steps/test-purchase/appsource/</guid>
+        <description>Test &amp;amp; Kauf AppSource Die App steht Ihnen im Microsoft AppSource zur Verfügung.
+Nach dem Download kann ein Nutzer die App komplett frei benutzen.
+Für den Fall, dass weitere Nutzer die Funktionen der App nutzen sollen, können Sie über unser Formular kostenpflichtig weitere Lizenzen erwerben.
+Ihre Kosten:
+Monatliche Subscription mit jährlicher Abrechnung inkl. Wartung* 2,50€/Nutzer Monatliche Subscription mit monatlicher Abrechnung inkl. Wartung* 3,25€/Nutzer Preisänderungen bei Funktionserweiterungen beahlten wir uns vor.</description>
       </item>
       
       <item>
@@ -929,37 +848,10 @@ Zum FormularConnector 365 Mail Sender Plus steht Ihnen für die folgende BC Liz
       
       <item>
         <title>AppSource</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/first-steps/test-purchase/appsource/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-subject-plus/first-steps/test-purchase/appsource/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/first-steps/test-purchase/appsource/</guid>
-        <description>Test &amp;amp; Kauf AppSource Die App steht Ihnen im Microsoft AppSource zur Verfügung.
-Nach dem Download kann ein Nutzer die App komplett frei benutzen.
-Für den Fall, dass weitere Nutzer die Funktionen der App nutzen sollen, können Sie über unser Formular kostenpflichtig weitere Lizenzen erwerben.
-Ihre Kosten:
-Monatliche Subscription inkl. Wartung* 0,90€ *Wahlweise monatlich, quartalsweise oder jährlich abgerechnet.
-Zum FormularConnector 365 XRechnung steht Ihnen für die folgende BC Lizensierung zur Verfügung:</description>
-      </item>
-      
-      <item>
-        <title>AppSource</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/first-steps/test-purchase/appsource/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/first-steps/test-purchase/appsource/</guid>
-        <description>Test &amp;amp; Kauf AppSource Die App steht Ihnen im Microsoft AppSource zur Verfügung.
-Nach dem Download kann ein Nutzer die App komplett frei benutzen.
-Für den Fall, dass weitere Nutzer die Funktionen der App nutzen sollen, können Sie über unser Formular kostenpflichtig weitere Lizenzen erwerben.
-Ihre Kosten:
-Monatliche Subscription mit jährlicher Abrechnung inkl. Wartung* 2,50€/Nutzer Monatliche Subscription mit monatlicher Abrechnung inkl. Wartung* 3,25€/Nutzer Preisänderungen bei Funktionserweiterungen beahlten wir uns vor.</description>
-      </item>
-      
-      <item>
-        <title>AppSource</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailsubject/first-steps/test-purchase/appsource/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailsubject/first-steps/test-purchase/appsource/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-subject-plus/first-steps/test-purchase/appsource/</guid>
         <description>Test &amp;amp; Kauf AppSource Die App steht Ihnen im Microsoft AppSource zur Verfügung.
 Nach dem Download kann die App 30 Tage kostenlos getestet werden.
 Für den Fall, dass weitere Nutzer die Funktionen der App nutzen sollen, können Sie über unser Formular kostenpflichtig weitere Lizenzen erwerben.
@@ -1014,18 +906,6 @@ Pdf Vorschau - Diese Vorschaufunktion funktioniert auch wenn Sie den iPaper nich
       </item>
       
       <item>
-        <title>Belegsendeprofile</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/first-steps/setup/document-sending-profile/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/first-steps/setup/document-sending-profile/</guid>
-        <description>Einrichtung Belegsendeprofil Bei dem Belegsendeprofil handelt es sich um eine Standardfunktionalität von Microsoft Dynamics 365 Business Central.
-Sie wird dazu genutzt, um die bevorzugte Methode der Übermittlung von Verkaufsbelegen zu steuern. Stanardmäßig ist die funktionalität für die Verwendung von &amp;ldquo;Buchen und Senden&amp;rdquo; gedacht. Mit dem Connector 365 Easy Batch, können Belegsendeprofile aber auch dafür genutzt verwenden die Stapelfunktion zu steuern.
-Einrichten von Belegsendeprofilen Einrichten von Belegsendeprofilen
-Öffnen Sie die Suche, geben Sie Belegsendeprofile ein und wählen Sie dann den entsprechenden Link.</description>
-      </item>
-      
-      <item>
         <title>Benutzer einrichten</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/msp/setup_user/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -1062,20 +942,20 @@ Feldbeschreibung Benutzer Leer. Sprache Leer. Berichts ID 0. Bodytextdatei Bodyt
       
       <item>
         <title>Bericht Standardanhänge</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/first-steps/setup/defaults-report/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-attachments-plus/first-steps/setup/defaults-report/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/first-steps/setup/defaults-report/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-attachments-plus/first-steps/setup/defaults-report/</guid>
         <description>Einrichtung Hinzufügen von Standardanhängen pro Bericht Standardanhänge sind eine gute Möglichkeit, Zeit zu sparen, wenn Sie Ihren E-Mails Dateien hinzufügen. Wenn Sie den gleichen Anhang in jeder E-Mail verwenden, fügen Sie ihn einfach als Standard hinzu, und er wird automatisch an jede E-Mail angehängt.
 Beginnen Sie mit dem Öffnen der Berichtsauswahl des gewünschten Berichts, in diesem Beispiel werden wir Verkäufe und Rechnungen verwenden. Wenn Sie sich nicht sicher sind, wo Sie die Berichtsauswahl finden, können Sie jederzeit die Suchfunktion von Dynamics 365 Business Central verwenden.</description>
       </item>
       
       <item>
         <title>Bericht Standardanhänge</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/working-with-map/defaults-report/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-attachments-plus/working-with-map/defaults-report/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/working-with-map/defaults-report/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-attachments-plus/working-with-map/defaults-report/</guid>
         <description>Arbeiten mit Mail Attachment Plus Nachdem Sie in der Berichtsauswahl die gewünschten Anhänge hinzugefügt haben, können Sie mit dem Mailversand beginnen. Falls Sie dies noch nicht unternommen haben, können Sie im Bereich &amp;ldquo;Erste Schritte&amp;rdquo; die Einrichtung der Debitor Standardanhänge finden.
 Für Dieses Beispiel haben wir die Standardanhänge im Rechnungsversand wie folgt eingerichtet:
 In diesem Beispiel haben wir zwei PDFs und ein zeitbegrenztes Bild angehängt.
@@ -1138,12 +1018,25 @@ Aktionen PDF Mit dieser Aktion erstellen Sie das PDF. Status Mit dieser Aktion g
       
       <item>
         <title>Dokumentenlayouts</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailsubject/first-steps/setup/documentlayouts/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-subject-plus/first-steps/setup/documentlayouts/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailsubject/first-steps/setup/documentlayouts/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-subject-plus/first-steps/setup/documentlayouts/</guid>
         <description>Einrichtung Dokumentenlayouts Neben der Berichtsauswahl, können Sie auch individuell pro Debitor einen Betreff festlegen - diese Einstellung überschreibt dann die Einstellung aus der Berichtsauswahl, falls vorhanden.
 Navigieren Sie zunächst zu dem gewünschten Debitor bzw. Kreditor. Dort angekommen, klicken Sie in der Menüleiste auf &amp;ldquo;Navigieren&amp;rdquo; -&amp;gt; &amp;ldquo;Dokumentenlayouts&amp;rdquo;. Bevor Sie den Betreff einrichten, müssen Sie zunächst die Verwendung bzw. den Bericht einrichten. Sobald dies vorgenommen wurde können Sie über das Feld &amp;ldquo;E-Mail Betreff&amp;rdquo; Ihren gewünschten Betreff festlegen.</description>
+      </item>
+      
+      <item>
+        <title>Dokumentlayouts</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-batch/first-steps/setup/document-layouts/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-batch/first-steps/setup/document-layouts/</guid>
+        <description>Einrichtung Einrichten der Dokumentlayouts Damit die Connector 365 Easy Batch App korrekt genutzt werden kann, müssen Sie zunächst bei den Debitoren welche Belege im Stapelversand erhalten wollen dies entsprechend einrichten.
+Öffnen Sie den gewünschten Debitor und navigieren Sie in die Dokumentlayouts
+Navigieren -&amp;gt; Dokumentlayouts
+Dort angekommen, werden Sie zwei neue Schaltflächen entdecken, zum einen einen Haken für den Stapelmodus und zum anderen ein Dropdown-Menü für den Jobmodus.
+Der Haken im Feld Stapelmodus aktiviert für diesen Eintrag den Stapelmodus.</description>
       </item>
       
       <item>
@@ -1252,26 +1145,6 @@ Es gibt viele Stellen, die dazu führen, dass eine XRechnung nicht dem Schema en
       
       <item>
         <title>OnPrem</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/addresse-control/first-steps/installation/onprem/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/addresse-control/first-steps/installation/onprem/</guid>
-        <description>Installation OnPrem Sie erhalten von uns die Objekte für die Connector 365 Base &amp;amp; Addresse Control App per Mail, damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
-Veröffentlichen der Connector 365 Base &amp;amp; Addresse Control App Das veröffentlichen der Connector 365 Base &amp;amp; Addresse Control App erfolgt via der Business Central Administration Shell. Transferieren Sie zunächst die von uns an Sie gesendete Dateien auf dem Server auf dem Ihre Business Central Instanz läuft.</description>
-      </item>
-      
-      <item>
-        <title>OnPrem</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/addresse-control/first-steps/test-purchase/onprem/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/addresse-control/first-steps/test-purchase/onprem/</guid>
-        <description>Test &amp;amp; Kauf OnPrem Sie haben die Möglichkeit unsere Connector 365 CTI for STARFACE App unverbindlich vorab zu testen oder auch direkt zu erwerben. Hier für benötigen wir einige Informationen von Ihnen.
-Zum FormularWünschen Sie eine Testphase, erhalten Sie von uns die gewünschten Objekte für einen User und einen Testzeitraum von 30 Tagen. Vor Ablauf des Testzeitraums setzen wir uns mit Ihnen in Verbindung zwecks Übernahme in Kauf oder Deaktivierung der Testphase.</description>
-      </item>
-      
-      <item>
-        <title>OnPrem</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/first-steps/installation/onprem/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -1312,41 +1185,81 @@ Zum FormularWünschen Sie eine Testphase, erhalten Sie von uns die gewünschten
       
       <item>
         <title>OnPrem</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/first-steps/installation/onprem/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-batch/first-steps/installation/onprem/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/first-steps/installation/onprem/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-batch/first-steps/installation/onprem/</guid>
         <description>Installation OnPrem Sie erhalten von uns die Objekte für die Connector 365 Base &amp;amp; Easy Batch App per Mail, damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
 Veröffentlichen der Connector 365 Base &amp;amp; Easy Batch App Das veröffentlichen der Connector 365 Base &amp;amp; Easy Batch App erfolgt via der Business Central Administration Shell. Transferieren Sie zunächst die von uns an Sie gesendete Dateien auf dem Server auf dem Ihre Business Central Instanz läuft.</description>
       </item>
       
       <item>
         <title>OnPrem</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/first-steps/test-purchase/onprem/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-batch/first-steps/test-purchase/onprem/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/first-steps/test-purchase/onprem/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-batch/first-steps/test-purchase/onprem/</guid>
         <description>Test &amp;amp; Kauf OnPrem Sie haben die Möglichkeit unsere Connector 365 Easy Batch App unverbindlich vorab zu testen oder auch direkt zu erwerben. Hier für benötigen wir einige Informationen von Ihnen.
 Zum FormularWünschen Sie eine Testphase, erhalten Sie von uns die gewünschten Objekte für einen User und einen Testzeitraum von 30 Tagen. Vor Ablauf des Testzeitraums setzen wir uns mit Ihnen in Verbindung zwecks Übernahme in Kauf oder Deaktivierung der Testphase.</description>
       </item>
       
       <item>
         <title>OnPrem</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/first-steps/installation/onprem/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-document-pin/first-steps/installation/onprem/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/first-steps/installation/onprem/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-document-pin/first-steps/installation/onprem/</guid>
         <description>Installation OnPrem Sie erhalten von uns die Objekte für die Connector 365 Base &amp;amp; Easy Document Pin App per Mail, damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
 Veröffentlichen der Connector 365 Base &amp;amp; Easy Document Pin App Das veröffentlichen der Connector 365 Base &amp;amp; Easy Document Pin App erfolgt via der Business Central Administration Shell. Transferieren Sie zunächst die von uns an Sie gesendete Dateien auf dem Server auf dem Ihre Business Central Instanz läuft.</description>
       </item>
       
       <item>
         <title>OnPrem</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/first-steps/test-purchase/onprem/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-document-pin/first-steps/test-purchase/onprem/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/first-steps/test-purchase/onprem/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-document-pin/first-steps/test-purchase/onprem/</guid>
         <description>Test &amp;amp; Kauf OnPrem Sie haben die Möglichkeit unsere Connector 365 Easy Document Pin App unverbindlich vorab zu testen oder auch direkt zu erwerben. Hier für benötigen wir einige Informationen von Ihnen.
+Zum FormularWünschen Sie eine Testphase, erhalten Sie von uns die gewünschten Objekte für einen User und einen Testzeitraum von 30 Tagen. Vor Ablauf des Testzeitraums setzen wir uns mit Ihnen in Verbindung zwecks Übernahme in Kauf oder Deaktivierung der Testphase.</description>
+      </item>
+      
+      <item>
+        <title>OnPrem</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-attachments-plus/first-steps/installation/onprem/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-attachments-plus/first-steps/installation/onprem/</guid>
+        <description>Installation OnPrem Sie erhalten von uns die Objekte für die Connector 365 Base &amp;amp; Mail Attachment Plus App per Mail, damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
+Veröffentlichen der Connector 365 Base &amp;amp; Mail Attachment Plus App Das veröffentlichen der Connector 365 Base &amp;amp; Mail Attachment Plus App erfolgt via der Business Central Administration Shell. Transferieren Sie zunächst die von uns an Sie gesendete Dateien auf dem Server auf dem Ihre Business Central Instanz läuft.</description>
+      </item>
+      
+      <item>
+        <title>OnPrem</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-attachments-plus/first-steps/test-purchase/onprem/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-attachments-plus/first-steps/test-purchase/onprem/</guid>
+        <description>Test &amp;amp; Kauf OnPrem Sie haben die Möglichkeit unsere Connector 365 Mail Attachment Plus App unverbindlich vorab zu testen oder auch direkt zu erwerben. Hier für benötigen wir einige Informationen von Ihnen.
+Zum FormularWünschen Sie eine Testphase, erhalten Sie von uns die gewünschten Objekte für einen User und einen Testzeitraum von 30 Tagen. Vor Ablauf des Testzeitraums setzen wir uns mit Ihnen in Verbindung zwecks Übernahme in Kauf oder Deaktivierung der Testphase.</description>
+      </item>
+      
+      <item>
+        <title>OnPrem</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-experience-plus/first-steps/installation/onprem/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-experience-plus/first-steps/installation/onprem/</guid>
+        <description>Installation OnPrem Sie erhalten von uns die Objekte für die Connector 365 Base &amp;amp; Mail Experience Plus App per Mail, damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
+Veröffentlichen der Connector 365 Base &amp;amp; Mail Experience Plus App Das veröffentlichen der Connector 365 Base &amp;amp; Mail Experience Plus App erfolgt via der Business Central Administration Shell. Transferieren Sie zunächst die von uns an Sie gesendete Dateien auf dem Server auf dem Ihre Business Central Instanz läuft.</description>
+      </item>
+      
+      <item>
+        <title>OnPrem</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-experience-plus/first-steps/test-purchase/onprem/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-experience-plus/first-steps/test-purchase/onprem/</guid>
+        <description>Test &amp;amp; Kauf OnPrem Sie haben die Möglichkeit unsere Connector 365 Mail Experience Plus App unverbindlich vorab zu testen oder auch direkt zu erwerben. Hier für benötigen wir einige Informationen von Ihnen.
 Zum FormularWünschen Sie eine Testphase, erhalten Sie von uns die gewünschten Objekte für einen User und einen Testzeitraum von 30 Tagen. Vor Ablauf des Testzeitraums setzen wir uns mit Ihnen in Verbindung zwecks Übernahme in Kauf oder Deaktivierung der Testphase.</description>
       </item>
       
@@ -1372,60 +1285,20 @@ Zum FormularWünschen Sie eine Testphase, erhalten Sie von uns die gewünschten
       
       <item>
         <title>OnPrem</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/first-steps/installation/onprem/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-subject-plus/first-steps/installation/onprem/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/first-steps/installation/onprem/</guid>
-        <description>Installation OnPrem Sie erhalten von uns die Objekte für die Connector 365 Base &amp;amp; Mail Attachment Plus App per Mail, damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
-Veröffentlichen der Connector 365 Base &amp;amp; Mail Attachment Plus App Das veröffentlichen der Connector 365 Base &amp;amp; Mail Attachment Plus App erfolgt via der Business Central Administration Shell. Transferieren Sie zunächst die von uns an Sie gesendete Dateien auf dem Server auf dem Ihre Business Central Instanz läuft.</description>
-      </item>
-      
-      <item>
-        <title>OnPrem</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/first-steps/test-purchase/onprem/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/first-steps/test-purchase/onprem/</guid>
-        <description>Test &amp;amp; Kauf OnPrem Sie haben die Möglichkeit unsere Connector 365 Mail Attachment Plus App unverbindlich vorab zu testen oder auch direkt zu erwerben. Hier für benötigen wir einige Informationen von Ihnen.
-Zum FormularWünschen Sie eine Testphase, erhalten Sie von uns die gewünschten Objekte für einen User und einen Testzeitraum von 30 Tagen. Vor Ablauf des Testzeitraums setzen wir uns mit Ihnen in Verbindung zwecks Übernahme in Kauf oder Deaktivierung der Testphase.</description>
-      </item>
-      
-      <item>
-        <title>OnPrem</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/first-steps/installation/onprem/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/first-steps/installation/onprem/</guid>
-        <description>Installation OnPrem Sie erhalten von uns die Objekte für die Connector 365 Base &amp;amp; Mail Experience Plus App per Mail, damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
-Veröffentlichen der Connector 365 Base &amp;amp; Mail Experience Plus App Das veröffentlichen der Connector 365 Base &amp;amp; Mail Experience Plus App erfolgt via der Business Central Administration Shell. Transferieren Sie zunächst die von uns an Sie gesendete Dateien auf dem Server auf dem Ihre Business Central Instanz läuft.</description>
-      </item>
-      
-      <item>
-        <title>OnPrem</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/first-steps/test-purchase/onprem/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/first-steps/test-purchase/onprem/</guid>
-        <description>Test &amp;amp; Kauf OnPrem Sie haben die Möglichkeit unsere Connector 365 Mail Experience Plus App unverbindlich vorab zu testen oder auch direkt zu erwerben. Hier für benötigen wir einige Informationen von Ihnen.
-Zum FormularWünschen Sie eine Testphase, erhalten Sie von uns die gewünschten Objekte für einen User und einen Testzeitraum von 30 Tagen. Vor Ablauf des Testzeitraums setzen wir uns mit Ihnen in Verbindung zwecks Übernahme in Kauf oder Deaktivierung der Testphase.</description>
-      </item>
-      
-      <item>
-        <title>OnPrem</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailsubject/first-steps/installation/onprem/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailsubject/first-steps/installation/onprem/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-subject-plus/first-steps/installation/onprem/</guid>
         <description>Installation OnPrem Sie erhalten von uns die Objekte für die Connector 365 Base &amp;amp; Mail Subject Plus App per Mail, damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
 Veröffentlichen der Connector 365 Base &amp;amp; Mail Subject Plus App Das veröffentlichen der Connector 365 Base &amp;amp; Mail Subject Plus App erfolgt via der Business Central Administration Shell. Transferieren Sie zunächst die von uns an Sie gesendete Dateien auf dem Server auf dem Ihre Business Central Instanz läuft.</description>
       </item>
       
       <item>
         <title>OnPrem</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailsubject/first-steps/test-purchase/onprem/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-subject-plus/first-steps/test-purchase/onprem/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailsubject/first-steps/test-purchase/onprem/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-subject-plus/first-steps/test-purchase/onprem/</guid>
         <description>Test &amp;amp; Kauf OnPrem Sie haben die Möglichkeit unsere Connector 365 Mail Subject Plus App unverbindlich vorab zu testen oder auch direkt zu erwerben. Hier für benötigen wir einige Informationen von Ihnen.
 Zum FormularWünschen Sie eine Testphase, erhalten Sie von uns die gewünschten Objekte für einen User und einen Testzeitraum von 30 Tagen. Vor Ablauf des Testzeitraums setzen wir uns mit Ihnen in Verbindung zwecks Übernahme in Kauf oder Deaktivierung der Testphase.</description>
       </item>
@@ -1487,10 +1360,10 @@ Die zuvor eingerichteten Eingabe-und Ausgabepfade aus dem IPaper, müssen mit de
       
       <item>
         <title>Stapelfunktion</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/working-with-easy-batch/batchfunction/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-batch/working-with-easy-batch/batchfunction/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/working-with-easy-batch/batchfunction/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-batch/working-with-easy-batch/batchfunction/</guid>
         <description>Arbeiten mit Easy Batch Stapelfunktion Nachdem alle Debitoren nach Ihren Wünschen eingerichtet wurden, können Sie mit dem Versand starten.
 Öffnen Sie dazu einfach eine Seite der Belege, die Sie gerne verarbeiten möchten: z.B. Ihre geb. Verkaufsrechnungen.
 Wählen Sie nun die Belege aus, welche Sie versenden möchten.
@@ -1519,56 +1392,11 @@ Informationsquellen Den Namen der Microsoft Dynamics 365 Business Central Benutz
       
       <item>
         <title>V1.0.0.0 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailsubject/new-and-planned/v1.0.0.0/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailsubject/new-and-planned/v1.0.0.0/</guid>
-        <description>Neu und geplant Version 1.0.0.0 Frei definierbare Betreffs je Bericht Frei definierbare Betreffs je Kreditor/Debitor via Dokumentenlayouts Eigene Platzhalter für dynamische Betreffs Geplante Funktionen für zukünftige Versionen Länge der gewünschten Platzhalter erhöhen Mehrsprachige Platzhalter Vorschaufunktion </description>
-      </item>
-      
-      <item>
-        <title>V1.0.0.0 &amp; Roadmap</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/pdfpaper/new-and-planned/v1.0.0.0/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/pdfpaper/new-and-planned/v1.0.0.0/</guid>
         <description>Neu und geplant Version 1.0.0.0 Hinterlegen von Briefpapier pro Bericht &amp;amp; Debitor Anlegen von mehreren Briefpapieren Vorschaufunktion Geplante Funktionen für zukünftige Versionen Weitere Funktionen aus Modul PdfPaper Globales Briefpapier in Firmendaten Briefpapier je Mandant </description>
-      </item>
-      
-      <item>
-        <title>V1.0.0.1 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailsubject/new-and-planned/v1.0.0.1/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailsubject/new-and-planned/v1.0.0.1/</guid>
-        <description>Neu und geplant Version 1.0.0.1 Funktion &amp;ldquo;Aus Berichtsauswahl kopieren&amp;rdquo; in den Dokumentenlayouts Geplante Funktionen für zukünftige Versionen Länge der gewünschten Platzhalter erhöhen Mehrsprachige Platzhalter Vorschaufunktion </description>
-      </item>
-      
-      <item>
-        <title>V1.0.0.10 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.10/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.10/</guid>
-        <description>Neu und geplant Version 1.0.0.10 Aus technischen Gründen mussten neue Objekt IDs vergeben werden Geplante Funktionen für zukünftige Versionen Anhangsfunktionalitäten auf weiteren Ebenen </description>
-      </item>
-      
-      <item>
-        <title>V1.0.1.8 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.8/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.8/</guid>
-        <description>Neu und geplant Version 1.0.1.8 Die Telefonnotizen lassen sich nun im Nachhinein bearbeiten. Es lässt sich einstellen wann sich die CTI-Karte öffnet. Geplante Funktionen für zukünftige Versionen Automatisches Anlegen von kontakten bei unbekannten Nummern Anpassung der Jobliste passend zur App Ausblenden der CTI Funktionen im Rollencenter für Nicht-CTI-Nutzer </description>
-      </item>
-      
-      <item>
-        <title>V1.1.0.1 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/new-and-planned/v1.1.0.1/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/new-and-planned/v1.1.0.1/</guid>
-        <description>Neu und geplant Version 1.1.0.1 Automatisierte Statusabfrage für offene E-POST-Sendungen über eine Aufgabenwarteschlange. Bestimmte Sonderzeichen (&amp;quot;,\) in den Adressdaten führen nicht mehr zu Verarbeitungsfehlern. Überläufe bei den Adressdaten werden nicht mehr berücksichtigt, sodass es zu keinen Fehlern bei der Verarbeitung mehr kommt. Geplante Funktionen für zukünftige Versionen Erneutes versenden von fehlerhaften Briefen Kontakte im Dialog editierbar Weitere Belegarten Geb. Service-Rechnungen Geb. Service-Gutschriften Bestellungen </description>
       </item>
       
       <item>
@@ -1593,30 +1421,6 @@ Klicken Sie nun auf den Knopf für einen E-Mail Versand. Nun haben Sie schon die
       </item>
       
       <item>
-        <title>V1.0.0.11 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/v1.0.0.11/</link>
-        <pubDate>Mon, 01 Aug 2022 00:00:00 -0500</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/v1.0.0.11/</guid>
-        <description>Neu und geplant Version 1.0.0.11 Korrektur: Fortschrittsanzeige der aktuell bearbeiteten Dokumenten korrigiert Geplante Funktionen für zukünftige Versionen Ausweitung der Funktionen auf den Einkaufsbereich Hintergrunderzeugung und Versand der Belege Buchen und Verarbeiten </description>
-      </item>
-      
-      <item>
-        <title>Weitere E-Mail-Empfänger</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/addresse-control/working-with-addresse-control/weitere_zieladressen/</link>
-        <pubDate>Mon, 04 Jul 2022 00:00:00 -0500</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/addresse-control/working-with-addresse-control/weitere_zieladressen/</guid>
-        <description>Arbeiten mit weiteren E-Mail-Empfängern Nachdem Sie erfoglreich weitere Zieladressen für einen Debitor eingerichtet haben, können Sie Ihren gewünschten Beleg, für einen Debitor/Kreditor, den Sie eingerichtet haben, einfach per E-Mail senden.
-Dazu gehen Sie zunächst auf die gewünschte Beleg-Seite.
-Beispiel: Gebuchte Verkaufsrechnungen.
-Gehen Sie oben in der Aktionsleiste auf Drucken/Senden, und dann auf Per E-Mail senden:
-Es öffnet sich wie gewohnt das E-Mail-Dialog-Fenster:
-Unter E-Mail-Details können Sie die E-Mail-Empfänger ablesen.
-Die eingerichteten weiteren E-Mail-Adressen sind direkt in die zugehörigen Zeilen eingefügt worden.</description>
-      </item>
-      
-      <item>
         <title>Anruf über Kontakte</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/cti/call_contacts/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -1631,20 +1435,20 @@ Klicken Sie einfach innerhalb der Kontaktkarte unter „Kontakt“ auf das Telef
       
       <item>
         <title>Arbeiten mit Easy Document Pin</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/working-with-edp/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-document-pin/working-with-edp/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/working-with-edp/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-document-pin/working-with-edp/</guid>
         <description>Arbeiten mit Easy Document Pin Nach dem die Einrichtung der App stattgefunden hat, können Sie die App sofort ohne Aufwand nutzen. Wählen Sie einfach eine Mahnung die versendet werden soll und versenden Sie diese wie gewohnt.
 Sie werden bemerken, dass die angemahnten Rechnungen automatisch an die Mahnung angehängt wurden.</description>
       </item>
       
       <item>
         <title>Arbeiten mit Mail Experience Plus</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/working-with-mep/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-experience-plus/working-with-mep/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/working-with-mep/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-experience-plus/working-with-mep/</guid>
         <description>Arbeiten mit Mail Experience Plus Die Connector 365 Mail Experience Plus App verbindet die 3 Apps aus unserer Mail Plus-Reihe zu einer Power App. Im Folgenden informieren wir Sie darüber wie Sie die einzelnen Bereiche verwenden.
 Bereich Mail Subject Plus Der Bereich Mail Subject Plus ist dazu da um Ihren E-Mails eigene dynamische Betreffzeilen je Bericht oder Debitor hinzuzufügen. Dabei unterstützen Sie Platzhalter um eigene Inhalte zu definieren.
 Verwendung Subject</description>
@@ -1658,20 +1462,6 @@ Verwendung Subject</description>
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/working-with-msp/</guid>
         <description>Arbeiten mit Mail Sender Plus Der Dialog Nachdem die gewünschten Absenderadressen eingerichtet worden sind, können Sie nun starten. Öffnen Sie einen Beleg und versenden Sie diesen per Mail.
 Sobald sich der Dialog öffnet, wird Ihnen das neue &amp;ldquo;E-Mail Sender&amp;rdquo; Feld auffallen, von dort aus haben Sie nun Zugriff auf die Absenderliste und können die Absenderadressen manuell auswählen. Nachdem Sie die gewünschte Adresse ausgewählt haben, bestätigen Sie nun mit OK, um den Versand wie gewohnt zu starten.</description>
-      </item>
-      
-      <item>
-        <title>Archivierung</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/working-with-easy-batch/archive/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/working-with-easy-batch/archive/</guid>
-        <description>Arbeiten mit Easy Batch Archivierung Nachdem eine Stapelverarbeitung durchgeführt wurde, werden die verarbeiteten Belege in den Connector 365 Aktivitäten aufgeführt. Diese Übersicht können Sie an zwei Stellen finden:
-Direkt am Beleg
-Diese finden Sie direkt in der Factbox rechts neben Ihren Belegen.
-In den globalen Aktivitäten
-Diese erreichen Sie am besten über die Suche - öffnen Sie die Suchfunktion und suchen Sie nach Connector 365 Aktivitäten.
-In den Aktivitäten werden Jobs aufgeführt die über den Stapelmodus ausgelöst wurden.</description>
       </item>
       
       <item>
@@ -1689,6 +1479,18 @@ Um hier Anpassungen vorzunehmen müssen Sie zunächst den Aufgabenwarteschlangen
       </item>
       
       <item>
+        <title>Automatisierte Verarbeitung</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-batch/working-with-easy-batch/automated_processing/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-batch/working-with-easy-batch/automated_processing/</guid>
+        <description>Arbeiten mit Easy Batch Automatisierte Verarbeitung Wenn Sie in der Easy Batch Einrichtung die automatisierte Verarbeitung aktiviert haben, werden Belege, welche gebucht werden, automatisch zur Verarbeitung eingestellt.
+Öffnen Sie dazu eine Seite der Belege, die Sie gerne buchen und anschließend versenden möchten: z.B. Verkaufsaufträge.
+Dort angekommen können Sie wie gewohnt über die Schaltfläche Buchen&amp;hellip; die selektierten Belege buchen.
+Im Anschluss daran, wird die erzeugte gebuchte Verkaufsrechnung und/oder gebuchte Verkaufslieferung zur Verarbeitung eingestellt, sofern die automatisierte Verarbeitung in der easy Batch Einrichtung für diese Belegart aktiviert ist.</description>
+      </item>
+      
+      <item>
         <title>Beispielvorgang Ausdruck</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/pdfpaper/example_print/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -1698,6 +1500,18 @@ Um hier Anpassungen vorzunehmen müssen Sie zunächst den Aufgabenwarteschlangen
 Dialog Vorgang Ausdruck Aktionen Connector NAV Dialog Modus Ausdruck, Aktionen
 Aktionen Briefpapier für den Vorgang Ausdruck anzeigen Über diese Aktion kann das Briefpapier aus der Schnittstellenübergabe angezeigt werden. Register pdfPaper Connector NAV Dialog Modus Ausdruck, Register pdfPaper
 Feldbeschreibung PDF Passwort Hier kann man für das PDF Dokument ein Passwort vergeben.</description>
+      </item>
+      
+      <item>
+        <title>Belegsendeprofile</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-batch/first-steps/setup/document-sending-profile/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-batch/first-steps/setup/document-sending-profile/</guid>
+        <description>Einrichtung Belegsendeprofil Bei dem Belegsendeprofil handelt es sich um eine Standardfunktionalität von Microsoft Dynamics 365 Business Central.
+Sie wird dazu genutzt, um die bevorzugte Methode der Übermittlung von Verkaufsbelegen zu steuern. Stanardmäßig ist die funktionalität für die Verwendung von &amp;ldquo;Buchen und Senden&amp;rdquo; gedacht. Mit dem Connector 365 Easy Batch, können Belegsendeprofile aber auch dafür genutzt verwenden die Stapelfunktion zu steuern.
+Einrichten von Belegsendeprofilen Einrichten von Belegsendeprofilen
+Öffnen Sie die Suche, geben Sie Belegsendeprofile ein und wählen Sie dann den entsprechenden Link.</description>
       </item>
       
       <item>
@@ -1748,20 +1562,20 @@ Verschiebung der Dokumente Navigieren Sie zu dem Pfad, den Sie in der Dokumentat
       
       <item>
         <title>Debitor Standardanhänge</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/first-steps/setup/defaults-customer/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-attachments-plus/first-steps/setup/defaults-customer/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/first-steps/setup/defaults-customer/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-attachments-plus/first-steps/setup/defaults-customer/</guid>
         <description>Einrichtung Standardanhänge pro Debitor und Bericht Eine weitere Möglichkeit, Anhänge hinzuzufügen, besteht darin, sie als Standard für Kunden hinzuzufügen, z. B. wenn es Bedingungen gibt, die nur für einen bestimmten Kunden gelten. Öffnen Sie den Kunden, dem Sie Standardwerte hinzufügen möchten, und erweitern Sie die Optionen im Menü über &amp;ldquo;Weitere Optionen&amp;rdquo;, klicken Sie auf &amp;ldquo;Navigieren&amp;rdquo; und wählen Sie &amp;ldquo;Dokumentlayouts&amp;rdquo;.
 Wenn Sie in der Berichtsauswahl bereits Voreinstellungen vorgenommen haben, ist es möglich, diese beim Einrichten von Anhängen pro Kunde automatisch mit anzuhängen - klicken Sie einfach auf die Schaltfläche &amp;ldquo;Aus Berichtsauswahl kopieren&amp;rdquo;.</description>
       </item>
       
       <item>
         <title>Debitor Standardanhänge</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/working-with-map/defaults-customer/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-attachments-plus/working-with-map/defaults-customer/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/working-with-map/defaults-customer/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-attachments-plus/working-with-map/defaults-customer/</guid>
         <description>Arbeiten mit Mail Attachment Plus Nachdem Sie in der Berichtsauswahl die gewünschten Anhänge hinzugefügt haben, können Sie mit dem Mailversand beginnen. Falls Sie dies noch nicht unternommen haben, können Sie im Bereich &amp;ldquo;Erste Schritte&amp;rdquo; die Einrichtung der Debitor Standardanhänge finden.
 Für Dieses Beispiel haben wir die Standardanhänge im Rechnungsversand wie folgt eingerichtet:
 Zwei PDFs werden angehängt und jeweils die eingerichteten Standards pro Beleg/Bericht
@@ -1952,42 +1766,6 @@ Wählen Sie zunächst den entsprechenden Eintrag in den &amp;ldquo;CTI-Einträge
       </item>
       
       <item>
-        <title>V1.0.0.9 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.9/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.9/</guid>
-        <description>Neu und geplant Version 1.0.0.9 Neue Funktion &amp;ldquo;Aus Berichtsauswahl kopieren&amp;rdquo; Fehlerkorrekturen Geplante Funktionen für zukünftige Versionen Anhangsfunktionalitäten auf weiteren Ebenen </description>
-      </item>
-      
-      <item>
-        <title>V1.0.1.10 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/new-and-planned/v1.0.1.10/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/new-and-planned/v1.0.1.10/</guid>
-        <description>Neu und geplant Version 1.0.1.10 Ländercodes werden bei Installation automatisch eingelesen und in die Tabelle &amp;ldquo;Länder/Region&amp;rdquo; geschrieben Globale Voreinstellung für Dialog und Briefparameter in der Page &amp;ldquo;Connector 365 Einrichtung&amp;rdquo; möglich &amp;ldquo;Berichtsauswahl Verkauf&amp;rdquo; und &amp;ldquo;Berichtsauswahl Mahnung&amp;rdquo; um neues Feld &amp;ldquo;Für E-POST nutzen&amp;rdquo; ergänzt. Nur Berichte, bei welchen der Haken gesetzt ist werden berücksichtigt. Testzeitraum auf 30 Tage geändert. Zuvor waren hier 5 Gratisbriefe möglich. Geplante Funktionen für zukünftige Versionen Erneutes versenden von fehlerhaften Briefen Kontakte im Dialog editierbar Weitere Belegarten Geb.</description>
-      </item>
-      
-      <item>
-        <title>V1.0.1.18 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.18/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.18/</guid>
-        <description>Neu und geplant Version 1.0.1.18 Möglichkeit per XML-Felder per Event anzusteuern und zu überschreiben. Geplante Funktionen für zukünftige Versionen Erweiterung und Verbesserung der XRechnungseinstellung am Debitor Leitweg ID 1:N Verbesserung Dimension Wechsel von Kosit auf 2.01 </description>
-      </item>
-      
-      <item>
-        <title>V1.0.1.3 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.3/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.3/</guid>
-        <description>Neu und geplant Version 1.0.1.3 Warnung beim schließen des CTI-Clients Änderung der Einrichtung des Moduls Geplante Funktionen für zukünftige Versionen Automatisches Anlegen von kontakten bei unbekannten Nummern Anpassung der Jobliste passend zur App Editierbare CTI Notizen Ausblenden der CTI Funktionen im Rollencenter für Nicht-CTI-Nutzer </description>
-      </item>
-      
-      <item>
         <title>Versand über gebuchte Belege</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/sms/send_via_receipts/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -1995,15 +1773,6 @@ Wählen Sie zunächst den entsprechenden Eintrag in den &amp;ldquo;CTI-Einträge
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/sms/send_via_receipts/</guid>
         <description>Versand über gebuchte Belege: Zunächst rufen Sie wie gewohnt Ihre gebuchten Belege auf. Anschließend wählen Sie z.B. gebuchte Verkaufsrechnungen auf. Dort angekommen, wählen Sie die Rechnung aus von der aus Sie eine SMS an den verknüpften Kontakt senden wollen. Anschließend klicken Sie in der Menüleiste unter „Vorgang“ auf den SMS-Knopf
 Es öffnet sich wieder der SMS-Dialog wie auch schon bei dem Versand über Kontakten. Von dort aus können Sie wieder einen 160 Zeichen Text versenden bzw.</description>
-      </item>
-      
-      <item>
-        <title>V1.0.0.10 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/v1.0.0.10/</link>
-        <pubDate>Mon, 01 Aug 2022 00:00:00 -0500</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/v1.0.0.10/</guid>
-        <description>Neu und geplant Version 1.0.0.8 Integration der Connector 365 pdfPaper App. Geplante Funktionen für zukünftige Versionen Ausweitung der Funktionen auf den Einkaufsbereich Hintergrunderzeugung und Versand der Belege Buchen und Verarbeiten </description>
       </item>
       
       <item>
@@ -2072,10 +1841,10 @@ Funktion „Zeige Passwort“ Natürlich ist es wichtig, dass Passwörter gesch�
       
       <item>
         <title>Beleg Standardanhänge</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/first-steps/setup/defaults-document/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-attachments-plus/first-steps/setup/defaults-document/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/first-steps/setup/defaults-document/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-attachments-plus/first-steps/setup/defaults-document/</guid>
         <description>Einrichtung Hinzufügen von Standardanhängen pro Beleg Über die Factbox haben Sie die Möglichkeit jedem Dokument Standardanhänge mitzugeben, die automatisch bei einem Versand mitangehängt werden. Wählen Sie dazu in der Übersicht den gewünschten Beleg aus und wählen Sie rechts in der Factbox &amp;ldquo;Anhänge&amp;rdquo;
 Klicken Sie nun bei &amp;ldquo;Belege&amp;rdquo; auf die 0, es öffnet sich ein Fenster in dem Sie via &amp;ldquo;Datei auswählen&amp;rdquo; in der Tabelle Anhänge hinzufügen können.
 Wählen Sie die gewünschte Datei aus und wiederholen diesen Prozess bis alle gewünschten Dateien angehängt sind.</description>
@@ -2083,10 +1852,10 @@ Wählen Sie die gewünschte Datei aus und wiederholen diesen Prozess bis alle ge
       
       <item>
         <title>Beleg Standardanhänge</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/working-with-map/defaults-document/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-attachments-plus/working-with-map/defaults-document/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/working-with-map/defaults-document/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-attachments-plus/working-with-map/defaults-document/</guid>
         <description>Arbeiten mit Mail Attachment Plus Wenn Sie alle Ihre gewünschten Anhänge über das &amp;ldquo;Anhänge&amp;rdquo; Menü hinzugefügt haben, können Sie mit dem Versand starten. Falls Sie dies noch nicht unternommen haben, können Sie im Bereich &amp;ldquo;Erste Schritte&amp;rdquo; die Einrichtung der Debitor Standardanhänge finden.
 Für das Beispiel haben wir die Anhänge für einen Beleg wie folgt eingerichtet:
 Es wurde ein Bild und eine PDF also Standard festgelegt.
@@ -2149,10 +1918,10 @@ Anschließend sollten Sie das Feld “Internationaler Standardcode” anhand der
       
       <item>
         <title>Einrichtung</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/first-steps/setup/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-document-pin/first-steps/setup/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/first-steps/setup/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-document-pin/first-steps/setup/</guid>
         <description>Erste Schritte Einrichtung Berechtigungssätze Bevor Sie mit der Einrichtung beginnen, müssen Sie den Nutzern der App, neue Berechtigungssätze vergeben. Dabei stellen wir die folgenden zur Verfügung:
 CON365, VIEW
 Dieser erlaubt Nutzern grundsätzlich mit der App zu interagieren und Belege mit automatischen Anhängen zu versenden.
@@ -2192,20 +1961,6 @@ Kommt es nun zu einem eingehenden Anruf, während Sie Dynamics NAV bzw. den Clie
 Um ein Event für Verkaufsrechnungen bzw. Servicerechnungen zu subscriben, muss der XML-Port BEL365 S. Inv. XRechnung 2.0 in einem EventSubscriber angegeben werden.
 Beispiel:
 1 [EventSubscriber(ObjectType::XmlPort, XmlPort::&amp;#34;BEL365 S. Inv. XRechnung 2.0&amp;#34;, &amp;#39;OnAfterGetLineInvoicePeriodInfo&amp;#39;, &amp;#34;&amp;#34;, true, true)] Für Verkaufsgutschriften bzw. Servicegutschriften ist als folgender XML-Port einzutragen: BEL365 S. Cr. M. XRechnung 2.</description>
-      </item>
-      
-      <item>
-        <title>Hilfe &amp; Support</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/addresse-control/help-support/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/addresse-control/help-support/</guid>
-        <description>Hilfe &amp;amp; Support Wir freuen uns darauf, uns um Ihre Anliegen kümmern zu dürfen. Egal, ob es allgemeine Fragen zu der BELWARE GmbH und unseren Produkten oder spezifische Fragen sind. Melden Sie sich einfach per Telefon oder Mail bei uns. Auf Ihre Anfragen reagieren wir innerhalb von 1 - 2 Werktagen.
-Für Allgemeines sind wir zu erreichen über:
-E-Mail: info@belware.de
-Alternativ
-Tel.: +49 2362 788 90 55 0
-Fax: +49 2362 788 90 56</description>
       </item>
       
       <item>
@@ -2298,6 +2053,18 @@ SetJoblistSubject(„Jobno.“ : Integer;NewSubject : Text[250]) Mit dieser Funk
       </item>
       
       <item>
+        <title>Offene Aufgaben</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-batch/working-with-easy-batch/open-tasks/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-batch/working-with-easy-batch/open-tasks/</guid>
+        <description>Arbeiten mit Easy Batch Offene Aufgaben Die Seite Offene Aufgaben bietet Ihnen eine Übersicht sämtlicher Belege, welche zur Verarbeitung eingestellt wurden, allerdings noch nicht erfolgreich verarbeitet wurden.
+Neben der geplanten Verarbeitungszeit, kann im Fehlerfall im Feld Fehlernachricht nachgeprüft werden, warum die Verarbeitun fehlschlug.
+Über die Schaltfläche Verarbeitung stornieren kann die Verarbeitung für einzelne Belege gestoppt werden.
+Nachdem die Verarbeitung erfolgreich war werden die Vorgänge aus dieser Übersicht entfernt und anschließend in den Connector 365 Aktivitäten archiviert.</description>
+      </item>
+      
+      <item>
         <title>PEPPOL im Standard</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/peppol/standard/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -2309,48 +2076,17 @@ Ab Dynamics NAV 2016 PEPPOL 2.0 Ab Dynamics NAV 2016 PEPPOL 2.1 Ab Business Cent
       </item>
       
       <item>
-        <title>V1.0.0.8 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.8/</link>
+        <title>Archivierung</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-batch/working-with-easy-batch/archive/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.8/</guid>
-        <description>Neu und geplant Version 1.0.0.8 Fehlerkorrektur bei Übernahme der Anhänge Geplante Funktionen für zukünftige Versionen Anhangsfunktionalitäten auf weiteren Ebenen </description>
-      </item>
-      
-      <item>
-        <title>V1.0.1.1 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.1/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.1/</guid>
-        <description>Neu und geplant Version 1.0.1.1 CTI Status im Rollencenter Button zum öffnen des CTI Clients im Rollencenter Automatisches konvertieren von Telefonnummern Frei setzbare CTI-Seite Webdienst wird automatisch generiert Geplante Funktionen für zukünftige Versionen Automatisches Anlegen von kontakten bei unbekannten Nummern Anpassung der Jobliste passend zur App Editierbare CTI Notizen Ausblenden der CTI Funktionen im Rollencenter für Nicht-CTI-Nutzer </description>
-      </item>
-      
-      <item>
-        <title>V1.0.1.11 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.11/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.11/</guid>
-        <description>Neu und geplant Version 1.0.1.11 Dokumentlayout übersteuert nun die Berichtsauswahl je Verwendung. Fehlerkorrektur Dialog: Unterpage &amp;ldquo;Anhänge&amp;rdquo; wurde doppelt angezeigt. Es wird nun immer das richtige E-Mail Layout genommen. Servicebereich ist nun für die XRechnung verfügbar Geplante Funktionen für zukünftige Versionen Erweiterung und Verbesserung der XRechnungseinstellung am Debitor Leitweg ID 1:N Verbesserung Dimension Wechsel von Kosit auf 2.01 </description>
-      </item>
-      
-      <item>
-        <title>V1.0.1.3 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/new-and-planned/v1.0.1.3/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/new-and-planned/v1.0.1.3/</guid>
-        <description>Neu und geplant Version 1.0.1.3 Fehlerkorrektur in der Einrichtung Geplante Funktionen für zukünftige Versionen Erneutes versenden von fehlerhaften Briefen Kontakte im Dialog editierbar Weitere Belegarten Geb. Service-Rechnungen Geb. Service-Gutschriften Bestellungen </description>
-      </item>
-      
-      <item>
-        <title>V1.0.0.8 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/v1.0.0.8/</link>
-        <pubDate>Mon, 16 May 2022 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/v1.0.0.8/</guid>
-        <description>Neu und geplant Version 1.0.0.8 Korrektur: Setze negativen Status, wenn E-Mail-Codeunit fehlschlägt Korrektur: Schreiben von E-Mail bezogenen Informationen in die Connector 365 Aktivitäten Liste Geplante Funktionen für zukünftige Versionen Ausweitung der Funktionen auf den Einkaufsbereich Hintergrunderzeugung und Versand der Belege Buchen und Verarbeiten </description>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-batch/working-with-easy-batch/archive/</guid>
+        <description>Arbeiten mit Easy Batch Archivierung Nachdem eine Stapelverarbeitung durchgeführt wurde, werden die verarbeiteten Belege in den Connector 365 Aktivitäten aufgeführt. Diese Übersicht können Sie an zwei Stellen finden:
+Direkt am Beleg
+Diese finden Sie direkt in der Factbox rechts neben Ihren Belegen.
+In den globalen Aktivitäten
+Diese erreichen Sie am besten über die Suche - öffnen Sie die Suchfunktion und suchen Sie nach Connector 365 Aktivitäten.
+In den Aktivitäten werden Jobs aufgeführt die über den Stapelmodus ausgelöst wurden.</description>
       </item>
       
       <item>
@@ -2392,10 +2128,10 @@ Fax: +49 2362 788 90 56</description>
       
       <item>
         <title>Hilfe &amp; Support</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/help-support/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-batch/help-support/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/help-support/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-batch/help-support/</guid>
         <description>Hilfe &amp;amp; Support Wir freuen uns darauf, uns um Ihre Anliegen kümmern zu dürfen. Egal, ob es allgemeine Fragen zu der BELWARE GmbH und unseren Produkten oder spezifische Fragen sind. Melden Sie sich einfach per Telefon oder Mail bei uns. Auf Ihre Anfragen reagieren wir innerhalb von 1 - 2 Werktagen.
 Für Allgemeines sind wir zu erreichen über:
 E-Mail: info@belware.de
@@ -2406,10 +2142,38 @@ Fax: +49 2362 788 90 56</description>
       
       <item>
         <title>Hilfe &amp; Support</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/help-support/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-document-pin/help-support/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/help-support/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-document-pin/help-support/</guid>
+        <description>Hilfe &amp;amp; Support Wir freuen uns darauf, uns um Ihre Anliegen kümmern zu dürfen. Egal, ob es allgemeine Fragen zu der BELWARE GmbH und unseren Produkten oder spezifische Fragen sind. Melden Sie sich einfach per Telefon oder Mail bei uns. Auf Ihre Anfragen reagieren wir innerhalb von 1 - 2 Werktagen.
+Für Allgemeines sind wir zu erreichen über:
+E-Mail: info@belware.de
+Alternativ
+Tel.: +49 2362 788 90 55 0
+Fax: +49 2362 788 90 56</description>
+      </item>
+      
+      <item>
+        <title>Hilfe &amp; Support</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-attachments-plus/help-support/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-attachments-plus/help-support/</guid>
+        <description>Hilfe &amp;amp; Support Wir freuen uns darauf, uns um Ihre Anliegen kümmern zu dürfen. Egal, ob es allgemeine Fragen zu der BELWARE GmbH und unseren Produkten oder spezifische Fragen sind. Melden Sie sich einfach per Telefon oder Mail bei uns. Auf Ihre Anfragen reagieren wir innerhalb von 1 - 2 Werktagen.
+Für Allgemeines sind wir zu erreichen über:
+E-Mail: info@belware.de
+Alternativ
+Tel.: +49 2362 788 90 55 0
+Fax: +49 2362 788 90 56</description>
+      </item>
+      
+      <item>
+        <title>Hilfe &amp; Support</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-experience-plus/help-support/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-experience-plus/help-support/</guid>
         <description>Hilfe &amp;amp; Support Wir freuen uns darauf, uns um Ihre Anliegen kümmern zu dürfen. Egal, ob es allgemeine Fragen zu der BELWARE GmbH und unseren Produkten oder spezifische Fragen sind. Melden Sie sich einfach per Telefon oder Mail bei uns. Auf Ihre Anfragen reagieren wir innerhalb von 1 - 2 Werktagen.
 Für Allgemeines sind wir zu erreichen über:
 E-Mail: info@belware.de
@@ -2434,38 +2198,10 @@ Fax: +49 2362 788 90 56</description>
       
       <item>
         <title>Hilfe &amp; Support</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/help-support/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-subject-plus/help-support/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/help-support/</guid>
-        <description>Hilfe &amp;amp; Support Wir freuen uns darauf, uns um Ihre Anliegen kümmern zu dürfen. Egal, ob es allgemeine Fragen zu der BELWARE GmbH und unseren Produkten oder spezifische Fragen sind. Melden Sie sich einfach per Telefon oder Mail bei uns. Auf Ihre Anfragen reagieren wir innerhalb von 1 - 2 Werktagen.
-Für Allgemeines sind wir zu erreichen über:
-E-Mail: info@belware.de
-Alternativ
-Tel.: +49 2362 788 90 55 0
-Fax: +49 2362 788 90 56</description>
-      </item>
-      
-      <item>
-        <title>Hilfe &amp; Support</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/help-support/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/help-support/</guid>
-        <description>Hilfe &amp;amp; Support Wir freuen uns darauf, uns um Ihre Anliegen kümmern zu dürfen. Egal, ob es allgemeine Fragen zu der BELWARE GmbH und unseren Produkten oder spezifische Fragen sind. Melden Sie sich einfach per Telefon oder Mail bei uns. Auf Ihre Anfragen reagieren wir innerhalb von 1 - 2 Werktagen.
-Für Allgemeines sind wir zu erreichen über:
-E-Mail: info@belware.de
-Alternativ
-Tel.: +49 2362 788 90 55 0
-Fax: +49 2362 788 90 56</description>
-      </item>
-      
-      <item>
-        <title>Hilfe &amp; Support</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailsubject/help-support/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailsubject/help-support/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-subject-plus/help-support/</guid>
         <description>Hilfe &amp;amp; Support Wir freuen uns darauf, uns um Ihre Anliegen kümmern zu dürfen. Egal, ob es allgemeine Fragen zu der BELWARE GmbH und unseren Produkten oder spezifische Fragen sind. Melden Sie sich einfach per Telefon oder Mail bei uns. Auf Ihre Anfragen reagieren wir innerhalb von 1 - 2 Werktagen.
 Für Allgemeines sind wir zu erreichen über:
 E-Mail: info@belware.de
@@ -2524,61 +2260,6 @@ Hier sollte nun das Feld “Steuerkategorie” mit der jeweiligen Bezeichnung ge
       </item>
       
       <item>
-        <title>V1.0.0.7 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.7/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.7/</guid>
-        <description>Neu und geplant Version 1.0.0.7 Fehlerkorrekturen Verbesserung der Übersetzung Dokumentenanhänge als E-Mailanhang Geplante Funktionen für zukünftige Versionen Anhangsfunktionalitäten auf weiteren Ebenen </description>
-      </item>
-      
-      <item>
-        <title>V1.0.1.0 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.0/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.0/</guid>
-        <description>Neu und geplant Version 1.0.1.0 Kleinere Korrekturen Click to Dial für Telefon- und Handynummer Unbekannte Nummern bei eingehenden Anrufen anzeigen Der CTI-Client öffnet sich automatisch anch Anmeldung bei Business Central Geplante Funktionen für zukünftige Versionen Rollencenter verfeinern Automatisches Anlegen von kontakten bei unbekannten Nummern Anpassung der Jobliste passend zur App Editierbare CTI Notizen </description>
-      </item>
-      
-      <item>
-        <title>V1.0.1.1 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.1/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.1/</guid>
-        <description>Neu und geplant Version 1.0.1.1 Die Connector 365 XRechnung App stützt nun auf unsere Basis App Hinzufügen von Events zur Steuerung der XRechnung Fehlerkorrekturen Geplante Funktionen für zukünftige Versionen Service Rechnungen und Service Gutschriften Erweiterung und Verbesserung der XRechnungseinstellung am Debitor Leitweg ID 1:N Verbesserung Dimension Wechsel von Kosit auf 2.01 </description>
-      </item>
-      
-      <item>
-        <title>V1.0.1.2 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/new-and-planned/v1.0.1.2/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/new-and-planned/v1.0.1.2/</guid>
-        <description>Neu und geplant Version 1.0.1.2 Korrekturen Integration zu Connector 365 Easy Batch Geplante Funktionen für zukünftige Versionen Erneutes versenden von fehlerhaften Briefen Kontakte im Dialog editierbar Weitere Belegarten Geb. Service-Rechnungen Geb. Service-Gutschriften Bestellungen </description>
-      </item>
-      
-      <item>
-        <title>V1.0.1.5 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.5/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.5/</guid>
-        <description>Neu und geplant Version 1.0.1.5 Korrekturen Unterstützung von Servicerechnungen und Servicegutschriften Geplante Funktionen für zukünftige Versionen Erweiterung und Verbesserung der XRechnungseinstellung am Debitor Leitweg ID 1:N Verbesserung Dimension Wechsel von Kosit auf 2.01 </description>
-      </item>
-      
-      <item>
-        <title>Videos</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/addresse-control/videos/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/addresse-control/videos/</guid>
-        <description>Videos Hier finden Sie einige informative Videos zur unserer Connector 365 Addresse Control App, jedes Video behandelt ein spezielles Thema:
-kurze Übersicht der App </description>
-      </item>
-      
-      <item>
         <title>Videos</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/videos/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -2607,41 +2288,6 @@ Einrichtung und Versand </description>
         <description>XRechnung erzeugen Da wir nun den **XRechnungs-**Eintrag für Gilde Jupiter Versicherungs AG für den Jobmodus PDF angelegt haben, können wir aus der markierten Rechnung 103003 über die Schaltfläche PDF eine XRechnung erzeugen.
 Alternativ geht dies auch über die Schaltfläche Stapellauf, insofern der betreffende Eintrag in der Kommunikationsmatrix für den Stapelmodus markiert worden ist:
 Sobald eine der oben genannten Schaltflächen aktiviert worden ist, wird aus der markierten Rechnung eine XRechnung erzeugt.</description>
-      </item>
-      
-      <item>
-        <title>Weitere E-Mail Empfänger (CC/BCC)</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/addresse-control/first-steps/setup/weitere-empf%C3%A4nger/</link>
-        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/addresse-control/first-steps/setup/weitere-empf%C3%A4nger/</guid>
-        <description>Weitere E-Mail-Empfänger einrichten Neben der Funktionalität, Zieladressen pro Jobmodus und Verwendung einzurichten,
-bietet Connector 365 Addressee Control eine weitere Funktion an, die es erlaubt,
-pro Debitor und Verwendung noch weitere E-Mail-Empfänger festzulegen.
-Wie Sie dies einrichten können, erfahren Sie im Folgenden.
-Einrichtung Weitere Debitor-Zieladressen können Sie in den Dokumentlayouts des gewünschten Debitors hinterlegen.
-Die Connector 365 Addressee Control App erweitert die Dokumentlayouts um ein weiteres Feld: Weitere Ziele.
-Der Inhalt des Felds gibt an, ob weitere Zieladressen zum aktuellen Zeitpunkt eingerichtet sind.</description>
-      </item>
-      
-      <item>
-        <title>Zieladressen</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/addresse-control/first-steps/setup/zieladdressen/</link>
-        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/addresse-control/first-steps/setup/zieladdressen/</guid>
-        <description>Einrichtung Um die Zieladressen-Logik über die Connector 365 Addresse Control App nach Belieben einzustellen, öffnen Sie eine der Seiten Berichtsauswahlen.
-Bitte beachten Sie die folgende Tabelle der aktuell nutzbaren Berichtsauswahlen für die Nutzung mit Connector 365 Addressee Control.Verwendung Unterstützt Verkauf Einkauf Lager Cashflow Lager Mahnung/Zinsrechnung Bankkonto Projekt Beispiel aus dem Bereich Verkauf -&amp;gt; Berichtsauswahl - Verkauf:
-Nun haben Sie die Möglichkeit, für verschiedene Berichtsverwendungen und Jobmodis die Zieladressen-Logik einzustellen.</description>
-      </item>
-      
-      <item>
-        <title>V1.0.0.7 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/v1.0.0.7/</link>
-        <pubDate>Mon, 16 May 2022 12:44:00 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/v1.0.0.7/</guid>
-        <description>Neu und geplant Version 1.0.0.7 Dialog-Seiten nur wenn erlaubt (GuiAllowed) Geplante Funktionen für zukünftige Versionen Ausweitung der Funktionen auf den Einkaufsbereich Hintergrunderzeugung und Versand der Belege </description>
       </item>
       
       <item>
@@ -2718,42 +2364,6 @@ Weitere Informationen zur genauen Verwendung dieser Funktion finden Sie in der E
       </item>
       
       <item>
-        <title>V1.0.0.1 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.0.1/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.0.1/</guid>
-        <description>Neu und geplant Version 1.0.0.1 Anzeigen von Kontaktdaten bei eingehenden Anrufen Keine verpassten Anrufe durch eine automatische Anrufverwaltung Verlinkung zu Kontakt, Debitor oder Kreditor Automatische Zeiterfassung von Uhrzeit und Dauer jedes Anrufs Geplante Funktionen für zukünftige Versionen Erweiterung der Anrufliste - Globale Jobliste Anrufliste im Rollencenter Unbekannte Nummern bei eingehenden Anrufen anzeigen </description>
-      </item>
-      
-      <item>
-        <title>V1.0.0.5 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.5/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.5/</guid>
-        <description>Neu und geplant Version 1.0.0.5 Fehlerkorrekturen Geplante Funktionen für zukünftige Versionen Anhangsfunktionalitäten auf weiteren Ebenen </description>
-      </item>
-      
-      <item>
-        <title>V1.0.1.1 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/new-and-planned/v1.0.1.1/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/new-and-planned/v1.0.1.1/</guid>
-        <description>Neu und geplant Version 1.0.1.0 Korrektur der Übersetzung Geplante Funktionen für zukünftige Versionen Erneutes versenden von fehlerhaften Briefen Kontakte im Dialog editierbar Weitere Belegarten Geb. Service-Rechnungen Geb. Service-Gutschriften Bestellungen </description>
-      </item>
-      
-      <item>
-        <title>V1.0.1.3 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.3/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.3/</guid>
-        <description>Neu und geplant Version 1.0.1.3 Korrekturen Integration zu Connector 365 Easy Batch Geplante Funktionen für zukünftige Versionen Service Rechnungen und Service Gutschriften Erweiterung und Verbesserung der XRechnungseinstellung am Debitor Leitweg ID 1:N Verbesserung Dimension Wechsel von Kosit auf 2.01 </description>
-      </item>
-      
-      <item>
         <title>Videos</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/videos/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -2765,22 +2375,41 @@ kurze Übersicht der App - Deutsch *Die Connector 365 E-POST App, setzt auf die 
       
       <item>
         <title>Videos</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/videos/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-batch/videos/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/videos/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-batch/videos/</guid>
         <description>Videos Hier finden Sie einige informative Videos zur unserer Easy Batch App, jedes Video behandelt ein spezielles Thema
 Connector 365 Easy Batch - Kurzübersicht </description>
       </item>
       
       <item>
         <title>Videos</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/videos/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-document-pin/videos/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/videos/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-document-pin/videos/</guid>
         <description>Videos Hier finden Sie einige informative Videos zur unserer Mail Attachments Plus App, jedes Video behandelt ein spezielles Thema
 Einrichtung und Versand </description>
+      </item>
+      
+      <item>
+        <title>Videos</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-attachments-plus/videos/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-attachments-plus/videos/</guid>
+        <description>Videos Hier finden Sie einige informative Videos zur unserer Mail Attachments Plus App, jedes Video behandelt ein spezielles Thema
+Nutzung der App </description>
+      </item>
+      
+      <item>
+        <title>Videos</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-experience-plus/videos/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-experience-plus/videos/</guid>
+        <description>Videos Hier finden Sie einige informative Videos zur unserer Mail Experience Plus App, jedes Video behandelt ein spezielles Thema</description>
       </item>
       
       <item>
@@ -2795,29 +2424,10 @@ Einrichtung der App </description>
       
       <item>
         <title>Videos</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/videos/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-subject-plus/videos/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/videos/</guid>
-        <description>Videos Hier finden Sie einige informative Videos zur unserer Mail Attachments Plus App, jedes Video behandelt ein spezielles Thema
-Nutzung der App </description>
-      </item>
-      
-      <item>
-        <title>Videos</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/videos/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/videos/</guid>
-        <description>Videos Hier finden Sie einige informative Videos zur unserer Mail Experience Plus App, jedes Video behandelt ein spezielles Thema</description>
-      </item>
-      
-      <item>
-        <title>Videos</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailsubject/videos/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailsubject/videos/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-subject-plus/videos/</guid>
         <description>Videos Hier finden Sie einige informative Videos zur unserer Mail Subject Plus App, jedes Video behandelt ein spezielles Thema</description>
       </item>
       
@@ -2874,42 +2484,6 @@ Bei der Stapelverarbeitung wurden im Jobmodus Druck die zusätzlichen Drucker au
       </item>
       
       <item>
-        <title>V1.0.0.4 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.4/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.4/</guid>
-        <description>Neu und geplant Version 1.0.0.4 Unbegrenzte Menge an Standardanhängen pro Dokument Anpassung an die Mail Experience Geplante Funktionen für zukünftige Versionen Anhangsfunktionalitäten auf weiteren Ebenen </description>
-      </item>
-      
-      <item>
-        <title>V1.0.0.6 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/v1.0.0.6/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/v1.0.0.6/</guid>
-        <description>Neu und geplant Version 1.0.0.6 Logik bei der Auswahl des Berichtslayouts an den Standard angeglichen Geplante Funktionen für zukünftige Versionen Integration von kreditorischen Belegen. Hintergrunderzeugung und Versand der Belege </description>
-      </item>
-      
-      <item>
-        <title>V1.0.1.0 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/new-and-planned/v1.0.1.0/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/new-and-planned/v1.0.1.0/</guid>
-        <description>Neu und geplant Version 1.0.1.0 Versand weiterer Belegarten Geb. Verkaufsgutschriften Registrierte Mahnungen Angebote Verkaufsaufträge Versand von Duplexbriefen Versandstatus (Jobliste) in der Factbox am Vorgang in der Übersicht Zwei Boxen für die Jobliste im Rollencenter Die Connector 365 XRechnung App stützt nun auf unsere Basis App Geplante Funktionen für zukünftige Versionen Erneutes versenden von fehlerhaften Briefen Kontakte im Dialog editierbar Weitere Belegarten Geb. Service-Rechnungen Geb. Service-Gutschriften Bestellungen </description>
-      </item>
-      
-      <item>
-        <title>V1.0.1.0 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.0/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.1.0/</guid>
-        <description>Neu und geplant Version 1.0.1.0 Statusverfolgung im Rollencenter Rechnungsbegleitende Anhänge Überarbeiteter XRechnungs-Dialog Syntaxüberprüfung der Leitweg-ID Erweiterung der Eingabe für Leitweg ID&amp;rsquo;s XRechnungsversion angepasst Geplante Funktionen für zukünftige Versionen Service Rechnungen und Service Gutschriften Erweiterung und Verbesserung der XRechnungseinstellung am Debitor Leitweg ID 1:N Verbesserung Dimension Events Wechsel von Kosit auf 2.01 </description>
-      </item>
-      
-      <item>
         <title>August</title>
         <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/august/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -2946,8 +2520,8 @@ In der Kommunikationsmatrix wird nun das Feld der Zieladresse anhand der Einstel
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/matrix/book_and_process/</guid>
-        <description>Funktion buchen &amp;amp; verarbeiten Ähnlich wie die Standardfunktionen buchen &amp;amp; senden bzw. buchen &amp;amp; drucken, erlaubt die Funktion buchen &amp;amp; verarbeiten ihnen einen Beleg nach dem buchen noch weiter zu verarbeiten. Im Gegensatz zum Standard erlaubt Ihnen die Funktion ein verarbeiten des Belegs durch alle Connector NAV Schnittstellen. Außerdem haben Sie die Möglichkeit einen Beleg gleich mehrfach über verschiedene Kanäle z.B. Brief &amp;amp; E-Mail zu versenden.
-Wie genau der jeweilige Beleg verarbeitet werden soll, können Sie in unserer Kommunikationsmatrix einrichten.</description>
+        <description>Funktion Buchen &amp;amp; Verarbeiten Ähnlich wie die Standardfunktionen buchen &amp;amp; senden bzw. buchen &amp;amp; drucken, erlaubt die Funktion Buchen &amp;amp; Verarbeiten ihnen einen Beleg nach dem buchen noch weiter zu verarbeiten. Im Gegensatz zum Standard erlaubt Ihnen die Funktion ein Verarbeiten des Belegs durch alle Connector NAV Schnittstellen. Außerdem haben Sie die Möglichkeit einen Beleg gleich mehrfach über verschiedene Kanäle z.B. Brief &amp;amp; E-Mail zu versenden.
+Wie genau der jeweilige Beleg verarbeitet werden soll, können Sie in in der Connector NAV Kommunikationsmatrix festlegen.</description>
       </item>
       
       <item>
@@ -2958,42 +2532,6 @@ Wie genau der jeweilige Beleg verarbeitet werden soll, können Sie in unserer Ko
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/error_analysis/</guid>
         <description>Validierungsergebnisse bei Fehler analysieren Bei der Validierung der XRechnung-Datei kann es natürlich auch vorkommen, dass eine XRechnung als nicht konform eingestuft wird. Dies passiert dann, wenn wichtige Informationen in der Rechnung fehlen. Beispielsweise wird eine Validierung schon dann fehlschlagen, wenn die Stadt des Debitors nicht angegeben wurde.
 Um einen Fall zu simulieren, bei dem die Validierung fehlschlägt, ändern wir das obige Vorgehen so um, dass wir „vergessen“ eine Leitweg-ID anzugeben. Dazu rufen wir wieder für unsere Beispielrechnung 103003 die Kommunikationsmatrix auf, und entfernen in unserem Eintrag den Wert für die Spalte Leitweg-ID.</description>
-      </item>
-      
-      <item>
-        <title>V1.0.0.0 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/v1.0.0.0/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/v1.0.0.0/</guid>
-        <description>Neu und geplant Version 1.0.0.0 Intelligente Prozesssteuerung Stapelverarbeitung von Belegen Steuerung via Belegsendeprofilen Geplante Funktionen für zukünftige Versionen Integration von kreditorischen Belegen. Hintergrunderzeugung und Versand der Belege </description>
-      </item>
-      
-      <item>
-        <title>V1.0.0.1 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.0.1/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/new-and-planned/v1.0.0.1/</guid>
-        <description>Neu und geplant Version 1.0.0.1 Erstellen einer XRechnung XML-Datei Versand der XRechnung per Mail mit dem Standard BC Mail - Dialog Versand eines Prüfberichts, welcher dem Empfänger die Konformität der Rechnung bestätigt. Anzeigen des Prüfberichts für den Nutzer bei “Nicht-Konformität” Abbruch des Versands bei &amp;ldquo;Nicht-Konformität Verbesserung der WebService Abfrage / DLL für das Prüfprotokoll Geplante Funktionen für zukünftige Versionen Statusverfolgung im Rollencenter Rechnungsbegleitende Anhänge Überarbeiteter XRechnungs-Dialog Syntaxüberprüfung der Leitweg-ID Erweiterung der Eingabe für Leitweg ID&amp;rsquo;s </description>
-      </item>
-      
-      <item>
-        <title>V1.0.0.3 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.3/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.3/</guid>
-        <description>Neu und geplant Version 1.0.0.3 Unbegrenzte Menge an Anhängen im Dialog Unbegrenzt viele Standardanhänge pro Bericht festlegen Unbegrenzt viele Standardanhänge pro Kunde/Bericht Auf einen bestimmten Zeitraum eingeschränkte Standardanhänge Kompatibel mit allen gängigen Dateitypen Geplante Funktionen für zukünftige Versionen Unbegrenzte Menge an Standardanhängen pro Dokument </description>
-      </item>
-      
-      <item>
-        <title>V1.0.0.5 &amp; Roadmap</title>
-        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/new-and-planned/v1.0.0.5/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/new-and-planned/v1.0.0.5/</guid>
-        <description>Neu und geplant Version 1.0.0.5 Versenden von E-POST Briefen aus geb. Verkaufsrechnungen Versand in Farbe bzw. S/W Einschreiben (Einwurf/Rückschein) Archivierung versendeter Briefe Auslandsversand Geplante Funktionen für zukünftige Versionen Weitere Belegarten Lieferscheine Verkaufsaufträge Angebote Kleine Verbesserungen </description>
       </item>
       
       <item>
@@ -3011,8 +2549,9 @@ Um einen Fall zu simulieren, bei dem die Validierung fehlschlägt, ändern wir d
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/matrix/options/</guid>
-        <description>Optionen &amp;amp; erweiterte Optionen der Kommunikationsmatrix Die folgenden Funktionen finden Sie in der Kommunikationsmatrix. Ab Punkt 11 sind diese nur in Verbindung mit dem pdfPaper-Modul verwendbar.
-Feld Name Funktion 1 Stapelmodus legt fest, ob der Eintrag ebenfalls für die Verarbeitung im Stapelmodus gilt 2 TabellenID legt fest, auf welche Tabelle sich der Eintrag bezieht (Deb./Kred./Kontakt) 3 Tabellenname wird automatisch mit dem Namen der Tabelle gefüllt 4 Nr. Lfd. Nummer des Deb.</description>
+        <description>Optionen &amp;amp; erweiterte Optionen der Kommunikationsmatrix Im folgenden sind Screenshots der Kommunikationsmatrix mit allen enthaltenden Feldern zu sehen.
+Die Felder sind durchnummeriert, und werden in der darunterstehenden Tabelle jeweils näher erläutert:
+Feld Name Funktion 1 Stapelmodus legt fest, ob der Eintrag ebenfalls für die Verarbeitung im Stapelmodus gilt 2 Jobmodus hier wird der Jobmodus, für den der Eintrag gelten soll, ausgewählt 3 TabellenID legt fest, auf welche Tabelle sich der Eintrag bezieht (Deb.</description>
       </item>
       
       <item>
@@ -3042,6 +2581,18 @@ Optimierungen Kontaktnummern werden nicht mehr gelöscht wenn ein Mail-Versand a
         
         <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2021/september/</guid>
         <description>Erweiterungen von Standardfeatures &amp;amp; Neue Features: Implementieren einer neuen Funktion die das importieren &amp;amp; exportieren der Jobliste in Blobs erlaubt. Im Dialog kann der E-Mail CC nun durch einen Assist-Knopf gesetzt werden. Optimierungen: Vor dem ausführen von CTI-Events wird nun die CTI-Konfiguration geprüft. </description>
+      </item>
+      
+      <item>
+        <title>Betreff</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/matrix/subject/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/matrix/subject/</guid>
+        <description>Anwendungsbereich Aus den verschiedenen Einstellungen für den Jobmodus, den Berichtsnamen und anderes können sich sehr viele Kombinationen ergeben.
+Sind für einzelne dieser Kombinationen spezifisch aufgebaute Betreffzeilen in den erzeugten Dokumenten gewünscht, lassen sich diese über dieses Feld realisieren.
+Dazu werden selbst zu definierende Platzhalter verwendet, die mit zugeordneten Werten aus der Datenbank ersetzt werden. Eingerichtet werden sie wie folgt:
+In der Kommunikationsmatrix gibt es eine Spalte &amp;ldquo;Betreff&amp;rdquo;. In den zugehörigen Feldern kann durch das [&amp;hellip;]-Symbol am rechten Rand</description>
       </item>
       
       <item>

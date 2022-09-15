@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Setup on Connector 365 Online Help</title>
+    <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easy-batch/first-steps/setup/</link>
+    <description>Recent content in Setup on Connector 365 Online Help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easy-batch/first-steps/setup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Easy Batch Setup</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easy-batch/first-steps/setup/easy-batch-setup/</link>
+        <pubDate>Wed, 17 Aug 2022 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easy-batch/first-steps/setup/easy-batch-setup/</guid>
+        <description>Setup Easy Batch Setup To navifate to the Easy Batch Setup simply open the search and enter Connector 365 Setup.
+There you can find the tab Easy Batch Setup.
+Generally all documents will be processed in background using Easy Batch.
+But using the Easy Batch setup, you can control, which type of documents wil be processed at what specific time.
+All posted document types which can be processed using the app are recorded in the Easy Batch Setup.</description>
+      </item>
+      
+      <item>
+        <title>Document Layouts</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easy-batch/first-steps/setup/document-layouts/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easy-batch/first-steps/setup/document-layouts/</guid>
+        <description>Setup Setting up the document layouts In order to be able to use the Connector 365 Easy Batch App correctly, you must first set up the customers who want to receive documents in batch mode.
+Open the desired customer and navigate to the document layouts
+Navigate -&amp;gt; Document layouts
+Once there, you will notice two new buttons, one is a check mark for batch mode and the other is a drop down menu for job mode.</description>
+      </item>
+      
+      <item>
+        <title>Document Sending Profile</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easy-batch/first-steps/setup/document-sending-profile/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easy-batch/first-steps/setup/document-sending-profile/</guid>
+        <description>Setup Document Sending Profile The document send profile is a standard functionality of Microsoft Dynamics 365 Business Central.
+It is used to control the preferred method of sending sales documents. By default, the functionality is intended for use with &amp;ldquo;Post and Send&amp;rdquo;. However, with Connector 365 Easy Batch, document send profiles can also be used to control the batch function.
+Set up document send profiles To set up a document sending profile</description>
+      </item>
+      
+    
+  </channel>
+</rss>

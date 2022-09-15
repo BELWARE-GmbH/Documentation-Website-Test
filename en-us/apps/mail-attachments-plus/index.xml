@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mail Attachments Plus on Connector 365 Online Help</title>
+    <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail-attachments-plus/</link>
+    <description>Recent content in Mail Attachments Plus on Connector 365 Online Help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail-attachments-plus/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>New and planned</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail-attachments-plus/new-and-planned/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail-attachments-plus/new-and-planned/</guid>
+        <description>New and planned Planned features for future versions Attachment functionality on furhter levels Version 2.0.0.0 Attachments will now be considered when using Connector 365 Easy Batch Dependency from the new version of app Connector 365 Base (2.0.0.0) Version 1.0.0.12 New permission sets C365 View C365 Edit C365 Setup Dependency on Connector 365 Base app version 1.0.1.23 Version 1.0.0.10 Error correction during transfer of attachments Version 1.0.0.9 New function &amp;ldquo;Copy from Report Selection&amp;rdquo; Error correction Version 1.</description>
+      </item>
+      
+      <item>
+        <title>First Steps</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail-attachments-plus/first-steps/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail-attachments-plus/first-steps/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Working with Mail Attachments Plus</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail-attachments-plus/working-with-map/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail-attachments-plus/working-with-map/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Help &amp; Support</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail-attachments-plus/help-support/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail-attachments-plus/help-support/</guid>
+        <description>Help &amp;amp; Support We are always happy to take care of your requests, regardless if they are general questions about the BELWARE GmbH and our products or specific questions. Just contact us either via phone or mail. We will get back to you within 1 to 2 business days.
+For general things you can reach us under:
+E-Mail: info@belware.de
+alternatively
+Phone: +49 2362 788 90 55 0
+Fax: +49 2362 788 90 56</description>
+      </item>
+      
+      <item>
+        <title>Videos</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail-attachments-plus/videos/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mail-attachments-plus/videos/</guid>
+        <description>Videos Here you can find some informative videos about our Mail Attachments Plus App, each video covers a special topic
+Using the App </description>
+      </item>
+      
+    
+  </channel>
+</rss>

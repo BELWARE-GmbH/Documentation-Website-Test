@@ -2,23 +2,23 @@
     "version" : "https://jsonfeed.org/version/1",
     "title" : "Mail Sender Plus on Connector 365 Online Hilfe",
     "description": "Recent content in Mail Sender Plus on Connector 365 Online Hilfe",
-    "home_page_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/",
+    "home_page_url" : "https://belware-gmbh.github.io/Documentation-Website-Test",
     "feed_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/index.json",
     "items" : [
-    {
-        "title" : "Erste Schritte",
-        "date_published" : "2020-02-28T10:08:56+09:00",
-        "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/first-steps/",
-        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/first-steps/",
-        "content_html" : ""
-    },
     {
         "title" : "Neu und geplant",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
         "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/new-and-planned/",
         "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/new-and-planned/",
+        "content_html" : ""
+    },
+    {
+        "title" : "Erste Schritte",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/first-steps/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/first-steps/",
         "content_html" : ""
     },
     {

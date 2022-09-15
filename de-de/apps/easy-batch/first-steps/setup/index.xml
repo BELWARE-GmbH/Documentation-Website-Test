@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Einrichtung on Connector 365 Online Hilfe</title>
+    <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-batch/first-steps/setup/</link>
+    <description>Recent content in Einrichtung on Connector 365 Online Hilfe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-batch/first-steps/setup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Easy Batch Einrichtung</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-batch/first-steps/setup/easy-batch-setup/</link>
+        <pubDate>Wed, 17 Aug 2022 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-batch/first-steps/setup/easy-batch-setup/</guid>
+        <description>Einrichtung Easy Batch Einrichtung Um zur Easy Batch Einrichtung zu gelangen, öffnen Sie einfach die Suche und geben dort Connector 365 EInrichtung ein.
+Dort finden Sie den Reiter Easy Batch Einrichtung.
+Grundsätzlich werden alle Belege über Easy Batch im Hintergrund verarbeitet.
+Über die Easy Batch Einrichtung können Sie allerdings steuern, welche Belege zu welchem Zeitpunkt verarbeitet werden sollen.
+In der Easy Batch Einrichtung sind alle gebuchten Belegarten hinterlegt, welche mit der App verarbeitet werden können.</description>
+      </item>
+      
+      <item>
+        <title>Dokumentlayouts</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-batch/first-steps/setup/document-layouts/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-batch/first-steps/setup/document-layouts/</guid>
+        <description>Einrichtung Einrichten der Dokumentlayouts Damit die Connector 365 Easy Batch App korrekt genutzt werden kann, müssen Sie zunächst bei den Debitoren welche Belege im Stapelversand erhalten wollen dies entsprechend einrichten.
+Öffnen Sie den gewünschten Debitor und navigieren Sie in die Dokumentlayouts
+Navigieren -&amp;gt; Dokumentlayouts
+Dort angekommen, werden Sie zwei neue Schaltflächen entdecken, zum einen einen Haken für den Stapelmodus und zum anderen ein Dropdown-Menü für den Jobmodus.
+Der Haken im Feld Stapelmodus aktiviert für diesen Eintrag den Stapelmodus.</description>
+      </item>
+      
+      <item>
+        <title>Belegsendeprofile</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-batch/first-steps/setup/document-sending-profile/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easy-batch/first-steps/setup/document-sending-profile/</guid>
+        <description>Einrichtung Belegsendeprofil Bei dem Belegsendeprofil handelt es sich um eine Standardfunktionalität von Microsoft Dynamics 365 Business Central.
+Sie wird dazu genutzt, um die bevorzugte Methode der Übermittlung von Verkaufsbelegen zu steuern. Stanardmäßig ist die funktionalität für die Verwendung von &amp;ldquo;Buchen und Senden&amp;rdquo; gedacht. Mit dem Connector 365 Easy Batch, können Belegsendeprofile aber auch dafür genutzt verwenden die Stapelfunktion zu steuern.
+Einrichten von Belegsendeprofilen Einrichten von Belegsendeprofilen
+Öffnen Sie die Suche, geben Sie Belegsendeprofile ein und wählen Sie dann den entsprechenden Link.</description>
+      </item>
+      
+    
+  </channel>
+</rss>
